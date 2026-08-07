@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-07T03:23:18.573599+00:00",
+  "updated_at": "2026-08-07T21:39:09.767723+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -51801,57 +51801,6 @@
       ]
     },
     {
-      "account_number": "02576",
-      "price": 44000,
-      "operators": [
-        {
-          "name": "엑시아더뉴커버넌트",
-          "color": "#e42ce8",
-          "sprite_index": 100
-        },
-        {
-          "name": "라플란드더데카덴차",
-          "color": "#e42ce8",
-          "sprite_index": 93
-        },
-        {
-          "name": "텍사스디오메르토사",
-          "color": "#e42ce8",
-          "sprite_index": 62
-        },
-        {
-          "name": "페페",
-          "color": "#e42ce8",
-          "sprite_index": 88
-        },
-        {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
-          "name": "불피스폴리아",
-          "color": "#00aa00",
-          "sprite_index": 94
-        },
-        {
-          "name": "패신저",
-          "color": null,
-          "sprite_index": 42
-        },
-        {
-          "name": "리",
-          "color": null,
-          "sprite_index": 8
-        },
-        {
-          "name": "비비아나",
-          "color": null,
-          "sprite_index": 78
-        }
-      ]
-    },
-    {
       "account_number": "01037",
       "price": 57000,
       "operators": [
@@ -61434,77 +61383,6 @@
       ]
     },
     {
-      "account_number": "00564",
-      "price": 24000,
-      "operators": [
-        {
-          "name": "위",
-          "color": "#e42ce8",
-          "sprite_index": 96
-        },
-        {
-          "name": "로즈몬티스",
-          "color": "#e42ce8",
-          "sprite_index": 33
-        },
-        {
-          "name": "페페",
-          "color": "#e42ce8",
-          "sprite_index": 88
-        },
-        {
-          "name": "르무엔",
-          "color": "#0000ff",
-          "sprite_index": 101
-        },
-        {
-          "name": "이그제큐터디엑스포에데레",
-          "color": "#00aa00",
-          "sprite_index": 71
-        },
-        {
-          "name": "블레이즈디이그나이팅스파크",
-          "color": "#00aa00",
-          "sprite_index": 97
-        },
-        {
-          "name": "쏜즈",
-          "color": "#00aa00",
-          "sprite_index": 6
-        },
-        {
-          "name": "노시스",
-          "color": null,
-          "sprite_index": 23
-        },
-        {
-          "name": "린",
-          "color": null,
-          "sprite_index": 65
-        },
-        {
-          "name": "아이린",
-          "color": null,
-          "sprite_index": 32
-        },
-        {
-          "name": "엑시아",
-          "color": null,
-          "sprite_index": 3
-        },
-        {
-          "name": "호시구마",
-          "color": null,
-          "sprite_index": 27
-        },
-        {
-          "name": "오올헤약",
-          "color": null,
-          "sprite_index": 70
-        }
-      ]
-    },
-    {
       "account_number": "03056",
       "price": 51000,
       "operators": [
@@ -62177,32 +62055,6 @@
           "name": "티폰",
           "color": "#00aa00",
           "sprite_index": 74
-        }
-      ]
-    },
-    {
-      "account_number": "04010",
-      "price": 31000,
-      "operators": [
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "엑시아더뉴커버넌트",
-          "color": "#e42ce8",
-          "sprite_index": 100
-        },
-        {
-          "name": "프라마닉스더프레리타",
-          "color": "#0000ff",
-          "sprite_index": 110
-        },
-        {
-          "name": "제시카더리버레이티드",
-          "color": null,
-          "sprite_index": 75
         }
       ]
     },
