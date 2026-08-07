@@ -21,7 +21,6 @@ type PublicOperator = {
   name: string
   color: string | null
   sprite_index: number | null
-  potential_copy?: boolean
 }
 
 type PublicAccount = {
@@ -72,7 +71,6 @@ function OperatorChip({ operator, sprite }: { operator: PublicOperator; sprite: 
     <span className="operator-chip" style={operator.color ? { '--operator-color': operator.color } as CSSProperties : undefined}>
       <OperatorPortrait operator={operator} sprite={sprite} />
       <span>{operator.name}</span>
-      {operator.potential_copy && <small>추가</small>}
     </span>
   )
 }
