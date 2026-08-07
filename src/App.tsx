@@ -315,7 +315,7 @@ export default function App() {
             <span className="filter-dash">-</span>
             <label><span>최대 가격</span><input type="number" min="0" step="1000" value={maxPrice} placeholder="제한 없음" onChange={(event) => { setMaxPrice(event.target.value); setPage(1) }} /></label>
             <select value={sort} onChange={(event) => { setSort(event.target.value as SortMode); setPage(1) }} aria-label="정렬 기준">
-              <option value="legacy">추천 순서</option>
+              <option value="legacy">한정 개수</option>
               <option value="price">가격</option>
               <option value="account_number">계정번호</option>
             </select>
