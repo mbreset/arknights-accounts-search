@@ -4,6 +4,8 @@ dist/
 *.local
 .env
 .env.*
+!.env.example
+.wrangler/
 .vscode/
 .idea/
 Thumbs.db

@@ -12,3 +12,20 @@ npm run dev
 ```
 
 공개 계정 데이터는 `public/data/accounts.json`에 있으며 관리 웹앱이 변경 시 자동 갱신합니다.
+
+## 방문자 통계
+
+방문자 통계는 `worker/`의 Cloudflare Worker와 D1에 저장합니다. 통계 서버가 응답하지 않아도 계정 검색은 정상 작동합니다.
+
+최초 배포 순서:
+
+```powershell
+npx wrangler login
+npx wrangler d1 create arknights-visitor-stats
+# 반환된 database_id를 worker/wrangler.jsonc에 입력
+npx wrangler d1 migrations apply arknights-visitor-stats --remote --config worker/wrangler.jsonc
+npx wrangler secret put VISITOR_HASH_PEPPER --config worker/wrangler.jsonc
+npx wrangler deploy --config worker/wrangler.jsonc
+```
+
+검색 앱은 기본적으로 배포된 Worker 주소를 사용합니다. 다른 Worker로 바꿀 때만 빌드 변수 `VITE_VISITOR_API_URL`을 지정합니다.

@@ -40,9 +40,29 @@ type Catalog = {
 type SearchMode = 'and' | 'or'
 type SortMode = 'legacy' | 'price' | 'account_number'
 
+type VisitorStats = {
+  today: number
+  total: number
+}
+
 const OPEN_KAKAO_URL = 'https://open.kakao.com/o/sJNEvhNe'
 const IDFARM_URL = 'https://idfarm.co.kr/ItemMarket/gameItem/16769'
 const PAGE_SIZE = 60
+const VISITOR_API_URL = import.meta.env.VITE_VISITOR_API_URL?.trim()
+  || 'https://arknights-visitor-stats.simm7531.workers.dev'
+
+const getVisitorId = () => {
+  const storageKey = 'arknights-search-visitor-id'
+  try {
+    const stored = window.localStorage.getItem(storageKey)
+    if (stored) return stored
+    const created = crypto.randomUUID()
+    window.localStorage.setItem(storageKey, created)
+    return created
+  } catch {
+    return crypto.randomUUID()
+  }
+}
 
 const idFarmPrice = (price: number) => Math.floor(price / 0.95 / 100) * 100
 const formatPrice = (price: number) => `${price.toLocaleString('ko-KR')}원`
@@ -136,6 +156,7 @@ export default function App() {
   const [highlightedOption, setHighlightedOption] = useState(0)
   const [page, setPage] = useState(1)
   const [selectedAccount, setSelectedAccount] = useState<PublicAccount | null>(null)
+  const [visitorStats, setVisitorStats] = useState<VisitorStats | null>(null)
   const searchRef = useRef<HTMLInputElement>(null)
   const searchWrapRef = useRef<HTMLDivElement>(null)
 
@@ -154,6 +175,31 @@ export default function App() {
   }
 
   useEffect(() => { void loadCatalog() }, [])
+
+  useEffect(() => {
+    if (!VISITOR_API_URL) return
+
+    const controller = new AbortController()
+    const reportVisit = async () => {
+      try {
+        const response = await fetch(`${VISITOR_API_URL.replace(/\/$/, '')}/visit`, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ visitor_id: getVisitorId() }),
+          keepalive: true,
+          signal: controller.signal,
+        })
+        if (!response.ok) return
+        const stats = await response.json() as VisitorStats
+        if (Number.isSafeInteger(stats.today) && Number.isSafeInteger(stats.total)) setVisitorStats(stats)
+      } catch {
+        // Visitor statistics must never interfere with account search.
+      }
+    }
+
+    void reportVisit()
+    return () => controller.abort()
+  }, [])
 
   useEffect(() => {
     const close = (event: PointerEvent) => {
@@ -365,8 +411,16 @@ export default function App() {
       </main>
 
       <footer className="site-footer">
-        <a href={OPEN_KAKAO_URL} target="_blank" rel="noreferrer"><MessageCircle size={16} /> 오픈카톡</a>
-        <a href={IDFARM_URL} target="_blank" rel="noreferrer"><ShoppingBag size={16} /> 아이디팜</a>
+        <div className="footer-links">
+          <a href={OPEN_KAKAO_URL} target="_blank" rel="noreferrer"><MessageCircle size={16} /> 오픈카톡</a>
+          <a href={IDFARM_URL} target="_blank" rel="noreferrer"><ShoppingBag size={16} /> 아이디팜</a>
+        </div>
+        {visitorStats && (
+          <div className="visitor-stats" aria-label="방문자 수">
+            <span>오늘 <strong>{visitorStats.today.toLocaleString('ko-KR')}</strong></span>
+            <span>전체 <strong>{visitorStats.total.toLocaleString('ko-KR')}</strong></span>
+          </div>
+        )}
       </footer>
 
       {selectedAccount && <AccountModal account={selectedAccount} sprite={catalog?.sprite ?? null} onClose={() => setSelectedAccount(null)} />}

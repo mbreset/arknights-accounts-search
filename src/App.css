@@ -75,9 +75,13 @@ main { width: min(1320px, calc(100% - 48px)); margin: 0 auto; padding: 28px 0 54
 .pagination span { color: var(--text-secondary); font-size: 11px; }
 .pagination strong { color: var(--text); }
 
-.site-footer { display: flex; justify-content: center; gap: 18px; padding: 20px 24px 34px; border-top: 1px solid var(--border); color: var(--text-secondary); font-size: 11px; }
+.site-footer { display: grid; justify-items: center; gap: 12px; padding: 20px 24px 34px; border-top: 1px solid var(--border); color: var(--text-secondary); font-size: 11px; }
+.footer-links { display: flex; justify-content: center; gap: 18px; }
 .site-footer a { display: inline-flex; align-items: center; gap: 6px; text-decoration: none; }
 .site-footer a:hover { color: var(--accent); }
+.visitor-stats { display: flex; align-items: center; gap: 14px; color: var(--text-muted); font-size: 10px; }
+.visitor-stats span + span { padding-left: 14px; border-left: 1px solid var(--border); }
+.visitor-stats strong { margin-left: 4px; color: var(--text-secondary); font-variant-numeric: tabular-nums; }
 
 .modal-backdrop { position: fixed; z-index: 100; inset: 0; display: grid; place-items: center; padding: 16px; background: rgb(17 23 27 / 62%); backdrop-filter: blur(4px); }
 .account-modal { width: min(760px, calc(100vw - 32px)); overflow: hidden; border: 1px solid var(--border); border-radius: 8px; background: var(--surface); box-shadow: var(--shadow); }

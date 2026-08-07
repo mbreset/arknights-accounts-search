@@ -7,7 +7,10 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "oxlint",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "worker:dev": "wrangler dev --config worker/wrangler.jsonc",
+    "worker:deploy": "wrangler deploy --config worker/wrangler.jsonc",
+    "worker:migrate": "wrangler d1 migrations apply arknights-visitor-stats --remote --config worker/wrangler.jsonc"
   },
   "dependencies": {
     "lucide-react": "^1.27.0",
@@ -15,11 +18,12 @@
     "react-dom": "^19.2.7"
   },
   "devDependencies": {
-    "@vitejs/plugin-react": "^6.0.3",
     "@types/react": "^19.2.17",
     "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^6.0.3",
     "oxlint": "^1.71.0",
     "typescript": "~6.0.2",
-    "vite": "^8.1.1"
+    "vite": "^8.1.1",
+    "wrangler": "^4.119.0"
   }
 }
