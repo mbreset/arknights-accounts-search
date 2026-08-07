@@ -3,6 +3,7 @@ interface Env {
   VISIT_RATE_LIMITER: RateLimit
   ALLOWED_ORIGINS: string
   VISITOR_HASH_PEPPER: string
+  ADMIN_IP: string
 }
 
 type VisitBody = {
@@ -88,6 +89,9 @@ const readCounts = async (env: Env, day: string) => {
 
 const recordVisit = async (request: Request, env: Env, origin: string) => {
   const clientIp = request.headers.get('CF-Connecting-IP') ?? 'unknown'
+  const day = seoulDate()
+  if (clientIp === env.ADMIN_IP) return json(await readCounts(env, day), 200, origin)
+
   const rateLimit = await env.VISIT_RATE_LIMITER.limit({ key: clientIp })
   if (!rateLimit.success) return json({ error: 'Too many requests.' }, 429, origin)
 
@@ -104,7 +108,6 @@ const recordVisit = async (request: Request, env: Env, origin: string) => {
     return json({ error: 'Invalid visitor identifier.' }, 400, origin)
   }
 
-  const day = seoulDate()
   const visitorHash = await hashVisitor(body.visitor_id, env.VISITOR_HASH_PEPPER)
   const now = new Date().toISOString()
   const [lifetimeInsert, dailyInsert] = await env.DB.batch([
@@ -124,7 +127,15 @@ const recordVisit = async (request: Request, env: Env, origin: string) => {
   }
   if (updates.length) await env.DB.batch(updates)
 
-  return json(await readCounts(env, day), 200, origin)
+  return new Response(null, {
+    status: 204,
+    headers: {
+      'Access-Control-Allow-Origin': origin,
+      'Access-Control-Allow-Methods': 'POST, OPTIONS',
+      'Vary': 'Origin',
+      'Cache-Control': 'no-store',
+    },
+  })
 }
 
 export default {

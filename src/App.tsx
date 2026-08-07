@@ -302,13 +302,15 @@ export default function App() {
           <h1>명일방주 리세계 찾기</h1>
           <span>최근 업데이트 {updatedText}</span>
         </div>
-        <div className="header-summary" aria-label="방문자 수">
-          <span className="header-summary-title">방문자 수</span>
-          <div className="header-summary-values">
-            <span>오늘 <strong>{visitorStats ? visitorStats.today.toLocaleString('ko-KR') : '-'}</strong></span>
-            <span>전체 <strong>{visitorStats ? visitorStats.total.toLocaleString('ko-KR') : '-'}</strong></span>
+        {visitorStats && (
+          <div className="header-summary" aria-label="방문자 수">
+            <span className="header-summary-title">방문자 수</span>
+            <div className="header-summary-values">
+              <span>오늘 <strong>{visitorStats.today.toLocaleString('ko-KR')}</strong></span>
+              <span>전체 <strong>{visitorStats.total.toLocaleString('ko-KR')}</strong></span>
+            </div>
           </div>
-        </div>
+        )}
       </header>
 
       <main>
