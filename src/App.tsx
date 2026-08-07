@@ -211,6 +211,7 @@ export default function App() {
 
   const autocomplete = useMemo(() => {
     const query = searchText.trim().toLocaleLowerCase('ko-KR')
+    if (/^\d+$/.test(query)) return []
     return (catalog?.operator_names ?? [])
       .filter((name) => !selectedOperators.includes(name))
       .filter((name) => !query || name.toLocaleLowerCase('ko-KR').includes(query))
@@ -254,8 +255,10 @@ export default function App() {
   const filteredAccounts = useMemo(() => {
     const minimum = Number(minPrice) || 0
     const maximum = Number(maxPrice) || Number.POSITIVE_INFINITY
+    const accountNumberQuery = /^\d+$/.test(searchText.trim()) ? searchText.trim() : ''
     const filtered = (catalog?.accounts ?? []).filter((account) => {
       if (account.price < minimum || account.price > maximum) return false
+      if (accountNumberQuery && !account.account_number.includes(accountNumberQuery)) return false
       if (!selectedOperators.length) return true
       const names = new Set(account.operators.map((operator) => operator.name))
       return searchMode === 'and'
@@ -269,7 +272,7 @@ export default function App() {
         : Number(left.account_number) - Number(right.account_number)
       return direction === 'asc' ? compared : -compared
     })
-  }, [catalog, direction, maxPrice, minPrice, searchMode, selectedOperators, sort])
+  }, [catalog, direction, maxPrice, minPrice, searchMode, searchText, selectedOperators, sort])
 
   const pageCount = Math.max(1, Math.ceil(filteredAccounts.length / PAGE_SIZE))
   const visibleAccounts = filteredAccounts.slice((page - 1) * PAGE_SIZE, page * PAGE_SIZE)
@@ -331,7 +334,7 @@ export default function App() {
               <input
                 ref={searchRef}
                 value={searchText}
-                placeholder={selectedOperators.length ? '오퍼레이터 추가' : '6성 오퍼레이터 검색'}
+                placeholder={selectedOperators.length ? '오퍼레이터 또는 계정번호 추가' : '6성 오퍼레이터 또는 계정번호 검색'}
                 onFocus={() => setAutocompleteOpen(true)}
                 onChange={(event) => { setSearchText(event.target.value.replaceAll(',', '')); setAutocompleteOpen(true); setHighlightedOption(0) }}
                 onKeyDown={onSearchKeyDown}
