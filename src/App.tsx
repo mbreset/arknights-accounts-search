@@ -302,9 +302,12 @@ export default function App() {
           <h1>명일방주 리세계 찾기</h1>
           <span>최근 업데이트 {updatedText}</span>
         </div>
-        <div className="header-summary">
-          <span>판매 계정</span>
-          <strong>{(catalog?.accounts.length ?? 0).toLocaleString('ko-KR')}</strong>
+        <div className="header-summary" aria-label="방문자 수">
+          <span className="header-summary-title">방문자 수</span>
+          <div className="header-summary-values">
+            <span>오늘 <strong>{visitorStats ? visitorStats.today.toLocaleString('ko-KR') : '-'}</strong></span>
+            <span>전체 <strong>{visitorStats ? visitorStats.total.toLocaleString('ko-KR') : '-'}</strong></span>
+          </div>
         </div>
       </header>
 
@@ -411,16 +414,8 @@ export default function App() {
       </main>
 
       <footer className="site-footer">
-        <div className="footer-links">
-          <a href={OPEN_KAKAO_URL} target="_blank" rel="noreferrer"><MessageCircle size={16} /> 오픈카톡</a>
-          <a href={IDFARM_URL} target="_blank" rel="noreferrer"><ShoppingBag size={16} /> 아이디팜</a>
-        </div>
-        {visitorStats && (
-          <div className="visitor-stats" aria-label="방문자 수">
-            <span>오늘 <strong>{visitorStats.today.toLocaleString('ko-KR')}</strong></span>
-            <span>전체 <strong>{visitorStats.total.toLocaleString('ko-KR')}</strong></span>
-          </div>
-        )}
+        <a href={OPEN_KAKAO_URL} target="_blank" rel="noreferrer"><MessageCircle size={16} /> 오픈카톡</a>
+        <a href={IDFARM_URL} target="_blank" rel="noreferrer"><ShoppingBag size={16} /> 아이디팜</a>
       </footer>
 
       {selectedAccount && <AccountModal account={selectedAccount} sprite={catalog?.sprite ?? null} onClose={() => setSelectedAccount(null)} />}
