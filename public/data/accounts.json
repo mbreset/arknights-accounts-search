@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-08T06:34:01.981858+00:00",
+  "updated_at": "2026-08-08T17:18:52.598416+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -14748,67 +14748,6 @@
           "name": "카넬리안",
           "color": null,
           "sprite_index": 52
-        }
-      ]
-    },
-    {
-      "account_number": "03537",
-      "price": 149000,
-      "operators": [
-        {
-          "name": "키린R야토",
-          "color": "#dd0000",
-          "sprite_index": 67
-        },
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "실버애쉬더레인프로스트",
-          "color": "#e42ce8",
-          "sprite_index": 109
-        },
-        {
-          "name": "호시구마더브리처",
-          "color": "#e42ce8",
-          "sprite_index": 105
-        },
-        {
-          "name": "슈",
-          "color": "#e42ce8",
-          "sprite_index": 81
-        },
-        {
-          "name": "위",
-          "color": "#e42ce8",
-          "sprite_index": 96
-        },
-        {
-          "name": "로고스",
-          "color": "#0000ff",
-          "sprite_index": 86
-        },
-        {
-          "name": "아스카론",
-          "color": "#0000ff",
-          "sprite_index": 84
-        },
-        {
-          "name": "불피스폴리아",
-          "color": "#00aa00",
-          "sprite_index": 94
-        },
-        {
-          "name": "비나빅토리아",
-          "color": null,
-          "sprite_index": 92
-        },
-        {
-          "name": "도로시",
-          "color": null,
-          "sprite_index": 56
         }
       ]
     },
