@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-07T21:39:09.767723+00:00",
+  "updated_at": "2026-08-08T04:40:56.793045+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -64729,42 +64729,6 @@
           "name": "오올헤약",
           "color": null,
           "sprite_index": 70
-        }
-      ]
-    },
-    {
-      "account_number": "04026",
-      "price": 35000,
-      "operators": [
-        {
-          "name": "엑시아더뉴커버넌트",
-          "color": "#e42ce8",
-          "sprite_index": 100
-        },
-        {
-          "name": "프라마닉스더프레리타",
-          "color": "#0000ff",
-          "sprite_index": 110
-        },
-        {
-          "name": "첸더던스트릭",
-          "color": "#0000ff",
-          "sprite_index": 114
-        },
-        {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
-          "name": "혼",
-          "color": null,
-          "sprite_index": 30
-        },
-        {
-          "name": "비비아나",
-          "color": null,
-          "sprite_index": 78
         }
       ]
     },
