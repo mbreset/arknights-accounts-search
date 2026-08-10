@@ -293,17 +293,12 @@ export default function App() {
     setAutocompleteOpen(false)
   }
 
-  const updatedText = catalog?.updated_at
-    ? new Intl.DateTimeFormat('ko-KR', { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' }).format(new Date(catalog.updated_at))
-    : '-'
-
   return (
     <div className="app-shell">
       <header className="site-header">
         <div className="brand-mark"><Search size={20} /></div>
         <div>
           <h1>명일방주 리세계 찾기</h1>
-          <span>최근 업데이트 {updatedText}</span>
         </div>
         {visitorStats && (
           <div className="header-summary" aria-label="방문자 수">
