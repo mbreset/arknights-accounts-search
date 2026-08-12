@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-09T00:32:49.868067+00:00",
+  "updated_at": "2026-08-12T03:17:20.842428+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -17432,87 +17432,6 @@
           "name": "스와이어디엘리건트위트",
           "color": null,
           "sprite_index": 72
-        }
-      ]
-    },
-    {
-      "account_number": "02031",
-      "price": 142000,
-      "operators": [
-        {
-          "name": "마르실",
-          "color": "#dd0000",
-          "sprite_index": 91
-        },
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "엑시아더뉴커버넌트",
-          "color": "#e42ce8",
-          "sprite_index": 100
-        },
-        {
-          "name": "위",
-          "color": "#e42ce8",
-          "sprite_index": 96
-        },
-        {
-          "name": "뮤엘시스",
-          "color": "#e42ce8",
-          "sprite_index": 69
-        },
-        {
-          "name": "페페",
-          "color": "#e42ce8",
-          "sprite_index": 88
-        },
-        {
-          "name": "트라고디아",
-          "color": "#0000ff",
-          "sprite_index": 103
-        },
-        {
-          "name": "첸더던스트릭",
-          "color": "#0000ff",
-          "sprite_index": 114
-        },
-        {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
-          "name": "무에나",
-          "color": "#0000ff",
-          "sprite_index": 43
-        },
-        {
-          "name": "켈시",
-          "color": "#00aa00",
-          "sprite_index": 7
-        },
-        {
-          "name": "티폰",
-          "color": "#00aa00",
-          "sprite_index": 74
-        },
-        {
-          "name": "린",
-          "color": null,
-          "sprite_index": 65
-        },
-        {
-          "name": "치우바우",
-          "color": null,
-          "sprite_index": 66
-        },
-        {
-          "name": "오올헤약",
-          "color": null,
-          "sprite_index": 70
         }
       ]
     },
