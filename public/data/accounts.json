@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-12T03:17:20.842428+00:00",
+  "updated_at": "2026-08-12T10:59:56.361358+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -61749,32 +61749,6 @@
           "name": "스테인리스",
           "color": null,
           "sprite_index": 60
-        }
-      ]
-    },
-    {
-      "account_number": "04056",
-      "price": 35000,
-      "operators": [
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "실버애쉬더레인프로스트",
-          "color": "#e42ce8",
-          "sprite_index": 109
-        },
-        {
-          "name": "첸더던스트릭",
-          "color": "#0000ff",
-          "sprite_index": 114
-        },
-        {
-          "name": "님프",
-          "color": "#00aa00",
-          "sprite_index": 90
         }
       ]
     },
