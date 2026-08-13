@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-13T09:56:29.537441+00:00",
+  "updated_at": "2026-08-13T11:01:32.452316+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -18431,72 +18431,6 @@
           "name": "안젤리나",
           "color": null,
           "sprite_index": 9
-        }
-      ]
-    },
-    {
-      "account_number": "03917",
-      "price": 69000,
-      "operators": [
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "위",
-          "color": "#e42ce8",
-          "sprite_index": 96
-        },
-        {
-          "name": "에이야퍄들라더크비트아스카",
-          "color": "#e42ce8",
-          "sprite_index": 73
-        },
-        {
-          "name": "라플란드더데카덴차",
-          "color": "#e42ce8",
-          "sprite_index": 93
-        },
-        {
-          "name": "가비알디인빈서블",
-          "color": "#e42ce8",
-          "sprite_index": 37
-        },
-        {
-          "name": "페페",
-          "color": "#e42ce8",
-          "sprite_index": 88
-        },
-        {
-          "name": "골든글로우",
-          "color": "#00aa00",
-          "sprite_index": 28
-        },
-        {
-          "name": "쏜즈더로드스타",
-          "color": "#00aa00",
-          "sprite_index": 95
-        },
-        {
-          "name": "페넌스",
-          "color": null,
-          "sprite_index": 61
-        },
-        {
-          "name": "스즈란",
-          "color": null,
-          "sprite_index": 20
-        },
-        {
-          "name": "비비아나",
-          "color": null,
-          "sprite_index": 78
-        },
-        {
-          "name": "스테인리스",
-          "color": null,
-          "sprite_index": 60
         }
       ]
     },
