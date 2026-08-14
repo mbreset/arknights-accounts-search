@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-13T11:44:49.544471+00:00",
+  "updated_at": "2026-08-14T07:08:18.105695+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -62757,37 +62757,6 @@
           "name": "스와이어디엘리건트위트",
           "color": null,
           "sprite_index": 72
-        }
-      ]
-    },
-    {
-      "account_number": "02774",
-      "price": 18000,
-      "operators": [
-        {
-          "name": "호시구마더브리처",
-          "color": "#e42ce8",
-          "sprite_index": 105
-        },
-        {
-          "name": "텍사스디오메르토사",
-          "color": "#e42ce8",
-          "sprite_index": 62
-        },
-        {
-          "name": "로고스",
-          "color": "#0000ff",
-          "sprite_index": 86
-        },
-        {
-          "name": "티폰",
-          "color": "#00aa00",
-          "sprite_index": 74
-        },
-        {
-          "name": "피아메타",
-          "color": null,
-          "sprite_index": 29
         }
       ]
     },
