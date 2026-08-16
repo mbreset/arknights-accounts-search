@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-15T10:44:28.268063+00:00",
+  "updated_at": "2026-08-16T02:34:09.728948+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -17129,87 +17129,6 @@
           "name": "스와이어디엘리건트위트",
           "color": null,
           "sprite_index": 72
-        }
-      ]
-    },
-    {
-      "account_number": "02831",
-      "price": 137000,
-      "operators": [
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "엑시아더뉴커버넌트",
-          "color": "#e42ce8",
-          "sprite_index": 100
-        },
-        {
-          "name": "슈",
-          "color": "#e42ce8",
-          "sprite_index": 81
-        },
-        {
-          "name": "라플란드더데카덴차",
-          "color": "#e42ce8",
-          "sprite_index": 93
-        },
-        {
-          "name": "텍사스디오메르토사",
-          "color": "#e42ce8",
-          "sprite_index": 62
-        },
-        {
-          "name": "페페",
-          "color": "#e42ce8",
-          "sprite_index": 88
-        },
-        {
-          "name": "프라마닉스더프레리타",
-          "color": "#0000ff",
-          "sprite_index": 110
-        },
-        {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
-          "name": "로고스",
-          "color": "#0000ff",
-          "sprite_index": 86
-        },
-        {
-          "name": "블레이즈디이그나이팅스파크",
-          "color": "#00aa00",
-          "sprite_index": 97
-        },
-        {
-          "name": "좌락",
-          "color": "#00aa00",
-          "sprite_index": 82
-        },
-        {
-          "name": "노시스",
-          "color": null,
-          "sprite_index": 23
-        },
-        {
-          "name": "위디",
-          "color": null,
-          "sprite_index": 41
-        },
-        {
-          "name": "비비아나",
-          "color": null,
-          "sprite_index": 78
-        },
-        {
-          "name": "치우바우",
-          "color": null,
-          "sprite_index": 66
         }
       ]
     },
