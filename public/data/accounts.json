@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-16T16:27:14.839473+00:00",
+  "updated_at": "2026-08-18T08:21:52.803559+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -61300,52 +61300,6 @@
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
-        }
-      ]
-    },
-    {
-      "account_number": "03892",
-      "price": 21000,
-      "operators": [
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "첸더홀룽데이",
-          "color": "#e42ce8",
-          "sprite_index": 36
-        },
-        {
-          "name": "프라마닉스더프레리타",
-          "color": "#0000ff",
-          "sprite_index": 110
-        },
-        {
-          "name": "좌락",
-          "color": "#00aa00",
-          "sprite_index": 82
-        },
-        {
-          "name": "스와이어디엘리건트위트",
-          "color": null,
-          "sprite_index": 72
-        },
-        {
-          "name": "비비아나",
-          "color": null,
-          "sprite_index": 78
-        },
-        {
-          "name": "플레임테일",
-          "color": null,
-          "sprite_index": 55
-        },
-        {
-          "name": "스테인리스",
-          "color": null,
-          "sprite_index": 60
         }
       ]
     },
