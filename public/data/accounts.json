@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-19T10:56:02.620733+00:00",
+  "updated_at": "2026-08-19T12:38:20.301148+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -60990,32 +60990,6 @@
           "name": "쏜즈",
           "color": "#00aa00",
           "sprite_index": 6
-        }
-      ]
-    },
-    {
-      "account_number": "04071",
-      "price": 31000,
-      "operators": [
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "라플란드더데카덴차",
-          "color": "#e42ce8",
-          "sprite_index": 93
-        },
-        {
-          "name": "프라마닉스더프레리타",
-          "color": "#0000ff",
-          "sprite_index": 110
-        },
-        {
-          "name": "첸더던스트릭",
-          "color": "#0000ff",
-          "sprite_index": 114
         }
       ]
     },
