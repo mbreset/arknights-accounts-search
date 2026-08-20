@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-19T21:19:28.788205+00:00",
+  "updated_at": "2026-08-20T23:29:17.783121+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -61755,37 +61755,6 @@
           "name": "오올헤약",
           "color": null,
           "sprite_index": 70
-        }
-      ]
-    },
-    {
-      "account_number": "04054",
-      "price": 13000,
-      "operators": [
-        {
-          "name": "실버애쉬더레인프로스트",
-          "color": "#e42ce8",
-          "sprite_index": 109
-        },
-        {
-          "name": "니엔",
-          "color": "#e42ce8",
-          "sprite_index": 16
-        },
-        {
-          "name": "프라마닉스더프레리타",
-          "color": "#0000ff",
-          "sprite_index": 110
-        },
-        {
-          "name": "혼",
-          "color": null,
-          "sprite_index": 30
-        },
-        {
-          "name": "피아메타",
-          "color": null,
-          "sprite_index": 29
         }
       ]
     },
