@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-20T23:29:17.783121+00:00",
+  "updated_at": "2026-08-21T10:36:11.059888+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -61796,87 +61796,6 @@
           "name": "플레임테일",
           "color": null,
           "sprite_index": 55
-        }
-      ]
-    },
-    {
-      "account_number": "00398",
-      "price": 74000,
-      "operators": [
-        {
-          "name": "엑시아더뉴커버넌트",
-          "color": "#e42ce8",
-          "sprite_index": 100
-        },
-        {
-          "name": "위",
-          "color": "#e42ce8",
-          "sprite_index": 96
-        },
-        {
-          "name": "프라마닉스더프레리타",
-          "color": "#0000ff",
-          "sprite_index": 110
-        },
-        {
-          "name": "로고스",
-          "color": "#0000ff",
-          "sprite_index": 86
-        },
-        {
-          "name": "르무엔",
-          "color": "#0000ff",
-          "sprite_index": 101
-        },
-        {
-          "name": "리드더플레임섀도우",
-          "color": "#00aa00",
-          "sprite_index": 63
-        },
-        {
-          "name": "불피스폴리아",
-          "color": "#00aa00",
-          "sprite_index": 94
-        },
-        {
-          "name": "블레이즈디이그나이팅스파크",
-          "color": "#00aa00",
-          "sprite_index": 97
-        },
-        {
-          "name": "백파이프",
-          "color": "#00aa00",
-          "sprite_index": 5
-        },
-        {
-          "name": "티폰",
-          "color": "#00aa00",
-          "sprite_index": 74
-        },
-        {
-          "name": "실버애쉬",
-          "color": null,
-          "sprite_index": 2
-        },
-        {
-          "name": "린",
-          "color": null,
-          "sprite_index": 65
-        },
-        {
-          "name": "패신저",
-          "color": null,
-          "sprite_index": 42
-        },
-        {
-          "name": "엑시아",
-          "color": null,
-          "sprite_index": 3
-        },
-        {
-          "name": "샤이닝",
-          "color": null,
-          "sprite_index": 25
         }
       ]
     },
