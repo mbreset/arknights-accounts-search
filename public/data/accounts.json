@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-25T00:47:22.252718+00:00",
+  "updated_at": "2026-08-25T09:08:35.287858+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -60538,37 +60538,6 @@
           "name": "스테인리스",
           "color": null,
           "sprite_index": 60
-        }
-      ]
-    },
-    {
-      "account_number": "03996",
-      "price": 39000,
-      "operators": [
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "엑시아더뉴커버넌트",
-          "color": "#e42ce8",
-          "sprite_index": 100
-        },
-        {
-          "name": "첸더던스트릭",
-          "color": "#0000ff",
-          "sprite_index": 114
-        },
-        {
-          "name": "골든글로우",
-          "color": "#00aa00",
-          "sprite_index": 28
-        },
-        {
-          "name": "쏜즈",
-          "color": "#00aa00",
-          "sprite_index": 6
         }
       ]
     },
