@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-26T01:46:51.554547+00:00",
+  "updated_at": "2026-08-26T14:29:40.072815+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -1078,97 +1078,6 @@
           "name": "오올헤약",
           "color": null,
           "sprite_index": 70
-        },
-        {
-          "name": "카넬리안",
-          "color": null,
-          "sprite_index": 52
-        }
-      ]
-    },
-    {
-      "account_number": "03235",
-      "price": 171000,
-      "operators": [
-        {
-          "name": "토가와사키코",
-          "color": "#dd0000",
-          "sprite_index": 107
-        },
-        {
-          "name": "키린R야토",
-          "color": "#dd0000",
-          "sprite_index": 67
-        },
-        {
-          "name": "마르실",
-          "color": "#dd0000",
-          "sprite_index": 91
-        },
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "위",
-          "color": "#e42ce8",
-          "sprite_index": 96
-        },
-        {
-          "name": "라플란드더데카덴차",
-          "color": "#e42ce8",
-          "sprite_index": 93
-        },
-        {
-          "name": "니어더래디언트나이트",
-          "color": "#e42ce8",
-          "sprite_index": 59
-        },
-        {
-          "name": "페페",
-          "color": "#e42ce8",
-          "sprite_index": 88
-        },
-        {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
-          "name": "로고스",
-          "color": "#0000ff",
-          "sprite_index": 86
-        },
-        {
-          "name": "켈시",
-          "color": "#00aa00",
-          "sprite_index": 7
-        },
-        {
-          "name": "나란투야",
-          "color": "#00aa00",
-          "sprite_index": 89
-        },
-        {
-          "name": "블레이즈디이그나이팅스파크",
-          "color": "#00aa00",
-          "sprite_index": 97
-        },
-        {
-          "name": "실버애쉬",
-          "color": null,
-          "sprite_index": 2
-        },
-        {
-          "name": "린",
-          "color": null,
-          "sprite_index": 65
-        },
-        {
-          "name": "치우바우",
-          "color": null,
-          "sprite_index": 66
         },
         {
           "name": "카넬리안",
