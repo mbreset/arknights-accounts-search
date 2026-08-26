@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-26T01:35:38.815601+00:00",
+  "updated_at": "2026-08-26T01:46:51.554547+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -62666,57 +62666,6 @@
           "name": "리",
           "color": null,
           "sprite_index": 8
-        },
-        {
-          "name": "오올헤약",
-          "color": null,
-          "sprite_index": 70
-        }
-      ]
-    },
-    {
-      "account_number": "02955",
-      "price": 40000,
-      "operators": [
-        {
-          "name": "실버애쉬더레인프로스트",
-          "color": "#e42ce8",
-          "sprite_index": 109
-        },
-        {
-          "name": "프라마닉스더프레리타",
-          "color": "#0000ff",
-          "sprite_index": 110
-        },
-        {
-          "name": "무에나",
-          "color": "#0000ff",
-          "sprite_index": 43
-        },
-        {
-          "name": "르무엔",
-          "color": "#0000ff",
-          "sprite_index": 101
-        },
-        {
-          "name": "켈시",
-          "color": "#00aa00",
-          "sprite_index": 7
-        },
-        {
-          "name": "블레이즈디이그나이팅스파크",
-          "color": "#00aa00",
-          "sprite_index": 97
-        },
-        {
-          "name": "실버애쉬",
-          "color": null,
-          "sprite_index": 2
-        },
-        {
-          "name": "비비아나",
-          "color": null,
-          "sprite_index": 78
         },
         {
           "name": "오올헤약",
