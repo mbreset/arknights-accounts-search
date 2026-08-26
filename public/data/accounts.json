@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-25T09:08:35.287858+00:00",
+  "updated_at": "2026-08-26T01:35:38.815601+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -125,102 +125,6 @@
     "벨로네"
   ],
   "accounts": [
-    {
-      "account_number": "03782",
-      "price": 216000,
-      "operators": [
-        {
-          "name": "키린R야토",
-          "color": "#dd0000",
-          "sprite_index": 67
-        },
-        {
-          "name": "마르실",
-          "color": "#dd0000",
-          "sprite_index": 91
-        },
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "실버애쉬더레인프로스트",
-          "color": "#e42ce8",
-          "sprite_index": 109
-        },
-        {
-          "name": "호시구마더브리처",
-          "color": "#e42ce8",
-          "sprite_index": 105
-        },
-        {
-          "name": "슈",
-          "color": "#e42ce8",
-          "sprite_index": 81
-        },
-        {
-          "name": "위",
-          "color": "#e42ce8",
-          "sprite_index": 96
-        },
-        {
-          "name": "니어더래디언트나이트",
-          "color": "#e42ce8",
-          "sprite_index": 59
-        },
-        {
-          "name": "뮤엘시스",
-          "color": "#e42ce8",
-          "sprite_index": 69
-        },
-        {
-          "name": "페페",
-          "color": "#e42ce8",
-          "sprite_index": 88
-        },
-        {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
-          "name": "르무엔",
-          "color": "#0000ff",
-          "sprite_index": 101
-        },
-        {
-          "name": "레이즈더썬더브링어",
-          "color": "#0000ff",
-          "sprite_index": 104
-        },
-        {
-          "name": "이그제큐터디엑스포에데레",
-          "color": "#00aa00",
-          "sprite_index": 71
-        },
-        {
-          "name": "나란투야",
-          "color": "#00aa00",
-          "sprite_index": 89
-        },
-        {
-          "name": "쏜즈",
-          "color": "#00aa00",
-          "sprite_index": 6
-        },
-        {
-          "name": "좌락",
-          "color": "#00aa00",
-          "sprite_index": 82
-        },
-        {
-          "name": "아르케토",
-          "color": null,
-          "sprite_index": 22
-        }
-      ]
-    },
     {
       "account_number": "03456",
       "price": 188000,
