@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-26T14:29:40.072815+00:00",
+  "updated_at": "2026-08-27T09:26:25.261488+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -15781,57 +15781,6 @@
           "name": "비비아나",
           "color": null,
           "sprite_index": 78
-        }
-      ]
-    },
-    {
-      "account_number": "02673",
-      "price": 111000,
-      "operators": [
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "실버애쉬더레인프로스트",
-          "color": "#e42ce8",
-          "sprite_index": 109
-        },
-        {
-          "name": "호시구마더브리처",
-          "color": "#e42ce8",
-          "sprite_index": 105
-        },
-        {
-          "name": "라플란드더데카덴차",
-          "color": "#e42ce8",
-          "sprite_index": 93
-        },
-        {
-          "name": "텍사스디오메르토사",
-          "color": "#e42ce8",
-          "sprite_index": 62
-        },
-        {
-          "name": "가비알디인빈서블",
-          "color": "#e42ce8",
-          "sprite_index": 37
-        },
-        {
-          "name": "프라마닉스더프레리타",
-          "color": "#0000ff",
-          "sprite_index": 110
-        },
-        {
-          "name": "나란투야",
-          "color": "#00aa00",
-          "sprite_index": 89
-        },
-        {
-          "name": "티폰",
-          "color": "#00aa00",
-          "sprite_index": 74
         }
       ]
     },
