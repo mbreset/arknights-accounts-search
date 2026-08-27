@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-27T09:26:25.261488+00:00",
+  "updated_at": "2026-08-27T09:56:41.546335+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -1083,92 +1083,6 @@
           "name": "카넬리안",
           "color": null,
           "sprite_index": 52
-        }
-      ]
-    },
-    {
-      "account_number": "01376",
-      "price": 159000,
-      "operators": [
-        {
-          "name": "토가와사키코",
-          "color": "#dd0000",
-          "sprite_index": 107
-        },
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "위셔델",
-          "color": "#e42ce8",
-          "sprite_index": 85
-        },
-        {
-          "name": "텍사스디오메르토사",
-          "color": "#e42ce8",
-          "sprite_index": 62
-        },
-        {
-          "name": "비르투오사",
-          "color": "#e42ce8",
-          "sprite_index": 77
-        },
-        {
-          "name": "스펙터디언체인드",
-          "color": "#e42ce8",
-          "sprite_index": 31
-        },
-        {
-          "name": "가비알디인빈서블",
-          "color": "#e42ce8",
-          "sprite_index": 37
-        },
-        {
-          "name": "총웨",
-          "color": "#e42ce8",
-          "sprite_index": 64
-        },
-        {
-          "name": "첸더던스트릭",
-          "color": "#0000ff",
-          "sprite_index": 114
-        },
-        {
-          "name": "이네스",
-          "color": "#0000ff",
-          "sprite_index": 68
-        },
-        {
-          "name": "로고스",
-          "color": "#0000ff",
-          "sprite_index": 86
-        },
-        {
-          "name": "님프",
-          "color": "#00aa00",
-          "sprite_index": 90
-        },
-        {
-          "name": "스즈란",
-          "color": null,
-          "sprite_index": 20
-        },
-        {
-          "name": "엑시아",
-          "color": null,
-          "sprite_index": 3
-        },
-        {
-          "name": "리",
-          "color": null,
-          "sprite_index": 8
-        },
-        {
-          "name": "오올헤약",
-          "color": null,
-          "sprite_index": 70
         }
       ]
     },
