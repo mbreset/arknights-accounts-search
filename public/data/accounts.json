@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-27T13:37:17.773823+00:00",
+  "updated_at": "2026-08-28T06:18:16.579571+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -26743,47 +26743,6 @@
           "name": "치우바우",
           "color": null,
           "sprite_index": 66
-        }
-      ]
-    },
-    {
-      "account_number": "03606",
-      "price": 113000,
-      "operators": [
-        {
-          "name": "키린R야토",
-          "color": "#dd0000",
-          "sprite_index": 67
-        },
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "엑시아더뉴커버넌트",
-          "color": "#e42ce8",
-          "sprite_index": 100
-        },
-        {
-          "name": "호시구마더브리처",
-          "color": "#e42ce8",
-          "sprite_index": 105
-        },
-        {
-          "name": "스펙터디언체인드",
-          "color": "#e42ce8",
-          "sprite_index": 31
-        },
-        {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
-          "name": "아스카론",
-          "color": "#0000ff",
-          "sprite_index": 84
         }
       ]
     },
