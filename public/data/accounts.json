@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-30T06:01:27.408488+00:00",
+  "updated_at": "2026-08-30T06:21:44.797061+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -54603,67 +54603,6 @@
           "name": "스와이어디엘리건트위트",
           "color": null,
           "sprite_index": 72
-        }
-      ]
-    },
-    {
-      "account_number": "01815",
-      "price": 51000,
-      "operators": [
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "에이야퍄들라더크비트아스카",
-          "color": "#e42ce8",
-          "sprite_index": 73
-        },
-        {
-          "name": "가비알디인빈서블",
-          "color": "#e42ce8",
-          "sprite_index": 37
-        },
-        {
-          "name": "로고스",
-          "color": "#0000ff",
-          "sprite_index": 86
-        },
-        {
-          "name": "수르트",
-          "color": "#00aa00",
-          "sprite_index": 0
-        },
-        {
-          "name": "레이",
-          "color": "#00aa00",
-          "sprite_index": 80
-        },
-        {
-          "name": "나란투야",
-          "color": "#00aa00",
-          "sprite_index": 89
-        },
-        {
-          "name": "좌락",
-          "color": "#00aa00",
-          "sprite_index": 82
-        },
-        {
-          "name": "스와이어디엘리건트위트",
-          "color": null,
-          "sprite_index": 72
-        },
-        {
-          "name": "카넬리안",
-          "color": null,
-          "sprite_index": 52
-        },
-        {
-          "name": "미즈키",
-          "color": null,
-          "sprite_index": 53
         }
       ]
     },
