@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-30T06:21:44.797061+00:00",
+  "updated_at": "2026-08-30T12:53:35.453339+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -6089,77 +6089,6 @@
           "name": "스테인리스",
           "color": null,
           "sprite_index": 60
-        }
-      ]
-    },
-    {
-      "account_number": "03332",
-      "price": 142000,
-      "operators": [
-        {
-          "name": "키린R야토",
-          "color": "#dd0000",
-          "sprite_index": 67
-        },
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "실버애쉬더레인프로스트",
-          "color": "#e42ce8",
-          "sprite_index": 109
-        },
-        {
-          "name": "호시구마더브리처",
-          "color": "#e42ce8",
-          "sprite_index": 105
-        },
-        {
-          "name": "슈",
-          "color": "#e42ce8",
-          "sprite_index": 81
-        },
-        {
-          "name": "위",
-          "color": "#e42ce8",
-          "sprite_index": 96
-        },
-        {
-          "name": "뮤엘시스",
-          "color": "#e42ce8",
-          "sprite_index": 69
-        },
-        {
-          "name": "불피스폴리아",
-          "color": "#00aa00",
-          "sprite_index": 94
-        },
-        {
-          "name": "쏜즈",
-          "color": "#00aa00",
-          "sprite_index": 6
-        },
-        {
-          "name": "스와이어디엘리건트위트",
-          "color": null,
-          "sprite_index": 72
-        },
-        {
-          "name": "호시구마",
-          "color": null,
-          "sprite_index": 27
-        },
-        {
-          "name": "비비아나",
-          "color": null,
-          "sprite_index": 78
-        },
-        {
-          "name": "플레임테일",
-          "color": null,
-          "sprite_index": 55
         }
       ]
     },
