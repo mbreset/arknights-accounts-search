@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-01T02:40:58.794161+00:00",
+  "updated_at": "2026-09-01T02:57:46.191069+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -1959,102 +1959,6 @@
           "name": "파투스",
           "color": null,
           "sprite_index": 54
-        }
-      ]
-    },
-    {
-      "account_number": "01100",
-      "price": 139000,
-      "operators": [
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "실버애쉬더레인프로스트",
-          "color": "#e42ce8",
-          "sprite_index": 109
-        },
-        {
-          "name": "엑시아더뉴커버넌트",
-          "color": "#e42ce8",
-          "sprite_index": 100
-        },
-        {
-          "name": "라플란드더데카덴차",
-          "color": "#e42ce8",
-          "sprite_index": 93
-        },
-        {
-          "name": "텍사스디오메르토사",
-          "color": "#e42ce8",
-          "sprite_index": 62
-        },
-        {
-          "name": "스펙터디언체인드",
-          "color": "#e42ce8",
-          "sprite_index": 31
-        },
-        {
-          "name": "시",
-          "color": "#e42ce8",
-          "sprite_index": 15
-        },
-        {
-          "name": "페페",
-          "color": "#e42ce8",
-          "sprite_index": 88
-        },
-        {
-          "name": "로고스",
-          "color": "#0000ff",
-          "sprite_index": 86
-        },
-        {
-          "name": "리드더플레임섀도우",
-          "color": "#00aa00",
-          "sprite_index": 63
-        },
-        {
-          "name": "불피스폴리아",
-          "color": "#00aa00",
-          "sprite_index": 94
-        },
-        {
-          "name": "블레이즈디이그나이팅스파크",
-          "color": "#00aa00",
-          "sprite_index": 97
-        },
-        {
-          "name": "혼",
-          "color": null,
-          "sprite_index": 30
-        },
-        {
-          "name": "실버애쉬",
-          "color": null,
-          "sprite_index": 2
-        },
-        {
-          "name": "아이린",
-          "color": null,
-          "sprite_index": 32
-        },
-        {
-          "name": "오올헤약",
-          "color": null,
-          "sprite_index": 70
-        },
-        {
-          "name": "팔라스",
-          "color": null,
-          "sprite_index": 24
-        },
-        {
-          "name": "안젤리나",
-          "color": null,
-          "sprite_index": 9
         }
       ]
     },
