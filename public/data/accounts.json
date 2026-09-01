@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-01T05:09:58.791083+00:00",
+  "updated_at": "2026-09-01T12:17:02.896668+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -26543,67 +26543,6 @@
           "name": "헬라그",
           "color": null,
           "sprite_index": 46
-        }
-      ]
-    },
-    {
-      "account_number": "01696",
-      "price": 91000,
-      "operators": [
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "위셔델",
-          "color": "#e42ce8",
-          "sprite_index": 85
-        },
-        {
-          "name": "실버애쉬더레인프로스트",
-          "color": "#e42ce8",
-          "sprite_index": 109
-        },
-        {
-          "name": "위",
-          "color": "#e42ce8",
-          "sprite_index": 96
-        },
-        {
-          "name": "가비알디인빈서블",
-          "color": "#e42ce8",
-          "sprite_index": 37
-        },
-        {
-          "name": "나란투야",
-          "color": "#00aa00",
-          "sprite_index": 89
-        },
-        {
-          "name": "페넌스",
-          "color": null,
-          "sprite_index": 61
-        },
-        {
-          "name": "노시스",
-          "color": null,
-          "sprite_index": 23
-        },
-        {
-          "name": "엑시아",
-          "color": null,
-          "sprite_index": 3
-        },
-        {
-          "name": "스와이어디엘리건트위트",
-          "color": null,
-          "sprite_index": 72
-        },
-        {
-          "name": "안젤리나",
-          "color": null,
-          "sprite_index": 9
         }
       ]
     },
