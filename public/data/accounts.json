@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-01T01:00:15.313115+00:00",
+  "updated_at": "2026-09-01T02:40:58.794161+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -28172,52 +28172,6 @@
           "name": "린",
           "color": null,
           "sprite_index": 65
-        }
-      ]
-    },
-    {
-      "account_number": "03054",
-      "price": 54000,
-      "operators": [
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "호시구마더브리처",
-          "color": "#e42ce8",
-          "sprite_index": 105
-        },
-        {
-          "name": "텍사스디오메르토사",
-          "color": "#e42ce8",
-          "sprite_index": 62
-        },
-        {
-          "name": "비르투오사",
-          "color": "#e42ce8",
-          "sprite_index": 77
-        },
-        {
-          "name": "페페",
-          "color": "#e42ce8",
-          "sprite_index": 88
-        },
-        {
-          "name": "나란투야",
-          "color": "#00aa00",
-          "sprite_index": 89
-        },
-        {
-          "name": "비비아나",
-          "color": null,
-          "sprite_index": 78
-        },
-        {
-          "name": "오올헤약",
-          "color": null,
-          "sprite_index": 70
         }
       ]
     },
