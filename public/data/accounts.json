@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-31T15:19:35.056176+00:00",
+  "updated_at": "2026-09-01T01:00:15.313115+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -26781,82 +26781,6 @@
           "name": "안젤리나",
           "color": null,
           "sprite_index": 9
-        }
-      ]
-    },
-    {
-      "account_number": "00979",
-      "price": 116000,
-      "operators": [
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "위셔델",
-          "color": "#e42ce8",
-          "sprite_index": 85
-        },
-        {
-          "name": "실버애쉬더레인프로스트",
-          "color": "#e42ce8",
-          "sprite_index": 109
-        },
-        {
-          "name": "가비알디인빈서블",
-          "color": "#e42ce8",
-          "sprite_index": 37
-        },
-        {
-          "name": "W",
-          "color": "#e42ce8",
-          "sprite_index": 35
-        },
-        {
-          "name": "로고스",
-          "color": "#0000ff",
-          "sprite_index": 86
-        },
-        {
-          "name": "르무엔",
-          "color": "#0000ff",
-          "sprite_index": 101
-        },
-        {
-          "name": "수르트",
-          "color": "#00aa00",
-          "sprite_index": 0
-        },
-        {
-          "name": "골든글로우",
-          "color": "#00aa00",
-          "sprite_index": 28
-        },
-        {
-          "name": "레이",
-          "color": "#00aa00",
-          "sprite_index": 80
-        },
-        {
-          "name": "나란투야",
-          "color": "#00aa00",
-          "sprite_index": 89
-        },
-        {
-          "name": "엔텔레키아",
-          "color": "#00aa00",
-          "sprite_index": 102
-        },
-        {
-          "name": "실버애쉬",
-          "color": null,
-          "sprite_index": 2
-        },
-        {
-          "name": "도로시",
-          "color": null,
-          "sprite_index": 56
         }
       ]
     },
