@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-02T04:05:41.741739+00:00",
+  "updated_at": "2026-09-02T04:39:04.593090+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -60291,52 +60291,6 @@
           "name": "시즈",
           "color": null,
           "sprite_index": 26
-        }
-      ]
-    },
-    {
-      "account_number": "03880",
-      "price": 14000,
-      "operators": [
-        {
-          "name": "위",
-          "color": "#e42ce8",
-          "sprite_index": 96
-        },
-        {
-          "name": "첸더홀룽데이",
-          "color": "#e42ce8",
-          "sprite_index": 36
-        },
-        {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
-          "name": "리드더플레임섀도우",
-          "color": "#00aa00",
-          "sprite_index": 63
-        },
-        {
-          "name": "나란투야",
-          "color": "#00aa00",
-          "sprite_index": 89
-        },
-        {
-          "name": "페넌스",
-          "color": null,
-          "sprite_index": 61
-        },
-        {
-          "name": "스와이어디엘리건트위트",
-          "color": null,
-          "sprite_index": 72
-        },
-        {
-          "name": "오올헤약",
-          "color": null,
-          "sprite_index": 70
         }
       ]
     },
