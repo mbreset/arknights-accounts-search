@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-01T15:40:38.502471+00:00",
+  "updated_at": "2026-09-02T04:05:41.741739+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -39885,77 +39885,6 @@
           "name": "스테인리스",
           "color": null,
           "sprite_index": 60
-        }
-      ]
-    },
-    {
-      "account_number": "02024",
-      "price": 121000,
-      "operators": [
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "실버애쉬더레인프로스트",
-          "color": "#e42ce8",
-          "sprite_index": 109
-        },
-        {
-          "name": "엑시아더뉴커버넌트",
-          "color": "#e42ce8",
-          "sprite_index": 100
-        },
-        {
-          "name": "위",
-          "color": "#e42ce8",
-          "sprite_index": 96
-        },
-        {
-          "name": "첸더던스트릭",
-          "color": "#0000ff",
-          "sprite_index": 114
-        },
-        {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
-          "name": "무에나",
-          "color": "#0000ff",
-          "sprite_index": 43
-        },
-        {
-          "name": "좌락",
-          "color": "#00aa00",
-          "sprite_index": 82
-        },
-        {
-          "name": "리",
-          "color": null,
-          "sprite_index": 8
-        },
-        {
-          "name": "외드레르",
-          "color": null,
-          "sprite_index": 76
-        },
-        {
-          "name": "오올헤약",
-          "color": null,
-          "sprite_index": 70
-        },
-        {
-          "name": "카넬리안",
-          "color": null,
-          "sprite_index": 52
-        },
-        {
-          "name": "마젤란",
-          "color": null,
-          "sprite_index": 47
         }
       ]
     },
