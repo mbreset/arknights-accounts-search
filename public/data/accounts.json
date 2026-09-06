@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-06T06:39:47.522907+00:00",
+  "updated_at": "2026-09-06T13:57:20.351114+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -53641,72 +53641,6 @@
           "name": "티폰",
           "color": "#00aa00",
           "sprite_index": 74
-        }
-      ]
-    },
-    {
-      "account_number": "02292",
-      "price": 52000,
-      "operators": [
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "뮤엘시스",
-          "color": "#e42ce8",
-          "sprite_index": 69
-        },
-        {
-          "name": "페페",
-          "color": "#e42ce8",
-          "sprite_index": 88
-        },
-        {
-          "name": "무에나",
-          "color": "#0000ff",
-          "sprite_index": 43
-        },
-        {
-          "name": "로고스",
-          "color": "#0000ff",
-          "sprite_index": 86
-        },
-        {
-          "name": "르무엔",
-          "color": "#0000ff",
-          "sprite_index": 101
-        },
-        {
-          "name": "나란투야",
-          "color": "#00aa00",
-          "sprite_index": 89
-        },
-        {
-          "name": "블레이즈디이그나이팅스파크",
-          "color": "#00aa00",
-          "sprite_index": 97
-        },
-        {
-          "name": "좌락",
-          "color": "#00aa00",
-          "sprite_index": 82
-        },
-        {
-          "name": "비나빅토리아",
-          "color": null,
-          "sprite_index": 92
-        },
-        {
-          "name": "오올헤약",
-          "color": null,
-          "sprite_index": 70
-        },
-        {
-          "name": "카넬리안",
-          "color": null,
-          "sprite_index": 52
         }
       ]
     },
