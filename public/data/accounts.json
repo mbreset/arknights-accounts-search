@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-07T08:58:39.360198+00:00",
+  "updated_at": "2026-09-10T10:31:41.929260+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -51791,47 +51791,6 @@
           "name": "사가",
           "color": null,
           "sprite_index": 19
-        }
-      ]
-    },
-    {
-      "account_number": "02295",
-      "price": 69000,
-      "operators": [
-        {
-          "name": "토가와사키코",
-          "color": "#dd0000",
-          "sprite_index": 107
-        },
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "니엔",
-          "color": "#e42ce8",
-          "sprite_index": 16
-        },
-        {
-          "name": "프라마닉스더프레리타",
-          "color": "#0000ff",
-          "sprite_index": 110
-        },
-        {
-          "name": "첸더던스트릭",
-          "color": "#0000ff",
-          "sprite_index": 114
-        },
-        {
-          "name": "무에나",
-          "color": "#0000ff",
-          "sprite_index": 43
-        },
-        {
-          "name": "페넌스",
-          "color": null,
-          "sprite_index": 61
         }
       ]
     },
