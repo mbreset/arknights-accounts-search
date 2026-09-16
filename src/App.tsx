@@ -19,6 +19,7 @@ import './App.css'
 
 type PublicOperator = {
   name: string
+  potential?: number
   color: string | null
   sprite_index: number | null
 }
@@ -90,7 +91,7 @@ function OperatorChip({ operator, sprite }: { operator: PublicOperator; sprite: 
   return (
     <span className="operator-chip" style={operator.color ? { '--operator-color': operator.color } as CSSProperties : undefined}>
       <OperatorPortrait operator={operator} sprite={sprite} />
-      <span>{operator.name}</span>
+      <span>{operator.name}{(operator.potential ?? 1) > 1 ? ` x${operator.potential}` : ''}</span>
     </span>
   )
 }
