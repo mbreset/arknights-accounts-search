@@ -16,6 +16,7 @@ import {
   X,
 } from 'lucide-react'
 import './App.css'
+import { addOperatorTerm, matchesOperatorTerms, operatorInputError, operatorSuggestions, operatorTermLabel, type OperatorSearchTerm } from './operatorSearch'
 
 type PublicOperator = {
   name: string
@@ -147,7 +148,7 @@ export default function App() {
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState('')
   const [searchText, setSearchText] = useState('')
-  const [selectedOperators, setSelectedOperators] = useState<string[]>([])
+  const [selectedOperators, setSelectedOperators] = useState<OperatorSearchTerm[]>([])
   const [searchMode, setSearchMode] = useState<SearchMode>('and')
   const [sort, setSort] = useState<SortMode>('legacy')
   const [direction, setDirection] = useState<'asc' | 'desc'>('desc')
@@ -210,22 +211,18 @@ export default function App() {
     return () => document.removeEventListener('pointerdown', close)
   }, [])
 
-  const autocomplete = useMemo(() => {
-    const query = searchText.trim().toLocaleLowerCase('ko-KR')
-    if (/^\d+$/.test(query)) return []
-    return (catalog?.operator_names ?? [])
-      .filter((name) => !selectedOperators.includes(name))
-      .filter((name) => !query || name.toLocaleLowerCase('ko-KR').includes(query))
-      .slice(0, 12)
-  }, [catalog, searchText, selectedOperators])
+  const operatorNames = useMemo(() => catalog?.operator_names ?? [], [catalog])
+  const searchInputError = operatorInputError(searchText, operatorNames)
+  const autocomplete = useMemo(() => operatorSuggestions(searchText, operatorNames, selectedOperators, searchMode), [operatorNames, searchText, selectedOperators, searchMode])
+  const suggestionLabel = (name: string) => operatorTermLabel(addOperatorTerm(selectedOperators, name, searchText, operatorNames, searchMode).find(term => term.name === name)!)
 
   useEffect(() => {
     if (autocomplete.length && highlightedOption >= autocomplete.length) setHighlightedOption(0)
   }, [autocomplete, highlightedOption])
 
-  const addOperator = (name: string | undefined) => {
-    if (!name || selectedOperators.includes(name)) return
-    setSelectedOperators((current) => [...current, name])
+  const addOperator = (name: string | undefined, value = searchText) => {
+    if (!name || operatorInputError(value, operatorNames)) return
+    setSelectedOperators((current) => addOperatorTerm(current, name, value, operatorNames, searchMode))
     setSearchText('')
     setAutocompleteOpen(false)
     setHighlightedOption(0)
@@ -234,6 +231,7 @@ export default function App() {
   }
 
   const onSearchKeyDown = (event: KeyboardEvent<HTMLInputElement>) => {
+    if (event.nativeEvent.isComposing) return
     if (event.key === 'ArrowDown' && autocomplete.length) {
       event.preventDefault()
       setAutocompleteOpen(true)
@@ -261,10 +259,7 @@ export default function App() {
       if (account.price < minimum || account.price > maximum) return false
       if (accountNumberQuery && !account.account_number.includes(accountNumberQuery)) return false
       if (!selectedOperators.length) return true
-      const names = new Set(account.operators.map((operator) => operator.name))
-      return searchMode === 'and'
-        ? selectedOperators.every((name) => names.has(name))
-        : selectedOperators.some((name) => names.has(name))
+      return matchesOperatorTerms(account.operators, selectedOperators, searchMode)
     })
     if (sort === 'legacy') return direction === 'desc' ? filtered : [...filtered].reverse()
     return [...filtered].sort((left, right) => {
@@ -321,10 +316,10 @@ export default function App() {
                 <button className={searchMode === 'and' ? 'active' : ''} type="button" onClick={() => { setSearchMode('and'); setPage(1) }}>AND</button>
                 <button className={searchMode === 'or' ? 'active' : ''} type="button" onClick={() => { setSearchMode('or'); setPage(1) }}>OR</button>
               </div>
-              {selectedOperators.map((name) => (
-                <span className="search-chip" key={name}>
-                  {name}
-                  <button type="button" aria-label={`${name} 제거`} onClick={(event) => { event.stopPropagation(); setSelectedOperators((current) => current.filter((item) => item !== name)); setPage(1) }}><X size={12} /></button>
+              {selectedOperators.map((term) => (
+                <span className="search-chip" key={term.name}>
+                  {operatorTermLabel(term)}
+                  <button type="button" aria-label={`${operatorTermLabel(term)} 제거`} onClick={(event) => { event.stopPropagation(); setSelectedOperators((current) => current.filter((item) => item.name !== term.name)); setPage(1) }}><X size={12} /></button>
                 </span>
               ))}
               <input
@@ -332,12 +327,23 @@ export default function App() {
                 value={searchText}
                 placeholder={selectedOperators.length ? '오퍼레이터 또는 계정번호 추가' : '6성 오퍼레이터 또는 계정번호 검색'}
                 onFocus={() => setAutocompleteOpen(true)}
-                onChange={(event) => { setSearchText(event.target.value.replaceAll(',', '')); setAutocompleteOpen(true); setHighlightedOption(0) }}
+                onChange={(event) => {
+                  const value = event.target.value
+                  if (value.includes(',')) {
+                    const text = value.replaceAll(',', '').trim()
+                    const candidate = operatorSuggestions(text, operatorNames, selectedOperators, searchMode)[0]
+                    if (candidate) { addOperator(candidate, text); return }
+                  }
+                  setSearchText(value.replaceAll(',', '')); setAutocompleteOpen(true); setHighlightedOption(0); setPage(1)
+                }}
                 onKeyDown={onSearchKeyDown}
                 role="combobox"
+                aria-invalid={Boolean(searchInputError)}
+                aria-describedby={searchInputError ? 'operator-search-error' : undefined}
                 aria-expanded={autocompleteOpen}
               />
             </div>
+            {searchInputError && <p className="search-input-error" id="operator-search-error" role="alert">{searchInputError}</p>}
             {autocompleteOpen && autocomplete.length > 0 && (
               <div className="autocomplete" role="listbox">
                 {autocomplete.map((name, index) => (
@@ -351,7 +357,7 @@ export default function App() {
                     onMouseDown={(event) => event.preventDefault()}
                     onClick={() => addOperator(name)}
                   >
-                    {name}<ChevronRight size={15} />
+                    {suggestionLabel(name)}<ChevronRight size={15} />
                   </button>
                 ))}
               </div>

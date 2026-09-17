@@ -38,6 +38,7 @@ main { width: min(1320px, calc(100% - 48px)); margin: 0 auto; padding: 28px 0 54
 .autocomplete button:last-child { border-bottom: 0; }
 .autocomplete button:hover, .autocomplete button.highlighted { background: var(--accent-soft); }
 .autocomplete button svg { color: var(--text-muted); }
+.search-input-error { margin: 0 14px 10px; color: var(--danger); font-size: 12px; }
 
 .filter-row { display: flex; align-items: end; gap: 8px; padding: 12px 14px; }
 .filter-row label { display: grid; gap: 5px; }
