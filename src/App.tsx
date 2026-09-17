@@ -17,7 +17,6 @@ import {
 } from 'lucide-react'
 import './App.css'
 import { OperatorSearchChip } from './components/OperatorSearchChip'
-import { SearchOptions } from './components/SearchOptions'
 import { addOperatorTerm, matchesOperatorTerms, operatorInputError, operatorSuggestions, operatorTermLabel, type OperatorSearchTerm } from './operatorSearch'
 
 type PublicOperator = {
@@ -313,6 +312,7 @@ export default function App() {
       <main>
         <section className="search-panel">
           <div className="operator-search" ref={searchWrapRef}>
+            <div className="operator-query">
             <div className="search-field" onClick={() => searchRef.current?.focus()}>
               <Search size={18} />
               <div className="search-mode" onClick={(event) => event.stopPropagation()}>
@@ -372,13 +372,17 @@ export default function App() {
                 ))}
               </div>
             )}
+            </div>
+            <label className="potential-search-toggle">
+              <input type="checkbox" checked={showPotential} onChange={event => { setShowPotential(event.target.checked); setAutocompleteOpen(false) }} />
+              <span>잠재 검색</span>
+            </label>
           </div>
 
           <div className="filter-row">
             <label><span>최소 가격</span><input type="number" min="0" step="1000" value={minPrice} placeholder="0" onChange={(event) => { setMinPrice(event.target.value); setPage(1) }} /></label>
             <span className="filter-dash">-</span>
             <label><span>최대 가격</span><input type="number" min="0" step="1000" value={maxPrice} placeholder="제한 없음" onChange={(event) => { setMaxPrice(event.target.value); setPage(1) }} /></label>
-            <SearchOptions showPotential={showPotential} onChange={setShowPotential} onOpen={() => setAutocompleteOpen(false)} />
             <select value={sort} onChange={(event) => { setSort(event.target.value as SortMode); setPage(1) }} aria-label="정렬 기준">
               <option value="legacy">한정 개수</option>
               <option value="price">가격</option>

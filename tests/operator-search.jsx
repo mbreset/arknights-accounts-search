@@ -39,19 +39,17 @@ const mount = async (withPotential = false) => {
   root = createRoot(document.getElementById('root'))
   await act(() => root.render(renderApp()))
   if (withPotential) {
-    await click('검색 옵션')
-    await act(() => document.querySelector('.search-options-panel input').click())
-    await click('검색 옵션')
+    await act(() => document.querySelector('.potential-search-toggle input').click())
   }
 }
 const tests = [
-  ['Potential controls are hidden by default and enabled through search options', async () => {
+  ['Potential search checkbox is visible immediately and enables per-operator controls', async () => {
     await mount(); await type('토가'); await key('Enter')
     assert(!document.querySelector('.operator-potential-trigger'), 'Potential controls shown by default')
-    await click('검색 옵션')
-    assert(!document.querySelector('.search-options-panel input').checked, 'Default option enabled')
-    await act(() => document.querySelector('.search-options-panel input').click())
-    await click('검색 옵션')
+    assert(document.querySelector('.potential-search-toggle').textContent === '잠재 검색', 'Visible label missing')
+    assert(!document.querySelector('.potential-search-toggle input').checked, 'Default option enabled')
+    assert(!document.querySelector('[aria-label="검색 옵션"]'), 'Potential still hidden in options')
+    await act(() => document.querySelector('.potential-search-toggle input').click())
     assert(document.querySelector('.operator-potential-trigger').textContent === '잠재', 'Default control hidden')
     await click('토가와사키코 최소 잠재: 제한 없음')
     assert(document.querySelectorAll('[role=menuitemradio]').length === 6, 'Missing choices')
@@ -94,19 +92,19 @@ const tests = [
   }],
   ['Hiding potential controls preserves a visible compact condition and results', async () => {
     await mount(true); await type('토가2'); await key('Enter')
-    await click('검색 옵션'); await act(() => document.querySelector('.search-options-panel input').click()); await click('검색 옵션')
+    await act(() => document.querySelector('.potential-search-toggle input').click())
     assert(!document.querySelector('.operator-potential-trigger') && !document.querySelector('[role=menu]'), 'Control did not hide')
     assert(document.querySelector('.operator-potential-value').textContent === '2+', 'Condition became invisible')
     assert(chips().join() === '토가와사키코 x2' && resultIds().join() === '00002,00003,00004', 'Visibility toggle changed filter')
-    await click('검색 옵션'); await act(() => document.querySelector('.search-options-panel input').click()); await click('검색 옵션')
+    await act(() => document.querySelector('.potential-search-toggle input').click())
     assert(document.querySelector('.operator-potential-trigger').textContent === '2+', 'Re-enable lost value')
   }],
-  ['Search options close on Escape and outside pointer', async () => {
-    await mount(); await click('검색 옵션')
-    await act(() => document.activeElement.dispatchEvent(new KeyboardEvent('keydown', {key:'Escape',bubbles:true})))
-    assert(!document.querySelector('.search-options-panel') && document.activeElement.getAttribute('aria-label') === '검색 옵션', 'Escape did not close options')
-    await click('검색 옵션'); await act(() => document.body.dispatchEvent(new Event('pointerdown', {bubbles:true})))
-    assert(!document.querySelector('.search-options-panel'), 'Outside did not close options')
+  ['Visible toggle closes autocomplete without clearing the typed query', async () => {
+    await mount(); await type('토가')
+    assert(document.querySelector('[role=listbox]'), 'Missing autocomplete')
+    await act(() => document.querySelector('.potential-search-toggle input').click())
+    assert(!document.querySelector('[role=listbox]') && field().value === '토가', 'Toggle cleared input or left autocomplete open')
+    assert(document.querySelector('.potential-search-toggle input').checked, 'Toggle failed')
   }],
   ['All six spellings commit one normalized chip and match 2+ accounts', async () => {
     for (const value of ['토가와사키코x2','토가와사키코 x2','토가와사키코*2','토가와사키코 *2','토가와사키코2','토가와사키코 2']) {
@@ -164,12 +162,12 @@ document.getElementById('run').onclick = async () => {
 }
 await mount()
 if (new URLSearchParams(location.search).has('demo')) {
-  await type('토가'); await key('Enter'); await click('검색 옵션')
+  await type('토가'); await key('Enter')
   if (new URLSearchParams(location.search).get('demo') !== 'options') {
-    await act(() => document.querySelector('.search-options-panel input').click()); await click('검색 옵션')
+    await act(() => document.querySelector('.potential-search-toggle input').click())
     await click('토가와사키코 최소 잠재: 제한 없음')
   }
-  const bounds = document.querySelector('[role=menu], .search-options-panel').getBoundingClientRect()
+  const bounds = (document.querySelector('[role=menu]') ?? document.querySelector('.potential-search-toggle')).getBoundingClientRect()
   assert(bounds.left >= 0 && bounds.right <= window.innerWidth && bounds.bottom <= window.innerHeight, 'Menu outside viewport')
   document.getElementById('results').textContent = 'PASS: menu fits '+window.innerWidth+'px viewport'
 }
