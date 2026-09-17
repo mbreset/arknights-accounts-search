@@ -34,14 +34,24 @@ const click = async label => act(() => {
   assert(button, 'Missing button '+label)
   button.click()
 })
-const mount = async () => {
+const mount = async (withPotential = false) => {
   if (root) await act(() => root.unmount())
   root = createRoot(document.getElementById('root'))
   await act(() => root.render(renderApp()))
+  if (withPotential) {
+    await click('검색 옵션')
+    await act(() => document.querySelector('.search-options-panel input').click())
+    await click('검색 옵션')
+  }
 }
 const tests = [
-  ['Potential menu is discoverable after Enter and changes the current operator', async () => {
+  ['Potential controls are hidden by default and enabled through search options', async () => {
     await mount(); await type('토가'); await key('Enter')
+    assert(!document.querySelector('.operator-potential-trigger'), 'Potential controls shown by default')
+    await click('검색 옵션')
+    assert(!document.querySelector('.search-options-panel input').checked, 'Default option enabled')
+    await act(() => document.querySelector('.search-options-panel input').click())
+    await click('검색 옵션')
     assert(document.querySelector('.operator-potential-trigger').textContent === '잠재', 'Default control hidden')
     await click('토가와사키코 최소 잠재: 제한 없음')
     assert(document.querySelectorAll('[role=menuitemradio]').length === 6, 'Missing choices')
@@ -49,16 +59,16 @@ const tests = [
     assert(!document.querySelector('[role=listbox]'), 'Autocomplete overlaps menu')
     await click('2잠 이상')
     assert(chips().join() === '토가와사키코 x2', 'Menu did not set x2')
-    assert(document.querySelector('.operator-potential-trigger').textContent === '2잠 이상', 'Minimum not visible')
+    assert(document.querySelector('.operator-potential-trigger').textContent === '2+', 'Compact minimum not visible')
     assert(resultIds().join() === '00002,00003,00004' && !document.querySelector('[role=menu]'), 'Results or close incorrect')
   }],
   ['Potential menu can reset to unrestricted in OR mode', async () => {
-    await mount(); await type('토가3'); await key('Enter'); await click('OR')
+    await mount(true); await type('토가3'); await key('Enter'); await click('OR')
     await click('토가와사키코 최소 잠재: 3잠 이상'); await click('제한 없음')
     assert(chips().join() === '토가와사키코' && resultIds().join() === '00001,00002,00003,00004', 'Unrestricted failed')
   }],
   ['Outside click and Escape dismiss without modifying conditions; arrows move focus', async () => {
-    await mount(); await type('토가'); await key('Enter'); await click('토가와사키코 최소 잠재: 제한 없음')
+    await mount(true); await type('토가'); await key('Enter'); await click('토가와사키코 최소 잠재: 제한 없음')
     await act(() => document.activeElement.dispatchEvent(new KeyboardEvent('keydown', {key:'ArrowDown',bubbles:true})))
     assert(document.activeElement.textContent === '2잠 이상', 'Arrow focus failed')
     await act(() => document.activeElement.dispatchEvent(new KeyboardEvent('keydown', {key:'Escape',bubbles:true})))
@@ -68,7 +78,7 @@ const tests = [
     assert(!document.querySelector('[role=menu]') && chips().join() === '토가와사키코', 'Outside click changed condition')
   }],
   ['Only one menu stays open and selection affects just its own chip', async () => {
-    await mount(); await type('토가'); await key('Enter'); await type('슈바2'); await key('Enter'); await click('OR')
+    await mount(true); await type('토가'); await key('Enter'); await type('슈바2'); await key('Enter'); await click('OR')
     await click('슈바르츠 최소 잠재: 2잠 이상'); await click('토가와사키코 최소 잠재: 제한 없음')
     assert(document.querySelectorAll('[role=menu]').length === 1, 'Multiple menus open')
     await click('3잠 이상')
@@ -78,9 +88,25 @@ const tests = [
     assert(chips().join() === '슈바르츠 x2', 'Delete removed wrong chip')
   }],
   ['Choosing potential preserves the unsubmitted search input', async () => {
-    await mount(); await type('토가'); await key('Enter'); await type('슈바')
+    await mount(true); await type('토가'); await key('Enter'); await type('슈바')
     await click('토가와사키코 최소 잠재: 제한 없음'); await click('6잠')
     assert(field().value === '슈바' && chips().join() === '토가와사키코 x6', 'Unsubmitted input lost')
+  }],
+  ['Hiding potential controls preserves a visible compact condition and results', async () => {
+    await mount(true); await type('토가2'); await key('Enter')
+    await click('검색 옵션'); await act(() => document.querySelector('.search-options-panel input').click()); await click('검색 옵션')
+    assert(!document.querySelector('.operator-potential-trigger') && !document.querySelector('[role=menu]'), 'Control did not hide')
+    assert(document.querySelector('.operator-potential-value').textContent === '2+', 'Condition became invisible')
+    assert(chips().join() === '토가와사키코 x2' && resultIds().join() === '00002,00003,00004', 'Visibility toggle changed filter')
+    await click('검색 옵션'); await act(() => document.querySelector('.search-options-panel input').click()); await click('검색 옵션')
+    assert(document.querySelector('.operator-potential-trigger').textContent === '2+', 'Re-enable lost value')
+  }],
+  ['Search options close on Escape and outside pointer', async () => {
+    await mount(); await click('검색 옵션')
+    await act(() => document.activeElement.dispatchEvent(new KeyboardEvent('keydown', {key:'Escape',bubbles:true})))
+    assert(!document.querySelector('.search-options-panel') && document.activeElement.getAttribute('aria-label') === '검색 옵션', 'Escape did not close options')
+    await click('검색 옵션'); await act(() => document.body.dispatchEvent(new Event('pointerdown', {bubbles:true})))
+    assert(!document.querySelector('.search-options-panel'), 'Outside did not close options')
   }],
   ['All six spellings commit one normalized chip and match 2+ accounts', async () => {
     for (const value of ['토가와사키코x2','토가와사키코 x2','토가와사키코*2','토가와사키코 *2','토가와사키코2','토가와사키코 2']) {
@@ -138,8 +164,12 @@ document.getElementById('run').onclick = async () => {
 }
 await mount()
 if (new URLSearchParams(location.search).has('demo')) {
-  await type('토가'); await key('Enter'); await click('토가와사키코 최소 잠재: 제한 없음')
-  const bounds = document.querySelector('[role=menu]').getBoundingClientRect()
+  await type('토가'); await key('Enter'); await click('검색 옵션')
+  if (new URLSearchParams(location.search).get('demo') !== 'options') {
+    await act(() => document.querySelector('.search-options-panel input').click()); await click('검색 옵션')
+    await click('토가와사키코 최소 잠재: 제한 없음')
+  }
+  const bounds = document.querySelector('[role=menu], .search-options-panel').getBoundingClientRect()
   assert(bounds.left >= 0 && bounds.right <= window.innerWidth && bounds.bottom <= window.innerHeight, 'Menu outside viewport')
   document.getElementById('results').textContent = 'PASS: menu fits '+window.innerWidth+'px viewport'
 }

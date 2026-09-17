@@ -1,0 +1,16 @@
+.search-options { position: relative; display: inline-flex; flex: 0 0 auto; }
+.search-options .search-options-enabled { color: var(--accent); border-color: var(--accent); }
+.search-options-panel {
+  position: absolute;
+  z-index: 45;
+  top: calc(100% + 6px);
+  width: 184px;
+  padding: 4px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: var(--surface);
+  color: var(--text);
+  box-shadow: var(--shadow);
+}
+.search-options .search-options-panel label { display: flex; align-items: center; gap: 9px; min-height: 40px; padding: 8px; font-size: 13px; white-space: nowrap; cursor: pointer; }
+.search-options .search-options-panel input { width: 16px; height: 16px; margin: 0; padding: 0; flex: 0 0 auto; accent-color: var(--accent); cursor: pointer; }

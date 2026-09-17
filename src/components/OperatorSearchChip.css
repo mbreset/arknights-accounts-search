@@ -3,20 +3,21 @@
   max-width: 100%;
   min-width: 0;
   height: auto;
-  min-height: 32px;
+  min-height: 28px;
   gap: 4px;
 }
 .operator-search-chip .operator-chip-name { min-width: 0; overflow-wrap: anywhere; line-height: 1.35; }
+.operator-potential-value { flex: 0 0 auto; font-variant-numeric: tabular-nums; }
 .operator-search-chip .operator-potential-trigger {
   display: inline-flex;
   flex: 0 0 auto;
   justify-content: space-between;
   align-items: center;
   gap: 4px;
-  width: 84px;
+  width: 52px;
   height: 28px;
-  margin-left: 4px;
-  padding: 0 6px;
+  margin-left: 1px;
+  padding: 0 4px;
   border-left: 1px solid currentColor;
   border-radius: 0;
   font: inherit;

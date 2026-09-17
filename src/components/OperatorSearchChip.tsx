@@ -7,8 +7,9 @@ import './OperatorSearchChip.css'
 const options = [1, 2, 3, 4, 5, 6]
 const optionLabel = (value: number) => value === 1 ? '제한 없음' : value === 6 ? '6잠' : `${value}잠 이상`
 
-export function OperatorSearchChip({ term, onChange, onRemove, onOpen }: {
+export function OperatorSearchChip({ term, showPotential, onChange, onRemove, onOpen }: {
   term: OperatorSearchTerm
+  showPotential: boolean
   onChange: (potential: number) => void
   onRemove: () => void
   onOpen: () => void
@@ -19,7 +20,8 @@ export function OperatorSearchChip({ term, onChange, onRemove, onOpen }: {
   const menu = useRef<HTMLDivElement>(null)
   const items = useRef<Array<HTMLButtonElement | null>>([])
   const id = useId()
-  const label = term.potential === 1 ? '잠재' : optionLabel(term.potential)
+  const label = term.potential === 1 ? '잠재' : `${term.potential}+`
+  useEffect(() => { if (!showPotential) setOpen(false) }, [showPotential])
   const dismiss = (restoreFocus = false) => {
     setOpen(false)
     if (restoreFocus) trigger.current?.focus()
@@ -66,9 +68,10 @@ export function OperatorSearchChip({ term, onChange, onRemove, onOpen }: {
     }
   }, [open])
 
-  return <span className="search-chip operator-search-chip" data-search-label={operatorTermLabel(term)} onClick={event => event.stopPropagation()}>
+  return <span className={`search-chip operator-search-chip${showPotential ? ' has-potential-control' : ''}`} data-search-label={operatorTermLabel(term)} onClick={event => event.stopPropagation()}>
     <span className="operator-chip-name">{term.name}</span>
-    <button ref={trigger} className="operator-potential-trigger" type="button"
+    {showPotential ? <button ref={trigger} className="operator-potential-trigger" type="button"
+      title={optionLabel(term.potential)}
       aria-label={`${term.name} 최소 잠재: ${optionLabel(term.potential)}`}
       aria-haspopup="menu" aria-expanded={open} aria-controls={open ? id : undefined}
       onClick={() => { if (open) dismiss(); else { onOpen(); setOpen(true) } }}
@@ -77,9 +80,9 @@ export function OperatorSearchChip({ term, onChange, onRemove, onOpen }: {
         if (event.key === 'Escape') { event.preventDefault(); dismiss() }
       }}>
       <span>{label}</span><ChevronDown size={13} aria-hidden="true" />
-    </button>
+    </button> : term.potential > 1 ? <span className="operator-potential-value" title={optionLabel(term.potential)} aria-label={optionLabel(term.potential)}>{label}</span> : null}
     <button className="operator-chip-remove" type="button" aria-label={`${operatorTermLabel(term)} 검색 조건 삭제`} onClick={onRemove}><X size={13} /></button>
-    {open && createPortal(<div id={id} ref={menu} className="operator-potential-menu" role="menu"
+    {open && showPotential && createPortal(<div id={id} ref={menu} className="operator-potential-menu" role="menu"
       aria-label={`${term.name} 잠재 선택`} style={position}
       onClick={event => event.stopPropagation()}
       onKeyDown={event => {

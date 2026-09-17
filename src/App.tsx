@@ -17,6 +17,7 @@ import {
 } from 'lucide-react'
 import './App.css'
 import { OperatorSearchChip } from './components/OperatorSearchChip'
+import { SearchOptions } from './components/SearchOptions'
 import { addOperatorTerm, matchesOperatorTerms, operatorInputError, operatorSuggestions, operatorTermLabel, type OperatorSearchTerm } from './operatorSearch'
 
 type PublicOperator = {
@@ -151,6 +152,7 @@ export default function App() {
   const [searchText, setSearchText] = useState('')
   const [selectedOperators, setSelectedOperators] = useState<OperatorSearchTerm[]>([])
   const [searchMode, setSearchMode] = useState<SearchMode>('and')
+  const [showPotential, setShowPotential] = useState(false)
   const [sort, setSort] = useState<SortMode>('legacy')
   const [direction, setDirection] = useState<'asc' | 'desc'>('desc')
   const [minPrice, setMinPrice] = useState('')
@@ -318,7 +320,7 @@ export default function App() {
                 <button className={searchMode === 'or' ? 'active' : ''} type="button" onClick={() => { setSearchMode('or'); setPage(1) }}>OR</button>
               </div>
               {selectedOperators.map((term) => (
-                <OperatorSearchChip key={term.name} term={term}
+                <OperatorSearchChip key={term.name} term={term} showPotential={showPotential}
                   onOpen={() => setAutocompleteOpen(false)}
                   onChange={potential => {
                     setSelectedOperators(current => current.map(item => item.name === term.name ? { ...item, potential } : item))
@@ -376,6 +378,7 @@ export default function App() {
             <label><span>최소 가격</span><input type="number" min="0" step="1000" value={minPrice} placeholder="0" onChange={(event) => { setMinPrice(event.target.value); setPage(1) }} /></label>
             <span className="filter-dash">-</span>
             <label><span>최대 가격</span><input type="number" min="0" step="1000" value={maxPrice} placeholder="제한 없음" onChange={(event) => { setMaxPrice(event.target.value); setPage(1) }} /></label>
+            <SearchOptions showPotential={showPotential} onChange={setShowPotential} onOpen={() => setAutocompleteOpen(false)} />
             <select value={sort} onChange={(event) => { setSort(event.target.value as SortMode); setPage(1) }} aria-label="정렬 기준">
               <option value="legacy">한정 개수</option>
               <option value="price">가격</option>
