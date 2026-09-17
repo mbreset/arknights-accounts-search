@@ -16,6 +16,7 @@ import {
   X,
 } from 'lucide-react'
 import './App.css'
+import { OperatorSearchChip } from './components/OperatorSearchChip'
 import { addOperatorTerm, matchesOperatorTerms, operatorInputError, operatorSuggestions, operatorTermLabel, type OperatorSearchTerm } from './operatorSearch'
 
 type PublicOperator = {
@@ -317,10 +318,17 @@ export default function App() {
                 <button className={searchMode === 'or' ? 'active' : ''} type="button" onClick={() => { setSearchMode('or'); setPage(1) }}>OR</button>
               </div>
               {selectedOperators.map((term) => (
-                <span className="search-chip" key={term.name}>
-                  {operatorTermLabel(term)}
-                  <button type="button" aria-label={`${operatorTermLabel(term)} 제거`} onClick={(event) => { event.stopPropagation(); setSelectedOperators((current) => current.filter((item) => item.name !== term.name)); setPage(1) }}><X size={12} /></button>
-                </span>
+                <OperatorSearchChip key={term.name} term={term}
+                  onOpen={() => setAutocompleteOpen(false)}
+                  onChange={potential => {
+                    setSelectedOperators(current => current.map(item => item.name === term.name ? { ...item, potential } : item))
+                    setPage(1)
+                  }}
+                  onRemove={() => {
+                    setSelectedOperators(current => current.filter(item => item.name !== term.name))
+                    setPage(1)
+                    searchRef.current?.focus()
+                  }} />
               ))}
               <input
                 ref={searchRef}
