@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-18T14:35:49.092160+00:00",
+  "updated_at": "2026-09-18T16:11:23.531697+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -28765,78 +28765,6 @@
           "name": "플레임테일",
           "color": null,
           "sprite_index": 55
-        }
-      ]
-    },
-    {
-      "account_number": "03919",
-      "price": 116000,
-      "operators": [
-        {
-          "name": "위셔델",
-          "color": "#e42ce8",
-          "sprite_index": 85
-        },
-        {
-          "name": "실버애쉬더레인프로스트",
-          "color": "#e42ce8",
-          "sprite_index": 109
-        },
-        {
-          "name": "호시구마더브리처",
-          "color": "#e42ce8",
-          "sprite_index": 105
-        },
-        {
-          "name": "라플란드더데카덴차",
-          "color": "#e42ce8",
-          "sprite_index": 93
-        },
-        {
-          "name": "첸더홀룽데이",
-          "color": "#e42ce8",
-          "sprite_index": 36
-        },
-        {
-          "name": "프라마닉스더프레리타",
-          "color": "#0000ff",
-          "sprite_index": 110
-        },
-        {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
-          "name": "이네스",
-          "color": "#0000ff",
-          "sprite_index": 68
-        },
-        {
-          "name": "르무엔",
-          "color": "#0000ff",
-          "sprite_index": 101
-        },
-        {
-          "name": "블레이즈디이그나이팅스파크",
-          "color": "#00aa00",
-          "sprite_index": 97
-        },
-        {
-          "name": "좌락",
-          "color": null,
-          "sprite_index": 82,
-          "potential": 3
-        },
-        {
-          "name": "린",
-          "color": null,
-          "sprite_index": 65
-        },
-        {
-          "name": "아르케토",
-          "color": null,
-          "sprite_index": 22
         }
       ]
     },
