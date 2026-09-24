@@ -49,7 +49,7 @@ type VisitorStats = {
 }
 
 const OPEN_KAKAO_URL = 'https://open.kakao.com/o/sJNEvhNe'
-const IDFARM_URL = 'https://idfarm.co.kr/ItemMarket/gameItem/16769'
+const IDFARM_URL = 'https://idfarm.co.kr/ItemMarket/gameItem/1438924'
 const PAGE_SIZE = 60
 const VISITOR_API_URL = import.meta.env.VITE_VISITOR_API_URL?.trim()
   || 'https://arknights-visitor-stats.simm7531.workers.dev'
