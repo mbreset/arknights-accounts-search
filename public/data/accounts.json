@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-29T10:51:21.751217+00:00",
+  "updated_at": "2026-09-29T16:36:07.152640+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -126,87 +126,6 @@
     "지마더레이징타이드"
   ],
   "accounts": [
-    {
-      "account_number": "02451",
-      "price": 120000,
-      "operators": [
-        {
-          "name": "토가와사키코",
-          "color": "#dd0000",
-          "sprite_index": 107
-        },
-        {
-          "name": "실버애쉬더레인프로스트",
-          "color": "#e42ce8",
-          "sprite_index": 109,
-          "potential": 2
-        },
-        {
-          "name": "슈",
-          "color": "#e42ce8",
-          "sprite_index": 81
-        },
-        {
-          "name": "위",
-          "color": "#e42ce8",
-          "sprite_index": 96,
-          "potential": 2
-        },
-        {
-          "name": "텍사스디오메르토사",
-          "color": "#e42ce8",
-          "sprite_index": 62
-        },
-        {
-          "name": "라플란드더데카덴차",
-          "color": "#e42ce8",
-          "sprite_index": 93
-        },
-        {
-          "name": "비르투오사",
-          "color": "#e42ce8",
-          "sprite_index": 77
-        },
-        {
-          "name": "총웨",
-          "color": "#e42ce8",
-          "sprite_index": 64,
-          "potential": 2
-        },
-        {
-          "name": "링",
-          "color": "#e42ce8",
-          "sprite_index": 1
-        },
-        {
-          "name": "좌락",
-          "color": null,
-          "sprite_index": 82,
-          "potential": 2
-        },
-        {
-          "name": "머드락",
-          "color": null,
-          "sprite_index": 12
-        },
-        {
-          "name": "비비아나",
-          "color": null,
-          "sprite_index": 78,
-          "potential": 2
-        },
-        {
-          "name": "카넬리안",
-          "color": null,
-          "sprite_index": 52
-        },
-        {
-          "name": "미즈키",
-          "color": null,
-          "sprite_index": 53
-        }
-      ]
-    },
     {
       "account_number": "02856",
       "price": 140000,
