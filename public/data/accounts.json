@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-10T05:31:20.308156+00:00",
+  "updated_at": "2026-10-10T10:08:13.421325+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -4958,72 +4958,6 @@
           "name": "샤이닝",
           "color": null,
           "sprite_index": 25
-        }
-      ]
-    },
-    {
-      "account_number": "03548",
-      "price": 122000,
-      "operators": [
-        {
-          "name": "키린R야토",
-          "color": "#dd0000",
-          "sprite_index": 67
-        },
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "실버애쉬더레인프로스트",
-          "color": "#e42ce8",
-          "sprite_index": 109
-        },
-        {
-          "name": "호시구마더브리처",
-          "color": "#e42ce8",
-          "sprite_index": 105
-        },
-        {
-          "name": "에이야퍄들라더크비트아스카",
-          "color": "#e42ce8",
-          "sprite_index": 73
-        },
-        {
-          "name": "비르투오사",
-          "color": "#e42ce8",
-          "sprite_index": 77
-        },
-        {
-          "name": "페페",
-          "color": "#e42ce8",
-          "sprite_index": 88
-        },
-        {
-          "name": "첸더던스트릭",
-          "color": "#0000ff",
-          "sprite_index": 114
-        },
-        {
-          "name": "이그제큐터디엑스포에데레",
-          "color": "#00aa00",
-          "sprite_index": 71
-        },
-        {
-          "name": "아르케토",
-          "color": null,
-          "sprite_index": 22
-        },
-        {
-          "name": "비비아나",
-          "color": null,
-          "sprite_index": 78
-        },
-        {
-          "name": "미즈키",
-          "color": null,
-          "sprite_index": 53
         }
       ]
     },
