@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-12T15:58:51.733624+00:00",
+  "updated_at": "2026-10-13T04:06:06.591545+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -51495,42 +51495,6 @@
           "name": "안젤리나",
           "color": null,
           "sprite_index": 9
-        }
-      ]
-    },
-    {
-      "account_number": "04021",
-      "price": 59000,
-      "operators": [
-        {
-          "name": "실버애쉬더레인프로스트",
-          "color": "#e42ce8",
-          "sprite_index": 109
-        },
-        {
-          "name": "엑시아더뉴커버넌트",
-          "color": "#e42ce8",
-          "sprite_index": 100
-        },
-        {
-          "name": "호시구마더브리처",
-          "color": "#e42ce8",
-          "sprite_index": 105
-        },
-        {
-          "name": "첸더던스트릭",
-          "color": "#0000ff",
-          "sprite_index": 114
-        },
-        {
-          "name": "레이즈더썬더브링어",
-          "color": "#00aa00",
-          "sprite_index": 104
-        },
-        {
-          "name": "피아메타",
-          "color": null,
-          "sprite_index": 29
         }
       ]
     },
