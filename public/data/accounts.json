@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T16:36:32.380434+00:00",
+  "updated_at": "2026-10-14T16:41:02.152174+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -14404,7 +14404,7 @@
     },
     {
       "account_number": "01603",
-      "price": 136000,
+      "price": 156000,
       "operators": [
         {
           "name": "왕",
@@ -14437,6 +14437,12 @@
           "sprite_index": 88
         },
         {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118,
+          "potential": 2
+        },
+        {
           "name": "프라마닉스더프레리타",
           "color": "#0000ff",
           "sprite_index": 110
@@ -14455,6 +14461,11 @@
           "name": "르무엔",
           "color": "#0000ff",
           "sprite_index": 101
+        },
+        {
+          "name": "만트라",
+          "color": "#00aa00",
+          "sprite_index": 108
         },
         {
           "name": "블레이즈디이그나이팅스파크",
