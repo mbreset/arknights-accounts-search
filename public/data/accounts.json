@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T19:34:28.479173+00:00",
+  "updated_at": "2026-10-14T19:36:12.488460+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -7805,6 +7805,64 @@
           "name": "린",
           "color": null,
           "sprite_index": 65
+        }
+      ]
+    },
+    {
+      "account_number": "02130",
+      "price": 95000,
+      "operators": [
+        {
+          "name": "켈시에스페란타",
+          "color": "#e42ce8",
+          "sprite_index": 117
+        },
+        {
+          "name": "엑시아더뉴커버넌트",
+          "color": "#e42ce8",
+          "sprite_index": 100
+        },
+        {
+          "name": "호시구마더브리처",
+          "color": "#e42ce8",
+          "sprite_index": 105,
+          "potential": 2
+        },
+        {
+          "name": "스카디더커럽팅하트",
+          "color": "#e42ce8",
+          "sprite_index": 34
+        },
+        {
+          "name": "니어더래디언트나이트",
+          "color": "#e42ce8",
+          "sprite_index": 59
+        },
+        {
+          "name": "총웨",
+          "color": "#e42ce8",
+          "sprite_index": 64
+        },
+        {
+          "name": "페페",
+          "color": "#e42ce8",
+          "sprite_index": 88
+        },
+        {
+          "name": "무에나",
+          "color": "#0000ff",
+          "sprite_index": 43
+        },
+        {
+          "name": "불피스폴리아",
+          "color": "#00aa00",
+          "sprite_index": 94,
+          "potential": 2
+        },
+        {
+          "name": "좌락",
+          "color": null,
+          "sprite_index": 82
         }
       ]
     },
@@ -19328,59 +19386,6 @@
           "name": "오올헤약",
           "color": null,
           "sprite_index": 70
-        }
-      ]
-    },
-    {
-      "account_number": "02130",
-      "price": 57000,
-      "operators": [
-        {
-          "name": "엑시아더뉴커버넌트",
-          "color": "#e42ce8",
-          "sprite_index": 100
-        },
-        {
-          "name": "호시구마더브리처",
-          "color": "#e42ce8",
-          "sprite_index": 105,
-          "potential": 2
-        },
-        {
-          "name": "스카디더커럽팅하트",
-          "color": "#e42ce8",
-          "sprite_index": 34
-        },
-        {
-          "name": "니어더래디언트나이트",
-          "color": "#e42ce8",
-          "sprite_index": 59
-        },
-        {
-          "name": "총웨",
-          "color": "#e42ce8",
-          "sprite_index": 64
-        },
-        {
-          "name": "페페",
-          "color": "#e42ce8",
-          "sprite_index": 88
-        },
-        {
-          "name": "무에나",
-          "color": "#0000ff",
-          "sprite_index": 43
-        },
-        {
-          "name": "불피스폴리아",
-          "color": "#00aa00",
-          "sprite_index": 94,
-          "potential": 2
-        },
-        {
-          "name": "좌락",
-          "color": null,
-          "sprite_index": 82
         }
       ]
     },
