@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T17:24:42.894391+00:00",
+  "updated_at": "2026-10-14T17:28:10.947008+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -42639,7 +42639,7 @@
     },
     {
       "account_number": "03514",
-      "price": 57000,
+      "price": 70000,
       "operators": [
         {
           "name": "키린R야토",
@@ -42661,6 +42661,11 @@
           "name": "니어더래디언트나이트",
           "color": "#e42ce8",
           "sprite_index": 59
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "울피아누스",
