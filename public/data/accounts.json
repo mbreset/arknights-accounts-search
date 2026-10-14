@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T16:42:02.473600+00:00",
+  "updated_at": "2026-10-14T16:45:52.497632+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -58072,7 +58072,7 @@
     },
     {
       "account_number": "01702",
-      "price": 44000,
+      "price": 52000,
       "operators": [
         {
           "name": "가비알디인빈서블",
@@ -58104,6 +58104,11 @@
           "name": "르무엔",
           "color": "#0000ff",
           "sprite_index": 101
+        },
+        {
+          "name": "데겐블레허",
+          "color": "#00aa00",
+          "sprite_index": 79
         },
         {
           "name": "불피스폴리아",
