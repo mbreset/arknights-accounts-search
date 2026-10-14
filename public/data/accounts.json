@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T09:52:39.264724+00:00",
+  "updated_at": "2026-10-14T09:55:59.359115+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -23651,6 +23651,77 @@
       ]
     },
     {
+      "account_number": "02269",
+      "price": 106000,
+      "operators": [
+        {
+          "name": "왕",
+          "color": "#e42ce8",
+          "sprite_index": 113
+        },
+        {
+          "name": "켈시에스페란타",
+          "color": "#e42ce8",
+          "sprite_index": 117
+        },
+        {
+          "name": "위",
+          "color": "#e42ce8",
+          "sprite_index": 96
+        },
+        {
+          "name": "스펙터디언체인드",
+          "color": "#e42ce8",
+          "sprite_index": 31
+        },
+        {
+          "name": "뮤엘시스",
+          "color": "#e42ce8",
+          "sprite_index": 69
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
+        },
+        {
+          "name": "무에나",
+          "color": "#0000ff",
+          "sprite_index": 43
+        },
+        {
+          "name": "울피아누스",
+          "color": "#0000ff",
+          "sprite_index": 87
+        },
+        {
+          "name": "켈시",
+          "color": "#00aa00",
+          "sprite_index": 7
+        },
+        {
+          "name": "레이",
+          "color": "#00aa00",
+          "sprite_index": 80
+        },
+        {
+          "name": "위디",
+          "color": null,
+          "sprite_index": 41
+        },
+        {
+          "name": "비비아나",
+          "color": null,
+          "sprite_index": 78
+        }
+      ]
+    },
+    {
       "account_number": "02278",
       "price": 99000,
       "operators": [
@@ -39879,62 +39950,6 @@
           "name": "스테인리스",
           "color": null,
           "sprite_index": 60
-        }
-      ]
-    },
-    {
-      "account_number": "02269",
-      "price": 59000,
-      "operators": [
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "위",
-          "color": "#e42ce8",
-          "sprite_index": 96
-        },
-        {
-          "name": "스펙터디언체인드",
-          "color": "#e42ce8",
-          "sprite_index": 31
-        },
-        {
-          "name": "뮤엘시스",
-          "color": "#e42ce8",
-          "sprite_index": 69
-        },
-        {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
-          "name": "무에나",
-          "color": "#0000ff",
-          "sprite_index": 43
-        },
-        {
-          "name": "울피아누스",
-          "color": "#0000ff",
-          "sprite_index": 87
-        },
-        {
-          "name": "켈시",
-          "color": "#00aa00",
-          "sprite_index": 7
-        },
-        {
-          "name": "위디",
-          "color": null,
-          "sprite_index": 41
-        },
-        {
-          "name": "비비아나",
-          "color": null,
-          "sprite_index": 78
         }
       ]
     },
