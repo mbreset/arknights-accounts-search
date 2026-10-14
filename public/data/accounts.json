@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T10:24:37.723586+00:00",
+  "updated_at": "2026-10-14T10:25:43.705674+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -39685,7 +39685,7 @@
     },
     {
       "account_number": "03265",
-      "price": 57000,
+      "price": 70000,
       "operators": [
         {
           "name": "키린R야토",
@@ -39706,6 +39706,11 @@
           "name": "니어더래디언트나이트",
           "color": "#e42ce8",
           "sprite_index": 59
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "하루카",
