@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T18:54:31.852079+00:00",
+  "updated_at": "2026-10-14T18:55:01.833069+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -43851,7 +43851,7 @@
     },
     {
       "account_number": "01892",
-      "price": 80000,
+      "price": 92000,
       "operators": [
         {
           "name": "Ela",
@@ -43882,6 +43882,16 @@
           "name": "르무엔",
           "color": "#0000ff",
           "sprite_index": 101
+        },
+        {
+          "name": "만트라",
+          "color": "#00aa00",
+          "sprite_index": 108
+        },
+        {
+          "name": "티티",
+          "color": "#00aa00",
+          "sprite_index": 112
         },
         {
           "name": "불피스폴리아",
