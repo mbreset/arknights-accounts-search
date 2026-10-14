@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T20:35:23.498823+00:00",
+  "updated_at": "2026-10-14T20:39:27.533653+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -56876,6 +56876,32 @@
           "name": "이그제큐터디엑스포에데레",
           "color": "#00aa00",
           "sprite_index": 71
+        }
+      ]
+    },
+    {
+      "account_number": "04028",
+      "price": 31000,
+      "operators": [
+        {
+          "name": "켈시에스페란타",
+          "color": "#e42ce8",
+          "sprite_index": 117
+        },
+        {
+          "name": "엑시아더뉴커버넌트",
+          "color": "#e42ce8",
+          "sprite_index": 100
+        },
+        {
+          "name": "첸더던스트릭",
+          "color": "#0000ff",
+          "sprite_index": 114
+        },
+        {
+          "name": "님프",
+          "color": "#00aa00",
+          "sprite_index": 90
         }
       ]
     },
