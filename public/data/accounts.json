@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T15:28:40.438491+00:00",
+  "updated_at": "2026-10-14T15:41:55.575183+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -1474,7 +1474,7 @@
     },
     {
       "account_number": "01116",
-      "price": 168000,
+      "price": 181000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -1517,6 +1517,11 @@
           "name": "첸더홀룽데이",
           "color": "#e42ce8",
           "sprite_index": 36
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "첸더던스트릭",
