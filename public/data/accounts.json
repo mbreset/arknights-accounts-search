@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T13:52:26.709062+00:00",
+  "updated_at": "2026-10-14T13:59:28.904612+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -4249,7 +4249,7 @@
     },
     {
       "account_number": "01874",
-      "price": 142000,
+      "price": 147000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -4307,6 +4307,11 @@
           "name": "르무엔",
           "color": "#0000ff",
           "sprite_index": 101
+        },
+        {
+          "name": "벨로네",
+          "color": "#00aa00",
+          "sprite_index": 115
         },
         {
           "name": "네크라스",
