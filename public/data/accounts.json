@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T09:51:29.262507+00:00",
+  "updated_at": "2026-10-14T09:52:39.264724+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -24081,7 +24081,7 @@
     },
     {
       "account_number": "02097",
-      "price": 115000,
+      "price": 128000,
       "operators": [
         {
           "name": "마르실",
@@ -24107,6 +24107,11 @@
           "name": "라플란드더데카덴차",
           "color": "#e42ce8",
           "sprite_index": 93
+        },
+        {
+          "name": "첸더던스트릭",
+          "color": "#0000ff",
+          "sprite_index": 114
         },
         {
           "name": "하루카",
