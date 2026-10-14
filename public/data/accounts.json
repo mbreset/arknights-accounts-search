@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T19:36:12.488460+00:00",
+  "updated_at": "2026-10-14T19:38:30.518640+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -50118,7 +50118,7 @@
     },
     {
       "account_number": "02168",
-      "price": 70000,
+      "price": 94000,
       "operators": [
         {
           "name": "마르실",
@@ -50141,6 +50141,11 @@
           "sprite_index": 36
         },
         {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
+        },
+        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114,
@@ -50155,6 +50160,11 @@
           "name": "이네스",
           "color": "#0000ff",
           "sprite_index": 68
+        },
+        {
+          "name": "Mon3tr",
+          "color": "#0000ff",
+          "sprite_index": 99
         },
         {
           "name": "무에나",
