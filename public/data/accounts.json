@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T20:12:24.927430+00:00",
+  "updated_at": "2026-10-14T20:21:30.188842+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -41904,7 +41904,7 @@
     },
     {
       "account_number": "03369",
-      "price": 76000,
+      "price": 90000,
       "operators": [
         {
           "name": "키린R야토",
@@ -41925,6 +41925,12 @@
           "name": "페페",
           "color": "#e42ce8",
           "sprite_index": 88
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118,
+          "potential": 2
         },
         {
           "name": "프라마닉스더프레리타",
