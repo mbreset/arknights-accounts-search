@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T23:45:55.500691+00:00",
+  "updated_at": "2026-10-14T23:53:40.564306+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -58345,7 +58345,7 @@
     },
     {
       "account_number": "02893",
-      "price": 38000,
+      "price": 51000,
       "operators": [
         {
           "name": "위",
@@ -58361,6 +58361,11 @@
           "name": "트라고디아",
           "color": "#0000ff",
           "sprite_index": 103
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "첸더던스트릭",
@@ -58381,7 +58386,8 @@
         {
           "name": "불피스폴리아",
           "color": "#00aa00",
-          "sprite_index": 94
+          "sprite_index": 94,
+          "potential": 2
         },
         {
           "name": "페넌스",
