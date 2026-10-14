@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T14:49:28.771520+00:00",
+  "updated_at": "2026-10-14T14:50:34.867245+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -4597,7 +4597,7 @@
     },
     {
       "account_number": "03667",
-      "price": 105000,
+      "price": 118000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -4633,6 +4633,11 @@
           "name": "페페",
           "color": "#e42ce8",
           "sprite_index": 88
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "하루카",
