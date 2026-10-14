@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T23:04:47.379741+00:00",
+  "updated_at": "2026-10-14T23:11:31.628624+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -21228,7 +21228,7 @@
     },
     {
       "account_number": "01772",
-      "price": 58000,
+      "price": 67000,
       "operators": [
         {
           "name": "Ela",
@@ -21266,6 +21266,11 @@
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "로고스",
+          "color": "#0000ff",
+          "sprite_index": 86
         },
         {
           "name": "켈시",
