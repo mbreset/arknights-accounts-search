@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T14:57:22.880265+00:00",
+  "updated_at": "2026-10-14T15:03:30.003891+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -32994,7 +32994,7 @@
     },
     {
       "account_number": "03918",
-      "price": 56000,
+      "price": 69000,
       "operators": [
         {
           "name": "Ela",
@@ -33021,6 +33021,11 @@
           "name": "첸더홀룽데이",
           "color": "#e42ce8",
           "sprite_index": 36
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "프라마닉스더프레리타",
