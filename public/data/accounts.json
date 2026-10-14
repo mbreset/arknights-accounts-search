@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T14:44:56.717248+00:00",
+  "updated_at": "2026-10-14T14:49:28.771520+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -16632,7 +16632,7 @@
     },
     {
       "account_number": "03508",
-      "price": 92000,
+      "price": 101000,
       "operators": [
         {
           "name": "키린R야토",
@@ -16668,6 +16668,11 @@
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "아스카론",
+          "color": "#0000ff",
+          "sprite_index": 84
         },
         {
           "name": "이그제큐터디엑스포에데레",
