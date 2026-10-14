@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T11:44:47.080504+00:00",
+  "updated_at": "2026-10-14T11:46:23.046014+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -30479,7 +30479,7 @@
     },
     {
       "account_number": "00438",
-      "price": 67000,
+      "price": 80000,
       "operators": [
         {
           "name": "실버애쉬더레인프로스트",
@@ -30506,6 +30506,11 @@
           "name": "뮤엘시스",
           "color": "#e42ce8",
           "sprite_index": 69
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "로고스",
