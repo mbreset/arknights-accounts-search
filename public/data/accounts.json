@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T17:22:14.895431+00:00",
+  "updated_at": "2026-10-14T17:23:38.912314+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -41328,7 +41328,7 @@
     },
     {
       "account_number": "03411",
-      "price": 81000,
+      "price": 94000,
       "operators": [
         {
           "name": "키린R야토",
@@ -41350,6 +41350,11 @@
           "name": "스펙터디언체인드",
           "color": "#e42ce8",
           "sprite_index": 31
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "프라마닉스더프레리타",
