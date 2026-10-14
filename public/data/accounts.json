@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T12:25:11.646169+00:00",
+  "updated_at": "2026-10-14T12:27:59.615855+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -22818,6 +22818,74 @@
       ]
     },
     {
+      "account_number": "02620",
+      "price": 94000,
+      "operators": [
+        {
+          "name": "토가와사키코",
+          "color": "#dd0000",
+          "sprite_index": 107,
+          "potential": 2
+        },
+        {
+          "name": "엑시아더뉴커버넌트",
+          "color": "#e42ce8",
+          "sprite_index": 100
+        },
+        {
+          "name": "위",
+          "color": "#e42ce8",
+          "sprite_index": 96
+        },
+        {
+          "name": "텍사스디오메르토사",
+          "color": "#e42ce8",
+          "sprite_index": 62
+        },
+        {
+          "name": "시",
+          "color": "#e42ce8",
+          "sprite_index": 15
+        },
+        {
+          "name": "첸더던스트릭",
+          "color": "#0000ff",
+          "sprite_index": 114
+        },
+        {
+          "name": "이네스",
+          "color": "#0000ff",
+          "sprite_index": 68
+        },
+        {
+          "name": "울피아누스",
+          "color": "#0000ff",
+          "sprite_index": 87
+        },
+        {
+          "name": "골든글로우",
+          "color": "#00aa00",
+          "sprite_index": 28
+        },
+        {
+          "name": "네크라스",
+          "color": null,
+          "sprite_index": 98
+        },
+        {
+          "name": "도로시",
+          "color": null,
+          "sprite_index": 56,
+          "potential": 2
+        },
+        {
+          "name": "첸",
+          "color": null,
+          "sprite_index": 44
+        }
+      ]
+    },
+    {
       "account_number": "02662",
       "price": 58000,
       "operators": [
@@ -36983,64 +37051,6 @@
           "name": "패신저",
           "color": null,
           "sprite_index": 42
-        }
-      ]
-    },
-    {
-      "account_number": "02620",
-      "price": 60000,
-      "operators": [
-        {
-          "name": "토가와사키코",
-          "color": "#dd0000",
-          "sprite_index": 107,
-          "potential": 2
-        },
-        {
-          "name": "위",
-          "color": "#e42ce8",
-          "sprite_index": 96
-        },
-        {
-          "name": "텍사스디오메르토사",
-          "color": "#e42ce8",
-          "sprite_index": 62
-        },
-        {
-          "name": "시",
-          "color": "#e42ce8",
-          "sprite_index": 15
-        },
-        {
-          "name": "첸더던스트릭",
-          "color": "#0000ff",
-          "sprite_index": 114
-        },
-        {
-          "name": "이네스",
-          "color": "#0000ff",
-          "sprite_index": 68
-        },
-        {
-          "name": "골든글로우",
-          "color": "#00aa00",
-          "sprite_index": 28
-        },
-        {
-          "name": "네크라스",
-          "color": null,
-          "sprite_index": 98
-        },
-        {
-          "name": "도로시",
-          "color": null,
-          "sprite_index": 56,
-          "potential": 2
-        },
-        {
-          "name": "첸",
-          "color": null,
-          "sprite_index": 44
         }
       ]
     },
