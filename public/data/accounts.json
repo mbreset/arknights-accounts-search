@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T11:31:59.843763+00:00",
+  "updated_at": "2026-10-14T11:41:54.911501+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -28026,6 +28026,123 @@
       ]
     },
     {
+      "account_number": "00255",
+      "price": 102000,
+      "operators": [
+        {
+          "name": "위셔델",
+          "color": "#e42ce8",
+          "sprite_index": 85
+        },
+        {
+          "name": "엑시아더뉴커버넌트",
+          "color": "#e42ce8",
+          "sprite_index": 100,
+          "potential": 2
+        },
+        {
+          "name": "라플란드더데카덴차",
+          "color": "#e42ce8",
+          "sprite_index": 93
+        },
+        {
+          "name": "첸더홀룽데이",
+          "color": "#e42ce8",
+          "sprite_index": 36
+        },
+        {
+          "name": "페페",
+          "color": "#e42ce8",
+          "sprite_index": 88
+        },
+        {
+          "name": "첸더던스트릭",
+          "color": "#0000ff",
+          "sprite_index": 114
+        },
+        {
+          "name": "로고스",
+          "color": "#0000ff",
+          "sprite_index": 86
+        },
+        {
+          "name": "르무엔",
+          "color": "#0000ff",
+          "sprite_index": 101
+        },
+        {
+          "name": "데겐블레허",
+          "color": "#00aa00",
+          "sprite_index": 79
+        },
+        {
+          "name": "블레이즈디이그나이팅스파크",
+          "color": "#00aa00",
+          "sprite_index": 97
+        },
+        {
+          "name": "나란투야",
+          "color": null,
+          "sprite_index": 89
+        },
+        {
+          "name": "파죰카",
+          "color": null,
+          "sprite_index": 38
+        },
+        {
+          "name": "린",
+          "color": null,
+          "sprite_index": 65
+        },
+        {
+          "name": "아이린",
+          "color": null,
+          "sprite_index": 32
+        },
+        {
+          "name": "사일라흐",
+          "color": null,
+          "sprite_index": 40
+        },
+        {
+          "name": "엑시아",
+          "color": null,
+          "sprite_index": 3
+        },
+        {
+          "name": "비나빅토리아",
+          "color": null,
+          "sprite_index": 92
+        },
+        {
+          "name": "리",
+          "color": null,
+          "sprite_index": 8
+        },
+        {
+          "name": "슈바르츠",
+          "color": null,
+          "sprite_index": 21
+        },
+        {
+          "name": "스와이어디엘리건트위트",
+          "color": null,
+          "sprite_index": 72
+        },
+        {
+          "name": "호시구마",
+          "color": null,
+          "sprite_index": 27
+        },
+        {
+          "name": "팔라스",
+          "color": null,
+          "sprite_index": 24
+        }
+      ]
+    },
+    {
       "account_number": "02827",
       "price": 86000,
       "operators": [
@@ -44809,118 +44926,6 @@
           "name": "엑시아",
           "color": null,
           "sprite_index": 3
-        },
-        {
-          "name": "팔라스",
-          "color": null,
-          "sprite_index": 24
-        }
-      ]
-    },
-    {
-      "account_number": "00255",
-      "price": 78000,
-      "operators": [
-        {
-          "name": "엑시아더뉴커버넌트",
-          "color": "#e42ce8",
-          "sprite_index": 100,
-          "potential": 2
-        },
-        {
-          "name": "라플란드더데카덴차",
-          "color": "#e42ce8",
-          "sprite_index": 93
-        },
-        {
-          "name": "첸더홀룽데이",
-          "color": "#e42ce8",
-          "sprite_index": 36
-        },
-        {
-          "name": "페페",
-          "color": "#e42ce8",
-          "sprite_index": 88
-        },
-        {
-          "name": "첸더던스트릭",
-          "color": "#0000ff",
-          "sprite_index": 114
-        },
-        {
-          "name": "로고스",
-          "color": "#0000ff",
-          "sprite_index": 86
-        },
-        {
-          "name": "르무엔",
-          "color": "#0000ff",
-          "sprite_index": 101
-        },
-        {
-          "name": "데겐블레허",
-          "color": "#00aa00",
-          "sprite_index": 79
-        },
-        {
-          "name": "블레이즈디이그나이팅스파크",
-          "color": "#00aa00",
-          "sprite_index": 97
-        },
-        {
-          "name": "나란투야",
-          "color": null,
-          "sprite_index": 89
-        },
-        {
-          "name": "파죰카",
-          "color": null,
-          "sprite_index": 38
-        },
-        {
-          "name": "린",
-          "color": null,
-          "sprite_index": 65
-        },
-        {
-          "name": "아이린",
-          "color": null,
-          "sprite_index": 32
-        },
-        {
-          "name": "사일라흐",
-          "color": null,
-          "sprite_index": 40
-        },
-        {
-          "name": "엑시아",
-          "color": null,
-          "sprite_index": 3
-        },
-        {
-          "name": "비나빅토리아",
-          "color": null,
-          "sprite_index": 92
-        },
-        {
-          "name": "리",
-          "color": null,
-          "sprite_index": 8
-        },
-        {
-          "name": "슈바르츠",
-          "color": null,
-          "sprite_index": 21
-        },
-        {
-          "name": "스와이어디엘리건트위트",
-          "color": null,
-          "sprite_index": 72
-        },
-        {
-          "name": "호시구마",
-          "color": null,
-          "sprite_index": 27
         },
         {
           "name": "팔라스",
