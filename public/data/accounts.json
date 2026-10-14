@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T23:44:14.395203+00:00",
+  "updated_at": "2026-10-14T23:45:55.500691+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -34253,7 +34253,8 @@
         {
           "name": "불피스폴리아",
           "color": "#00aa00",
-          "sprite_index": 94
+          "sprite_index": 94,
+          "potential": 2
         },
         {
           "name": "좌락",
