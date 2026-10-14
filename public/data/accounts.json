@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T23:13:25.672566+00:00",
+  "updated_at": "2026-10-14T23:13:53.646909+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -47422,7 +47422,7 @@
     },
     {
       "account_number": "01701",
-      "price": 67000,
+      "price": 80000,
       "operators": [
         {
           "name": "마르실",
@@ -47444,6 +47444,11 @@
           "name": "총웨",
           "color": "#e42ce8",
           "sprite_index": 64
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "르무엔",
