@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T12:46:11.857690+00:00",
+  "updated_at": "2026-10-14T12:47:51.840273+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -13532,7 +13532,7 @@
     },
     {
       "account_number": "03267",
-      "price": 81000,
+      "price": 99000,
       "operators": [
         {
           "name": "키린R야토",
@@ -13566,6 +13566,11 @@
           "sprite_index": 88
         },
         {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
+        },
+        {
           "name": "무에나",
           "color": "#0000ff",
           "sprite_index": 43
@@ -13574,6 +13579,11 @@
           "name": "르무엔",
           "color": "#0000ff",
           "sprite_index": 101
+        },
+        {
+          "name": "블레이즈디이그나이팅스파크",
+          "color": "#00aa00",
+          "sprite_index": 97
         }
       ]
     },
