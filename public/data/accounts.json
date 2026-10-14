@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T22:57:55.256498+00:00",
+  "updated_at": "2026-10-14T23:00:16.274542+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -40479,7 +40479,7 @@
     },
     {
       "account_number": "01905",
-      "price": 86000,
+      "price": 88000,
       "operators": [
         {
           "name": "왕",
@@ -40543,6 +40543,11 @@
           "name": "비비아나",
           "color": null,
           "sprite_index": 78
+        },
+        {
+          "name": "치우바이",
+          "color": null,
+          "sprite_index": 66
         },
         {
           "name": "오올헤약",
