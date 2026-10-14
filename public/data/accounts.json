@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T13:23:00.322318+00:00",
+  "updated_at": "2026-10-14T13:27:26.352314+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -51054,6 +51054,27 @@
           "name": "슈바르츠",
           "color": null,
           "sprite_index": 21
+        }
+      ]
+    },
+    {
+      "account_number": "04163",
+      "price": 30000,
+      "operators": [
+        {
+          "name": "왕",
+          "color": "#e42ce8",
+          "sprite_index": 113
+        },
+        {
+          "name": "켈시에스페란타",
+          "color": "#e42ce8",
+          "sprite_index": 117
+        },
+        {
+          "name": "위",
+          "color": "#e42ce8",
+          "sprite_index": 96
         }
       ]
     },
