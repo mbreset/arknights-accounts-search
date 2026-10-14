@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T19:13:48.040081+00:00",
+  "updated_at": "2026-10-14T19:17:46.102170+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -58554,7 +58554,7 @@
     },
     {
       "account_number": "02057",
-      "price": 35000,
+      "price": 37000,
       "operators": [
         {
           "name": "키린R야토",
@@ -58601,6 +58601,11 @@
           "name": "좌락",
           "color": null,
           "sprite_index": 82
+        },
+        {
+          "name": "제시카더리버레이티드",
+          "color": null,
+          "sprite_index": 75
         }
       ]
     },
