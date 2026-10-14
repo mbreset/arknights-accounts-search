@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T17:46:57.244635+00:00",
+  "updated_at": "2026-10-14T17:49:27.243150+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -56465,6 +56465,32 @@
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        }
+      ]
+    },
+    {
+      "account_number": "04038",
+      "price": 30000,
+      "operators": [
+        {
+          "name": "켈시에스페란타",
+          "color": "#e42ce8",
+          "sprite_index": 117
+        },
+        {
+          "name": "실버애쉬더레인프로스트",
+          "color": "#e42ce8",
+          "sprite_index": 109
+        },
+        {
+          "name": "첸더던스트릭",
+          "color": "#0000ff",
+          "sprite_index": 114
+        },
+        {
+          "name": "이그제큐터디엑스포에데레",
+          "color": "#00aa00",
+          "sprite_index": 71
         }
       ]
     },
