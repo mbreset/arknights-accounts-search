@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T08:49:47.642968+00:00",
+  "updated_at": "2026-10-14T08:50:07.251711+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -218,7 +218,7 @@
     },
     {
       "account_number": "03950",
-      "price": 146000,
+      "price": 148000,
       "operators": [
         {
           "name": "마르실",
@@ -760,7 +760,7 @@
     },
     {
       "account_number": "02798",
-      "price": 106000,
+      "price": 105000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -906,7 +906,7 @@
     },
     {
       "account_number": "01116",
-      "price": 166000,
+      "price": 168000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -1179,7 +1179,7 @@
     },
     {
       "account_number": "01101",
-      "price": 137000,
+      "price": 136000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -1297,7 +1297,7 @@
     },
     {
       "account_number": "03795",
-      "price": 126000,
+      "price": 128000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -1459,7 +1459,7 @@
     },
     {
       "account_number": "03199",
-      "price": 128000,
+      "price": 130000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -2224,7 +2224,7 @@
     },
     {
       "account_number": "01440",
-      "price": 123000,
+      "price": 125000,
       "operators": [
         {
           "name": "마르실",
@@ -2316,7 +2316,7 @@
     },
     {
       "account_number": "01704",
-      "price": 117000,
+      "price": 119000,
       "operators": [
         {
           "name": "마르실",
@@ -2553,7 +2553,7 @@
     },
     {
       "account_number": "01252",
-      "price": 99000,
+      "price": 101000,
       "operators": [
         {
           "name": "엑시아더뉴커버넌트",
@@ -2746,7 +2746,7 @@
     },
     {
       "account_number": "00906",
-      "price": 113000,
+      "price": 115000,
       "operators": [
         {
           "name": "Ela",
@@ -3083,7 +3083,7 @@
     },
     {
       "account_number": "03237",
-      "price": 137000,
+      "price": 139000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -3248,7 +3248,7 @@
     },
     {
       "account_number": "03226",
-      "price": 138000,
+      "price": 140000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -3310,7 +3310,7 @@
     },
     {
       "account_number": "01968",
-      "price": 129000,
+      "price": 131000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -3805,7 +3805,7 @@
     },
     {
       "account_number": "01874",
-      "price": 140000,
+      "price": 142000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -3878,7 +3878,7 @@
     },
     {
       "account_number": "03591",
-      "price": 153000,
+      "price": 155000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -3922,15 +3922,15 @@
           "sprite_index": 110
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114,
           "potential": 2
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "블레이즈디이그나이팅스파크",
@@ -4054,7 +4054,7 @@
     },
     {
       "account_number": "00678",
-      "price": 112000,
+      "price": 114000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -4291,7 +4291,7 @@
     },
     {
       "account_number": "03217",
-      "price": 151000,
+      "price": 153000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -4329,16 +4329,16 @@
           "sprite_index": 88
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106,
-          "potential": 2
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114,
           "potential": 4
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106,
+          "potential": 2
         },
         {
           "name": "무에나",
@@ -4384,7 +4384,7 @@
     },
     {
       "account_number": "02246",
-      "price": 138000,
+      "price": 140000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -4422,14 +4422,14 @@
           "sprite_index": 36
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "무에나",
@@ -4471,7 +4471,7 @@
     },
     {
       "account_number": "03694",
-      "price": 98000,
+      "price": 100000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -4696,7 +4696,7 @@
     },
     {
       "account_number": "00856",
-      "price": 95000,
+      "price": 97000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -4736,14 +4736,14 @@
           "sprite_index": 69
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "르무엔",
@@ -4785,7 +4785,7 @@
     },
     {
       "account_number": "00924",
-      "price": 114000,
+      "price": 113000,
       "operators": [
         {
           "name": "마르실",
@@ -4939,7 +4939,7 @@
     },
     {
       "account_number": "03812",
-      "price": 115000,
+      "price": 117000,
       "operators": [
         {
           "name": "키린R야토",
@@ -4977,14 +4977,14 @@
           "sprite_index": 88
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "골든글로우",
@@ -5090,7 +5090,7 @@
     },
     {
       "account_number": "00778",
-      "price": 132000,
+      "price": 131000,
       "operators": [
         {
           "name": "왕",
@@ -6215,7 +6215,7 @@
     },
     {
       "account_number": "01232",
-      "price": 86000,
+      "price": 88000,
       "operators": [
         {
           "name": "왕",
@@ -6294,7 +6294,7 @@
     },
     {
       "account_number": "01860",
-      "price": 138000,
+      "price": 140000,
       "operators": [
         {
           "name": "왕",
@@ -6337,14 +6337,14 @@
           "sprite_index": 110
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "무에나",
@@ -6401,7 +6401,7 @@
     },
     {
       "account_number": "03883",
-      "price": 78000,
+      "price": 80000,
       "operators": [
         {
           "name": "Ela",
@@ -6573,7 +6573,7 @@
     },
     {
       "account_number": "01281",
-      "price": 85000,
+      "price": 84000,
       "operators": [
         {
           "name": "마르실",
@@ -6786,7 +6786,7 @@
     },
     {
       "account_number": "01277",
-      "price": 127000,
+      "price": 129000,
       "operators": [
         {
           "name": "마르실",
@@ -6968,7 +6968,7 @@
     },
     {
       "account_number": "03497",
-      "price": 136000,
+      "price": 138000,
       "operators": [
         {
           "name": "키린R야토",
@@ -7249,7 +7249,7 @@
     },
     {
       "account_number": "01934",
-      "price": 129000,
+      "price": 131000,
       "operators": [
         {
           "name": "마르실",
@@ -7384,7 +7384,7 @@
     },
     {
       "account_number": "01012",
-      "price": 145000,
+      "price": 146000,
       "operators": [
         {
           "name": "실버애쉬더레인프로스트",
@@ -7422,6 +7422,12 @@
           "sprite_index": 37
         },
         {
+          "name": "첸더던스트릭",
+          "color": "#0000ff",
+          "sprite_index": 114,
+          "potential": 2
+        },
+        {
           "name": "하루카",
           "color": "#0000ff",
           "sprite_index": 106
@@ -7430,12 +7436,6 @@
           "name": "이네스",
           "color": "#0000ff",
           "sprite_index": 68
-        },
-        {
-          "name": "첸더던스트릭",
-          "color": "#0000ff",
-          "sprite_index": 114,
-          "potential": 2
         },
         {
           "name": "르무엔",
@@ -7481,7 +7481,7 @@
     },
     {
       "account_number": "01671",
-      "price": 115000,
+      "price": 117000,
       "operators": [
         {
           "name": "실버애쉬더레인프로스트",
@@ -7521,14 +7521,14 @@
           "sprite_index": 36
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "로고스",
@@ -7570,7 +7570,7 @@
     },
     {
       "account_number": "02098",
-      "price": 109000,
+      "price": 108000,
       "operators": [
         {
           "name": "Ela",
@@ -7738,7 +7738,7 @@
     },
     {
       "account_number": "03800",
-      "price": 122000,
+      "price": 124000,
       "operators": [
         {
           "name": "키린R야토",
@@ -7777,14 +7777,14 @@
           "sprite_index": 59
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "레이",
@@ -7955,7 +7955,7 @@
     },
     {
       "account_number": "00427",
-      "price": 102000,
+      "price": 103000,
       "operators": [
         {
           "name": "실버애쉬더레인프로스트",
@@ -7994,14 +7994,14 @@
           "sprite_index": 88
         },
         {
-          "name": "이네스",
-          "color": "#0000ff",
-          "sprite_index": 68
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "이네스",
+          "color": "#0000ff",
+          "sprite_index": 68
         },
         {
           "name": "리드더플레임섀도우",
@@ -8271,7 +8271,7 @@
     },
     {
       "account_number": "00509",
-      "price": 110000,
+      "price": 112000,
       "operators": [
         {
           "name": "마르실",
@@ -8357,7 +8357,7 @@
     },
     {
       "account_number": "03334",
-      "price": 132000,
+      "price": 134000,
       "operators": [
         {
           "name": "키린R야토",
@@ -8548,7 +8548,7 @@
     },
     {
       "account_number": "01404",
-      "price": 85000,
+      "price": 87000,
       "operators": [
         {
           "name": "실버애쉬더레인프로스트",
@@ -8640,7 +8640,7 @@
     },
     {
       "account_number": "03830",
-      "price": 119000,
+      "price": 121000,
       "operators": [
         {
           "name": "키린R야토",
@@ -8685,14 +8685,14 @@
           "sprite_index": 110
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "로고스",
@@ -8796,7 +8796,7 @@
     },
     {
       "account_number": "00961",
-      "price": 79000,
+      "price": 81000,
       "operators": [
         {
           "name": "엑시아더뉴커버넌트",
@@ -8899,7 +8899,7 @@
     },
     {
       "account_number": "00712",
-      "price": 65000,
+      "price": 67000,
       "operators": [
         {
           "name": "엑시아더뉴커버넌트",
@@ -8982,7 +8982,7 @@
     },
     {
       "account_number": "01117",
-      "price": 111000,
+      "price": 110000,
       "operators": [
         {
           "name": "키린R야토",
@@ -9212,7 +9212,7 @@
     },
     {
       "account_number": "02271",
-      "price": 103000,
+      "price": 105000,
       "operators": [
         {
           "name": "마르실",
@@ -9518,7 +9518,7 @@
     },
     {
       "account_number": "01397",
-      "price": 125000,
+      "price": 127000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -9744,7 +9744,7 @@
     },
     {
       "account_number": "03565",
-      "price": 145000,
+      "price": 147000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -9820,7 +9820,7 @@
     },
     {
       "account_number": "03247",
-      "price": 137000,
+      "price": 139000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -9961,7 +9961,7 @@
     },
     {
       "account_number": "01272",
-      "price": 148000,
+      "price": 150000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -10134,7 +10134,7 @@
     },
     {
       "account_number": "03807",
-      "price": 127000,
+      "price": 129000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -10685,7 +10685,7 @@
     },
     {
       "account_number": "02672",
-      "price": 75000,
+      "price": 77000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -10833,7 +10833,7 @@
     },
     {
       "account_number": "03749",
-      "price": 107000,
+      "price": 109000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -11045,7 +11045,7 @@
     },
     {
       "account_number": "03480",
-      "price": 120000,
+      "price": 122000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -11198,7 +11198,7 @@
     },
     {
       "account_number": "03711",
-      "price": 112000,
+      "price": 114000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -11338,7 +11338,7 @@
     },
     {
       "account_number": "02569",
-      "price": 93000,
+      "price": 95000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -11372,15 +11372,15 @@
           "sprite_index": 88
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114,
           "potential": 2
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "르무엔",
@@ -11426,7 +11426,7 @@
     },
     {
       "account_number": "03099",
-      "price": 74000,
+      "price": 76000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -11769,7 +11769,7 @@
     },
     {
       "account_number": "03285",
-      "price": 110000,
+      "price": 112000,
       "operators": [
         {
           "name": "Ela",
@@ -11985,7 +11985,7 @@
     },
     {
       "account_number": "03650",
-      "price": 129000,
+      "price": 131000,
       "operators": [
         {
           "name": "키린R야토",
@@ -12069,7 +12069,7 @@
     },
     {
       "account_number": "01795",
-      "price": 95000,
+      "price": 97000,
       "operators": [
         {
           "name": "왕",
@@ -12218,7 +12218,7 @@
     },
     {
       "account_number": "03182",
-      "price": 141000,
+      "price": 143000,
       "operators": [
         {
           "name": "키린R야토",
@@ -12759,7 +12759,7 @@
     },
     {
       "account_number": "02042",
-      "price": 122000,
+      "price": 124000,
       "operators": [
         {
           "name": "Ela",
@@ -12841,7 +12841,7 @@
     },
     {
       "account_number": "03723",
-      "price": 115000,
+      "price": 117000,
       "operators": [
         {
           "name": "키린R야토",
@@ -13161,7 +13161,7 @@
     },
     {
       "account_number": "01837",
-      "price": 108000,
+      "price": 110000,
       "operators": [
         {
           "name": "마르실",
@@ -13229,7 +13229,7 @@
     },
     {
       "account_number": "02431",
-      "price": 113000,
+      "price": 115000,
       "operators": [
         {
           "name": "마르실",
@@ -13591,7 +13591,7 @@
     },
     {
       "account_number": "02035",
-      "price": 139000,
+      "price": 141000,
       "operators": [
         {
           "name": "마르실",
@@ -13670,7 +13670,7 @@
     },
     {
       "account_number": "01603",
-      "price": 135000,
+      "price": 136000,
       "operators": [
         {
           "name": "왕",
@@ -13708,14 +13708,14 @@
           "sprite_index": 110
         },
         {
-          "name": "이네스",
-          "color": "#0000ff",
-          "sprite_index": 68
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "이네스",
+          "color": "#0000ff",
+          "sprite_index": 68
         },
         {
           "name": "르무엔",
@@ -13767,7 +13767,7 @@
     },
     {
       "account_number": "02757",
-      "price": 143000,
+      "price": 144000,
       "operators": [
         {
           "name": "Ela",
@@ -13801,6 +13801,11 @@
           "sprite_index": 69
         },
         {
+          "name": "첸더던스트릭",
+          "color": "#0000ff",
+          "sprite_index": 114
+        },
+        {
           "name": "하루카",
           "color": "#0000ff",
           "sprite_index": 106,
@@ -13810,11 +13815,6 @@
           "name": "이네스",
           "color": "#0000ff",
           "sprite_index": 68
-        },
-        {
-          "name": "첸더던스트릭",
-          "color": "#0000ff",
-          "sprite_index": 114
         },
         {
           "name": "울피아누스",
@@ -14221,7 +14221,7 @@
     },
     {
       "account_number": "01787",
-      "price": 96000,
+      "price": 98000,
       "operators": [
         {
           "name": "왕",
@@ -14377,7 +14377,7 @@
     },
     {
       "account_number": "03779",
-      "price": 87000,
+      "price": 89000,
       "operators": [
         {
           "name": "키린R야토",
@@ -14572,7 +14572,7 @@
     },
     {
       "account_number": "00454",
-      "price": 141000,
+      "price": 143000,
       "operators": [
         {
           "name": "마르실",
@@ -14611,15 +14611,15 @@
           "sprite_index": 110
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114,
           "potential": 2
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "로고스",
@@ -14691,7 +14691,7 @@
     },
     {
       "account_number": "02724",
-      "price": 73000,
+      "price": 75000,
       "operators": [
         {
           "name": "마르실",
@@ -14815,7 +14815,7 @@
     },
     {
       "account_number": "02396",
-      "price": 98000,
+      "price": 97000,
       "operators": [
         {
           "name": "왕",
@@ -14908,7 +14908,7 @@
     },
     {
       "account_number": "03575",
-      "price": 103000,
+      "price": 105000,
       "operators": [
         {
           "name": "키린R야토",
@@ -15104,7 +15104,7 @@
     },
     {
       "account_number": "03676",
-      "price": 85000,
+      "price": 87000,
       "operators": [
         {
           "name": "키린R야토",
@@ -15166,7 +15166,7 @@
     },
     {
       "account_number": "00827",
-      "price": 78000,
+      "price": 77000,
       "operators": [
         {
           "name": "위셔델",
@@ -15316,7 +15316,7 @@
     },
     {
       "account_number": "01662",
-      "price": 127000,
+      "price": 129000,
       "operators": [
         {
           "name": "실버애쉬더레인프로스트",
@@ -15417,7 +15417,7 @@
     },
     {
       "account_number": "02849",
-      "price": 131000,
+      "price": 133000,
       "operators": [
         {
           "name": "실버애쉬더레인프로스트",
@@ -15455,14 +15455,14 @@
           "sprite_index": 110
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "로고스",
@@ -15500,7 +15500,7 @@
     },
     {
       "account_number": "03410",
-      "price": 106000,
+      "price": 108000,
       "operators": [
         {
           "name": "키린R야토",
@@ -15558,7 +15558,7 @@
     },
     {
       "account_number": "02237",
-      "price": 144000,
+      "price": 143000,
       "operators": [
         {
           "name": "실버애쉬더레인프로스트",
@@ -15646,7 +15646,7 @@
     },
     {
       "account_number": "02958",
-      "price": 123000,
+      "price": 125000,
       "operators": [
         {
           "name": "마르실",
@@ -15735,7 +15735,7 @@
     },
     {
       "account_number": "02543",
-      "price": 109000,
+      "price": 110000,
       "operators": [
         {
           "name": "실버애쉬더레인프로스트",
@@ -15769,6 +15769,11 @@
           "sprite_index": 88
         },
         {
+          "name": "첸더던스트릭",
+          "color": "#0000ff",
+          "sprite_index": 114
+        },
+        {
           "name": "하루카",
           "color": "#0000ff",
           "sprite_index": 106,
@@ -15778,11 +15783,6 @@
           "name": "이네스",
           "color": "#0000ff",
           "sprite_index": 68
-        },
-        {
-          "name": "첸더던스트릭",
-          "color": "#0000ff",
-          "sprite_index": 114
         },
         {
           "name": "르무엔",
@@ -16009,7 +16009,7 @@
     },
     {
       "account_number": "03508",
-      "price": 90000,
+      "price": 92000,
       "operators": [
         {
           "name": "키린R야토",
@@ -16060,7 +16060,7 @@
     },
     {
       "account_number": "03804",
-      "price": 109000,
+      "price": 111000,
       "operators": [
         {
           "name": "키린R야토",
@@ -16134,7 +16134,7 @@
     },
     {
       "account_number": "03479",
-      "price": 116000,
+      "price": 118000,
       "operators": [
         {
           "name": "키린R야토",
@@ -16211,7 +16211,7 @@
     },
     {
       "account_number": "03803",
-      "price": 124000,
+      "price": 123000,
       "operators": [
         {
           "name": "키린R야토",
@@ -16367,7 +16367,7 @@
     },
     {
       "account_number": "03230",
-      "price": 96000,
+      "price": 98000,
       "operators": [
         {
           "name": "키린R야토",
@@ -16511,7 +16511,7 @@
     },
     {
       "account_number": "01133",
-      "price": 90000,
+      "price": 92000,
       "operators": [
         {
           "name": "키린R야토",
@@ -16660,7 +16660,7 @@
     },
     {
       "account_number": "02962",
-      "price": 89000,
+      "price": 90000,
       "operators": [
         {
           "name": "실버애쉬더레인프로스트",
@@ -16693,6 +16693,12 @@
           "sprite_index": 16
         },
         {
+          "name": "첸더던스트릭",
+          "color": "#0000ff",
+          "sprite_index": 114,
+          "potential": 3
+        },
+        {
           "name": "하루카",
           "color": "#0000ff",
           "sprite_index": 106
@@ -16703,12 +16709,6 @@
           "sprite_index": 68
         },
         {
-          "name": "첸더던스트릭",
-          "color": "#0000ff",
-          "sprite_index": 114,
-          "potential": 3
-        },
-        {
           "name": "로고스",
           "color": "#0000ff",
           "sprite_index": 86
@@ -16717,7 +16717,7 @@
     },
     {
       "account_number": "02392",
-      "price": 89000,
+      "price": 88000,
       "operators": [
         {
           "name": "실버애쉬더레인프로스트",
@@ -16873,7 +16873,7 @@
     },
     {
       "account_number": "00644",
-      "price": 76000,
+      "price": 78000,
       "operators": [
         {
           "name": "실버애쉬더레인프로스트",
@@ -17002,7 +17002,7 @@
     },
     {
       "account_number": "02287",
-      "price": 131000,
+      "price": 130000,
       "operators": [
         {
           "name": "마르실",
@@ -17269,7 +17269,7 @@
     },
     {
       "account_number": "03884",
-      "price": 89000,
+      "price": 91000,
       "operators": [
         {
           "name": "실버애쉬더레인프로스트",
@@ -17418,7 +17418,7 @@
     },
     {
       "account_number": "01700",
-      "price": 67000,
+      "price": 69000,
       "operators": [
         {
           "name": "키린R야토",
@@ -17451,15 +17451,15 @@
           "sprite_index": 88
         },
         {
+          "name": "첸더던스트릭",
+          "color": "#0000ff",
+          "sprite_index": 114
+        },
+        {
           "name": "하루카",
           "color": "#0000ff",
           "sprite_index": 106,
           "potential": 2
-        },
-        {
-          "name": "첸더던스트릭",
-          "color": "#0000ff",
-          "sprite_index": 114
         },
         {
           "name": "불피스폴리아",
@@ -17583,7 +17583,7 @@
     },
     {
       "account_number": "01777",
-      "price": 77000,
+      "price": 76000,
       "operators": [
         {
           "name": "마르실",
@@ -17938,7 +17938,7 @@
     },
     {
       "account_number": "03259",
-      "price": 112000,
+      "price": 114000,
       "operators": [
         {
           "name": "키린R야토",
@@ -18151,7 +18151,7 @@
     },
     {
       "account_number": "03487",
-      "price": 78000,
+      "price": 80000,
       "operators": [
         {
           "name": "키린R야토",
@@ -18185,14 +18185,14 @@
           "sprite_index": 88
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "로고스",
@@ -18223,7 +18223,7 @@
     },
     {
       "account_number": "02227",
-      "price": 110000,
+      "price": 112000,
       "operators": [
         {
           "name": "마르실",
@@ -18299,7 +18299,7 @@
     },
     {
       "account_number": "02712",
-      "price": 112000,
+      "price": 111000,
       "operators": [
         {
           "name": "마르실",
@@ -18380,7 +18380,7 @@
     },
     {
       "account_number": "01999",
-      "price": 102000,
+      "price": 104000,
       "operators": [
         {
           "name": "마르실",
@@ -18450,7 +18450,7 @@
     },
     {
       "account_number": "02983",
-      "price": 80000,
+      "price": 82000,
       "operators": [
         {
           "name": "마르실",
@@ -18573,7 +18573,7 @@
     },
     {
       "account_number": "02260",
-      "price": 81000,
+      "price": 83000,
       "operators": [
         {
           "name": "엑시아더뉴커버넌트",
@@ -18656,7 +18656,7 @@
     },
     {
       "account_number": "01530",
-      "price": 107000,
+      "price": 109000,
       "operators": [
         {
           "name": "엑시아더뉴커버넌트",
@@ -18690,14 +18690,14 @@
           "sprite_index": 88
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "무에나",
@@ -18754,7 +18754,7 @@
     },
     {
       "account_number": "00613",
-      "price": 80000,
+      "price": 81000,
       "operators": [
         {
           "name": "엑시아더뉴커버넌트",
@@ -18787,14 +18787,14 @@
           "sprite_index": 88
         },
         {
-          "name": "이네스",
-          "color": "#0000ff",
-          "sprite_index": 68
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "이네스",
+          "color": "#0000ff",
+          "sprite_index": 68
         },
         {
           "name": "블레이즈디이그나이팅스파크",
@@ -18841,7 +18841,7 @@
     },
     {
       "account_number": "02118",
-      "price": 98000,
+      "price": 100000,
       "operators": [
         {
           "name": "엑시아더뉴커버넌트",
@@ -18937,7 +18937,7 @@
     },
     {
       "account_number": "01786",
-      "price": 86000,
+      "price": 88000,
       "operators": [
         {
           "name": "엑시아더뉴커버넌트",
@@ -18971,14 +18971,14 @@
           "sprite_index": 88
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "르무엔",
@@ -19114,7 +19114,7 @@
     },
     {
       "account_number": "00257",
-      "price": 87000,
+      "price": 89000,
       "operators": [
         {
           "name": "마르실",
@@ -19336,7 +19336,7 @@
     },
     {
       "account_number": "01772",
-      "price": 56000,
+      "price": 58000,
       "operators": [
         {
           "name": "Ela",
@@ -19414,7 +19414,7 @@
     },
     {
       "account_number": "01894",
-      "price": 75000,
+      "price": 77000,
       "operators": [
         {
           "name": "호시구마더브리처",
@@ -19572,7 +19572,7 @@
     },
     {
       "account_number": "03939",
-      "price": 57000,
+      "price": 59000,
       "operators": [
         {
           "name": "호시구마더브리처",
@@ -19606,15 +19606,15 @@
           "potential": 2
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114,
           "potential": 2
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "르무엔",
@@ -19702,7 +19702,7 @@
     },
     {
       "account_number": "01164",
-      "price": 61000,
+      "price": 63000,
       "operators": [
         {
           "name": "호시구마더브리처",
@@ -19736,14 +19736,14 @@
           "sprite_index": 69
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "나란투야",
@@ -19769,7 +19769,7 @@
     },
     {
       "account_number": "00389",
-      "price": 71000,
+      "price": 73000,
       "operators": [
         {
           "name": "호시구마더브리처",
@@ -19851,7 +19851,7 @@
     },
     {
       "account_number": "02548",
-      "price": 77000,
+      "price": 76000,
       "operators": [
         {
           "name": "Ela",
@@ -19943,7 +19943,7 @@
     },
     {
       "account_number": "03671",
-      "price": 92000,
+      "price": 94000,
       "operators": [
         {
           "name": "키린R야토",
@@ -19976,14 +19976,14 @@
           "sprite_index": 88
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "수르트",
@@ -20102,7 +20102,7 @@
     },
     {
       "account_number": "02601",
-      "price": 70000,
+      "price": 72000,
       "operators": [
         {
           "name": "마르실",
@@ -20137,15 +20137,15 @@
           "sprite_index": 88
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114,
           "potential": 2
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "로고스",
@@ -20244,7 +20244,7 @@
     },
     {
       "account_number": "02627",
-      "price": 67000,
+      "price": 69000,
       "operators": [
         {
           "name": "슈",
@@ -20483,7 +20483,7 @@
     },
     {
       "account_number": "01366",
-      "price": 105000,
+      "price": 107000,
       "operators": [
         {
           "name": "키린R야토",
@@ -20702,7 +20702,7 @@
     },
     {
       "account_number": "02980",
-      "price": 52000,
+      "price": 54000,
       "operators": [
         {
           "name": "마르실",
@@ -21176,7 +21176,7 @@
     },
     {
       "account_number": "03395",
-      "price": 118000,
+      "price": 120000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -21210,14 +21210,14 @@
           "sprite_index": 110
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "데겐블레허",
@@ -21233,7 +21233,7 @@
     },
     {
       "account_number": "03573",
-      "price": 107000,
+      "price": 109000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -21945,7 +21945,7 @@
     },
     {
       "account_number": "03207",
-      "price": 136000,
+      "price": 138000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -22231,7 +22231,7 @@
     },
     {
       "account_number": "03371",
-      "price": 110000,
+      "price": 112000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -22259,14 +22259,14 @@
           "sprite_index": 15
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "로고스",
@@ -22602,7 +22602,7 @@
     },
     {
       "account_number": "00530",
-      "price": 73000,
+      "price": 75000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -22685,7 +22685,7 @@
     },
     {
       "account_number": "03174",
-      "price": 126000,
+      "price": 128000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -22718,14 +22718,14 @@
           "sprite_index": 110
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "르무엔",
@@ -22767,7 +22767,7 @@
     },
     {
       "account_number": "03019",
-      "price": 109000,
+      "price": 111000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -22800,15 +22800,15 @@
           "sprite_index": 110
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114,
           "potential": 2
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "불피스폴리아",
@@ -23098,7 +23098,7 @@
     },
     {
       "account_number": "03417",
-      "price": 58000,
+      "price": 60000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -23155,7 +23155,7 @@
     },
     {
       "account_number": "00579",
-      "price": 92000,
+      "price": 94000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -23318,7 +23318,7 @@
     },
     {
       "account_number": "03885",
-      "price": 65000,
+      "price": 67000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -23346,15 +23346,15 @@
           "sprite_index": 88
         },
         {
+          "name": "첸더던스트릭",
+          "color": "#0000ff",
+          "sprite_index": 114
+        },
+        {
           "name": "하루카",
           "color": "#0000ff",
           "sprite_index": 106,
           "potential": 2
-        },
-        {
-          "name": "첸더던스트릭",
-          "color": "#0000ff",
-          "sprite_index": 114
         },
         {
           "name": "레이즈더썬더브링어",
@@ -23524,7 +23524,7 @@
     },
     {
       "account_number": "02278",
-      "price": 97000,
+      "price": 99000,
       "operators": [
         {
           "name": "왕",
@@ -23692,7 +23692,7 @@
     },
     {
       "account_number": "03699",
-      "price": 116000,
+      "price": 115000,
       "operators": [
         {
           "name": "키린R야토",
@@ -23953,7 +23953,7 @@
     },
     {
       "account_number": "02097",
-      "price": 116000,
+      "price": 115000,
       "operators": [
         {
           "name": "마르실",
@@ -24145,7 +24145,7 @@
     },
     {
       "account_number": "01966",
-      "price": 100000,
+      "price": 102000,
       "operators": [
         {
           "name": "왕",
@@ -24174,15 +24174,15 @@
           "sprite_index": 69
         },
         {
+          "name": "첸더던스트릭",
+          "color": "#0000ff",
+          "sprite_index": 114
+        },
+        {
           "name": "하루카",
           "color": "#0000ff",
           "sprite_index": 106,
           "potential": 2
-        },
-        {
-          "name": "첸더던스트릭",
-          "color": "#0000ff",
-          "sprite_index": 114
         },
         {
           "name": "무에나",
@@ -24383,7 +24383,7 @@
     },
     {
       "account_number": "03940",
-      "price": 118000,
+      "price": 120000,
       "operators": [
         {
           "name": "왕",
@@ -24507,7 +24507,7 @@
     },
     {
       "account_number": "03609",
-      "price": 104000,
+      "price": 106000,
       "operators": [
         {
           "name": "키린R야토",
@@ -24537,15 +24537,15 @@
           "potential": 2
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114,
           "potential": 3
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "로고스",
@@ -24674,7 +24674,7 @@
     },
     {
       "account_number": "02081",
-      "price": 107000,
+      "price": 109000,
       "operators": [
         {
           "name": "왕",
@@ -24702,14 +24702,14 @@
           "sprite_index": 88
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "무에나",
@@ -25052,7 +25052,7 @@
     },
     {
       "account_number": "02999",
-      "price": 69000,
+      "price": 68000,
       "operators": [
         {
           "name": "왕",
@@ -25489,7 +25489,7 @@
     },
     {
       "account_number": "00716",
-      "price": 78000,
+      "price": 80000,
       "operators": [
         {
           "name": "왕",
@@ -25662,7 +25662,7 @@
     },
     {
       "account_number": "00848",
-      "price": 83000,
+      "price": 85000,
       "operators": [
         {
           "name": "왕",
@@ -25753,7 +25753,7 @@
     },
     {
       "account_number": "03408",
-      "price": 104000,
+      "price": 103000,
       "operators": [
         {
           "name": "키린R야토",
@@ -25891,7 +25891,7 @@
     },
     {
       "account_number": "00774",
-      "price": 80000,
+      "price": 82000,
       "operators": [
         {
           "name": "왕",
@@ -25920,14 +25920,14 @@
           "sprite_index": 36
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "로고스",
@@ -26121,7 +26121,7 @@
     },
     {
       "account_number": "03760",
-      "price": 110000,
+      "price": 112000,
       "operators": [
         {
           "name": "키린R야토",
@@ -26149,14 +26149,14 @@
           "sprite_index": 88
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "무에나",
@@ -26250,7 +26250,7 @@
     },
     {
       "account_number": "03953",
-      "price": 76000,
+      "price": 78000,
       "operators": [
         {
           "name": "마르실",
@@ -26389,7 +26389,7 @@
     },
     {
       "account_number": "02134",
-      "price": 82000,
+      "price": 84000,
       "operators": [
         {
           "name": "마르실",
@@ -26465,7 +26465,7 @@
     },
     {
       "account_number": "00942",
-      "price": 86000,
+      "price": 88000,
       "operators": [
         {
           "name": "마르실",
@@ -26715,7 +26715,7 @@
     },
     {
       "account_number": "02877",
-      "price": 61000,
+      "price": 63000,
       "operators": [
         {
           "name": "왕",
@@ -26885,7 +26885,7 @@
     },
     {
       "account_number": "01564",
-      "price": 63000,
+      "price": 65000,
       "operators": [
         {
           "name": "왕",
@@ -26968,7 +26968,7 @@
     },
     {
       "account_number": "01447",
-      "price": 73000,
+      "price": 75000,
       "operators": [
         {
           "name": "왕",
@@ -27225,7 +27225,7 @@
     },
     {
       "account_number": "00499",
-      "price": 110000,
+      "price": 112000,
       "operators": [
         {
           "name": "위셔델",
@@ -27316,7 +27316,7 @@
     },
     {
       "account_number": "00805",
-      "price": 113000,
+      "price": 114000,
       "operators": [
         {
           "name": "위셔델",
@@ -27350,14 +27350,14 @@
           "sprite_index": 110
         },
         {
-          "name": "이네스",
-          "color": "#0000ff",
-          "sprite_index": 68
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "이네스",
+          "color": "#0000ff",
+          "sprite_index": 68
         },
         {
           "name": "데겐블레허",
@@ -27619,7 +27619,7 @@
     },
     {
       "account_number": "01591",
-      "price": 75000,
+      "price": 77000,
       "operators": [
         {
           "name": "위셔델",
@@ -27647,14 +27647,14 @@
           "sprite_index": 88
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "르무엔",
@@ -27717,7 +27717,7 @@
     },
     {
       "account_number": "00405",
-      "price": 46000,
+      "price": 48000,
       "operators": [
         {
           "name": "위셔델",
@@ -27785,7 +27785,7 @@
     },
     {
       "account_number": "01287",
-      "price": 90000,
+      "price": 92000,
       "operators": [
         {
           "name": "위셔델",
@@ -27815,14 +27815,14 @@
           "sprite_index": 64
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "무에나",
@@ -28023,7 +28023,7 @@
     },
     {
       "account_number": "03579",
-      "price": 104000,
+      "price": 106000,
       "operators": [
         {
           "name": "키린R야토",
@@ -28271,7 +28271,7 @@
     },
     {
       "account_number": "03121",
-      "price": 121000,
+      "price": 123000,
       "operators": [
         {
           "name": "Ela",
@@ -28304,14 +28304,14 @@
           "sprite_index": 110
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "블레이즈디이그나이팅스파크",
@@ -28440,7 +28440,7 @@
     },
     {
       "account_number": "03738",
-      "price": 94000,
+      "price": 96000,
       "operators": [
         {
           "name": "키린R야토",
@@ -28503,7 +28503,7 @@
     },
     {
       "account_number": "01414",
-      "price": 121000,
+      "price": 123000,
       "operators": [
         {
           "name": "마르실",
@@ -28537,14 +28537,14 @@
           "sprite_index": 110
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "불피스폴리아",
@@ -28595,7 +28595,7 @@
     },
     {
       "account_number": "01364",
-      "price": 110000,
+      "price": 112000,
       "operators": [
         {
           "name": "실버애쉬더레인프로스트",
@@ -28692,7 +28692,7 @@
     },
     {
       "account_number": "01941",
-      "price": 92000,
+      "price": 94000,
       "operators": [
         {
           "name": "실버애쉬더레인프로스트",
@@ -28720,14 +28720,14 @@
           "sprite_index": 88
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "무에나",
@@ -28864,7 +28864,7 @@
     },
     {
       "account_number": "01831",
-      "price": 94000,
+      "price": 96000,
       "operators": [
         {
           "name": "실버애쉬더레인프로스트",
@@ -28953,7 +28953,7 @@
     },
     {
       "account_number": "02059",
-      "price": 91000,
+      "price": 93000,
       "operators": [
         {
           "name": "실버애쉬더레인프로스트",
@@ -29093,7 +29093,7 @@
     },
     {
       "account_number": "00809",
-      "price": 91000,
+      "price": 93000,
       "operators": [
         {
           "name": "Ela",
@@ -29234,7 +29234,7 @@
     },
     {
       "account_number": "03823",
-      "price": 93000,
+      "price": 95000,
       "operators": [
         {
           "name": "키린R야토",
@@ -29299,7 +29299,7 @@
     },
     {
       "account_number": "01169",
-      "price": 91000,
+      "price": 93000,
       "operators": [
         {
           "name": "키린R야토",
@@ -29470,7 +29470,7 @@
     },
     {
       "account_number": "01657",
-      "price": 93000,
+      "price": 95000,
       "operators": [
         {
           "name": "실버애쉬더레인프로스트",
@@ -29699,7 +29699,7 @@
     },
     {
       "account_number": "03318",
-      "price": 100000,
+      "price": 102000,
       "operators": [
         {
           "name": "키린R야토",
@@ -29733,14 +29733,14 @@
           "sprite_index": 110
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "르무엔",
@@ -29912,7 +29912,7 @@
     },
     {
       "account_number": "02312",
-      "price": 87000,
+      "price": 89000,
       "operators": [
         {
           "name": "실버애쉬더레인프로스트",
@@ -29984,7 +29984,7 @@
     },
     {
       "account_number": "01988",
-      "price": 82000,
+      "price": 84000,
       "operators": [
         {
           "name": "실버애쉬더레인프로스트",
@@ -30012,14 +30012,14 @@
           "sprite_index": 88
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "무에나",
@@ -30056,7 +30056,7 @@
     },
     {
       "account_number": "02328",
-      "price": 100000,
+      "price": 99000,
       "operators": [
         {
           "name": "실버애쉬더레인프로스트",
@@ -30145,7 +30145,7 @@
     },
     {
       "account_number": "03356",
-      "price": 81000,
+      "price": 83000,
       "operators": [
         {
           "name": "키린R야토",
@@ -30272,7 +30272,7 @@
     },
     {
       "account_number": "03167",
-      "price": 68000,
+      "price": 70000,
       "operators": [
         {
           "name": "키린R야토",
@@ -30454,7 +30454,7 @@
     },
     {
       "account_number": "02235",
-      "price": 83000,
+      "price": 85000,
       "operators": [
         {
           "name": "실버애쉬더레인프로스트",
@@ -30487,14 +30487,14 @@
           "sprite_index": 110
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "무에나",
@@ -30515,7 +30515,7 @@
     },
     {
       "account_number": "00527",
-      "price": 78000,
+      "price": 80000,
       "operators": [
         {
           "name": "실버애쉬더레인프로스트",
@@ -30871,7 +30871,7 @@
     },
     {
       "account_number": "02971",
-      "price": 71000,
+      "price": 73000,
       "operators": [
         {
           "name": "엑시아더뉴커버넌트",
@@ -30900,14 +30900,14 @@
           "sprite_index": 64
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "쏜즈",
@@ -30934,7 +30934,7 @@
     },
     {
       "account_number": "01550",
-      "price": 79000,
+      "price": 81000,
       "operators": [
         {
           "name": "마르실",
@@ -31006,7 +31006,7 @@
     },
     {
       "account_number": "02797",
-      "price": 63000,
+      "price": 65000,
       "operators": [
         {
           "name": "엑시아더뉴커버넌트",
@@ -31070,7 +31070,7 @@
     },
     {
       "account_number": "03918",
-      "price": 54000,
+      "price": 56000,
       "operators": [
         {
           "name": "Ela",
@@ -31281,7 +31281,7 @@
     },
     {
       "account_number": "02575",
-      "price": 67000,
+      "price": 69000,
       "operators": [
         {
           "name": "마르실",
@@ -31311,14 +31311,14 @@
           "sprite_index": 93
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "에벤홀츠",
@@ -31410,7 +31410,7 @@
     },
     {
       "account_number": "02289",
-      "price": 79000,
+      "price": 81000,
       "operators": [
         {
           "name": "마르실",
@@ -31491,7 +31491,7 @@
     },
     {
       "account_number": "02450",
-      "price": 63000,
+      "price": 65000,
       "operators": [
         {
           "name": "엑시아더뉴커버넌트",
@@ -31519,14 +31519,14 @@
           "sprite_index": 35
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "블레이즈디이그나이팅스파크",
@@ -31718,7 +31718,7 @@
     },
     {
       "account_number": "03343",
-      "price": 83000,
+      "price": 85000,
       "operators": [
         {
           "name": "키린R야토",
@@ -31909,7 +31909,7 @@
     },
     {
       "account_number": "02418",
-      "price": 79000,
+      "price": 78000,
       "operators": [
         {
           "name": "호시구마더브리처",
@@ -32059,7 +32059,7 @@
     },
     {
       "account_number": "01254",
-      "price": 64000,
+      "price": 66000,
       "operators": [
         {
           "name": "Ela",
@@ -32350,7 +32350,7 @@
     },
     {
       "account_number": "03707",
-      "price": 59000,
+      "price": 61000,
       "operators": [
         {
           "name": "키린R야토",
@@ -32378,15 +32378,15 @@
           "sprite_index": 88
         },
         {
+          "name": "첸더던스트릭",
+          "color": "#0000ff",
+          "sprite_index": 114
+        },
+        {
           "name": "하루카",
           "color": "#0000ff",
           "sprite_index": 106,
           "potential": 2
-        },
-        {
-          "name": "첸더던스트릭",
-          "color": "#0000ff",
-          "sprite_index": 114
         },
         {
           "name": "이그제큐터디엑스포에데레",
@@ -32630,7 +32630,7 @@
     },
     {
       "account_number": "03038",
-      "price": 78000,
+      "price": 80000,
       "operators": [
         {
           "name": "호시구마더브리처",
@@ -32704,7 +32704,7 @@
     },
     {
       "account_number": "02637",
-      "price": 96000,
+      "price": 98000,
       "operators": [
         {
           "name": "호시구마더브리처",
@@ -32732,14 +32732,14 @@
           "sprite_index": 59
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "아스카론",
@@ -32785,7 +32785,7 @@
     },
     {
       "account_number": "03687",
-      "price": 79000,
+      "price": 81000,
       "operators": [
         {
           "name": "키린R야토",
@@ -32848,7 +32848,7 @@
     },
     {
       "account_number": "03436",
-      "price": 80000,
+      "price": 82000,
       "operators": [
         {
           "name": "키린R야토",
@@ -33083,7 +33083,7 @@
     },
     {
       "account_number": "02071",
-      "price": 73000,
+      "price": 75000,
       "operators": [
         {
           "name": "슈",
@@ -33376,7 +33376,7 @@
     },
     {
       "account_number": "01980",
-      "price": 53000,
+      "price": 52000,
       "operators": [
         {
           "name": "마르실",
@@ -33515,7 +33515,7 @@
     },
     {
       "account_number": "00832",
-      "price": 78000,
+      "price": 80000,
       "operators": [
         {
           "name": "마르실",
@@ -33548,14 +33548,14 @@
           "sprite_index": 110
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "로고스",
@@ -33670,7 +33670,7 @@
     },
     {
       "account_number": "00976",
-      "price": 54000,
+      "price": 56000,
       "operators": [
         {
           "name": "에이야퍄들라더크비트아스카",
@@ -33753,7 +33753,7 @@
     },
     {
       "account_number": "03078",
-      "price": 34000,
+      "price": 36000,
       "operators": [
         {
           "name": "에이야퍄들라더크비트아스카",
@@ -33809,7 +33809,7 @@
     },
     {
       "account_number": "01365",
-      "price": 60000,
+      "price": 62000,
       "operators": [
         {
           "name": "에이야퍄들라더크비트아스카",
@@ -34030,7 +34030,7 @@
     },
     {
       "account_number": "02280",
-      "price": 62000,
+      "price": 63000,
       "operators": [
         {
           "name": "위",
@@ -34061,15 +34061,15 @@
           "potential": 2
         },
         {
-          "name": "이네스",
-          "color": "#0000ff",
-          "sprite_index": 68
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114,
           "potential": 2
+        },
+        {
+          "name": "이네스",
+          "color": "#0000ff",
+          "sprite_index": 68
         },
         {
           "name": "무에나",
@@ -34291,7 +34291,7 @@
     },
     {
       "account_number": "01435",
-      "price": 101000,
+      "price": 103000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -34485,7 +34485,7 @@
     },
     {
       "account_number": "03934",
-      "price": 79000,
+      "price": 81000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -34651,7 +34651,7 @@
     },
     {
       "account_number": "01741",
-      "price": 93000,
+      "price": 95000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -34680,15 +34680,15 @@
           "sprite_index": 110
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106,
-          "potential": 2
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114,
+          "potential": 2
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106,
           "potential": 2
         },
         {
@@ -34803,7 +34803,7 @@
     },
     {
       "account_number": "02336",
-      "price": 97000,
+      "price": 99000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -34946,7 +34946,7 @@
     },
     {
       "account_number": "00987",
-      "price": 106000,
+      "price": 108000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -34970,14 +34970,14 @@
           "sprite_index": 31
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "르무엔",
@@ -35155,7 +35155,7 @@
     },
     {
       "account_number": "02985",
-      "price": 72000,
+      "price": 74000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -35217,7 +35217,7 @@
     },
     {
       "account_number": "01665",
-      "price": 70000,
+      "price": 72000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -35241,14 +35241,14 @@
           "sprite_index": 69
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "블레이즈디이그나이팅스파크",
@@ -35295,7 +35295,7 @@
     },
     {
       "account_number": "03298",
-      "price": 70000,
+      "price": 72000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -35342,7 +35342,7 @@
     },
     {
       "account_number": "03465",
-      "price": 105000,
+      "price": 107000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -35370,14 +35370,14 @@
           "sprite_index": 110
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "로고스",
@@ -35911,7 +35911,7 @@
     },
     {
       "account_number": "03943",
-      "price": 77000,
+      "price": 79000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -35984,7 +35984,7 @@
     },
     {
       "account_number": "02179",
-      "price": 78000,
+      "price": 80000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -36097,7 +36097,7 @@
     },
     {
       "account_number": "02620",
-      "price": 59000,
+      "price": 60000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -36121,14 +36121,14 @@
           "sprite_index": 15
         },
         {
-          "name": "이네스",
-          "color": "#0000ff",
-          "sprite_index": 68
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "이네스",
+          "color": "#0000ff",
+          "sprite_index": 68
         },
         {
           "name": "골든글로우",
@@ -36155,7 +36155,7 @@
     },
     {
       "account_number": "01792",
-      "price": 58000,
+      "price": 60000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -36223,7 +36223,7 @@
     },
     {
       "account_number": "02306",
-      "price": 93000,
+      "price": 95000,
       "operators": [
         {
           "name": "왕",
@@ -36297,7 +36297,7 @@
     },
     {
       "account_number": "00788",
-      "price": 75000,
+      "price": 77000,
       "operators": [
         {
           "name": "왕",
@@ -36426,7 +36426,7 @@
     },
     {
       "account_number": "02119",
-      "price": 119000,
+      "price": 120000,
       "operators": [
         {
           "name": "왕",
@@ -36450,14 +36450,14 @@
           "sprite_index": 37
         },
         {
-          "name": "이네스",
-          "color": "#0000ff",
-          "sprite_index": 68
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "이네스",
+          "color": "#0000ff",
+          "sprite_index": 68
         },
         {
           "name": "무에나",
@@ -36514,7 +36514,7 @@
     },
     {
       "account_number": "01572",
-      "price": 113000,
+      "price": 115000,
       "operators": [
         {
           "name": "Ela",
@@ -36726,7 +36726,7 @@
     },
     {
       "account_number": "01909",
-      "price": 114000,
+      "price": 116000,
       "operators": [
         {
           "name": "왕",
@@ -36756,15 +36756,15 @@
           "sprite_index": 110
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106,
-          "potential": 2
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114,
+          "potential": 2
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106,
           "potential": 2
         },
         {
@@ -36791,7 +36791,7 @@
     },
     {
       "account_number": "02454",
-      "price": 81000,
+      "price": 83000,
       "operators": [
         {
           "name": "왕",
@@ -36816,15 +36816,15 @@
           "potential": 2
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114,
           "potential": 2
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "나란투야",
@@ -36866,7 +36866,7 @@
     },
     {
       "account_number": "00840",
-      "price": 87000,
+      "price": 86000,
       "operators": [
         {
           "name": "왕",
@@ -36957,7 +36957,7 @@
     },
     {
       "account_number": "02115",
-      "price": 79000,
+      "price": 80000,
       "operators": [
         {
           "name": "왕",
@@ -36980,14 +36980,14 @@
           "sprite_index": 77
         },
         {
-          "name": "이네스",
-          "color": "#0000ff",
-          "sprite_index": 68
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "이네스",
+          "color": "#0000ff",
+          "sprite_index": 68
         },
         {
           "name": "무에나",
@@ -37089,7 +37089,7 @@
     },
     {
       "account_number": "01905",
-      "price": 84000,
+      "price": 86000,
       "operators": [
         {
           "name": "왕",
@@ -37625,7 +37625,7 @@
     },
     {
       "account_number": "02452",
-      "price": 107000,
+      "price": 109000,
       "operators": [
         {
           "name": "왕",
@@ -37655,15 +37655,15 @@
           "sprite_index": 110
         },
         {
+          "name": "첸더던스트릭",
+          "color": "#0000ff",
+          "sprite_index": 114
+        },
+        {
           "name": "하루카",
           "color": "#0000ff",
           "sprite_index": 106,
           "potential": 2
-        },
-        {
-          "name": "첸더던스트릭",
-          "color": "#0000ff",
-          "sprite_index": 114
         },
         {
           "name": "로고스",
@@ -37709,7 +37709,7 @@
     },
     {
       "account_number": "02976",
-      "price": 78000,
+      "price": 77000,
       "operators": [
         {
           "name": "왕",
@@ -37908,7 +37908,7 @@
     },
     {
       "account_number": "01240",
-      "price": 94000,
+      "price": 96000,
       "operators": [
         {
           "name": "왕",
@@ -38229,7 +38229,7 @@
     },
     {
       "account_number": "02752",
-      "price": 81000,
+      "price": 80000,
       "operators": [
         {
           "name": "왕",
@@ -38277,7 +38277,7 @@
     },
     {
       "account_number": "03873",
-      "price": 81000,
+      "price": 83000,
       "operators": [
         {
           "name": "왕",
@@ -38344,7 +38344,7 @@
     },
     {
       "account_number": "02219",
-      "price": 88000,
+      "price": 90000,
       "operators": [
         {
           "name": "왕",
@@ -38663,7 +38663,7 @@
     },
     {
       "account_number": "02216",
-      "price": 111000,
+      "price": 113000,
       "operators": [
         {
           "name": "키린R야토",
@@ -38739,7 +38739,7 @@
     },
     {
       "account_number": "03303",
-      "price": 71000,
+      "price": 70000,
       "operators": [
         {
           "name": "키린R야토",
@@ -39836,7 +39836,7 @@
     },
     {
       "account_number": "02710",
-      "price": 77000,
+      "price": 79000,
       "operators": [
         {
           "name": "왕",
@@ -39865,14 +39865,14 @@
           "sprite_index": 110
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "불피스폴리아",
@@ -39909,7 +39909,7 @@
     },
     {
       "account_number": "02028",
-      "price": 76000,
+      "price": 78000,
       "operators": [
         {
           "name": "왕",
@@ -40069,7 +40069,7 @@
     },
     {
       "account_number": "03366",
-      "price": 79000,
+      "price": 78000,
       "operators": [
         {
           "name": "키린R야토",
@@ -40131,7 +40131,7 @@
     },
     {
       "account_number": "03721",
-      "price": 67000,
+      "price": 66000,
       "operators": [
         {
           "name": "키린R야토",
@@ -40640,7 +40640,7 @@
     },
     {
       "account_number": "03914",
-      "price": 59000,
+      "price": 61000,
       "operators": [
         {
           "name": "위셔델",
@@ -40701,7 +40701,7 @@
     },
     {
       "account_number": "01957",
-      "price": 68000,
+      "price": 70000,
       "operators": [
         {
           "name": "위셔델",
@@ -40724,14 +40724,14 @@
           "sprite_index": 64
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "무에나",
@@ -41087,7 +41087,7 @@
     },
     {
       "account_number": "01932",
-      "price": 85000,
+      "price": 87000,
       "operators": [
         {
           "name": "실버애쉬더레인프로스트",
@@ -41110,14 +41110,14 @@
           "sprite_index": 1
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "무에나",
@@ -41229,7 +41229,7 @@
     },
     {
       "account_number": "00714",
-      "price": 96000,
+      "price": 98000,
       "operators": [
         {
           "name": "Ela",
@@ -41374,7 +41374,7 @@
     },
     {
       "account_number": "01322",
-      "price": 62000,
+      "price": 64000,
       "operators": [
         {
           "name": "실버애쉬더레인프로스트",
@@ -41749,7 +41749,7 @@
     },
     {
       "account_number": "03186",
-      "price": 64000,
+      "price": 66000,
       "operators": [
         {
           "name": "키린R야토",
@@ -42031,7 +42031,7 @@
     },
     {
       "account_number": "02099",
-      "price": 54000,
+      "price": 56000,
       "operators": [
         {
           "name": "실버애쉬더레인프로스트",
@@ -42089,7 +42089,7 @@
     },
     {
       "account_number": "01978",
-      "price": 76000,
+      "price": 78000,
       "operators": [
         {
           "name": "실버애쉬더레인프로스트",
@@ -42113,14 +42113,14 @@
           "sprite_index": 88
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "무에나",
@@ -42253,7 +42253,7 @@
     },
     {
       "account_number": "02203",
-      "price": 97000,
+      "price": 99000,
       "operators": [
         {
           "name": "Ela",
@@ -42318,7 +42318,7 @@
     },
     {
       "account_number": "01003",
-      "price": 97000,
+      "price": 99000,
       "operators": [
         {
           "name": "Ela",
@@ -42342,15 +42342,15 @@
           "sprite_index": 33
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114,
           "potential": 2
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "Mon3tr",
@@ -42401,7 +42401,7 @@
     },
     {
       "account_number": "03522",
-      "price": 96000,
+      "price": 98000,
       "operators": [
         {
           "name": "키린R야토",
@@ -42463,7 +42463,7 @@
     },
     {
       "account_number": "02114",
-      "price": 85000,
+      "price": 87000,
       "operators": [
         {
           "name": "마르실",
@@ -42794,7 +42794,7 @@
     },
     {
       "account_number": "03299",
-      "price": 71000,
+      "price": 73000,
       "operators": [
         {
           "name": "키린R야토",
@@ -43037,7 +43037,7 @@
     },
     {
       "account_number": "02496",
-      "price": 97000,
+      "price": 99000,
       "operators": [
         {
           "name": "엑시아더뉴커버넌트",
@@ -43061,14 +43061,14 @@
           "sprite_index": 93
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "아스카론",
@@ -43347,7 +43347,7 @@
     },
     {
       "account_number": "01946",
-      "price": 76000,
+      "price": 78000,
       "operators": [
         {
           "name": "Ela",
@@ -43539,7 +43539,7 @@
     },
     {
       "account_number": "03172",
-      "price": 62000,
+      "price": 64000,
       "operators": [
         {
           "name": "키린R야토",
@@ -43946,7 +43946,7 @@
     },
     {
       "account_number": "03321",
-      "price": 68000,
+      "price": 70000,
       "operators": [
         {
           "name": "키린R야토",
@@ -43970,15 +43970,15 @@
           "sprite_index": 88
         },
         {
+          "name": "첸더던스트릭",
+          "color": "#0000ff",
+          "sprite_index": 114
+        },
+        {
           "name": "하루카",
           "color": "#0000ff",
           "sprite_index": 106,
           "potential": 2
-        },
-        {
-          "name": "첸더던스트릭",
-          "color": "#0000ff",
-          "sprite_index": 114
         },
         {
           "name": "무에나",
@@ -44061,7 +44061,7 @@
     },
     {
       "account_number": "01868",
-      "price": 62000,
+      "price": 64000,
       "operators": [
         {
           "name": "마르실",
@@ -44275,7 +44275,7 @@
     },
     {
       "account_number": "03030",
-      "price": 40000,
+      "price": 42000,
       "operators": [
         {
           "name": "엑시아더뉴커버넌트",
@@ -44333,7 +44333,7 @@
     },
     {
       "account_number": "01928",
-      "price": 68000,
+      "price": 70000,
       "operators": [
         {
           "name": "엑시아더뉴커버넌트",
@@ -44475,7 +44475,7 @@
     },
     {
       "account_number": "00255",
-      "price": 76000,
+      "price": 78000,
       "operators": [
         {
           "name": "엑시아더뉴커버넌트",
@@ -44659,7 +44659,7 @@
     },
     {
       "account_number": "03246",
-      "price": 101000,
+      "price": 103000,
       "operators": [
         {
           "name": "키린R야토",
@@ -45024,7 +45024,7 @@
     },
     {
       "account_number": "02918",
-      "price": 68000,
+      "price": 70000,
       "operators": [
         {
           "name": "호시구마더브리처",
@@ -45091,7 +45091,7 @@
     },
     {
       "account_number": "03854",
-      "price": 66000,
+      "price": 68000,
       "operators": [
         {
           "name": "Ela",
@@ -45157,7 +45157,7 @@
     },
     {
       "account_number": "01824",
-      "price": 83000,
+      "price": 85000,
       "operators": [
         {
           "name": "Ela",
@@ -45234,7 +45234,7 @@
     },
     {
       "account_number": "03307",
-      "price": 93000,
+      "price": 95000,
       "operators": [
         {
           "name": "키린R야토",
@@ -45580,7 +45580,7 @@
     },
     {
       "account_number": "03418",
-      "price": 45000,
+      "price": 47000,
       "operators": [
         {
           "name": "키린R야토",
@@ -45775,7 +45775,7 @@
     },
     {
       "account_number": "02658",
-      "price": 38000,
+      "price": 40000,
       "operators": [
         {
           "name": "마르실",
@@ -45952,7 +45952,7 @@
     },
     {
       "account_number": "02404",
-      "price": 73000,
+      "price": 74000,
       "operators": [
         {
           "name": "마르실",
@@ -45975,6 +45975,11 @@
           "sprite_index": 88
         },
         {
+          "name": "첸더던스트릭",
+          "color": "#0000ff",
+          "sprite_index": 114
+        },
+        {
           "name": "하루카",
           "color": "#0000ff",
           "sprite_index": 106
@@ -45983,11 +45988,6 @@
           "name": "이네스",
           "color": "#0000ff",
           "sprite_index": 68
-        },
-        {
-          "name": "첸더던스트릭",
-          "color": "#0000ff",
-          "sprite_index": 114
         },
         {
           "name": "로고스",
@@ -46281,7 +46281,7 @@
     },
     {
       "account_number": "01871",
-      "price": 57000,
+      "price": 58000,
       "operators": [
         {
           "name": "호시구마더브리처",
@@ -46305,15 +46305,15 @@
           "sprite_index": 69
         },
         {
-          "name": "이네스",
-          "color": "#0000ff",
-          "sprite_index": 68
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114,
           "potential": 2
+        },
+        {
+          "name": "이네스",
+          "color": "#0000ff",
+          "sprite_index": 68
         },
         {
           "name": "무에나",
@@ -46349,7 +46349,7 @@
     },
     {
       "account_number": "02240",
-      "price": 89000,
+      "price": 88000,
       "operators": [
         {
           "name": "호시구마더브리처",
@@ -46491,7 +46491,7 @@
     },
     {
       "account_number": "02144",
-      "price": 71000,
+      "price": 73000,
       "operators": [
         {
           "name": "키린R야토",
@@ -46623,7 +46623,7 @@
     },
     {
       "account_number": "03193",
-      "price": 50000,
+      "price": 52000,
       "operators": [
         {
           "name": "키린R야토",
@@ -46674,7 +46674,7 @@
     },
     {
       "account_number": "03617",
-      "price": 43000,
+      "price": 45000,
       "operators": [
         {
           "name": "키린R야토",
@@ -46729,7 +46729,7 @@
     },
     {
       "account_number": "03498",
-      "price": 79000,
+      "price": 81000,
       "operators": [
         {
           "name": "키린R야토",
@@ -46801,7 +46801,7 @@
     },
     {
       "account_number": "03049",
-      "price": 84000,
+      "price": 86000,
       "operators": [
         {
           "name": "슈",
@@ -46831,14 +46831,14 @@
           "sprite_index": 110
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "르무엔",
@@ -47141,7 +47141,7 @@
     },
     {
       "account_number": "01882",
-      "price": 80000,
+      "price": 82000,
       "operators": [
         {
           "name": "슈",
@@ -47356,7 +47356,7 @@
     },
     {
       "account_number": "01355",
-      "price": 51000,
+      "price": 53000,
       "operators": [
         {
           "name": "슈",
@@ -47438,7 +47438,7 @@
     },
     {
       "account_number": "01081",
-      "price": 55000,
+      "price": 57000,
       "operators": [
         {
           "name": "슈",
@@ -47522,7 +47522,7 @@
     },
     {
       "account_number": "01800",
-      "price": 49000,
+      "price": 51000,
       "operators": [
         {
           "name": "슈",
@@ -47625,7 +47625,7 @@
     },
     {
       "account_number": "02375",
-      "price": 65000,
+      "price": 67000,
       "operators": [
         {
           "name": "Ela",
@@ -47770,7 +47770,7 @@
     },
     {
       "account_number": "03557",
-      "price": 63000,
+      "price": 65000,
       "operators": [
         {
           "name": "키린R야토",
@@ -47836,7 +47836,7 @@
     },
     {
       "account_number": "03188",
-      "price": 36000,
+      "price": 38000,
       "operators": [
         {
           "name": "키린R야토",
@@ -47892,7 +47892,7 @@
     },
     {
       "account_number": "02005",
-      "price": 68000,
+      "price": 70000,
       "operators": [
         {
           "name": "키린R야토",
@@ -47977,7 +47977,7 @@
     },
     {
       "account_number": "03668",
-      "price": 43000,
+      "price": 45000,
       "operators": [
         {
           "name": "키린R야토",
@@ -48000,15 +48000,15 @@
           "sprite_index": 88
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114,
           "potential": 2
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "골든글로우",
@@ -48039,7 +48039,7 @@
     },
     {
       "account_number": "03793",
-      "price": 44000,
+      "price": 46000,
       "operators": [
         {
           "name": "키린R야토",
@@ -48062,15 +48062,15 @@
           "sprite_index": 88
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114,
           "potential": 2
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "로고스",
@@ -48091,7 +48091,7 @@
     },
     {
       "account_number": "03261",
-      "price": 67000,
+      "price": 69000,
       "operators": [
         {
           "name": "키린R야토",
@@ -48120,14 +48120,14 @@
           "sprite_index": 110
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "로고스",
@@ -48393,7 +48393,7 @@
     },
     {
       "account_number": "02168",
-      "price": 69000,
+      "price": 70000,
       "operators": [
         {
           "name": "마르실",
@@ -48416,6 +48416,12 @@
           "sprite_index": 36
         },
         {
+          "name": "첸더던스트릭",
+          "color": "#0000ff",
+          "sprite_index": 114,
+          "potential": 2
+        },
+        {
           "name": "하루카",
           "color": "#0000ff",
           "sprite_index": 106
@@ -48424,12 +48430,6 @@
           "name": "이네스",
           "color": "#0000ff",
           "sprite_index": 68
-        },
-        {
-          "name": "첸더던스트릭",
-          "color": "#0000ff",
-          "sprite_index": 114,
-          "potential": 2
         },
         {
           "name": "무에나",
@@ -48460,7 +48460,7 @@
     },
     {
       "account_number": "03047",
-      "price": 70000,
+      "price": 72000,
       "operators": [
         {
           "name": "마르실",
@@ -48483,14 +48483,14 @@
           "sprite_index": 88
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "Mon3tr",
@@ -48681,7 +48681,7 @@
     },
     {
       "account_number": "02655",
-      "price": 36000,
+      "price": 35000,
       "operators": [
         {
           "name": "마르실",
@@ -48746,7 +48746,7 @@
     },
     {
       "account_number": "01007",
-      "price": 43000,
+      "price": 45000,
       "operators": [
         {
           "name": "마르실",
@@ -48968,7 +48968,7 @@
     },
     {
       "account_number": "03876",
-      "price": 46000,
+      "price": 48000,
       "operators": [
         {
           "name": "에이야퍄들라더크비트아스카",
@@ -49042,7 +49042,7 @@
     },
     {
       "account_number": "03850",
-      "price": 51000,
+      "price": 53000,
       "operators": [
         {
           "name": "에이야퍄들라더크비트아스카",
@@ -49066,14 +49066,14 @@
           "sprite_index": 69
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "로고스",
@@ -49240,7 +49240,7 @@
     },
     {
       "account_number": "02002",
-      "price": 35000,
+      "price": 37000,
       "operators": [
         {
           "name": "위",
@@ -49411,7 +49411,7 @@
     },
     {
       "account_number": "02123",
-      "price": 59000,
+      "price": 61000,
       "operators": [
         {
           "name": "위",
@@ -49434,15 +49434,15 @@
           "sprite_index": 15
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114,
           "potential": 2
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "무에나",
@@ -49483,7 +49483,7 @@
     },
     {
       "account_number": "01971",
-      "price": 45000,
+      "price": 47000,
       "operators": [
         {
           "name": "위",
@@ -49549,7 +49549,7 @@
     },
     {
       "account_number": "01120",
-      "price": 44000,
+      "price": 46000,
       "operators": [
         {
           "name": "비르투오사",
@@ -49626,7 +49626,7 @@
     },
     {
       "account_number": "01970",
-      "price": 75000,
+      "price": 77000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -49682,7 +49682,7 @@
     },
     {
       "account_number": "02215",
-      "price": 60000,
+      "price": 62000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -49796,7 +49796,7 @@
     },
     {
       "account_number": "01430",
-      "price": 73000,
+      "price": 75000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -49869,7 +49869,7 @@
     },
     {
       "account_number": "02195",
-      "price": 84000,
+      "price": 86000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -49934,7 +49934,7 @@
     },
     {
       "account_number": "02866",
-      "price": 75000,
+      "price": 77000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -49952,15 +49952,15 @@
           "sprite_index": 62
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114,
           "potential": 2
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "리드더플레임섀도우",
@@ -50017,7 +50017,7 @@
     },
     {
       "account_number": "03725",
-      "price": 74000,
+      "price": 73000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -50179,7 +50179,7 @@
     },
     {
       "account_number": "02895",
-      "price": 51000,
+      "price": 53000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -50630,7 +50630,7 @@
     },
     {
       "account_number": "02016",
-      "price": 78000,
+      "price": 80000,
       "operators": [
         {
           "name": "왕",
@@ -50745,7 +50745,7 @@
     },
     {
       "account_number": "03239",
-      "price": 80000,
+      "price": 82000,
       "operators": [
         {
           "name": "키린R야토",
@@ -50865,7 +50865,7 @@
     },
     {
       "account_number": "03333",
-      "price": 72000,
+      "price": 74000,
       "operators": [
         {
           "name": "키린R야토",
@@ -51158,7 +51158,7 @@
     },
     {
       "account_number": "01149",
-      "price": 78000,
+      "price": 80000,
       "operators": [
         {
           "name": "위셔델",
@@ -51181,14 +51181,14 @@
           "sprite_index": 110
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "데겐블레허",
@@ -51250,7 +51250,7 @@
     },
     {
       "account_number": "03402",
-      "price": 88000,
+      "price": 90000,
       "operators": [
         {
           "name": "키린R야토",
@@ -51754,7 +51754,7 @@
     },
     {
       "account_number": "01755",
-      "price": 41000,
+      "price": 43000,
       "operators": [
         {
           "name": "키린R야토",
@@ -51802,7 +51802,7 @@
     },
     {
       "account_number": "02988",
-      "price": 56000,
+      "price": 55000,
       "operators": [
         {
           "name": "마르실",
@@ -51915,7 +51915,7 @@
     },
     {
       "account_number": "02286",
-      "price": 85000,
+      "price": 84000,
       "operators": [
         {
           "name": "마르실",
@@ -52146,7 +52146,7 @@
     },
     {
       "account_number": "01112",
-      "price": 50000,
+      "price": 52000,
       "operators": [
         {
           "name": "실버애쉬더레인프로스트",
@@ -52214,7 +52214,7 @@
     },
     {
       "account_number": "03005",
-      "price": 58000,
+      "price": 60000,
       "operators": [
         {
           "name": "실버애쉬더레인프로스트",
@@ -52361,7 +52361,7 @@
     },
     {
       "account_number": "01317",
-      "price": 45000,
+      "price": 47000,
       "operators": [
         {
           "name": "실버애쉬더레인프로스트",
@@ -52612,7 +52612,7 @@
     },
     {
       "account_number": "02210",
-      "price": 78000,
+      "price": 80000,
       "operators": [
         {
           "name": "키린R야토",
@@ -52631,14 +52631,14 @@
           "sprite_index": 96
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "무에나",
@@ -52690,7 +52690,7 @@
     },
     {
       "account_number": "03710",
-      "price": 61000,
+      "price": 63000,
       "operators": [
         {
           "name": "키린R야토",
@@ -52757,7 +52757,7 @@
     },
     {
       "account_number": "03751",
-      "price": 35000,
+      "price": 37000,
       "operators": [
         {
           "name": "키린R야토",
@@ -52776,14 +52776,14 @@
           "sprite_index": 88
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "불피스폴리아",
@@ -52944,7 +52944,7 @@
     },
     {
       "account_number": "03964",
-      "price": 83000,
+      "price": 85000,
       "operators": [
         {
           "name": "엑시아더뉴커버넌트",
@@ -52972,14 +52972,14 @@
           "sprite_index": 110
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "무에나",
@@ -53219,7 +53219,7 @@
     },
     {
       "account_number": "02170",
-      "price": 57000,
+      "price": 59000,
       "operators": [
         {
           "name": "마르실",
@@ -53286,7 +53286,7 @@
     },
     {
       "account_number": "02773",
-      "price": 42000,
+      "price": 43000,
       "operators": [
         {
           "name": "마르실",
@@ -53304,14 +53304,14 @@
           "sprite_index": 62
         },
         {
-          "name": "이네스",
-          "color": "#0000ff",
-          "sprite_index": 68
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "이네스",
+          "color": "#0000ff",
+          "sprite_index": 68
         },
         {
           "name": "백파이프",
@@ -53411,7 +53411,7 @@
     },
     {
       "account_number": "01858",
-      "price": 64000,
+      "price": 66000,
       "operators": [
         {
           "name": "호시구마더브리처",
@@ -53476,7 +53476,7 @@
     },
     {
       "account_number": "02619",
-      "price": 42000,
+      "price": 44000,
       "operators": [
         {
           "name": "호시구마더브리처",
@@ -53606,7 +53606,7 @@
     },
     {
       "account_number": "00566",
-      "price": 45000,
+      "price": 47000,
       "operators": [
         {
           "name": "호시구마더브리처",
@@ -53742,7 +53742,7 @@
     },
     {
       "account_number": "03631",
-      "price": 65000,
+      "price": 67000,
       "operators": [
         {
           "name": "키린R야토",
@@ -53877,7 +53877,7 @@
     },
     {
       "account_number": "01962",
-      "price": 52000,
+      "price": 54000,
       "operators": [
         {
           "name": "슈",
@@ -53895,14 +53895,14 @@
           "sprite_index": 88
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "무에나",
@@ -53943,7 +53943,7 @@
     },
     {
       "account_number": "02565",
-      "price": 61000,
+      "price": 63000,
       "operators": [
         {
           "name": "슈",
@@ -53961,14 +53961,14 @@
           "sprite_index": 15
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "무에나",
@@ -54067,7 +54067,7 @@
     },
     {
       "account_number": "02993",
-      "price": 33000,
+      "price": 35000,
       "operators": [
         {
           "name": "슈",
@@ -54177,7 +54177,7 @@
     },
     {
       "account_number": "03612",
-      "price": 49000,
+      "price": 51000,
       "operators": [
         {
           "name": "키린R야토",
@@ -54313,7 +54313,7 @@
     },
     {
       "account_number": "03412",
-      "price": 49000,
+      "price": 51000,
       "operators": [
         {
           "name": "키린R야토",
@@ -54406,7 +54406,7 @@
     },
     {
       "account_number": "03703",
-      "price": 28000,
+      "price": 30000,
       "operators": [
         {
           "name": "키린R야토",
@@ -54452,7 +54452,7 @@
     },
     {
       "account_number": "03776",
-      "price": 28000,
+      "price": 30000,
       "operators": [
         {
           "name": "키린R야토",
@@ -54736,7 +54736,7 @@
     },
     {
       "account_number": "01041",
-      "price": 37000,
+      "price": 39000,
       "operators": [
         {
           "name": "마르실",
@@ -54817,7 +54817,7 @@
     },
     {
       "account_number": "01816",
-      "price": 43000,
+      "price": 45000,
       "operators": [
         {
           "name": "에이야퍄들라더크비트아스카",
@@ -55088,7 +55088,7 @@
     },
     {
       "account_number": "03944",
-      "price": 27000,
+      "price": 29000,
       "operators": [
         {
           "name": "위",
@@ -55146,7 +55146,7 @@
     },
     {
       "account_number": "01749",
-      "price": 62000,
+      "price": 64000,
       "operators": [
         {
           "name": "위",
@@ -55164,14 +55164,14 @@
           "sprite_index": 36
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "로고스",
@@ -55237,7 +55237,7 @@
     },
     {
       "account_number": "02788",
-      "price": 55000,
+      "price": 57000,
       "operators": [
         {
           "name": "텍사스디오메르토사",
@@ -55256,15 +55256,15 @@
           "sprite_index": 64
         },
         {
+          "name": "첸더던스트릭",
+          "color": "#0000ff",
+          "sprite_index": 114
+        },
+        {
           "name": "하루카",
           "color": "#0000ff",
           "sprite_index": 106,
           "potential": 2
-        },
-        {
-          "name": "첸더던스트릭",
-          "color": "#0000ff",
-          "sprite_index": 114
         },
         {
           "name": "로고스",
@@ -55322,7 +55322,7 @@
     },
     {
       "account_number": "02259",
-      "price": 45000,
+      "price": 47000,
       "operators": [
         {
           "name": "라플란드더데카덴차",
@@ -55411,7 +55411,7 @@
     },
     {
       "account_number": "01269",
-      "price": 66000,
+      "price": 68000,
       "operators": [
         {
           "name": "스펙터디언체인드",
@@ -55434,14 +55434,14 @@
           "sprite_index": 110
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "울피아누스",
@@ -55595,7 +55595,7 @@
     },
     {
       "account_number": "01529",
-      "price": 44000,
+      "price": 46000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -55661,7 +55661,7 @@
     },
     {
       "account_number": "03972",
-      "price": 46000,
+      "price": 48000,
       "operators": [
         {
           "name": "마르실",
@@ -55756,7 +55756,7 @@
     },
     {
       "account_number": "03925",
-      "price": 22000,
+      "price": 23000,
       "operators": [
         {
           "name": "실버애쉬더레인프로스트",
@@ -55769,14 +55769,14 @@
           "sprite_index": 36
         },
         {
-          "name": "이네스",
-          "color": "#0000ff",
-          "sprite_index": 68
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "이네스",
+          "color": "#0000ff",
+          "sprite_index": 68
         },
         {
           "name": "블레이즈디이그나이팅스파크",
@@ -55798,7 +55798,7 @@
     },
     {
       "account_number": "03541",
-      "price": 45000,
+      "price": 47000,
       "operators": [
         {
           "name": "키린R야토",
@@ -55918,7 +55918,7 @@
     },
     {
       "account_number": "00812",
-      "price": 51000,
+      "price": 53000,
       "operators": [
         {
           "name": "슈",
@@ -55931,15 +55931,15 @@
           "sprite_index": 93
         },
         {
+          "name": "첸더던스트릭",
+          "color": "#0000ff",
+          "sprite_index": 114
+        },
+        {
           "name": "하루카",
           "color": "#0000ff",
           "sprite_index": 106,
           "potential": 2
-        },
-        {
-          "name": "첸더던스트릭",
-          "color": "#0000ff",
-          "sprite_index": 114
         },
         {
           "name": "르무엔",
@@ -56001,7 +56001,7 @@
     },
     {
       "account_number": "02266",
-      "price": 62000,
+      "price": 64000,
       "operators": [
         {
           "name": "슈",
@@ -56155,7 +56155,7 @@
     },
     {
       "account_number": "02137",
-      "price": 44000,
+      "price": 46000,
       "operators": [
         {
           "name": "Ela",
@@ -56208,7 +56208,7 @@
     },
     {
       "account_number": "03197",
-      "price": 50000,
+      "price": 52000,
       "operators": [
         {
           "name": "키린R야토",
@@ -56226,15 +56226,15 @@
           "sprite_index": 110
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114,
           "potential": 2
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "로고스",
@@ -56265,7 +56265,7 @@
     },
     {
       "account_number": "03241",
-      "price": 52000,
+      "price": 54000,
       "operators": [
         {
           "name": "키린R야토",
@@ -56327,7 +56327,7 @@
     },
     {
       "account_number": "03336",
-      "price": 19000,
+      "price": 21000,
       "operators": [
         {
           "name": "키린R야토",
@@ -56378,7 +56378,7 @@
     },
     {
       "account_number": "03655",
-      "price": 26000,
+      "price": 28000,
       "operators": [
         {
           "name": "키린R야토",
@@ -56421,7 +56421,7 @@
     },
     {
       "account_number": "03827",
-      "price": 30000,
+      "price": 32000,
       "operators": [
         {
           "name": "키린R야토",
@@ -56470,7 +56470,7 @@
     },
     {
       "account_number": "03287",
-      "price": 19000,
+      "price": 21000,
       "operators": [
         {
           "name": "키린R야토",
@@ -56575,7 +56575,7 @@
     },
     {
       "account_number": "03495",
-      "price": 17000,
+      "price": 19000,
       "operators": [
         {
           "name": "키린R야토",
@@ -56627,7 +56627,7 @@
     },
     {
       "account_number": "03677",
-      "price": 31000,
+      "price": 33000,
       "operators": [
         {
           "name": "키린R야토",
@@ -56679,7 +56679,7 @@
     },
     {
       "account_number": "00525",
-      "price": 32000,
+      "price": 34000,
       "operators": [
         {
           "name": "마르실",
@@ -56745,7 +56745,7 @@
     },
     {
       "account_number": "02937",
-      "price": 19000,
+      "price": 21000,
       "operators": [
         {
           "name": "에이야퍄들라더크비트아스카",
@@ -56844,7 +56844,7 @@
     },
     {
       "account_number": "02893",
-      "price": 36000,
+      "price": 38000,
       "operators": [
         {
           "name": "위",
@@ -57006,7 +57006,7 @@
     },
     {
       "account_number": "02367",
-      "price": 29000,
+      "price": 31000,
       "operators": [
         {
           "name": "텍사스디오메르토사",
@@ -57020,15 +57020,15 @@
           "sprite_index": 64
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114,
           "potential": 2
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "르무엔",
@@ -57069,7 +57069,7 @@
     },
     {
       "account_number": "03070",
-      "price": 12000,
+      "price": 14000,
       "operators": [
         {
           "name": "텍사스디오메르토사",
@@ -57211,7 +57211,7 @@
     },
     {
       "account_number": "00568",
-      "price": 28000,
+      "price": 30000,
       "operators": [
         {
           "name": "비르투오사",
@@ -57293,7 +57293,7 @@
     },
     {
       "account_number": "02056",
-      "price": 19000,
+      "price": 18000,
       "operators": [
         {
           "name": "비르투오사",
@@ -57351,7 +57351,7 @@
     },
     {
       "account_number": "01702",
-      "price": 42000,
+      "price": 44000,
       "operators": [
         {
           "name": "가비알디인빈서블",
@@ -57365,14 +57365,14 @@
           "potential": 2
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "로고스",
@@ -57439,7 +57439,7 @@
     },
     {
       "account_number": "02314",
-      "price": 62000,
+      "price": 64000,
       "operators": [
         {
           "name": "실버애쉬더레인프로스트",
@@ -57452,14 +57452,14 @@
           "sprite_index": 110
         },
         {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "무에나",
