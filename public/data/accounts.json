@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T18:17:25.458716+00:00",
+  "updated_at": "2026-10-14T18:31:23.625139+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -43751,7 +43751,7 @@
     },
     {
       "account_number": "01276",
-      "price": 63000,
+      "price": 76000,
       "operators": [
         {
           "name": "Ela",
@@ -43772,6 +43772,11 @@
           "name": "링",
           "color": "#e42ce8",
           "sprite_index": 1
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "프라마닉스더프레리타",
