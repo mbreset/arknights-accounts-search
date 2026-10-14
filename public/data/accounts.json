@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T17:32:41.063223+00:00",
+  "updated_at": "2026-10-14T17:37:14.990809+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -29636,6 +29636,86 @@
       ]
     },
     {
+      "account_number": "03876",
+      "price": 76500,
+      "operators": [
+        {
+          "name": "켈시에스페란타",
+          "color": "#e42ce8",
+          "sprite_index": 117,
+          "potential": 2
+        },
+        {
+          "name": "에이야퍄들라더크비트아스카",
+          "color": "#e42ce8",
+          "sprite_index": 73
+        },
+        {
+          "name": "라플란드더데카덴차",
+          "color": "#e42ce8",
+          "sprite_index": 93
+        },
+        {
+          "name": "뮤엘시스",
+          "color": "#e42ce8",
+          "sprite_index": 69
+        },
+        {
+          "name": "페페",
+          "color": "#e42ce8",
+          "sprite_index": 88
+        },
+        {
+          "name": "첸더던스트릭",
+          "color": "#0000ff",
+          "sprite_index": 114,
+          "potential": 3
+        },
+        {
+          "name": "Mon3tr",
+          "color": "#0000ff",
+          "sprite_index": 99
+        },
+        {
+          "name": "르무엔",
+          "color": "#0000ff",
+          "sprite_index": 101
+        },
+        {
+          "name": "나란투야",
+          "color": null,
+          "sprite_index": 89
+        },
+        {
+          "name": "좌락",
+          "color": null,
+          "sprite_index": 82
+        },
+        {
+          "name": "혼",
+          "color": null,
+          "sprite_index": 30,
+          "potential": 2
+        },
+        {
+          "name": "린",
+          "color": null,
+          "sprite_index": 65
+        },
+        {
+          "name": "비비아나",
+          "color": null,
+          "sprite_index": 78,
+          "potential": 2
+        },
+        {
+          "name": "외드레르",
+          "color": null,
+          "sprite_index": 76
+        }
+      ]
+    },
+    {
       "account_number": "01053",
       "price": 53000,
       "operators": [
@@ -50042,80 +50122,6 @@
           "name": "미즈키",
           "color": null,
           "sprite_index": 53
-        }
-      ]
-    },
-    {
-      "account_number": "03876",
-      "price": 48000,
-      "operators": [
-        {
-          "name": "에이야퍄들라더크비트아스카",
-          "color": "#e42ce8",
-          "sprite_index": 73
-        },
-        {
-          "name": "라플란드더데카덴차",
-          "color": "#e42ce8",
-          "sprite_index": 93
-        },
-        {
-          "name": "뮤엘시스",
-          "color": "#e42ce8",
-          "sprite_index": 69
-        },
-        {
-          "name": "페페",
-          "color": "#e42ce8",
-          "sprite_index": 88
-        },
-        {
-          "name": "첸더던스트릭",
-          "color": "#0000ff",
-          "sprite_index": 114,
-          "potential": 3
-        },
-        {
-          "name": "Mon3tr",
-          "color": "#0000ff",
-          "sprite_index": 99
-        },
-        {
-          "name": "르무엔",
-          "color": "#0000ff",
-          "sprite_index": 101
-        },
-        {
-          "name": "나란투야",
-          "color": null,
-          "sprite_index": 89
-        },
-        {
-          "name": "좌락",
-          "color": null,
-          "sprite_index": 82
-        },
-        {
-          "name": "혼",
-          "color": null,
-          "sprite_index": 30,
-          "potential": 2
-        },
-        {
-          "name": "린",
-          "color": null,
-          "sprite_index": 65
-        },
-        {
-          "name": "비비아나",
-          "color": null,
-          "sprite_index": 78,
-          "potential": 2
-        },
-        {
-          "name": "외드레르",
-          "color": null,
-          "sprite_index": 76
         }
       ]
     },
