@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T19:57:16.296969+00:00",
+  "updated_at": "2026-10-14T20:02:10.745088+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -18295,7 +18295,7 @@
     },
     {
       "account_number": "02590",
-      "price": 83000,
+      "price": 96000,
       "operators": [
         {
           "name": "실버애쉬더레인프로스트",
@@ -18328,6 +18328,11 @@
           "name": "페페",
           "color": "#e42ce8",
           "sprite_index": 88
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "로고스",
