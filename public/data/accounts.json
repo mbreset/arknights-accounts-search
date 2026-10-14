@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T16:13:58.040931+00:00",
+  "updated_at": "2026-10-14T16:23:53.021710+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -46067,7 +46067,7 @@
     },
     {
       "account_number": "01928",
-      "price": 70000,
+      "price": 83000,
       "operators": [
         {
           "name": "엑시아더뉴커버넌트",
@@ -46088,6 +46088,11 @@
           "name": "뮤엘시스",
           "color": "#e42ce8",
           "sprite_index": 69
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "첸더던스트릭",
