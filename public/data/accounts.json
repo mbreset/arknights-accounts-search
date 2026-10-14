@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T15:08:03.152827+00:00",
+  "updated_at": "2026-10-14T15:26:57.329302+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -3222,7 +3222,7 @@
     },
     {
       "account_number": "00946",
-      "price": 77000,
+      "price": 94000,
       "operators": [
         {
           "name": "슈",
@@ -3265,6 +3265,11 @@
           "sprite_index": 15
         },
         {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
+        },
+        {
           "name": "로고스",
           "color": "#0000ff",
           "sprite_index": 86
@@ -3283,6 +3288,11 @@
           "name": "레이",
           "color": "#00aa00",
           "sprite_index": 80
+        },
+        {
+          "name": "쏜즈더로드스타",
+          "color": null,
+          "sprite_index": 95
         },
         {
           "name": "아",
