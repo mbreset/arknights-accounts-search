@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T18:49:47.669272+00:00",
+  "updated_at": "2026-10-14T18:54:31.852079+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -5118,7 +5118,7 @@
     },
     {
       "account_number": "01551",
-      "price": 104000,
+      "price": 117000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -5157,6 +5157,11 @@
           "color": "#e42ce8",
           "sprite_index": 88,
           "potential": 2
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "르무엔",
