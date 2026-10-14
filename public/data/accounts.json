@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T11:42:27.835530+00:00",
+  "updated_at": "2026-10-14T11:44:47.080504+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -6515,7 +6515,7 @@
     },
     {
       "account_number": "01232",
-      "price": 88000,
+      "price": 101000,
       "operators": [
         {
           "name": "왕",
@@ -6553,6 +6553,11 @@
           "color": "#e42ce8",
           "sprite_index": 88,
           "potential": 3
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "첸더던스트릭",
