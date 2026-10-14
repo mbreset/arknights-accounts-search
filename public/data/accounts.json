@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T20:07:42.642379+00:00",
+  "updated_at": "2026-10-14T20:08:05.818975+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -23690,7 +23690,8 @@
         {
           "name": "스테인리스",
           "color": null,
-          "sprite_index": 60
+          "sprite_index": 60,
+          "potential": 2
         }
       ]
     },
