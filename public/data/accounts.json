@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T14:36:44.450551+00:00",
+  "updated_at": "2026-10-14T14:38:33.538981+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -26965,7 +26965,8 @@
         {
           "name": "라플란드더데카덴차",
           "color": "#e42ce8",
-          "sprite_index": 93
+          "sprite_index": 93,
+          "potential": 2
         },
         {
           "name": "불피스폴리아",
