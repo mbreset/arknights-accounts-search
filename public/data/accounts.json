@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T14:33:50.389125+00:00",
+  "updated_at": "2026-10-14T14:36:44.450551+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -43291,7 +43291,7 @@
     },
     {
       "account_number": "03186",
-      "price": 66000,
+      "price": 68000,
       "operators": [
         {
           "name": "키린R야토",
@@ -43332,6 +43332,11 @@
           "name": "아이린",
           "color": null,
           "sprite_index": 32
+        },
+        {
+          "name": "스와이어디엘리건트위트",
+          "color": null,
+          "sprite_index": 72
         }
       ]
     },
