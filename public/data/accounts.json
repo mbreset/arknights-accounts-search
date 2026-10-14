@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T11:27:10.530187+00:00",
+  "updated_at": "2026-10-14T11:28:22.503649+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -15285,7 +15285,7 @@
     },
     {
       "account_number": "01055",
-      "price": 125000,
+      "price": 127000,
       "operators": [
         {
           "name": "키린R야토",
@@ -15379,6 +15379,11 @@
           "name": "비비아나",
           "color": null,
           "sprite_index": 78
+        },
+        {
+          "name": "오올헤약",
+          "color": null,
+          "sprite_index": 70
         },
         {
           "name": "파투스",
