@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T08:48:33.892917+00:00",
+  "updated_at": "2026-10-14T08:49:47.642968+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -4054,7 +4054,7 @@
     },
     {
       "account_number": "00678",
-      "price": 111000,
+      "price": 112000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -10896,7 +10896,7 @@
     },
     {
       "account_number": "03829",
-      "price": 99000,
+      "price": 100000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -14377,7 +14377,7 @@
     },
     {
       "account_number": "03779",
-      "price": 86000,
+      "price": 87000,
       "operators": [
         {
           "name": "키린R야토",
@@ -25190,7 +25190,7 @@
     },
     {
       "account_number": "02758",
-      "price": 101000,
+      "price": 102000,
       "operators": [
         {
           "name": "Ela",
@@ -29234,7 +29234,7 @@
     },
     {
       "account_number": "03823",
-      "price": 92000,
+      "price": 93000,
       "operators": [
         {
           "name": "키린R야토",
@@ -34803,7 +34803,7 @@
     },
     {
       "account_number": "02336",
-      "price": 96000,
+      "price": 97000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -36155,7 +36155,7 @@
     },
     {
       "account_number": "01792",
-      "price": 57000,
+      "price": 58000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -39269,7 +39269,7 @@
     },
     {
       "account_number": "03256",
-      "price": 89000,
+      "price": 90000,
       "operators": [
         {
           "name": "키린R야토",
@@ -49349,7 +49349,7 @@
     },
     {
       "account_number": "01885",
-      "price": 27000,
+      "price": 28000,
       "operators": [
         {
           "name": "위",
@@ -50745,7 +50745,7 @@
     },
     {
       "account_number": "03239",
-      "price": 79000,
+      "price": 80000,
       "operators": [
         {
           "name": "키린R야토",
@@ -52944,7 +52944,7 @@
     },
     {
       "account_number": "03964",
-      "price": 82000,
+      "price": 83000,
       "operators": [
         {
           "name": "엑시아더뉴커버넌트",
@@ -56001,7 +56001,7 @@
     },
     {
       "account_number": "02266",
-      "price": 61000,
+      "price": 62000,
       "operators": [
         {
           "name": "슈",
@@ -56844,7 +56844,7 @@
     },
     {
       "account_number": "02893",
-      "price": 35000,
+      "price": 36000,
       "operators": [
         {
           "name": "위",
