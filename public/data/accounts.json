@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T12:13:55.375373+00:00",
+  "updated_at": "2026-10-14T12:16:07.422695+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -3566,7 +3566,7 @@
     },
     {
       "account_number": "02038",
-      "price": 117000,
+      "price": 119000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -3635,6 +3635,11 @@
           "name": "도로시",
           "color": null,
           "sprite_index": 56
+        },
+        {
+          "name": "치우바이",
+          "color": null,
+          "sprite_index": 66
         },
         {
           "name": "오올헤약",
