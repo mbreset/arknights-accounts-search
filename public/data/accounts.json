@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T09:44:51.217626+00:00",
+  "updated_at": "2026-10-14T09:47:22.502648+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -44217,7 +44217,7 @@
     },
     {
       "account_number": "01820",
-      "price": 55000,
+      "price": 57000,
       "operators": [
         {
           "name": "엑시아더뉴커버넌트",
@@ -44275,6 +44275,11 @@
           "name": "노시스",
           "color": null,
           "sprite_index": 23
+        },
+        {
+          "name": "린",
+          "color": null,
+          "sprite_index": 65
         },
         {
           "name": "사일라흐",
