@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T16:41:02.152174+00:00",
+  "updated_at": "2026-10-14T16:42:02.473600+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -11023,6 +11023,87 @@
           "name": "카넬리안",
           "color": null,
           "sprite_index": 52
+        }
+      ]
+    },
+    {
+      "account_number": "01750",
+      "price": 105000,
+      "operators": [
+        {
+          "name": "토가와사키코",
+          "color": "#dd0000",
+          "sprite_index": 107
+        },
+        {
+          "name": "켈시에스페란타",
+          "color": "#e42ce8",
+          "sprite_index": 117
+        },
+        {
+          "name": "에이야퍄들라더크비트아스카",
+          "color": "#e42ce8",
+          "sprite_index": 73
+        },
+        {
+          "name": "위",
+          "color": "#e42ce8",
+          "sprite_index": 96
+        },
+        {
+          "name": "총웨",
+          "color": "#e42ce8",
+          "sprite_index": 64
+        },
+        {
+          "name": "첸더홀룽데이",
+          "color": "#e42ce8",
+          "sprite_index": 36
+        },
+        {
+          "name": "로고스",
+          "color": "#0000ff",
+          "sprite_index": 86
+        },
+        {
+          "name": "르무엔",
+          "color": "#0000ff",
+          "sprite_index": 101
+        },
+        {
+          "name": "나란투야",
+          "color": null,
+          "sprite_index": 89
+        },
+        {
+          "name": "페넌스",
+          "color": null,
+          "sprite_index": 61
+        },
+        {
+          "name": "노시스",
+          "color": null,
+          "sprite_index": 23
+        },
+        {
+          "name": "린",
+          "color": null,
+          "sprite_index": 65
+        },
+        {
+          "name": "비비아나",
+          "color": null,
+          "sprite_index": 78
+        },
+        {
+          "name": "외드레르",
+          "color": null,
+          "sprite_index": 76
+        },
+        {
+          "name": "팔라스",
+          "color": null,
+          "sprite_index": 24
         }
       ]
     },
@@ -24251,82 +24332,6 @@
           "name": "치우바이",
           "color": null,
           "sprite_index": 66
-        }
-      ]
-    },
-    {
-      "account_number": "01750",
-      "price": 67000,
-      "operators": [
-        {
-          "name": "토가와사키코",
-          "color": "#dd0000",
-          "sprite_index": 107
-        },
-        {
-          "name": "에이야퍄들라더크비트아스카",
-          "color": "#e42ce8",
-          "sprite_index": 73
-        },
-        {
-          "name": "위",
-          "color": "#e42ce8",
-          "sprite_index": 96
-        },
-        {
-          "name": "총웨",
-          "color": "#e42ce8",
-          "sprite_index": 64
-        },
-        {
-          "name": "첸더홀룽데이",
-          "color": "#e42ce8",
-          "sprite_index": 36
-        },
-        {
-          "name": "로고스",
-          "color": "#0000ff",
-          "sprite_index": 86
-        },
-        {
-          "name": "르무엔",
-          "color": "#0000ff",
-          "sprite_index": 101
-        },
-        {
-          "name": "나란투야",
-          "color": null,
-          "sprite_index": 89
-        },
-        {
-          "name": "페넌스",
-          "color": null,
-          "sprite_index": 61
-        },
-        {
-          "name": "노시스",
-          "color": null,
-          "sprite_index": 23
-        },
-        {
-          "name": "린",
-          "color": null,
-          "sprite_index": 65
-        },
-        {
-          "name": "비비아나",
-          "color": null,
-          "sprite_index": 78
-        },
-        {
-          "name": "외드레르",
-          "color": null,
-          "sprite_index": 76
-        },
-        {
-          "name": "팔라스",
-          "color": null,
-          "sprite_index": 24
         }
       ]
     },
