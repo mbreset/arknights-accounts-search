@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T23:33:14.064560+00:00",
+  "updated_at": "2026-10-14T23:42:47.360387+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -42869,7 +42869,8 @@
         {
           "name": "하루카",
           "color": "#0000ff",
-          "sprite_index": 106
+          "sprite_index": 106,
+          "potential": 2
         },
         {
           "name": "불피스폴리아",
