@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T22:57:17.253273+00:00",
+  "updated_at": "2026-10-14T22:57:55.256498+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -26587,7 +26587,7 @@
     },
     {
       "account_number": "01900",
-      "price": 96000,
+      "price": 113000,
       "operators": [
         {
           "name": "왕",
@@ -26615,6 +26615,11 @@
           "sprite_index": 88
         },
         {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
+        },
+        {
           "name": "하루카",
           "color": "#0000ff",
           "sprite_index": 106
@@ -26639,6 +26644,11 @@
           "color": null,
           "sprite_index": 89,
           "potential": 2
+        },
+        {
+          "name": "파죰카",
+          "color": null,
+          "sprite_index": 38
         },
         {
           "name": "페넌스",
