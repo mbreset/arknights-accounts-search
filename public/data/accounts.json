@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T23:00:16.274542+00:00",
+  "updated_at": "2026-10-14T23:04:47.379741+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -54523,7 +54523,7 @@
     },
     {
       "account_number": "02004",
-      "price": 36000,
+      "price": 38000,
       "operators": [
         {
           "name": "엑시아더뉴커버넌트",
@@ -54564,6 +54564,11 @@
           "name": "도로시",
           "color": null,
           "sprite_index": 56
+        },
+        {
+          "name": "비비아나",
+          "color": null,
+          "sprite_index": 78
         }
       ]
     },
