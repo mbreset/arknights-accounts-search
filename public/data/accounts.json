@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T14:18:10.953485+00:00",
+  "updated_at": "2026-10-14T14:18:30.948588+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -5967,7 +5967,7 @@
     },
     {
       "account_number": "02420",
-      "price": 130000,
+      "price": 143000,
       "operators": [
         {
           "name": "왕",
@@ -6005,6 +6005,11 @@
           "color": "#e42ce8",
           "sprite_index": 88,
           "potential": 2
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "하루카",
