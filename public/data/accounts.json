@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T12:47:51.840273+00:00",
+  "updated_at": "2026-10-14T12:50:29.861772+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -42811,7 +42811,7 @@
     },
     {
       "account_number": "03270",
-      "price": 59000,
+      "price": 72000,
       "operators": [
         {
           "name": "키린R야토",
@@ -42832,6 +42832,11 @@
           "name": "페페",
           "color": "#e42ce8",
           "sprite_index": 88
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "하루카",
