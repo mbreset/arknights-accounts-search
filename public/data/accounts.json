@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T09:50:33.137404+00:00",
+  "updated_at": "2026-10-14T09:51:29.262507+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -7590,7 +7590,7 @@
     },
     {
       "account_number": "02098",
-      "price": 108000,
+      "price": 121000,
       "operators": [
         {
           "name": "Ela",
@@ -7626,6 +7626,11 @@
           "name": "페페",
           "color": "#e42ce8",
           "sprite_index": 88
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "이네스",
