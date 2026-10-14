@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T10:17:07.657170+00:00",
+  "updated_at": "2026-10-14T10:18:57.671895+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -38436,6 +38436,59 @@
       ]
     },
     {
+      "account_number": "03145",
+      "price": 68000,
+      "operators": [
+        {
+          "name": "키린R야토",
+          "color": "#dd0000",
+          "sprite_index": 67,
+          "potential": 2
+        },
+        {
+          "name": "왕",
+          "color": "#e42ce8",
+          "sprite_index": 113
+        },
+        {
+          "name": "호시구마더브리처",
+          "color": "#e42ce8",
+          "sprite_index": 105
+        },
+        {
+          "name": "라플란드더데카덴차",
+          "color": "#e42ce8",
+          "sprite_index": 93
+        },
+        {
+          "name": "르무엔",
+          "color": "#0000ff",
+          "sprite_index": 101,
+          "potential": 2
+        },
+        {
+          "name": "제시카더리버레이티드",
+          "color": null,
+          "sprite_index": 75
+        },
+        {
+          "name": "아이린",
+          "color": null,
+          "sprite_index": 32
+        },
+        {
+          "name": "비나빅토리아",
+          "color": null,
+          "sprite_index": 92
+        },
+        {
+          "name": "호시구마",
+          "color": null,
+          "sprite_index": 27
+        }
+      ]
+    },
+    {
       "account_number": "03358",
       "price": 67000,
       "operators": [
@@ -50808,54 +50861,6 @@
           "name": "도로시",
           "color": null,
           "sprite_index": 56
-        }
-      ]
-    },
-    {
-      "account_number": "03145",
-      "price": 56000,
-      "operators": [
-        {
-          "name": "키린R야토",
-          "color": "#dd0000",
-          "sprite_index": 67,
-          "potential": 2
-        },
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "호시구마더브리처",
-          "color": "#e42ce8",
-          "sprite_index": 105
-        },
-        {
-          "name": "르무엔",
-          "color": "#0000ff",
-          "sprite_index": 101,
-          "potential": 2
-        },
-        {
-          "name": "제시카더리버레이티드",
-          "color": null,
-          "sprite_index": 75
-        },
-        {
-          "name": "아이린",
-          "color": null,
-          "sprite_index": 32
-        },
-        {
-          "name": "비나빅토리아",
-          "color": null,
-          "sprite_index": 92
-        },
-        {
-          "name": "호시구마",
-          "color": null,
-          "sprite_index": 27
         }
       ]
     },
