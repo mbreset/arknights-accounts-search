@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-15T07:20:49.812947+00:00",
+  "updated_at": "2026-10-15T07:21:10.768147+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -6033,6 +6033,69 @@
           "name": "카넬리안",
           "color": null,
           "sprite_index": 52
+        }
+      ]
+    },
+    {
+      "account_number": "03833",
+      "price": 143000,
+      "operators": [
+        {
+          "name": "키린R야토",
+          "color": "#dd0000",
+          "sprite_index": 67
+        },
+        {
+          "name": "왕",
+          "color": "#e42ce8",
+          "sprite_index": 113,
+          "potential": 2
+        },
+        {
+          "name": "켈시에스페란타",
+          "color": "#e42ce8",
+          "sprite_index": 117
+        },
+        {
+          "name": "엑시아더뉴커버넌트",
+          "color": "#e42ce8",
+          "sprite_index": 100
+        },
+        {
+          "name": "호시구마더브리처",
+          "color": "#e42ce8",
+          "sprite_index": 105
+        },
+        {
+          "name": "위",
+          "color": "#e42ce8",
+          "sprite_index": 96,
+          "potential": 3
+        },
+        {
+          "name": "비르투오사",
+          "color": "#e42ce8",
+          "sprite_index": 77
+        },
+        {
+          "name": "골든글로우",
+          "color": "#00aa00",
+          "sprite_index": 28
+        },
+        {
+          "name": "불피스폴리아",
+          "color": "#00aa00",
+          "sprite_index": 94
+        },
+        {
+          "name": "이그제큐터디엑스포에데레",
+          "color": "#00aa00",
+          "sprite_index": 71
+        },
+        {
+          "name": "리드더플레임섀도우",
+          "color": "#00aa00",
+          "sprite_index": 63
         }
       ]
     },
@@ -15572,64 +15635,6 @@
           "name": "파투스",
           "color": null,
           "sprite_index": 54
-        }
-      ]
-    },
-    {
-      "account_number": "03833",
-      "price": 113000,
-      "operators": [
-        {
-          "name": "키린R야토",
-          "color": "#dd0000",
-          "sprite_index": 67
-        },
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113,
-          "potential": 2
-        },
-        {
-          "name": "엑시아더뉴커버넌트",
-          "color": "#e42ce8",
-          "sprite_index": 100
-        },
-        {
-          "name": "호시구마더브리처",
-          "color": "#e42ce8",
-          "sprite_index": 105
-        },
-        {
-          "name": "위",
-          "color": "#e42ce8",
-          "sprite_index": 96,
-          "potential": 3
-        },
-        {
-          "name": "비르투오사",
-          "color": "#e42ce8",
-          "sprite_index": 77
-        },
-        {
-          "name": "골든글로우",
-          "color": "#00aa00",
-          "sprite_index": 28
-        },
-        {
-          "name": "불피스폴리아",
-          "color": "#00aa00",
-          "sprite_index": 94
-        },
-        {
-          "name": "이그제큐터디엑스포에데레",
-          "color": "#00aa00",
-          "sprite_index": 71
-        },
-        {
-          "name": "리드더플레임섀도우",
-          "color": "#00aa00",
-          "sprite_index": 63
         }
       ]
     },
