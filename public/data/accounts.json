@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-15T21:36:40.068496+00:00",
+  "updated_at": "2026-10-15T21:54:51.298960+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -31301,6 +31301,63 @@
       ]
     },
     {
+      "account_number": "03753",
+      "price": 102000,
+      "operators": [
+        {
+          "name": "키린R야토",
+          "color": "#dd0000",
+          "sprite_index": 67
+        },
+        {
+          "name": "켈시에스페란타",
+          "color": "#e42ce8",
+          "sprite_index": 117
+        },
+        {
+          "name": "엑시아더뉴커버넌트",
+          "color": "#e42ce8",
+          "sprite_index": 100
+        },
+        {
+          "name": "슈",
+          "color": "#e42ce8",
+          "sprite_index": 81
+        },
+        {
+          "name": "비르투오사",
+          "color": "#e42ce8",
+          "sprite_index": 77,
+          "potential": 2
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
+        },
+        {
+          "name": "레이",
+          "color": "#00aa00",
+          "sprite_index": 80
+        },
+        {
+          "name": "좌락",
+          "color": null,
+          "sprite_index": 82
+        },
+        {
+          "name": "린",
+          "color": null,
+          "sprite_index": 65
+        },
+        {
+          "name": "도로시",
+          "color": null,
+          "sprite_index": 56
+        }
+      ]
+    },
+    {
       "account_number": "02621",
       "price": 82000,
       "operators": [
@@ -47450,53 +47507,6 @@
           "name": "에벤홀츠",
           "color": null,
           "sprite_index": 39
-        }
-      ]
-    },
-    {
-      "account_number": "03753",
-      "price": 58000,
-      "operators": [
-        {
-          "name": "키린R야토",
-          "color": "#dd0000",
-          "sprite_index": 67
-        },
-        {
-          "name": "엑시아더뉴커버넌트",
-          "color": "#e42ce8",
-          "sprite_index": 100
-        },
-        {
-          "name": "슈",
-          "color": "#e42ce8",
-          "sprite_index": 81
-        },
-        {
-          "name": "비르투오사",
-          "color": "#e42ce8",
-          "sprite_index": 77,
-          "potential": 2
-        },
-        {
-          "name": "레이",
-          "color": "#00aa00",
-          "sprite_index": 80
-        },
-        {
-          "name": "좌락",
-          "color": null,
-          "sprite_index": 82
-        },
-        {
-          "name": "린",
-          "color": null,
-          "sprite_index": 65
-        },
-        {
-          "name": "도로시",
-          "color": null,
-          "sprite_index": 56
         }
       ]
     },
