@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-15T20:36:18.470783+00:00",
+  "updated_at": "2026-10-15T20:49:52.617612+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -30919,7 +30919,7 @@
     },
     {
       "account_number": "02998",
-      "price": 112000,
+      "price": 118000,
       "operators": [
         {
           "name": "마르실",
@@ -30950,6 +30950,11 @@
           "name": "Mon3tr",
           "color": "#0000ff",
           "sprite_index": 99
+        },
+        {
+          "name": "님프",
+          "color": "#00aa00",
+          "sprite_index": 90
         },
         {
           "name": "불피스폴리아",
