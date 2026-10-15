@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-15T00:05:45.542547+00:00",
+  "updated_at": "2026-10-15T00:06:55.137200+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -30727,6 +30727,74 @@
       ]
     },
     {
+      "account_number": "03261",
+      "price": 97000,
+      "operators": [
+        {
+          "name": "키린R야토",
+          "color": "#dd0000",
+          "sprite_index": 67,
+          "potential": 2
+        },
+        {
+          "name": "켈시에스페란타",
+          "color": "#e42ce8",
+          "sprite_index": 117
+        },
+        {
+          "name": "라플란드더데카덴차",
+          "color": "#e42ce8",
+          "sprite_index": 93
+        },
+        {
+          "name": "스펙터디언체인드",
+          "color": "#e42ce8",
+          "sprite_index": 31
+        },
+        {
+          "name": "뮤엘시스",
+          "color": "#e42ce8",
+          "sprite_index": 69
+        },
+        {
+          "name": "프라마닉스더프레리타",
+          "color": "#0000ff",
+          "sprite_index": 110
+        },
+        {
+          "name": "첸더던스트릭",
+          "color": "#0000ff",
+          "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
+        },
+        {
+          "name": "로고스",
+          "color": "#0000ff",
+          "sprite_index": 86
+        },
+        {
+          "name": "님프",
+          "color": "#00aa00",
+          "sprite_index": 90
+        },
+        {
+          "name": "불피스폴리아",
+          "color": "#00aa00",
+          "sprite_index": 94,
+          "potential": 2
+        },
+        {
+          "name": "블레이즈디이그나이팅스파크",
+          "color": "#00aa00",
+          "sprite_index": 97
+        }
+      ]
+    },
+    {
       "account_number": "02655",
       "price": 76000,
       "operators": [
@@ -50336,69 +50404,6 @@
       ]
     },
     {
-      "account_number": "03261",
-      "price": 69000,
-      "operators": [
-        {
-          "name": "키린R야토",
-          "color": "#dd0000",
-          "sprite_index": 67,
-          "potential": 2
-        },
-        {
-          "name": "라플란드더데카덴차",
-          "color": "#e42ce8",
-          "sprite_index": 93
-        },
-        {
-          "name": "스펙터디언체인드",
-          "color": "#e42ce8",
-          "sprite_index": 31
-        },
-        {
-          "name": "뮤엘시스",
-          "color": "#e42ce8",
-          "sprite_index": 69
-        },
-        {
-          "name": "프라마닉스더프레리타",
-          "color": "#0000ff",
-          "sprite_index": 110
-        },
-        {
-          "name": "첸더던스트릭",
-          "color": "#0000ff",
-          "sprite_index": 114
-        },
-        {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
-          "name": "로고스",
-          "color": "#0000ff",
-          "sprite_index": 86
-        },
-        {
-          "name": "님프",
-          "color": "#00aa00",
-          "sprite_index": 90
-        },
-        {
-          "name": "불피스폴리아",
-          "color": "#00aa00",
-          "sprite_index": 94,
-          "potential": 2
-        },
-        {
-          "name": "블레이즈디이그나이팅스파크",
-          "color": "#00aa00",
-          "sprite_index": 97
-        }
-      ]
-    },
-    {
       "account_number": "03535",
       "price": 17000,
       "operators": [
@@ -50716,7 +50721,7 @@
     },
     {
       "account_number": "03047",
-      "price": 72000,
+      "price": 78000,
       "operators": [
         {
           "name": "마르실",
@@ -50762,6 +50767,11 @@
           "name": "데겐블레허",
           "color": "#00aa00",
           "sprite_index": 79
+        },
+        {
+          "name": "레이즈더썬더브링어",
+          "color": "#00aa00",
+          "sprite_index": 104
         },
         {
           "name": "좌락",
