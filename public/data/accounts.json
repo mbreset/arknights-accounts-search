@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-15T04:45:22.217292+00:00",
+  "updated_at": "2026-10-15T04:47:09.608196+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -51508,7 +51508,7 @@
     },
     {
       "account_number": "03850",
-      "price": 53000,
+      "price": 57000,
       "operators": [
         {
           "name": "에이야퍄들라더크비트아스카",
@@ -51566,6 +51566,11 @@
           "name": "나란투야",
           "color": null,
           "sprite_index": 89
+        },
+        {
+          "name": "파죰카",
+          "color": null,
+          "sprite_index": 38
         }
       ]
     },
