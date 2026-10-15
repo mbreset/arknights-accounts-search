@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-15T03:51:38.999577+00:00",
+  "updated_at": "2026-10-15T03:53:05.058839+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -25996,6 +25996,91 @@
       ]
     },
     {
+      "account_number": "02454",
+      "price": 126000,
+      "operators": [
+        {
+          "name": "왕",
+          "color": "#e42ce8",
+          "sprite_index": 113
+        },
+        {
+          "name": "켈시에스페란타",
+          "color": "#e42ce8",
+          "sprite_index": 117
+        },
+        {
+          "name": "실버애쉬더레인프로스트",
+          "color": "#e42ce8",
+          "sprite_index": 109
+        },
+        {
+          "name": "위",
+          "color": "#e42ce8",
+          "sprite_index": 96,
+          "potential": 2
+        },
+        {
+          "name": "텍사스디오메르토사",
+          "color": "#e42ce8",
+          "sprite_index": 62,
+          "potential": 2
+        },
+        {
+          "name": "첸더던스트릭",
+          "color": "#0000ff",
+          "sprite_index": 114,
+          "potential": 2
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
+        },
+        {
+          "name": "블레이즈디이그나이팅스파크",
+          "color": "#00aa00",
+          "sprite_index": 97
+        },
+        {
+          "name": "나란투야",
+          "color": null,
+          "sprite_index": 89
+        },
+        {
+          "name": "좌락",
+          "color": null,
+          "sprite_index": 82
+        },
+        {
+          "name": "페넌스",
+          "color": null,
+          "sprite_index": 61
+        },
+        {
+          "name": "위디",
+          "color": null,
+          "sprite_index": 41
+        },
+        {
+          "name": "스와이어디엘리건트위트",
+          "color": null,
+          "sprite_index": 72
+        },
+        {
+          "name": "외드레르",
+          "color": null,
+          "sprite_index": 76
+        },
+        {
+          "name": "팔라스",
+          "color": null,
+          "sprite_index": 24,
+          "potential": 2
+        }
+      ]
+    },
+    {
       "account_number": "02466",
       "price": 128000,
       "operators": [
@@ -40728,81 +40813,6 @@
           "name": "불피스폴리아",
           "color": "#00aa00",
           "sprite_index": 94
-        }
-      ]
-    },
-    {
-      "account_number": "02454",
-      "price": 83000,
-      "operators": [
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "실버애쉬더레인프로스트",
-          "color": "#e42ce8",
-          "sprite_index": 109
-        },
-        {
-          "name": "위",
-          "color": "#e42ce8",
-          "sprite_index": 96,
-          "potential": 2
-        },
-        {
-          "name": "텍사스디오메르토사",
-          "color": "#e42ce8",
-          "sprite_index": 62,
-          "potential": 2
-        },
-        {
-          "name": "첸더던스트릭",
-          "color": "#0000ff",
-          "sprite_index": 114,
-          "potential": 2
-        },
-        {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
-          "name": "나란투야",
-          "color": null,
-          "sprite_index": 89
-        },
-        {
-          "name": "좌락",
-          "color": null,
-          "sprite_index": 82
-        },
-        {
-          "name": "페넌스",
-          "color": null,
-          "sprite_index": 61
-        },
-        {
-          "name": "위디",
-          "color": null,
-          "sprite_index": 41
-        },
-        {
-          "name": "스와이어디엘리건트위트",
-          "color": null,
-          "sprite_index": 72
-        },
-        {
-          "name": "외드레르",
-          "color": null,
-          "sprite_index": 76
-        },
-        {
-          "name": "팔라스",
-          "color": null,
-          "sprite_index": 24,
-          "potential": 2
         }
       ]
     },
