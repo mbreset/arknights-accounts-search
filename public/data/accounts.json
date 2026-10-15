@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-15T15:06:31.324369+00:00",
+  "updated_at": "2026-10-15T19:12:29.161590+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -29549,7 +29549,7 @@
     },
     {
       "account_number": "01769",
-      "price": 58000,
+      "price": 63000,
       "operators": [
         {
           "name": "왕",
@@ -29585,6 +29585,11 @@
           "name": "르무엔",
           "color": "#0000ff",
           "sprite_index": 101
+        },
+        {
+          "name": "리드더플레임섀도우",
+          "color": "#00aa00",
+          "sprite_index": 63
         },
         {
           "name": "혼",
