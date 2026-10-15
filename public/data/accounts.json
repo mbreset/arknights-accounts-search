@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-15T21:17:24.950251+00:00",
+  "updated_at": "2026-10-15T21:36:40.068496+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -17130,7 +17130,7 @@
     },
     {
       "account_number": "03737",
-      "price": 119000,
+      "price": 120000,
       "operators": [
         {
           "name": "키린R야토",
@@ -17166,7 +17166,8 @@
         {
           "name": "클로저",
           "color": "#0000ff",
-          "sprite_index": 118
+          "sprite_index": 118,
+          "potential": 2
         },
         {
           "name": "아스카론",
