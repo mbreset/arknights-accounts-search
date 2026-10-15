@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-15T07:30:18.996366+00:00",
+  "updated_at": "2026-10-15T07:43:15.260934+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -59661,7 +59661,7 @@
     },
     {
       "account_number": "02056",
-      "price": 18000,
+      "price": 31000,
       "operators": [
         {
           "name": "비르투오사",
@@ -59672,6 +59672,11 @@
           "name": "페페",
           "color": "#e42ce8",
           "sprite_index": 88
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "이네스",
