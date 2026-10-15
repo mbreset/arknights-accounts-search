@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-15T00:56:09.757045+00:00",
+  "updated_at": "2026-10-15T01:08:38.052973+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -57166,6 +57166,32 @@
           "name": "클로저",
           "color": "#0000ff",
           "sprite_index": 118
+        },
+        {
+          "name": "첸더던스트릭",
+          "color": "#0000ff",
+          "sprite_index": 114
+        }
+      ]
+    },
+    {
+      "account_number": "04064",
+      "price": 38000,
+      "operators": [
+        {
+          "name": "켈시에스페란타",
+          "color": "#e42ce8",
+          "sprite_index": 117
+        },
+        {
+          "name": "실버애쉬더레인프로스트",
+          "color": "#e42ce8",
+          "sprite_index": 109
+        },
+        {
+          "name": "프라마닉스더프레리타",
+          "color": "#0000ff",
+          "sprite_index": 110
         },
         {
           "name": "첸더던스트릭",
