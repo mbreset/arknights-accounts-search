@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-15T05:33:49.228942+00:00",
+  "updated_at": "2026-10-15T05:44:35.312458+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -30152,7 +30152,7 @@
     },
     {
       "account_number": "02877",
-      "price": 63000,
+      "price": 69000,
       "operators": [
         {
           "name": "왕",
@@ -30184,6 +30184,11 @@
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "만트라",
+          "color": "#00aa00",
+          "sprite_index": 108
         },
         {
           "name": "티티",
