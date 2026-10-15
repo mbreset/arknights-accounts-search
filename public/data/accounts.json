@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-15T06:43:32.317081+00:00",
+  "updated_at": "2026-10-15T06:46:32.314640+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -10871,7 +10871,7 @@
     },
     {
       "account_number": "03780",
-      "price": 95000,
+      "price": 99000,
       "operators": [
         {
           "name": "키린R야토",
@@ -10914,6 +10914,11 @@
           "color": "#0000ff",
           "sprite_index": 101,
           "potential": 2
+        },
+        {
+          "name": "네크라스",
+          "color": null,
+          "sprite_index": 98
         },
         {
           "name": "도로시",
