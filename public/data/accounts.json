@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-15T00:29:19.375549+00:00",
+  "updated_at": "2026-10-15T00:36:51.403041+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -16033,7 +16033,7 @@
     },
     {
       "account_number": "03700",
-      "price": 77000,
+      "price": 92000,
       "operators": [
         {
           "name": "키린R야토",
@@ -16067,9 +16067,19 @@
           "potential": 2
         },
         {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
+        },
+        {
           "name": "이그제큐터디엑스포에데레",
           "color": "#00aa00",
           "sprite_index": 71
+        },
+        {
+          "name": "오올헤약",
+          "color": null,
+          "sprite_index": 70
         }
       ]
     },
