@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-15T06:20:31.984926+00:00",
+  "updated_at": "2026-10-15T06:23:30.111621+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -9373,6 +9373,88 @@
           "name": "호시구마",
           "color": null,
           "sprite_index": 27
+        }
+      ]
+    },
+    {
+      "account_number": "02094",
+      "price": 135000,
+      "operators": [
+        {
+          "name": "마르실",
+          "color": "#dd0000",
+          "sprite_index": 91
+        },
+        {
+          "name": "켈시에스페란타",
+          "color": "#e42ce8",
+          "sprite_index": 117
+        },
+        {
+          "name": "슈",
+          "color": "#e42ce8",
+          "sprite_index": 81
+        },
+        {
+          "name": "에이야퍄들라더크비트아스카",
+          "color": "#e42ce8",
+          "sprite_index": 73
+        },
+        {
+          "name": "위",
+          "color": "#e42ce8",
+          "sprite_index": 96
+        },
+        {
+          "name": "총웨",
+          "color": "#e42ce8",
+          "sprite_index": 64
+        },
+        {
+          "name": "뮤엘시스",
+          "color": "#e42ce8",
+          "sprite_index": 69
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
+        },
+        {
+          "name": "프라마닉스더프레리타",
+          "color": "#0000ff",
+          "sprite_index": 110
+        },
+        {
+          "name": "무에나",
+          "color": "#0000ff",
+          "sprite_index": 43,
+          "potential": 2
+        },
+        {
+          "name": "아스카론",
+          "color": "#0000ff",
+          "sprite_index": 84
+        },
+        {
+          "name": "좌락",
+          "color": null,
+          "sprite_index": 82
+        },
+        {
+          "name": "페넌스",
+          "color": null,
+          "sprite_index": 61
+        },
+        {
+          "name": "노시스",
+          "color": null,
+          "sprite_index": 23
+        },
+        {
+          "name": "카넬리안",
+          "color": null,
+          "sprite_index": 52
         }
       ]
     },
@@ -22752,78 +22834,6 @@
           "name": "스테인리스",
           "color": null,
           "sprite_index": 60
-        }
-      ]
-    },
-    {
-      "account_number": "02094",
-      "price": 91000,
-      "operators": [
-        {
-          "name": "마르실",
-          "color": "#dd0000",
-          "sprite_index": 91
-        },
-        {
-          "name": "슈",
-          "color": "#e42ce8",
-          "sprite_index": 81
-        },
-        {
-          "name": "에이야퍄들라더크비트아스카",
-          "color": "#e42ce8",
-          "sprite_index": 73
-        },
-        {
-          "name": "위",
-          "color": "#e42ce8",
-          "sprite_index": 96
-        },
-        {
-          "name": "총웨",
-          "color": "#e42ce8",
-          "sprite_index": 64
-        },
-        {
-          "name": "뮤엘시스",
-          "color": "#e42ce8",
-          "sprite_index": 69
-        },
-        {
-          "name": "프라마닉스더프레리타",
-          "color": "#0000ff",
-          "sprite_index": 110
-        },
-        {
-          "name": "무에나",
-          "color": "#0000ff",
-          "sprite_index": 43,
-          "potential": 2
-        },
-        {
-          "name": "아스카론",
-          "color": "#0000ff",
-          "sprite_index": 84
-        },
-        {
-          "name": "좌락",
-          "color": null,
-          "sprite_index": 82
-        },
-        {
-          "name": "페넌스",
-          "color": null,
-          "sprite_index": 61
-        },
-        {
-          "name": "노시스",
-          "color": null,
-          "sprite_index": 23
-        },
-        {
-          "name": "카넬리안",
-          "color": null,
-          "sprite_index": 52
         }
       ]
     },
