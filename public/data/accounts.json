@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-15T19:26:15.317048+00:00",
+  "updated_at": "2026-10-15T19:53:01.882318+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -50239,7 +50239,7 @@
     },
     {
       "account_number": "03049",
-      "price": 86000,
+      "price": 90000,
       "operators": [
         {
           "name": "슈",
@@ -50297,6 +50297,11 @@
           "name": "네크라스",
           "color": null,
           "sprite_index": 98
+        },
+        {
+          "name": "티폰",
+          "color": null,
+          "sprite_index": 74
         },
         {
           "name": "페넌스",
