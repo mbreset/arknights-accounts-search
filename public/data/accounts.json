@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-15T09:08:42.937204+00:00",
+  "updated_at": "2026-10-15T09:39:01.310978+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -22822,7 +22822,7 @@
     },
     {
       "account_number": "01164",
-      "price": 63000,
+      "price": 87000,
       "operators": [
         {
           "name": "호시구마더브리처",
@@ -22856,6 +22856,11 @@
           "sprite_index": 69
         },
         {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
+        },
+        {
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
@@ -22864,6 +22869,11 @@
           "name": "하루카",
           "color": "#0000ff",
           "sprite_index": 106
+        },
+        {
+          "name": "Mon3tr",
+          "color": "#0000ff",
+          "sprite_index": 99
         },
         {
           "name": "나란투야",
