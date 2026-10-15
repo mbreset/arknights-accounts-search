@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-15T06:34:08.296385+00:00",
+  "updated_at": "2026-10-15T06:37:18.164432+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -397,6 +397,99 @@
           "name": "유넥티스",
           "color": null,
           "sprite_index": 50
+        }
+      ]
+    },
+    {
+      "account_number": "03591",
+      "price": 195000,
+      "operators": [
+        {
+          "name": "토가와사키코",
+          "color": "#dd0000",
+          "sprite_index": 107
+        },
+        {
+          "name": "키린R야토",
+          "color": "#dd0000",
+          "sprite_index": 67
+        },
+        {
+          "name": "마르실",
+          "color": "#dd0000",
+          "sprite_index": 91
+        },
+        {
+          "name": "켈시에스페란타",
+          "color": "#e42ce8",
+          "sprite_index": 117
+        },
+        {
+          "name": "실버애쉬더레인프로스트",
+          "color": "#e42ce8",
+          "sprite_index": 109
+        },
+        {
+          "name": "에이야퍄들라더크비트아스카",
+          "color": "#e42ce8",
+          "sprite_index": 73
+        },
+        {
+          "name": "위",
+          "color": "#e42ce8",
+          "sprite_index": 96
+        },
+        {
+          "name": "라플란드더데카덴차",
+          "color": "#e42ce8",
+          "sprite_index": 93
+        },
+        {
+          "name": "가비알디인빈서블",
+          "color": "#e42ce8",
+          "sprite_index": 37,
+          "potential": 2
+        },
+        {
+          "name": "프라마닉스더프레리타",
+          "color": "#0000ff",
+          "sprite_index": 110
+        },
+        {
+          "name": "첸더던스트릭",
+          "color": "#0000ff",
+          "sprite_index": 114,
+          "potential": 2
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
+        },
+        {
+          "name": "블레이즈디이그나이팅스파크",
+          "color": "#00aa00",
+          "sprite_index": 97
+        },
+        {
+          "name": "나란투야",
+          "color": null,
+          "sprite_index": 89
+        },
+        {
+          "name": "쏜즈",
+          "color": null,
+          "sprite_index": 6
+        },
+        {
+          "name": "혼",
+          "color": null,
+          "sprite_index": 30
+        },
+        {
+          "name": "치우바이",
+          "color": null,
+          "sprite_index": 66
         }
       ]
     },
@@ -5301,89 +5394,6 @@
           "name": "페넌스",
           "color": null,
           "sprite_index": 61
-        }
-      ]
-    },
-    {
-      "account_number": "03591",
-      "price": 155000,
-      "operators": [
-        {
-          "name": "토가와사키코",
-          "color": "#dd0000",
-          "sprite_index": 107
-        },
-        {
-          "name": "키린R야토",
-          "color": "#dd0000",
-          "sprite_index": 67
-        },
-        {
-          "name": "마르실",
-          "color": "#dd0000",
-          "sprite_index": 91
-        },
-        {
-          "name": "실버애쉬더레인프로스트",
-          "color": "#e42ce8",
-          "sprite_index": 109
-        },
-        {
-          "name": "에이야퍄들라더크비트아스카",
-          "color": "#e42ce8",
-          "sprite_index": 73
-        },
-        {
-          "name": "위",
-          "color": "#e42ce8",
-          "sprite_index": 96
-        },
-        {
-          "name": "가비알디인빈서블",
-          "color": "#e42ce8",
-          "sprite_index": 37,
-          "potential": 2
-        },
-        {
-          "name": "프라마닉스더프레리타",
-          "color": "#0000ff",
-          "sprite_index": 110
-        },
-        {
-          "name": "첸더던스트릭",
-          "color": "#0000ff",
-          "sprite_index": 114,
-          "potential": 2
-        },
-        {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
-          "name": "블레이즈디이그나이팅스파크",
-          "color": "#00aa00",
-          "sprite_index": 97
-        },
-        {
-          "name": "나란투야",
-          "color": null,
-          "sprite_index": 89
-        },
-        {
-          "name": "쏜즈",
-          "color": null,
-          "sprite_index": 6
-        },
-        {
-          "name": "혼",
-          "color": null,
-          "sprite_index": 30
-        },
-        {
-          "name": "치우바이",
-          "color": null,
-          "sprite_index": 66
         }
       ]
     },
