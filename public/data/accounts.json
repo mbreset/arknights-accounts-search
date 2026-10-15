@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-15T06:57:29.456156+00:00",
+  "updated_at": "2026-10-15T07:05:48.544855+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -26058,7 +26058,7 @@
     },
     {
       "account_number": "03607",
-      "price": 58000,
+      "price": 62000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -26095,6 +26095,11 @@
           "name": "수르트",
           "color": "#00aa00",
           "sprite_index": 0
+        },
+        {
+          "name": "티폰",
+          "color": null,
+          "sprite_index": 74
         },
         {
           "name": "좌락",
