@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-15T10:43:31.877842+00:00",
+  "updated_at": "2026-10-15T11:08:52.091926+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -2148,6 +2148,105 @@
           "name": "미즈키",
           "color": null,
           "sprite_index": 53
+        }
+      ]
+    },
+    {
+      "account_number": "00678",
+      "price": 148000,
+      "operators": [
+        {
+          "name": "토가와사키코",
+          "color": "#dd0000",
+          "sprite_index": 107
+        },
+        {
+          "name": "실버애쉬더레인프로스트",
+          "color": "#e42ce8",
+          "sprite_index": 109
+        },
+        {
+          "name": "엑시아더뉴커버넌트",
+          "color": "#e42ce8",
+          "sprite_index": 100
+        },
+        {
+          "name": "위",
+          "color": "#e42ce8",
+          "sprite_index": 96
+        },
+        {
+          "name": "라플란드더데카덴차",
+          "color": "#e42ce8",
+          "sprite_index": 93
+        },
+        {
+          "name": "스펙터디언체인드",
+          "color": "#e42ce8",
+          "sprite_index": 31
+        },
+        {
+          "name": "뮤엘시스",
+          "color": "#e42ce8",
+          "sprite_index": 69
+        },
+        {
+          "name": "페페",
+          "color": "#e42ce8",
+          "sprite_index": 88
+        },
+        {
+          "name": "트라고디아",
+          "color": "#0000ff",
+          "sprite_index": 103
+        },
+        {
+          "name": "첸더던스트릭",
+          "color": "#0000ff",
+          "sprite_index": 114
+        },
+        {
+          "name": "무에나",
+          "color": "#0000ff",
+          "sprite_index": 43
+        },
+        {
+          "name": "파죰카",
+          "color": null,
+          "sprite_index": 38,
+          "potential": 2
+        },
+        {
+          "name": "엔텔레키아",
+          "color": null,
+          "sprite_index": 102
+        },
+        {
+          "name": "린",
+          "color": null,
+          "sprite_index": 65
+        },
+        {
+          "name": "아이린",
+          "color": null,
+          "sprite_index": 32,
+          "potential": 2
+        },
+        {
+          "name": "샤이닝",
+          "color": null,
+          "sprite_index": 25
+        },
+        {
+          "name": "치우바이",
+          "color": null,
+          "sprite_index": 66,
+          "potential": 2
+        },
+        {
+          "name": "파투스",
+          "color": null,
+          "sprite_index": 54
         }
       ]
     },
@@ -5543,100 +5642,6 @@
           "name": "페넌스",
           "color": null,
           "sprite_index": 61
-        }
-      ]
-    },
-    {
-      "account_number": "00678",
-      "price": 114000,
-      "operators": [
-        {
-          "name": "토가와사키코",
-          "color": "#dd0000",
-          "sprite_index": 107
-        },
-        {
-          "name": "실버애쉬더레인프로스트",
-          "color": "#e42ce8",
-          "sprite_index": 109
-        },
-        {
-          "name": "위",
-          "color": "#e42ce8",
-          "sprite_index": 96
-        },
-        {
-          "name": "라플란드더데카덴차",
-          "color": "#e42ce8",
-          "sprite_index": 93
-        },
-        {
-          "name": "스펙터디언체인드",
-          "color": "#e42ce8",
-          "sprite_index": 31
-        },
-        {
-          "name": "뮤엘시스",
-          "color": "#e42ce8",
-          "sprite_index": 69
-        },
-        {
-          "name": "페페",
-          "color": "#e42ce8",
-          "sprite_index": 88
-        },
-        {
-          "name": "트라고디아",
-          "color": "#0000ff",
-          "sprite_index": 103
-        },
-        {
-          "name": "첸더던스트릭",
-          "color": "#0000ff",
-          "sprite_index": 114
-        },
-        {
-          "name": "무에나",
-          "color": "#0000ff",
-          "sprite_index": 43
-        },
-        {
-          "name": "파죰카",
-          "color": null,
-          "sprite_index": 38,
-          "potential": 2
-        },
-        {
-          "name": "엔텔레키아",
-          "color": null,
-          "sprite_index": 102
-        },
-        {
-          "name": "린",
-          "color": null,
-          "sprite_index": 65
-        },
-        {
-          "name": "아이린",
-          "color": null,
-          "sprite_index": 32,
-          "potential": 2
-        },
-        {
-          "name": "샤이닝",
-          "color": null,
-          "sprite_index": 25
-        },
-        {
-          "name": "치우바이",
-          "color": null,
-          "sprite_index": 66,
-          "potential": 2
-        },
-        {
-          "name": "파투스",
-          "color": null,
-          "sprite_index": 54
         }
       ]
     },
