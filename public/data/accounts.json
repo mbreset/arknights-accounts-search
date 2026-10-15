@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-15T05:15:10.837947+00:00",
+  "updated_at": "2026-10-15T05:15:38.853883+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -11443,7 +11443,7 @@
     },
     {
       "account_number": "02338",
-      "price": 93000,
+      "price": 106000,
       "operators": [
         {
           "name": "마르실",
@@ -11479,6 +11479,11 @@
           "name": "페페",
           "color": "#e42ce8",
           "sprite_index": 88
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "무에나",
