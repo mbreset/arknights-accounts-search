@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-15T00:46:45.626957+00:00",
+  "updated_at": "2026-10-15T00:55:51.789771+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -52926,6 +52926,27 @@
           "name": "스테인리스",
           "color": null,
           "sprite_index": 60
+        }
+      ]
+    },
+    {
+      "account_number": "04024",
+      "price": 46000,
+      "operators": [
+        {
+          "name": "켈시에스페란타",
+          "color": "#e42ce8",
+          "sprite_index": 117
+        },
+        {
+          "name": "실버애쉬더레인프로스트",
+          "color": "#e42ce8",
+          "sprite_index": 109
+        },
+        {
+          "name": "엑시아더뉴커버넌트",
+          "color": "#e42ce8",
+          "sprite_index": 100
         }
       ]
     },
