@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-15T04:56:58.414203+00:00",
+  "updated_at": "2026-10-15T05:03:02.553596+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -13397,7 +13397,7 @@
     },
     {
       "account_number": "03470",
-      "price": 92000,
+      "price": 105000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -13430,6 +13430,11 @@
           "name": "뮤엘시스",
           "color": "#e42ce8",
           "sprite_index": 69
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "프라마닉스더프레리타",
