@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-15T06:43:03.299388+00:00",
+  "updated_at": "2026-10-15T06:43:32.317081+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -49888,7 +49888,7 @@
     },
     {
       "account_number": "03586",
-      "price": 40000,
+      "price": 42000,
       "operators": [
         {
           "name": "키린R야토",
@@ -49939,6 +49939,11 @@
           "name": "외드레르",
           "color": null,
           "sprite_index": 76
+        },
+        {
+          "name": "스테인리스",
+          "color": null,
+          "sprite_index": 60
         }
       ]
     },
