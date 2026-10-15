@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-15T08:34:24.398478+00:00",
+  "updated_at": "2026-10-15T08:43:25.948113+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -43434,48 +43434,6 @@
           "name": "파죰카",
           "color": null,
           "sprite_index": 38
-        }
-      ]
-    },
-    {
-      "account_number": "03393",
-      "price": 44000,
-      "operators": [
-        {
-          "name": "키린R야토",
-          "color": "#dd0000",
-          "sprite_index": 67
-        },
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "비르투오사",
-          "color": "#e42ce8",
-          "sprite_index": 77
-        },
-        {
-          "name": "뮤엘시스",
-          "color": "#e42ce8",
-          "sprite_index": 69
-        },
-        {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
-          "name": "불피스폴리아",
-          "color": "#00aa00",
-          "sprite_index": 94
-        },
-        {
-          "name": "나란투야",
-          "color": null,
-          "sprite_index": 89,
-          "potential": 2
         }
       ]
     },
