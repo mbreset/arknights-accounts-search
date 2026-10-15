@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-15T14:09:05.525344+00:00",
+  "updated_at": "2026-10-15T14:13:17.527938+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -53071,32 +53071,6 @@
           "name": "위",
           "color": "#e42ce8",
           "sprite_index": 96
-        }
-      ]
-    },
-    {
-      "account_number": "04052",
-      "price": 49000,
-      "operators": [
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "위셔델",
-          "color": "#e42ce8",
-          "sprite_index": 85
-        },
-        {
-          "name": "엑시아더뉴커버넌트",
-          "color": "#e42ce8",
-          "sprite_index": 100
-        },
-        {
-          "name": "엔텔레키아",
-          "color": null,
-          "sprite_index": 102
         }
       ]
     },
