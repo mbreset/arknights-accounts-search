@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-15T01:39:08.473395+00:00",
+  "updated_at": "2026-10-15T01:51:50.868465+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -57188,6 +57188,28 @@
           "name": "비나빅토리아",
           "color": null,
           "sprite_index": 92
+        }
+      ]
+    },
+    {
+      "account_number": "04212",
+      "price": 30000,
+      "operators": [
+        {
+          "name": "왕",
+          "color": "#e42ce8",
+          "sprite_index": 113,
+          "potential": 2
+        },
+        {
+          "name": "켈시에스페란타",
+          "color": "#e42ce8",
+          "sprite_index": 117
+        },
+        {
+          "name": "첸더던스트릭",
+          "color": "#0000ff",
+          "sprite_index": 114
         }
       ]
     },
