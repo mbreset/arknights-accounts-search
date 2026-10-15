@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-15T01:21:44.162374+00:00",
+  "updated_at": "2026-10-15T01:39:08.473395+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -57371,6 +57371,28 @@
           "name": "님프",
           "color": "#00aa00",
           "sprite_index": 90
+        }
+      ]
+    },
+    {
+      "account_number": "04158",
+      "price": 15000,
+      "operators": [
+        {
+          "name": "켈시에스페란타",
+          "color": "#e42ce8",
+          "sprite_index": 117
+        },
+        {
+          "name": "위",
+          "color": "#e42ce8",
+          "sprite_index": 96
+        },
+        {
+          "name": "첸더던스트릭",
+          "color": "#0000ff",
+          "sprite_index": 114,
+          "potential": 2
         }
       ]
     },
