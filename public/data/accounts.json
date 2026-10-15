@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-15T05:03:02.553596+00:00",
+  "updated_at": "2026-10-15T05:07:34.661188+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -9799,6 +9799,82 @@
           "color": null,
           "sprite_index": 70,
           "potential": 2
+        }
+      ]
+    },
+    {
+      "account_number": "03884",
+      "price": 125000,
+      "operators": [
+        {
+          "name": "실버애쉬더레인프로스트",
+          "color": "#e42ce8",
+          "sprite_index": 109
+        },
+        {
+          "name": "엑시아더뉴커버넌트",
+          "color": "#e42ce8",
+          "sprite_index": 100
+        },
+        {
+          "name": "슈",
+          "color": "#e42ce8",
+          "sprite_index": 81
+        },
+        {
+          "name": "위",
+          "color": "#e42ce8",
+          "sprite_index": 96
+        },
+        {
+          "name": "라플란드더데카덴차",
+          "color": "#e42ce8",
+          "sprite_index": 93
+        },
+        {
+          "name": "비르투오사",
+          "color": "#e42ce8",
+          "sprite_index": 77
+        },
+        {
+          "name": "가비알디인빈서블",
+          "color": "#e42ce8",
+          "sprite_index": 37
+        },
+        {
+          "name": "첸더던스트릭",
+          "color": "#0000ff",
+          "sprite_index": 114
+        },
+        {
+          "name": "무에나",
+          "color": "#0000ff",
+          "sprite_index": 43
+        },
+        {
+          "name": "불피스폴리아",
+          "color": "#00aa00",
+          "sprite_index": 94
+        },
+        {
+          "name": "나란투야",
+          "color": null,
+          "sprite_index": 89
+        },
+        {
+          "name": "네크라스",
+          "color": null,
+          "sprite_index": 98
+        },
+        {
+          "name": "티폰",
+          "color": null,
+          "sprite_index": 74
+        },
+        {
+          "name": "스테인리스",
+          "color": null,
+          "sprite_index": 60
         }
       ]
     },
@@ -20018,77 +20094,6 @@
           "name": "안젤리나",
           "color": null,
           "sprite_index": 9
-        }
-      ]
-    },
-    {
-      "account_number": "03884",
-      "price": 91000,
-      "operators": [
-        {
-          "name": "실버애쉬더레인프로스트",
-          "color": "#e42ce8",
-          "sprite_index": 109
-        },
-        {
-          "name": "슈",
-          "color": "#e42ce8",
-          "sprite_index": 81
-        },
-        {
-          "name": "위",
-          "color": "#e42ce8",
-          "sprite_index": 96
-        },
-        {
-          "name": "라플란드더데카덴차",
-          "color": "#e42ce8",
-          "sprite_index": 93
-        },
-        {
-          "name": "비르투오사",
-          "color": "#e42ce8",
-          "sprite_index": 77
-        },
-        {
-          "name": "가비알디인빈서블",
-          "color": "#e42ce8",
-          "sprite_index": 37
-        },
-        {
-          "name": "첸더던스트릭",
-          "color": "#0000ff",
-          "sprite_index": 114
-        },
-        {
-          "name": "무에나",
-          "color": "#0000ff",
-          "sprite_index": 43
-        },
-        {
-          "name": "불피스폴리아",
-          "color": "#00aa00",
-          "sprite_index": 94
-        },
-        {
-          "name": "나란투야",
-          "color": null,
-          "sprite_index": 89
-        },
-        {
-          "name": "네크라스",
-          "color": null,
-          "sprite_index": 98
-        },
-        {
-          "name": "티폰",
-          "color": null,
-          "sprite_index": 74
-        },
-        {
-          "name": "스테인리스",
-          "color": null,
-          "sprite_index": 60
         }
       ]
     },
