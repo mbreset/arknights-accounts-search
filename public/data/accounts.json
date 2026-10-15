@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-15T07:46:14.710811+00:00",
+  "updated_at": "2026-10-15T07:56:03.560976+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -38784,7 +38784,7 @@
     },
     {
       "account_number": "03027",
-      "price": 39000,
+      "price": 44000,
       "operators": [
         {
           "name": "위",
@@ -38820,6 +38820,11 @@
           "name": "하루카",
           "color": "#0000ff",
           "sprite_index": 106
+        },
+        {
+          "name": "불피스폴리아",
+          "color": "#00aa00",
+          "sprite_index": 94
         },
         {
           "name": "스와이어디엘리건트위트",
