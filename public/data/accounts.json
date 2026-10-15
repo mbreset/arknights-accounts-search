@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-15T00:42:37.660252+00:00",
+  "updated_at": "2026-10-15T00:43:17.673166+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -7978,7 +7978,7 @@
     },
     {
       "account_number": "03883",
-      "price": 80000,
+      "price": 93000,
       "operators": [
         {
           "name": "Ela",
@@ -8016,6 +8016,11 @@
           "name": "페페",
           "color": "#e42ce8",
           "sprite_index": 88
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "첸더던스트릭",
