@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-15T21:54:51.298960+00:00",
+  "updated_at": "2026-10-15T22:44:58.145443+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -56747,7 +56747,7 @@
     },
     {
       "account_number": "03046",
-      "price": 39000,
+      "price": 52000,
       "operators": [
         {
           "name": "마르실",
@@ -56763,6 +56763,11 @@
           "name": "페페",
           "color": "#e42ce8",
           "sprite_index": 88
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "프라마닉스더프레리타",
