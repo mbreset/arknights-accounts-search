@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-15T19:19:04.253662+00:00",
+  "updated_at": "2026-10-15T19:26:15.317048+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -41085,7 +41085,7 @@
     },
     {
       "account_number": "02334",
-      "price": 73000,
+      "price": 86000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -41107,6 +41107,11 @@
           "color": "#e42ce8",
           "sprite_index": 77,
           "potential": 2
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "하루카",
