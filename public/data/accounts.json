@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-16T01:10:47.468574+00:00",
+  "updated_at": "2026-10-16T02:40:20.290363+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -43975,7 +43975,7 @@
           "name": "하루카",
           "color": "#0000ff",
           "sprite_index": 106,
-          "potential": 2
+          "potential": 3
         },
         {
           "name": "무에나",
