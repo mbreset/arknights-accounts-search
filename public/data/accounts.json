@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-16T14:57:04.828507+00:00",
+  "updated_at": "2026-10-16T15:10:50.511506+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -202,7 +202,7 @@
     },
     {
       "account_number": "03857",
-      "price": 170000,
+      "price": 170500,
       "operators": [
         {
           "name": "토가와사키코",
@@ -222,7 +222,8 @@
         {
           "name": "켈시에스페란타",
           "color": "#e42ce8",
-          "sprite_index": 117
+          "sprite_index": 117,
+          "potential": 2
         },
         {
           "name": "에이야퍄들라더크비트아스카",
