@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-16T16:51:21.287330+00:00",
+  "updated_at": "2026-10-16T18:30:23.647636+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -19732,7 +19732,7 @@
     },
     {
       "account_number": "03804",
-      "price": 111000,
+      "price": 115000,
       "operators": [
         {
           "name": "키린R야토",
@@ -19786,6 +19786,11 @@
           "color": null,
           "sprite_index": 89,
           "potential": 2
+        },
+        {
+          "name": "파죰카",
+          "color": null,
+          "sprite_index": 38
         },
         {
           "name": "좌락",
