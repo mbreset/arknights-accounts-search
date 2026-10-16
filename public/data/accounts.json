@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-16T03:03:37.789031+00:00",
+  "updated_at": "2026-10-16T03:13:09.931551+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -46488,7 +46488,7 @@
     },
     {
       "account_number": "03270",
-      "price": 72000,
+      "price": 78000,
       "operators": [
         {
           "name": "키린R야토",
@@ -46535,6 +46535,11 @@
           "name": "골든글로우",
           "color": "#00aa00",
           "sprite_index": 28
+        },
+        {
+          "name": "티티",
+          "color": "#00aa00",
+          "sprite_index": 112
         },
         {
           "name": "혼",
