@@ -19,6 +19,10 @@ npm run dev
 
 방문자 통계는 `worker/`의 Cloudflare Worker와 D1에 저장합니다. 통계 서버가 응답하지 않아도 계정 검색은 정상 작동합니다.
 
+원본 사이트는 `/visit`과 기존 테이블을 사용해 누적 기록을 유지합니다. 아이디팜 전용 사이트는 `/visit/idfarm`과 `idfarm_` 테이블을 사용해 0부터 독립 집계합니다. `0002_idfarm_stats.sql`은 아이디팜 테이블만 추가하며 기존 기록을 변경하지 않습니다. 관리자 접속은 집계에서 제외하고 통계는 관리자에게만 표시합니다. 공유 Worker는 이 저장소에서 관리하며, 마이그레이션과 Worker 배포 후 아이디팜 앱을 배포합니다.
+
+통계 분리 테스트: `node --test tests/visitor-stats.test.mjs` (Node.js 24 이상).
+
 최초 배포 순서:
 
 ```powershell

@@ -76,10 +76,12 @@ const readLimitedBody = async (request: Request) => {
   return new TextDecoder().decode(combined)
 }
 
-const readCounts = async (env: Env, day: string) => {
+type TablePrefix = '' | 'idfarm_'
+
+const readCounts = async (env: Env, day: string, prefix: TablePrefix) => {
   const [daily, total] = await env.DB.batch([
-    env.DB.prepare('SELECT visitor_count FROM daily_counts WHERE day = ?').bind(day),
-    env.DB.prepare('SELECT visitor_count FROM global_counts WHERE id = 1'),
+    env.DB.prepare(`SELECT visitor_count FROM ${prefix}daily_counts WHERE day = ?`).bind(day),
+    env.DB.prepare(`SELECT visitor_count FROM ${prefix}global_counts WHERE id = 1`),
   ])
   return {
     today: Number(daily.results[0]?.visitor_count ?? 0),
@@ -87,10 +89,10 @@ const readCounts = async (env: Env, day: string) => {
   }
 }
 
-const recordVisit = async (request: Request, env: Env, origin: string) => {
+const recordVisit = async (request: Request, env: Env, origin: string, prefix: TablePrefix) => {
   const clientIp = request.headers.get('CF-Connecting-IP') ?? 'unknown'
   const day = seoulDate()
-  if (clientIp === env.ADMIN_IP) return json(await readCounts(env, day), 200, origin)
+  if (clientIp === env.ADMIN_IP) return json(await readCounts(env, day, prefix), 200, origin)
 
   const rateLimit = await env.VISIT_RATE_LIMITER.limit({ key: clientIp })
   if (!rateLimit.success) return json({ error: 'Too many requests.' }, 429, origin)
@@ -111,17 +113,17 @@ const recordVisit = async (request: Request, env: Env, origin: string) => {
   const visitorHash = await hashVisitor(body.visitor_id, env.VISITOR_HASH_PEPPER)
   const now = new Date().toISOString()
   const [lifetimeInsert, dailyInsert] = await env.DB.batch([
-    env.DB.prepare('INSERT OR IGNORE INTO lifetime_visitors (visitor_hash, first_seen_at) VALUES (?, ?)').bind(visitorHash, now),
-    env.DB.prepare('INSERT OR IGNORE INTO daily_visitors (day, visitor_hash, first_seen_at) VALUES (?, ?, ?)').bind(day, visitorHash, now),
+    env.DB.prepare(`INSERT OR IGNORE INTO ${prefix}lifetime_visitors (visitor_hash, first_seen_at) VALUES (?, ?)`).bind(visitorHash, now),
+    env.DB.prepare(`INSERT OR IGNORE INTO ${prefix}daily_visitors (day, visitor_hash, first_seen_at) VALUES (?, ?, ?)`).bind(day, visitorHash, now),
   ])
 
   const updates: D1PreparedStatement[] = []
   if ((lifetimeInsert.meta.changes ?? 0) > 0) {
-    updates.push(env.DB.prepare('UPDATE global_counts SET visitor_count = visitor_count + 1 WHERE id = 1'))
+    updates.push(env.DB.prepare(`UPDATE ${prefix}global_counts SET visitor_count = visitor_count + 1 WHERE id = 1`))
   }
   if ((dailyInsert.meta.changes ?? 0) > 0) {
     updates.push(env.DB.prepare(`
-      INSERT INTO daily_counts (day, visitor_count) VALUES (?, 1)
+      INSERT INTO ${prefix}daily_counts (day, visitor_count) VALUES (?, 1)
       ON CONFLICT(day) DO UPDATE SET visitor_count = visitor_count + 1
     `).bind(day))
   }
@@ -154,7 +156,8 @@ export default {
         'Vary': 'Origin',
       },
     })
-    if (request.method === 'POST' && url.pathname === '/visit') return recordVisit(request, env, origin)
+    if (request.method === 'POST' && url.pathname === '/visit') return recordVisit(request, env, origin, '')
+    if (request.method === 'POST' && url.pathname === '/visit/idfarm') return recordVisit(request, env, origin, 'idfarm_')
     return json({ error: 'Not found.' }, 404, origin)
   },
 } satisfies ExportedHandler<Env>
