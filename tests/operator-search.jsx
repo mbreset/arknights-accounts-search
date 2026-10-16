@@ -47,7 +47,9 @@ const tests = [
     await mount()
     const notice = '아이디팜, 아이템매니아 등에서도 거래하실 수 있습니다. 먼저 카톡으로 문의주세요.'
     assert(document.querySelector('.site-footer .purchase-notice').textContent === notice, 'Footer notice missing')
+    assert([...document.querySelectorAll('.price-block')].every(block => block.textContent.trim() === '판매가10,000원'), 'List must show only the base sale price')
     await act(() => document.querySelector('.account-row').click())
+    assert(document.querySelector('.modal-price-strip').textContent === '오픈카톡 판매가10,000원', 'Modal must show only the Kakao sale price')
     assert(document.querySelector('.account-modal .purchase-notice').textContent === notice, 'Modal notice missing')
     const links = [...document.querySelectorAll('.site-footer a, .account-modal footer a')]
     assert(links.length === 2 && links.every(link => link.href === 'https://open.kakao.com/o/sJNEvhNe'), 'Purchase link must be Kakao only')

@@ -66,7 +66,6 @@ const getVisitorId = () => {
   }
 }
 
-const idFarmPrice = (price: number) => Math.floor(price / 0.95 / 100) * 100
 const formatPrice = (price: number) => `${price.toLocaleString('ko-KR')}원`
 
 function OperatorPortrait({ operator, sprite }: { operator: PublicOperator; sprite: Catalog['sprite'] }) {
@@ -121,7 +120,6 @@ function AccountModal({ account, sprite, onClose }: { account: PublicAccount; sp
 
         <div className="modal-price-strip">
           <div><span>오픈카톡 판매가</span><strong>{formatPrice(account.price)}</strong></div>
-          <div><span>아이디팜 최종 결제가</span><strong>{formatPrice(idFarmPrice(account.price))}</strong><small>수수료 5% 적용</small></div>
         </div>
 
         <div className="modal-operators">
@@ -415,7 +413,6 @@ export default function App() {
                 <div className="price-block">
                   <span>판매가</span>
                   <strong>{formatPrice(account.price)}</strong>
-                  <small>아이디팜 {formatPrice(idFarmPrice(account.price))}</small>
                 </div>
                 <ChevronRight size={18} />
               </button>

@@ -75,7 +75,6 @@ main { width: min(1320px, calc(100% - 48px)); margin: 0 auto; padding: 28px 0 54
 .price-block { display: grid; justify-items: end; gap: 2px; }
 .price-block span { color: var(--text-muted); font-size: 9px; }
 .price-block strong { font-size: 15px; }
-.price-block small { color: var(--text-secondary); font-size: 10px; }
 .state-panel { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 9px; min-height: 260px; border-top: 1px solid var(--border); border-bottom: 1px solid var(--border); color: var(--text-secondary); }
 .state-panel strong { color: var(--text); font-size: 13px; }
 .state-panel button { padding: 7px 12px; border: 1px solid var(--border); border-radius: 4px; background: var(--surface); cursor: pointer; }
@@ -95,10 +94,9 @@ main { width: min(1320px, calc(100% - 48px)); margin: 0 auto; padding: 28px 0 54
 .account-modal > header > div { display: grid; gap: 4px; }
 .account-modal > header span { color: var(--text-muted); font-size: 9px; font-weight: 800; }
 .account-modal > header > div > button { display: inline-flex; align-items: center; gap: 7px; padding: 0; border: 0; color: var(--accent); background: transparent; font-family: Consolas, monospace; font-size: 20px; font-weight: 800; cursor: pointer; }
-.modal-price-strip { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); border-bottom: 1px solid var(--border); }
-.modal-price-strip > div { display: grid; gap: 4px; padding: 17px 18px; border-right: 1px solid var(--border); }
-.modal-price-strip > div:last-child { border-right: 0; }
-.modal-price-strip span, .modal-price-strip small { color: var(--text-secondary); font-size: 10px; }
+.modal-price-strip { border-bottom: 1px solid var(--border); }
+.modal-price-strip > div { display: grid; gap: 4px; padding: 17px 18px; }
+.modal-price-strip span { color: var(--text-secondary); font-size: 10px; }
 .modal-price-strip strong { font-size: 19px; }
 .modal-operators { align-items: flex-start; max-height: 340px; min-height: 120px; overflow: auto; padding: 18px; }
 .account-modal > footer { display: grid; grid-template-columns: minmax(0, 1fr); gap: 8px; padding: 14px 18px; border-top: 1px solid var(--border); background: var(--surface-subtle); }
@@ -129,8 +127,5 @@ main { width: min(1320px, calc(100% - 48px)); margin: 0 auto; padding: 28px 0 54
 @media (max-width: 560px) {
   .search-mode { order: 2; }
   .search-field input { order: 3; flex-basis: 100%; }
-  .modal-price-strip, .account-modal > footer { grid-template-columns: 1fr; }
-  .modal-price-strip > div { border-right: 0; border-bottom: 1px solid var(--border); }
-  .modal-price-strip > div:last-child { border-bottom: 0; }
   .modal-operators { max-height: 290px; }
 }
