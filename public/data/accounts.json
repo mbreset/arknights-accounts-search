@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-16T09:47:14.420248+00:00",
+  "updated_at": "2026-10-16T09:49:43.398781+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -23791,7 +23791,8 @@
         {
           "name": "르무엔",
           "color": "#0000ff",
-          "sprite_index": 101
+          "sprite_index": 101,
+          "potential": 2
         },
         {
           "name": "레이즈더썬더브링어",
