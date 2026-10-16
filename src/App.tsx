@@ -12,7 +12,6 @@ import {
   RefreshCw,
   RotateCcw,
   Search,
-  ShoppingBag,
   X,
 } from 'lucide-react'
 import './App.css'
@@ -49,7 +48,7 @@ type VisitorStats = {
 }
 
 const OPEN_KAKAO_URL = 'https://open.kakao.com/o/sJNEvhNe'
-const IDFARM_URL = 'https://idfarm.co.kr/ItemMarket/gameItem/1438924'
+const PURCHASE_NOTICE = '아이디팜, 아이템매니아 등에서도 거래하실 수 있습니다. 먼저 카톡으로 문의주세요.'
 const PAGE_SIZE = 60
 const VISITOR_API_URL = import.meta.env.VITE_VISITOR_API_URL?.trim()
   || 'https://arknights-visitor-stats.simm7531.workers.dev'
@@ -135,9 +134,7 @@ function AccountModal({ account, sprite, onClose }: { account: PublicAccount; sp
           <a className="purchase-button kakao" href={OPEN_KAKAO_URL} target="_blank" rel="noreferrer">
             <MessageCircle size={18} /> 오픈카톡 문의 <ExternalLink size={14} />
           </a>
-          <a className="purchase-button idfarm" href={IDFARM_URL} target="_blank" rel="noreferrer">
-            <ShoppingBag size={18} /> 아이디팜에서 보기 <ExternalLink size={14} />
-          </a>
+          <p className="purchase-notice">{PURCHASE_NOTICE}</p>
         </footer>
       </section>
     </div>
@@ -437,7 +434,7 @@ export default function App() {
 
       <footer className="site-footer">
         <a href={OPEN_KAKAO_URL} target="_blank" rel="noreferrer"><MessageCircle size={16} /> 오픈카톡</a>
-        <a href={IDFARM_URL} target="_blank" rel="noreferrer"><ShoppingBag size={16} /> 아이디팜</a>
+        <p className="purchase-notice">{PURCHASE_NOTICE}</p>
       </footer>
 
       {selectedAccount && <AccountModal account={selectedAccount} sprite={catalog?.sprite ?? null} onClose={() => setSelectedAccount(null)} />}

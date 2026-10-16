@@ -43,6 +43,17 @@ const mount = async (withPotential = false) => {
   }
 }
 const tests = [
+  ['Purchase links use Kakao with marketplace guidance in footer and modal', async () => {
+    await mount()
+    const notice = '아이디팜, 아이템매니아 등에서도 거래하실 수 있습니다. 먼저 카톡으로 문의주세요.'
+    assert(document.querySelector('.site-footer .purchase-notice').textContent === notice, 'Footer notice missing')
+    await act(() => document.querySelector('.account-row').click())
+    assert(document.querySelector('.account-modal .purchase-notice').textContent === notice, 'Modal notice missing')
+    const links = [...document.querySelectorAll('.site-footer a, .account-modal footer a')]
+    assert(links.length === 2 && links.every(link => link.href === 'https://open.kakao.com/o/sJNEvhNe'), 'Purchase link must be Kakao only')
+    assert(!document.querySelector('a[href*="idfarm"]'), 'IDFarm link remains')
+    await click('닫기')
+  }],
   ['Potential search checkbox is visible immediately and enables per-operator controls', async () => {
     await mount(); await type('토가'); await key('Enter')
     assert(!document.querySelector('.operator-potential-trigger'), 'Potential controls shown by default')

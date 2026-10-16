@@ -84,9 +84,10 @@ main { width: min(1320px, calc(100% - 48px)); margin: 0 auto; padding: 28px 0 54
 .pagination span { color: var(--text-secondary); font-size: 11px; }
 .pagination strong { color: var(--text); }
 
-.site-footer { display: flex; justify-content: center; gap: 18px; padding: 20px 24px 34px; border-top: 1px solid var(--border); color: var(--text-secondary); font-size: 11px; }
+.site-footer { display: flex; flex-direction: column; align-items: center; gap: 10px; padding: 20px 24px 34px; border-top: 1px solid var(--border); color: var(--text-secondary); font-size: 11px; }
 .site-footer a { display: inline-flex; align-items: center; gap: 6px; text-decoration: none; }
 .site-footer a:hover { color: var(--accent); }
+.purchase-notice { margin: 0; color: var(--text-secondary); font-size: 12px; line-height: 1.6; text-align: center; word-break: keep-all; overflow-wrap: anywhere; }
 
 .modal-backdrop { position: fixed; z-index: 100; inset: 0; display: grid; place-items: center; padding: 16px; background: rgb(17 23 27 / 62%); backdrop-filter: blur(4px); }
 .account-modal { width: min(760px, calc(100vw - 32px)); overflow: hidden; border: 1px solid var(--border); border-radius: 8px; background: var(--surface); box-shadow: var(--shadow); }
@@ -100,10 +101,9 @@ main { width: min(1320px, calc(100% - 48px)); margin: 0 auto; padding: 28px 0 54
 .modal-price-strip span, .modal-price-strip small { color: var(--text-secondary); font-size: 10px; }
 .modal-price-strip strong { font-size: 19px; }
 .modal-operators { align-items: flex-start; max-height: 340px; min-height: 120px; overflow: auto; padding: 18px; }
-.account-modal > footer { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 8px; padding: 14px 18px; border-top: 1px solid var(--border); background: var(--surface-subtle); }
+.account-modal > footer { display: grid; grid-template-columns: minmax(0, 1fr); gap: 8px; padding: 14px 18px; border-top: 1px solid var(--border); background: var(--surface-subtle); }
 .purchase-button { display: flex; align-items: center; justify-content: center; gap: 8px; min-height: 44px; border: 1px solid transparent; border-radius: 5px; font-size: 12px; font-weight: 800; text-decoration: none; }
 .purchase-button.kakao { color: #171717; background: var(--kakao); }
-.purchase-button.idfarm { color: white; background: #2871d6; }
 
 @media (max-width: 820px) {
   .site-header { grid-template-columns: 38px minmax(0, 1fr) auto; min-height: 66px; padding: 0 12px; }
