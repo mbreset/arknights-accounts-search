@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-16T11:48:07.671361+00:00",
+  "updated_at": "2026-10-16T13:52:36.792653+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -42022,7 +42022,7 @@
     },
     {
       "account_number": "01909",
-      "price": 116000,
+      "price": 129000,
       "operators": [
         {
           "name": "왕",
@@ -42045,6 +42045,11 @@
           "name": "가비알디인빈서블",
           "color": "#e42ce8",
           "sprite_index": 37
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "프라마닉스더프레리타",
