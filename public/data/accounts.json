@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-16T11:10:48.715294+00:00",
+  "updated_at": "2026-10-16T11:24:19.999316+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -31338,12 +31338,13 @@
     },
     {
       "account_number": "02276",
-      "price": 115000,
+      "price": 115500,
       "operators": [
         {
           "name": "켈시에스페란타",
           "color": "#e42ce8",
-          "sprite_index": 117
+          "sprite_index": 117,
+          "potential": 2
         },
         {
           "name": "엑시아더뉴커버넌트",
