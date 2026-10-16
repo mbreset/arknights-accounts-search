@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-16T03:51:06.910728+00:00",
+  "updated_at": "2026-10-16T04:05:36.302801+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -27448,6 +27448,79 @@
       ]
     },
     {
+      "account_number": "03177",
+      "price": 131000,
+      "operators": [
+        {
+          "name": "키린R야토",
+          "color": "#dd0000",
+          "sprite_index": 67
+        },
+        {
+          "name": "왕",
+          "color": "#e42ce8",
+          "sprite_index": 113
+        },
+        {
+          "name": "켈시에스페란타",
+          "color": "#e42ce8",
+          "sprite_index": 117
+        },
+        {
+          "name": "위",
+          "color": "#e42ce8",
+          "sprite_index": 96
+        },
+        {
+          "name": "페페",
+          "color": "#e42ce8",
+          "sprite_index": 88,
+          "potential": 2
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
+        },
+        {
+          "name": "프라마닉스더프레리타",
+          "color": "#0000ff",
+          "sprite_index": 110
+        },
+        {
+          "name": "첸더던스트릭",
+          "color": "#0000ff",
+          "sprite_index": 114
+        },
+        {
+          "name": "울피아누스",
+          "color": "#0000ff",
+          "sprite_index": 87
+        },
+        {
+          "name": "르무엔",
+          "color": "#0000ff",
+          "sprite_index": 101,
+          "potential": 2
+        },
+        {
+          "name": "레이",
+          "color": "#00aa00",
+          "sprite_index": 80
+        },
+        {
+          "name": "오올헤약",
+          "color": null,
+          "sprite_index": 70
+        },
+        {
+          "name": "블레미샤인",
+          "color": null,
+          "sprite_index": 51
+        }
+      ]
+    },
+    {
       "account_number": "02309",
       "price": 95000,
       "operators": [
@@ -43688,74 +43761,6 @@
           "name": "미즈키",
           "color": null,
           "sprite_index": 53
-        }
-      ]
-    },
-    {
-      "account_number": "03177",
-      "price": 93000,
-      "operators": [
-        {
-          "name": "키린R야토",
-          "color": "#dd0000",
-          "sprite_index": 67
-        },
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "위",
-          "color": "#e42ce8",
-          "sprite_index": 96
-        },
-        {
-          "name": "페페",
-          "color": "#e42ce8",
-          "sprite_index": 88,
-          "potential": 2
-        },
-        {
-          "name": "클로저",
-          "color": "#0000ff",
-          "sprite_index": 118
-        },
-        {
-          "name": "프라마닉스더프레리타",
-          "color": "#0000ff",
-          "sprite_index": 110
-        },
-        {
-          "name": "첸더던스트릭",
-          "color": "#0000ff",
-          "sprite_index": 114
-        },
-        {
-          "name": "울피아누스",
-          "color": "#0000ff",
-          "sprite_index": 87
-        },
-        {
-          "name": "르무엔",
-          "color": "#0000ff",
-          "sprite_index": 101,
-          "potential": 2
-        },
-        {
-          "name": "레이",
-          "color": "#00aa00",
-          "sprite_index": 80
-        },
-        {
-          "name": "오올헤약",
-          "color": null,
-          "sprite_index": 70
-        },
-        {
-          "name": "블레미샤인",
-          "color": null,
-          "sprite_index": 51
         }
       ]
     },
