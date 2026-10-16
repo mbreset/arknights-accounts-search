@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-16T02:40:20.290363+00:00",
+  "updated_at": "2026-10-16T02:44:18.283083+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -1877,7 +1877,7 @@
     },
     {
       "account_number": "03032",
-      "price": 133000,
+      "price": 133500,
       "operators": [
         {
           "name": "토가와사키코",
@@ -1887,7 +1887,8 @@
         {
           "name": "켈시에스페란타",
           "color": "#e42ce8",
-          "sprite_index": 117
+          "sprite_index": 117,
+          "potential": 2
         },
         {
           "name": "호시구마더브리처",
