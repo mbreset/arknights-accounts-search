@@ -12,6 +12,7 @@ import {
   RefreshCw,
   RotateCcw,
   Search,
+  ShoppingBag,
   X,
 } from 'lucide-react'
 import './App.css'
@@ -48,7 +49,7 @@ type VisitorStats = {
 }
 
 const OPEN_KAKAO_URL = 'https://open.kakao.com/o/sJNEvhNe'
-const PURCHASE_NOTICE = '아이디팜, 아이템매니아 등에서도 거래하실 수 있습니다. 먼저 카톡으로 문의주세요.'
+const IDFARM_URL = 'https://idfarm.co.kr/ItemMarket/gameItem/1438924'
 const PAGE_SIZE = 60
 const VISITOR_API_URL = import.meta.env.VITE_VISITOR_API_URL?.trim()
   || 'https://arknights-visitor-stats.simm7531.workers.dev'
@@ -66,6 +67,7 @@ const getVisitorId = () => {
   }
 }
 
+const idFarmPrice = (price: number) => Math.floor(price / 0.95 / 100) * 100
 const formatPrice = (price: number) => `${price.toLocaleString('ko-KR')}원`
 
 function OperatorPortrait({ operator, sprite }: { operator: PublicOperator; sprite: Catalog['sprite'] }) {
@@ -120,6 +122,7 @@ function AccountModal({ account, sprite, onClose }: { account: PublicAccount; sp
 
         <div className="modal-price-strip">
           <div><span>오픈카톡 판매가</span><strong>{formatPrice(account.price)}</strong></div>
+          <div><span>아이디팜 최종 결제가</span><strong>{formatPrice(idFarmPrice(account.price))}</strong><small>수수료 5% 적용</small></div>
         </div>
 
         <div className="modal-operators">
@@ -132,7 +135,9 @@ function AccountModal({ account, sprite, onClose }: { account: PublicAccount; sp
           <a className="purchase-button kakao" href={OPEN_KAKAO_URL} target="_blank" rel="noreferrer">
             <MessageCircle size={18} /> 오픈카톡 문의 <ExternalLink size={14} />
           </a>
-          <p className="purchase-notice">{PURCHASE_NOTICE}</p>
+          <a className="purchase-button idfarm" href={IDFARM_URL} target="_blank" rel="noreferrer">
+            <ShoppingBag size={18} /> 아이디팜에서 보기 <ExternalLink size={14} />
+          </a>
         </footer>
       </section>
     </div>
@@ -413,6 +418,7 @@ export default function App() {
                 <div className="price-block">
                   <span>판매가</span>
                   <strong>{formatPrice(account.price)}</strong>
+                  <small>아이디팜 {formatPrice(idFarmPrice(account.price))}</small>
                 </div>
                 <ChevronRight size={18} />
               </button>
@@ -431,7 +437,7 @@ export default function App() {
 
       <footer className="site-footer">
         <a href={OPEN_KAKAO_URL} target="_blank" rel="noreferrer"><MessageCircle size={16} /> 오픈카톡</a>
-        <p className="purchase-notice">{PURCHASE_NOTICE}</p>
+        <a href={IDFARM_URL} target="_blank" rel="noreferrer"><ShoppingBag size={16} /> 아이디팜</a>
       </footer>
 
       {selectedAccount && <AccountModal account={selectedAccount} sprite={catalog?.sprite ?? null} onClose={() => setSelectedAccount(null)} />}
