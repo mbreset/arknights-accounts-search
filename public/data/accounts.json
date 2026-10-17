@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-17T00:50:48.873285+00:00",
+  "updated_at": "2026-10-17T01:30:45.488043+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -42069,7 +42069,7 @@
     },
     {
       "account_number": "00840",
-      "price": 86000,
+      "price": 97000,
       "operators": [
         {
           "name": "왕",
@@ -42095,6 +42095,11 @@
           "name": "이네스",
           "color": "#0000ff",
           "sprite_index": 68
+        },
+        {
+          "name": "Mon3tr",
+          "color": "#0000ff",
+          "sprite_index": 99
         },
         {
           "name": "아스카론",
