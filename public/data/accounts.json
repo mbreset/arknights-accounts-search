@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-17T10:54:14.923307+00:00",
+  "updated_at": "2026-10-17T11:00:18.244416+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -50397,7 +50397,7 @@
     },
     {
       "account_number": "02375",
-      "price": 67000,
+      "price": 72000,
       "operators": [
         {
           "name": "Ela",
@@ -50443,6 +50443,11 @@
           "name": "골든글로우",
           "color": "#00aa00",
           "sprite_index": 28
+        },
+        {
+          "name": "내스티",
+          "color": "#00aa00",
+          "sprite_index": 111
         },
         {
           "name": "블레이즈디이그나이팅스파크",
