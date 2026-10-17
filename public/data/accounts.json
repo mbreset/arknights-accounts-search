@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-17T16:12:54.004851+00:00",
+  "updated_at": "2026-10-17T16:13:45.870534+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -20059,7 +20059,7 @@
     },
     {
       "account_number": "02459",
-      "price": 51000,
+      "price": 64000,
       "operators": [
         {
           "name": "실버애쉬더레인프로스트",
@@ -20090,6 +20090,11 @@
           "name": "W",
           "color": "#e42ce8",
           "sprite_index": 35
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "좌락",
