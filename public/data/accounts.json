@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-17T14:52:08.320831+00:00",
+  "updated_at": "2026-10-17T15:01:56.473288+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -25933,7 +25933,7 @@
     },
     {
       "account_number": "02223",
-      "price": 66000,
+      "price": 79000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -25959,6 +25959,11 @@
           "name": "뮤엘시스",
           "color": "#e42ce8",
           "sprite_index": 69
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "무에나",
