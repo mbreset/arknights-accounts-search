@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-17T06:28:29.383568+00:00",
+  "updated_at": "2026-10-17T06:58:49.266751+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -57661,7 +57661,7 @@
     },
     {
       "account_number": "01582",
-      "price": 50000,
+      "price": 54000,
       "operators": [
         {
           "name": "슈",
@@ -57703,6 +57703,11 @@
           "name": "나란투야",
           "color": null,
           "sprite_index": 89
+        },
+        {
+          "name": "티폰",
+          "color": null,
+          "sprite_index": 74
         },
         {
           "name": "페넌스",
