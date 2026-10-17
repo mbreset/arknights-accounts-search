@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-17T01:30:45.488043+00:00",
+  "updated_at": "2026-10-17T01:40:35.615240+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -6298,6 +6298,80 @@
           "name": "팔라스",
           "color": null,
           "sprite_index": 24
+        }
+      ]
+    },
+    {
+      "account_number": "00692",
+      "price": 118000,
+      "operators": [
+        {
+          "name": "왕",
+          "color": "#e42ce8",
+          "sprite_index": 113
+        },
+        {
+          "name": "켈시에스페란타",
+          "color": "#e42ce8",
+          "sprite_index": 117
+        },
+        {
+          "name": "엑시아더뉴커버넌트",
+          "color": "#e42ce8",
+          "sprite_index": 100,
+          "potential": 2
+        },
+        {
+          "name": "에이야퍄들라더크비트아스카",
+          "color": "#e42ce8",
+          "sprite_index": 73
+        },
+        {
+          "name": "비르투오사",
+          "color": "#e42ce8",
+          "sprite_index": 77,
+          "potential": 2
+        },
+        {
+          "name": "총웨",
+          "color": "#e42ce8",
+          "sprite_index": 64,
+          "potential": 2
+        },
+        {
+          "name": "페페",
+          "color": "#e42ce8",
+          "sprite_index": 88
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
+        },
+        {
+          "name": "나란투야",
+          "color": null,
+          "sprite_index": 89
+        },
+        {
+          "name": "사리아",
+          "color": null,
+          "sprite_index": 10
+        },
+        {
+          "name": "아이린",
+          "color": null,
+          "sprite_index": 32
+        },
+        {
+          "name": "엑시아",
+          "color": null,
+          "sprite_index": 3
+        },
+        {
+          "name": "호시구마",
+          "color": null,
+          "sprite_index": 27
         }
       ]
     },
@@ -16905,75 +16979,6 @@
           "name": "스와이어디엘리건트위트",
           "color": null,
           "sprite_index": 72
-        }
-      ]
-    },
-    {
-      "account_number": "00692",
-      "price": 87000,
-      "operators": [
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "엑시아더뉴커버넌트",
-          "color": "#e42ce8",
-          "sprite_index": 100,
-          "potential": 2
-        },
-        {
-          "name": "에이야퍄들라더크비트아스카",
-          "color": "#e42ce8",
-          "sprite_index": 73
-        },
-        {
-          "name": "비르투오사",
-          "color": "#e42ce8",
-          "sprite_index": 77,
-          "potential": 2
-        },
-        {
-          "name": "총웨",
-          "color": "#e42ce8",
-          "sprite_index": 64,
-          "potential": 2
-        },
-        {
-          "name": "페페",
-          "color": "#e42ce8",
-          "sprite_index": 88
-        },
-        {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
-          "name": "나란투야",
-          "color": null,
-          "sprite_index": 89
-        },
-        {
-          "name": "사리아",
-          "color": null,
-          "sprite_index": 10
-        },
-        {
-          "name": "아이린",
-          "color": null,
-          "sprite_index": 32
-        },
-        {
-          "name": "엑시아",
-          "color": null,
-          "sprite_index": 3
-        },
-        {
-          "name": "호시구마",
-          "color": null,
-          "sprite_index": 27
         }
       ]
     },
