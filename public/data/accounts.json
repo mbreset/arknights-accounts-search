@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-17T05:00:25.494766+00:00",
+  "updated_at": "2026-10-17T05:59:22.296980+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -16318,7 +16318,7 @@
     },
     {
       "account_number": "02117",
-      "price": 106000,
+      "price": 115000,
       "operators": [
         {
           "name": "왕",
@@ -16360,6 +16360,11 @@
           "name": "무에나",
           "color": "#0000ff",
           "sprite_index": 43
+        },
+        {
+          "name": "로고스",
+          "color": "#0000ff",
+          "sprite_index": 86
         },
         {
           "name": "이그제큐터디엑스포에데레",
