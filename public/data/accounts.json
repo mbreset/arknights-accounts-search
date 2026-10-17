@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-17T03:31:14.458708+00:00",
+  "updated_at": "2026-10-17T04:54:13.422960+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -25460,7 +25460,7 @@
     },
     {
       "account_number": "03158",
-      "price": 87000,
+      "price": 100000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -25486,6 +25486,11 @@
           "name": "뮤엘시스",
           "color": "#e42ce8",
           "sprite_index": 69
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "로고스",
