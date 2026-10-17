@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-17T22:29:06.516122+00:00",
+  "updated_at": "2026-10-17T23:00:05.149547+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -18536,7 +18536,8 @@
         {
           "name": "이네스",
           "color": "#0000ff",
-          "sprite_index": 68
+          "sprite_index": 68,
+          "potential": 2
         },
         {
           "name": "데겐블레허",
