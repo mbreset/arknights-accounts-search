@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-17T03:30:39.127446+00:00",
+  "updated_at": "2026-10-17T03:31:14.458708+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -681,7 +681,7 @@
     },
     {
       "account_number": "01796",
-      "price": 122000,
+      "price": 132000,
       "operators": [
         {
           "name": "마르실",
@@ -733,6 +733,11 @@
           "name": "프라마닉스더프레리타",
           "color": "#0000ff",
           "sprite_index": 110
+        },
+        {
+          "name": "울피아누스",
+          "color": "#0000ff",
+          "sprite_index": 87
         },
         {
           "name": "님프",
