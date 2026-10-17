@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-17T13:16:12.515736+00:00",
+  "updated_at": "2026-10-17T13:16:51.361286+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -56817,6 +56817,27 @@
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        }
+      ]
+    },
+    {
+      "account_number": "04345",
+      "price": 30000,
+      "operators": [
+        {
+          "name": "왕",
+          "color": "#e42ce8",
+          "sprite_index": 113
+        },
+        {
+          "name": "켈시에스페란타",
+          "color": "#e42ce8",
+          "sprite_index": 117
+        },
+        {
+          "name": "트라고디아",
+          "color": "#0000ff",
+          "sprite_index": 103
         }
       ]
     },
