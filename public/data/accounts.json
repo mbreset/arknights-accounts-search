@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-17T07:50:59.831741+00:00",
+  "updated_at": "2026-10-17T08:04:07.926663+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -27000,6 +27000,80 @@
       ]
     },
     {
+      "account_number": "03693",
+      "price": 107000,
+      "operators": [
+        {
+          "name": "키린R야토",
+          "color": "#dd0000",
+          "sprite_index": 67
+        },
+        {
+          "name": "마르실",
+          "color": "#dd0000",
+          "sprite_index": 91,
+          "potential": 2
+        },
+        {
+          "name": "왕",
+          "color": "#e42ce8",
+          "sprite_index": 113,
+          "potential": 2
+        },
+        {
+          "name": "켈시에스페란타",
+          "color": "#e42ce8",
+          "sprite_index": 117
+        },
+        {
+          "name": "총웨",
+          "color": "#e42ce8",
+          "sprite_index": 64
+        },
+        {
+          "name": "프라마닉스더프레리타",
+          "color": "#0000ff",
+          "sprite_index": 110
+        },
+        {
+          "name": "레이즈더썬더브링어",
+          "color": "#00aa00",
+          "sprite_index": 104
+        },
+        {
+          "name": "리드더플레임섀도우",
+          "color": "#00aa00",
+          "sprite_index": 63,
+          "potential": 2
+        },
+        {
+          "name": "티폰",
+          "color": null,
+          "sprite_index": 74
+        },
+        {
+          "name": "사일라흐",
+          "color": null,
+          "sprite_index": 40
+        },
+        {
+          "name": "리",
+          "color": null,
+          "sprite_index": 8
+        },
+        {
+          "name": "치우바이",
+          "color": null,
+          "sprite_index": 66
+        },
+        {
+          "name": "팔라스",
+          "color": null,
+          "sprite_index": 24
+        }
+      ]
+    },
+    {
       "account_number": "03236",
       "price": 126000,
       "operators": [
@@ -43321,75 +43395,6 @@
           "name": "오올헤약",
           "color": null,
           "sprite_index": 70
-        }
-      ]
-    },
-    {
-      "account_number": "03693",
-      "price": 76000,
-      "operators": [
-        {
-          "name": "키린R야토",
-          "color": "#dd0000",
-          "sprite_index": 67
-        },
-        {
-          "name": "마르실",
-          "color": "#dd0000",
-          "sprite_index": 91,
-          "potential": 2
-        },
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113,
-          "potential": 2
-        },
-        {
-          "name": "총웨",
-          "color": "#e42ce8",
-          "sprite_index": 64
-        },
-        {
-          "name": "프라마닉스더프레리타",
-          "color": "#0000ff",
-          "sprite_index": 110
-        },
-        {
-          "name": "레이즈더썬더브링어",
-          "color": "#00aa00",
-          "sprite_index": 104
-        },
-        {
-          "name": "리드더플레임섀도우",
-          "color": "#00aa00",
-          "sprite_index": 63,
-          "potential": 2
-        },
-        {
-          "name": "티폰",
-          "color": null,
-          "sprite_index": 74
-        },
-        {
-          "name": "사일라흐",
-          "color": null,
-          "sprite_index": 40
-        },
-        {
-          "name": "리",
-          "color": null,
-          "sprite_index": 8
-        },
-        {
-          "name": "치우바이",
-          "color": null,
-          "sprite_index": 66
-        },
-        {
-          "name": "팔라스",
-          "color": null,
-          "sprite_index": 24
         }
       ]
     },
