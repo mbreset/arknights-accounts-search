@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-17T13:33:58.899526+00:00",
+  "updated_at": "2026-10-17T13:41:38.080969+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -57161,28 +57161,6 @@
           "name": "제시카더리버레이티드",
           "color": null,
           "sprite_index": 75
-        }
-      ]
-    },
-    {
-      "account_number": "04158",
-      "price": 15000,
-      "operators": [
-        {
-          "name": "켈시에스페란타",
-          "color": "#e42ce8",
-          "sprite_index": 117
-        },
-        {
-          "name": "위",
-          "color": "#e42ce8",
-          "sprite_index": 96
-        },
-        {
-          "name": "첸더던스트릭",
-          "color": "#0000ff",
-          "sprite_index": 114,
-          "potential": 2
         }
       ]
     },
