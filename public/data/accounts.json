@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-17T16:13:45.870534+00:00",
+  "updated_at": "2026-10-17T16:58:36.475281+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -29996,7 +29996,8 @@
         {
           "name": "나란투야",
           "color": null,
-          "sprite_index": 89
+          "sprite_index": 89,
+          "potential": 2
         },
         {
           "name": "좌락",
