@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-17T15:01:56.473288+00:00",
+  "updated_at": "2026-10-17T15:25:18.857764+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -50785,7 +50785,7 @@
     },
     {
       "account_number": "03793",
-      "price": 46000,
+      "price": 59000,
       "operators": [
         {
           "name": "키린R야토",
@@ -50806,6 +50806,11 @@
           "name": "페페",
           "color": "#e42ce8",
           "sprite_index": 88
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "첸더던스트릭",
