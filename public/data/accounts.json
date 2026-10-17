@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-17T13:41:38.080969+00:00",
+  "updated_at": "2026-10-17T13:42:24.911495+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -15231,7 +15231,7 @@
     },
     {
       "account_number": "01447",
-      "price": 116000,
+      "price": 116500,
       "operators": [
         {
           "name": "왕",
@@ -15241,7 +15241,8 @@
         {
           "name": "켈시에스페란타",
           "color": "#e42ce8",
-          "sprite_index": 117
+          "sprite_index": 117,
+          "potential": 2
         },
         {
           "name": "라플란드더데카덴차",
