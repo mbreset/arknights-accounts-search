@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-17T22:04:23.012257+00:00",
+  "updated_at": "2026-10-17T22:16:28.513631+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -53667,7 +53667,7 @@
     },
     {
       "account_number": "03351",
-      "price": 92000,
+      "price": 93000,
       "operators": [
         {
           "name": "키린R야토",
@@ -53687,7 +53687,8 @@
         {
           "name": "클로저",
           "color": "#0000ff",
-          "sprite_index": 118
+          "sprite_index": 118,
+          "potential": 2
         },
         {
           "name": "프라마닉스더프레리타",
