@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-17T14:26:34.562161+00:00",
+  "updated_at": "2026-10-17T14:48:46.218914+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -36932,7 +36932,7 @@
     },
     {
       "account_number": "02701",
-      "price": 74000,
+      "price": 80000,
       "operators": [
         {
           "name": "마르실",
@@ -36977,6 +36977,11 @@
           "color": "#0000ff",
           "sprite_index": 101,
           "potential": 3
+        },
+        {
+          "name": "레이",
+          "color": "#00aa00",
+          "sprite_index": 80
         },
         {
           "name": "리드더플레임섀도우",
