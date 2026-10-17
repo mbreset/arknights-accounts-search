@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-17T05:59:22.296980+00:00",
+  "updated_at": "2026-10-17T06:22:52.664800+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -27522,7 +27522,7 @@
     },
     {
       "account_number": "03141",
-      "price": 93000,
+      "price": 98000,
       "operators": [
         {
           "name": "왕",
@@ -27565,6 +27565,11 @@
           "name": "불피스폴리아",
           "color": "#00aa00",
           "sprite_index": 94
+        },
+        {
+          "name": "이그제큐터디엑스포에데레",
+          "color": "#00aa00",
+          "sprite_index": 71
         },
         {
           "name": "쏜즈",
