@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-17T20:41:42.601818+00:00",
+  "updated_at": "2026-10-17T20:48:08.698647+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -13590,7 +13590,7 @@
     },
     {
       "account_number": "02620",
-      "price": 132000,
+      "price": 137000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -13642,6 +13642,11 @@
           "name": "골든글로우",
           "color": "#00aa00",
           "sprite_index": 28
+        },
+        {
+          "name": "불피스폴리아",
+          "color": "#00aa00",
+          "sprite_index": 94
         },
         {
           "name": "네크라스",
