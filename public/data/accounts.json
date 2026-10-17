@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-17T13:42:24.911495+00:00",
+  "updated_at": "2026-10-17T13:50:02.073173+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -56542,7 +56542,7 @@
     },
     {
       "account_number": "02259",
-      "price": 47000,
+      "price": 57000,
       "operators": [
         {
           "name": "라플란드더데카덴차",
@@ -56569,6 +56569,11 @@
           "color": "#0000ff",
           "sprite_index": 43,
           "potential": 2
+        },
+        {
+          "name": "울피아누스",
+          "color": "#0000ff",
+          "sprite_index": 87
         },
         {
           "name": "르무엔",
