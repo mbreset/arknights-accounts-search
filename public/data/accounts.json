@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-16T23:54:32.205209+00:00",
+  "updated_at": "2026-10-17T00:10:56.452839+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -9689,7 +9689,7 @@
     },
     {
       "account_number": "01999",
-      "price": 135000,
+      "price": 148000,
       "operators": [
         {
           "name": "마르실",
@@ -9726,6 +9726,11 @@
           "name": "W",
           "color": "#e42ce8",
           "sprite_index": 35
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "프라마닉스더프레리타",
