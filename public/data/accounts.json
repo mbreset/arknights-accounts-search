@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-17T21:13:54.753104+00:00",
+  "updated_at": "2026-10-17T21:17:08.777962+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -38674,7 +38674,7 @@
     },
     {
       "account_number": "03654",
-      "price": 38000,
+      "price": 52000,
       "operators": [
         {
           "name": "키린R야토",
@@ -38700,6 +38700,11 @@
           "name": "페페",
           "color": "#e42ce8",
           "sprite_index": 88
+        },
+        {
+          "name": "트라고디아",
+          "color": "#0000ff",
+          "sprite_index": 103
         },
         {
           "name": "불피스폴리아",
