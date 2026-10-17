@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-17T23:27:06.559994+00:00",
+  "updated_at": "2026-10-17T23:34:34.727955+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -41950,7 +41950,7 @@
     },
     {
       "account_number": "02115",
-      "price": 80000,
+      "price": 93000,
       "operators": [
         {
           "name": "왕",
@@ -41971,6 +41971,11 @@
           "name": "비르투오사",
           "color": "#e42ce8",
           "sprite_index": 77
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "첸더던스트릭",
