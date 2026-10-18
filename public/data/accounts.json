@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-18T06:29:32.687755+00:00",
+  "updated_at": "2026-10-18T07:03:44.369555+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -24374,6 +24374,53 @@
       ]
     },
     {
+      "account_number": "03934",
+      "price": 107000,
+      "operators": [
+        {
+          "name": "토가와사키코",
+          "color": "#dd0000",
+          "sprite_index": 107,
+          "potential": 2
+        },
+        {
+          "name": "Ela",
+          "color": "#dd0000",
+          "sprite_index": 83
+        },
+        {
+          "name": "위셔델",
+          "color": "#e42ce8",
+          "sprite_index": 85
+        },
+        {
+          "name": "실버애쉬더레인프로스트",
+          "color": "#e42ce8",
+          "sprite_index": 109
+        },
+        {
+          "name": "에이야퍄들라더크비트아스카",
+          "color": "#e42ce8",
+          "sprite_index": 73
+        },
+        {
+          "name": "첸더던스트릭",
+          "color": "#0000ff",
+          "sprite_index": 114
+        },
+        {
+          "name": "마운틴",
+          "color": null,
+          "sprite_index": 11
+        },
+        {
+          "name": "머드락",
+          "color": null,
+          "sprite_index": 12
+        }
+      ]
+    },
+    {
       "account_number": "02022",
       "price": 75000,
       "operators": [
@@ -39960,48 +40007,6 @@
           "name": "비비아나",
           "color": null,
           "sprite_index": 78
-        }
-      ]
-    },
-    {
-      "account_number": "03934",
-      "price": 81000,
-      "operators": [
-        {
-          "name": "토가와사키코",
-          "color": "#dd0000",
-          "sprite_index": 107,
-          "potential": 2
-        },
-        {
-          "name": "Ela",
-          "color": "#dd0000",
-          "sprite_index": 83
-        },
-        {
-          "name": "실버애쉬더레인프로스트",
-          "color": "#e42ce8",
-          "sprite_index": 109
-        },
-        {
-          "name": "에이야퍄들라더크비트아스카",
-          "color": "#e42ce8",
-          "sprite_index": 73
-        },
-        {
-          "name": "첸더던스트릭",
-          "color": "#0000ff",
-          "sprite_index": 114
-        },
-        {
-          "name": "마운틴",
-          "color": null,
-          "sprite_index": 11
-        },
-        {
-          "name": "머드락",
-          "color": null,
-          "sprite_index": 12
         }
       ]
     },
