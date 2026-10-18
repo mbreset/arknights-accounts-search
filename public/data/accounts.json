@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-18T10:47:24.416810+00:00",
+  "updated_at": "2026-10-18T10:57:28.630923+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -21228,7 +21228,7 @@
     },
     {
       "account_number": "01254",
-      "price": 100000,
+      "price": 113000,
       "operators": [
         {
           "name": "Ela",
@@ -21260,6 +21260,11 @@
           "color": "#e42ce8",
           "sprite_index": 88,
           "potential": 2
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "첸더던스트릭",
