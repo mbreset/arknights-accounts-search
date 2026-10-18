@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-18T13:18:07.353958+00:00",
+  "updated_at": "2026-10-18T13:28:51.687375+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -12954,7 +12954,7 @@
     },
     {
       "account_number": "03540",
-      "price": 56000,
+      "price": 69000,
       "operators": [
         {
           "name": "키린R야토",
@@ -12990,6 +12990,11 @@
           "name": "뮤엘시스",
           "color": "#e42ce8",
           "sprite_index": 69
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "로고스",
