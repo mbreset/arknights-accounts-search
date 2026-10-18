@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-18T06:08:42.308487+00:00",
+  "updated_at": "2026-10-18T06:23:19.044115+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -53112,38 +53112,6 @@
           "name": "오올헤약",
           "color": null,
           "sprite_index": 70
-        }
-      ]
-    },
-    {
-      "account_number": "02813",
-      "price": 11000,
-      "operators": [
-        {
-          "name": "켈시에스페란타",
-          "color": "#e42ce8",
-          "sprite_index": 117
-        },
-        {
-          "name": "텍사스디오메르토사",
-          "color": "#e42ce8",
-          "sprite_index": 62
-        },
-        {
-          "name": "총웨",
-          "color": "#e42ce8",
-          "sprite_index": 64,
-          "potential": 2
-        },
-        {
-          "name": "비나빅토리아",
-          "color": null,
-          "sprite_index": 92
-        },
-        {
-          "name": "도로시",
-          "color": null,
-          "sprite_index": 56
         }
       ]
     },
