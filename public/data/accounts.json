@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-18T13:28:51.687375+00:00",
+  "updated_at": "2026-10-18T13:53:59.440576+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -28546,7 +28546,7 @@
     },
     {
       "account_number": "02822",
-      "price": 92000,
+      "price": 105000,
       "operators": [
         {
           "name": "마르실",
@@ -28572,6 +28572,11 @@
           "name": "라플란드더데카덴차",
           "color": "#e42ce8",
           "sprite_index": 93
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "프라마닉스더프레리타",
