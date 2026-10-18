@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-18T00:42:19.981116+00:00",
+  "updated_at": "2026-10-18T00:45:18.027610+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -6158,7 +6158,7 @@
     },
     {
       "account_number": "00692",
-      "price": 118000,
+      "price": 123000,
       "operators": [
         {
           "name": "왕",
@@ -6202,6 +6202,11 @@
           "name": "하루카",
           "color": "#0000ff",
           "sprite_index": 106
+        },
+        {
+          "name": "이그제큐터디엑스포에데레",
+          "color": "#00aa00",
+          "sprite_index": 71
         },
         {
           "name": "나란투야",
