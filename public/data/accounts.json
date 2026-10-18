@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-18T07:28:05.126803+00:00",
+  "updated_at": "2026-10-18T07:46:07.071493+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -26245,7 +26245,7 @@
     },
     {
       "account_number": "01836",
-      "price": 109000,
+      "price": 122000,
       "operators": [
         {
           "name": "왕",
@@ -26271,6 +26271,11 @@
           "name": "페페",
           "color": "#e42ce8",
           "sprite_index": 88
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "무에나",
