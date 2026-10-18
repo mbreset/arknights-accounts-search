@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-18T14:37:09.405073+00:00",
+  "updated_at": "2026-10-18T14:46:56.740269+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -31191,7 +31191,7 @@
     },
     {
       "account_number": "02496",
-      "price": 137000,
+      "price": 150000,
       "operators": [
         {
           "name": "켈시에스페란타",
@@ -31218,6 +31218,11 @@
           "name": "라플란드더데카덴차",
           "color": "#e42ce8",
           "sprite_index": 93
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "첸더던스트릭",
@@ -44596,6 +44601,78 @@
       ]
     },
     {
+      "account_number": "02643",
+      "price": 81000,
+      "operators": [
+        {
+          "name": "마르실",
+          "color": "#dd0000",
+          "sprite_index": 91
+        },
+        {
+          "name": "켈시에스페란타",
+          "color": "#e42ce8",
+          "sprite_index": 117
+        },
+        {
+          "name": "텍사스디오메르토사",
+          "color": "#e42ce8",
+          "sprite_index": 62
+        },
+        {
+          "name": "비르투오사",
+          "color": "#e42ce8",
+          "sprite_index": 77
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106,
+          "potential": 3
+        },
+        {
+          "name": "르무엔",
+          "color": "#0000ff",
+          "sprite_index": 101
+        },
+        {
+          "name": "만트라",
+          "color": "#00aa00",
+          "sprite_index": 108
+        },
+        {
+          "name": "이그제큐터디엑스포에데레",
+          "color": "#00aa00",
+          "sprite_index": 71
+        },
+        {
+          "name": "피아메타",
+          "color": null,
+          "sprite_index": 29
+        },
+        {
+          "name": "아이린",
+          "color": null,
+          "sprite_index": 32
+        },
+        {
+          "name": "도로시",
+          "color": null,
+          "sprite_index": 56
+        },
+        {
+          "name": "스와이어디엘리건트위트",
+          "color": null,
+          "sprite_index": 72
+        }
+      ]
+    },
+    {
       "account_number": "02383",
       "price": 55000,
       "operators": [
@@ -55696,73 +55773,6 @@
           "name": "미즈키",
           "color": null,
           "sprite_index": 53
-        }
-      ]
-    },
-    {
-      "account_number": "02643",
-      "price": 53000,
-      "operators": [
-        {
-          "name": "마르실",
-          "color": "#dd0000",
-          "sprite_index": 91
-        },
-        {
-          "name": "텍사스디오메르토사",
-          "color": "#e42ce8",
-          "sprite_index": 62
-        },
-        {
-          "name": "비르투오사",
-          "color": "#e42ce8",
-          "sprite_index": 77
-        },
-        {
-          "name": "클로저",
-          "color": "#0000ff",
-          "sprite_index": 118
-        },
-        {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106,
-          "potential": 3
-        },
-        {
-          "name": "르무엔",
-          "color": "#0000ff",
-          "sprite_index": 101
-        },
-        {
-          "name": "만트라",
-          "color": "#00aa00",
-          "sprite_index": 108
-        },
-        {
-          "name": "이그제큐터디엑스포에데레",
-          "color": "#00aa00",
-          "sprite_index": 71
-        },
-        {
-          "name": "피아메타",
-          "color": null,
-          "sprite_index": 29
-        },
-        {
-          "name": "아이린",
-          "color": null,
-          "sprite_index": 32
-        },
-        {
-          "name": "도로시",
-          "color": null,
-          "sprite_index": 56
-        },
-        {
-          "name": "스와이어디엘리건트위트",
-          "color": null,
-          "sprite_index": 72
         }
       ]
     },
