@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-18T14:24:13.215326+00:00",
+  "updated_at": "2026-10-18T14:37:09.405073+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -12789,7 +12789,7 @@
     },
     {
       "account_number": "02697",
-      "price": 61000,
+      "price": 65000,
       "operators": [
         {
           "name": "슈",
@@ -12835,6 +12835,11 @@
           "name": "르무엔",
           "color": "#0000ff",
           "sprite_index": 101
+        },
+        {
+          "name": "네크라스",
+          "color": null,
+          "sprite_index": 98
         },
         {
           "name": "티폰",
