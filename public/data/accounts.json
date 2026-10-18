@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-18T07:46:07.071493+00:00",
+  "updated_at": "2026-10-18T08:35:57.796178+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -12984,7 +12984,7 @@
     },
     {
       "account_number": "01397",
-      "price": 127000,
+      "price": 131000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -13046,6 +13046,11 @@
           "name": "스즈란",
           "color": null,
           "sprite_index": 20
+        },
+        {
+          "name": "쏜즈더로드스타",
+          "color": null,
+          "sprite_index": 95
         },
         {
           "name": "엑시아",
