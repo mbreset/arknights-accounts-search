@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-18T12:20:31.553288+00:00",
+  "updated_at": "2026-10-18T12:34:15.163569+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -49221,7 +49221,7 @@
     },
     {
       "account_number": "02065",
-      "price": 77000,
+      "price": 83000,
       "operators": [
         {
           "name": "마르실",
@@ -49263,6 +49263,11 @@
           "name": "님프",
           "color": "#00aa00",
           "sprite_index": 90
+        },
+        {
+          "name": "레이",
+          "color": "#00aa00",
+          "sprite_index": 80
         },
         {
           "name": "불피스폴리아",
