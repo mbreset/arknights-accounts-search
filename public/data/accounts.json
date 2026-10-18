@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-18T10:06:15.488341+00:00",
+  "updated_at": "2026-10-18T10:47:24.416810+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -758,7 +758,7 @@
     },
     {
       "account_number": "02856",
-      "price": 140000,
+      "price": 145000,
       "operators": [
         {
           "name": "마르실",
@@ -815,6 +815,11 @@
           "name": "데겐블레허",
           "color": "#00aa00",
           "sprite_index": 79
+        },
+        {
+          "name": "벨로네",
+          "color": "#00aa00",
+          "sprite_index": 115
         },
         {
           "name": "좌락",
