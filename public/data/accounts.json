@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-18T03:07:08.559764+00:00",
+  "updated_at": "2026-10-18T03:14:40.806459+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -57047,32 +57047,6 @@
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
-        }
-      ]
-    },
-    {
-      "account_number": "04298",
-      "price": 17000,
-      "operators": [
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "텍사스디오메르토사",
-          "color": "#e42ce8",
-          "sprite_index": 62
-        },
-        {
-          "name": "클로저",
-          "color": "#0000ff",
-          "sprite_index": 118
-        },
-        {
-          "name": "네크라스",
-          "color": null,
-          "sprite_index": 98
         }
       ]
     },
