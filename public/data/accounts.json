@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-18T15:25:30.431288+00:00",
+  "updated_at": "2026-10-18T16:24:20.146755+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -50839,7 +50839,8 @@
         {
           "name": "비르투오사",
           "color": "#e42ce8",
-          "sprite_index": 77
+          "sprite_index": 77,
+          "potential": 2
         },
         {
           "name": "페페",
