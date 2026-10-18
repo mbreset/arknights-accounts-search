@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-18T08:35:57.796178+00:00",
+  "updated_at": "2026-10-18T09:17:03.485169+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -56865,27 +56865,6 @@
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
-        }
-      ]
-    },
-    {
-      "account_number": "04352",
-      "price": 11000,
-      "operators": [
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "스펙터디언체인드",
-          "color": "#e42ce8",
-          "sprite_index": 31
-        },
-        {
-          "name": "클로저",
-          "color": "#0000ff",
-          "sprite_index": 118
         }
       ]
     },
