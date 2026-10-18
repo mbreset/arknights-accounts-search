@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-18T15:00:36.573459+00:00",
+  "updated_at": "2026-10-18T15:07:06.456995+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -28146,7 +28146,7 @@
     },
     {
       "account_number": "03718",
-      "price": 111000,
+      "price": 117000,
       "operators": [
         {
           "name": "키린R야토",
@@ -28188,6 +28188,11 @@
           "name": "골든글로우",
           "color": "#00aa00",
           "sprite_index": 28
+        },
+        {
+          "name": "레이",
+          "color": "#00aa00",
+          "sprite_index": 80
         },
         {
           "name": "불피스폴리아",
