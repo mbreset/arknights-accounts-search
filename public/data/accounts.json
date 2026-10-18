@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-18T22:15:51.092375+00:00",
+  "updated_at": "2026-10-18T22:57:29.073377+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -31516,7 +31516,7 @@
     },
     {
       "account_number": "00482",
-      "price": 79000,
+      "price": 92000,
       "operators": [
         {
           "name": "켈시에스페란타",
@@ -31542,6 +31542,11 @@
           "name": "페페",
           "color": "#e42ce8",
           "sprite_index": 88
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "레이",
