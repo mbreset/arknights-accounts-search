@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-18T00:35:49.880852+00:00",
+  "updated_at": "2026-10-18T00:42:19.981116+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -10318,7 +10318,7 @@
     },
     {
       "account_number": "01277",
-      "price": 129000,
+      "price": 131000,
       "operators": [
         {
           "name": "마르실",
@@ -10397,6 +10397,11 @@
           "name": "비비아나",
           "color": null,
           "sprite_index": 78
+        },
+        {
+          "name": "오올헤약",
+          "color": null,
+          "sprite_index": 70
         }
       ]
     },
