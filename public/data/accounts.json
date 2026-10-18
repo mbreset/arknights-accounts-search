@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-18T11:11:43.034046+00:00",
+  "updated_at": "2026-10-18T11:20:34.921052+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -57149,6 +57149,37 @@
           "name": "플레임테일",
           "color": null,
           "sprite_index": 55
+        }
+      ]
+    },
+    {
+      "account_number": "04009",
+      "price": 17000,
+      "operators": [
+        {
+          "name": "엑시아더뉴커버넌트",
+          "color": "#e42ce8",
+          "sprite_index": 100
+        },
+        {
+          "name": "로즈몬티스",
+          "color": "#e42ce8",
+          "sprite_index": 33
+        },
+        {
+          "name": "프라마닉스더프레리타",
+          "color": "#0000ff",
+          "sprite_index": 110
+        },
+        {
+          "name": "Mon3tr",
+          "color": "#0000ff",
+          "sprite_index": 99
+        },
+        {
+          "name": "파죰카",
+          "color": null,
+          "sprite_index": 38
         }
       ]
     },
