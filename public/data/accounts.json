@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-19T03:45:26.009796+00:00",
+  "updated_at": "2026-10-19T03:54:50.220756+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -24561,7 +24561,8 @@
         {
           "name": "비나빅토리아",
           "color": null,
-          "sprite_index": 92
+          "sprite_index": 92,
+          "potential": 2
         }
       ]
     },
