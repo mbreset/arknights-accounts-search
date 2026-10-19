@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-19T10:48:15.233225+00:00",
+  "updated_at": "2026-10-19T11:12:05.673201+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -40945,7 +40945,7 @@
     },
     {
       "account_number": "01741",
-      "price": 95000,
+      "price": 106000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -40984,6 +40984,11 @@
           "color": "#0000ff",
           "sprite_index": 106,
           "potential": 2
+        },
+        {
+          "name": "Mon3tr",
+          "color": "#0000ff",
+          "sprite_index": 99
         },
         {
           "name": "나란투야",
