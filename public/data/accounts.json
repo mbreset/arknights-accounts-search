@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-19T08:23:08.258517+00:00",
+  "updated_at": "2026-10-19T08:32:00.888992+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -5494,7 +5494,7 @@
     },
     {
       "account_number": "02382",
-      "price": 143000,
+      "price": 147000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -5557,6 +5557,11 @@
           "name": "나란투야",
           "color": null,
           "sprite_index": 89
+        },
+        {
+          "name": "네크라스",
+          "color": null,
+          "sprite_index": 98
         },
         {
           "name": "좌락",
