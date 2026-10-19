@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-19T09:39:07.899855+00:00",
+  "updated_at": "2026-10-19T09:42:28.077292+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -36844,7 +36844,7 @@
     },
     {
       "account_number": "02732",
-      "price": 65000,
+      "price": 78000,
       "operators": [
         {
           "name": "마르실",
@@ -36870,6 +36870,11 @@
           "name": "텍사스디오메르토사",
           "color": "#e42ce8",
           "sprite_index": 62
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "불피스폴리아",
