@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-19T07:51:54.387388+00:00",
+  "updated_at": "2026-10-19T08:08:28.002253+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -52701,6 +52701,37 @@
           "name": "클로저",
           "color": "#0000ff",
           "sprite_index": 118
+        }
+      ]
+    },
+    {
+      "account_number": "04348",
+      "price": 39000,
+      "operators": [
+        {
+          "name": "왕",
+          "color": "#e42ce8",
+          "sprite_index": 113
+        },
+        {
+          "name": "켈시에스페란타",
+          "color": "#e42ce8",
+          "sprite_index": 117
+        },
+        {
+          "name": "스카디더커럽팅하트",
+          "color": "#e42ce8",
+          "sprite_index": 34
+        },
+        {
+          "name": "Mon3tr",
+          "color": "#0000ff",
+          "sprite_index": 99
+        },
+        {
+          "name": "린",
+          "color": null,
+          "sprite_index": 65
         }
       ]
     },
