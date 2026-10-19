@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-19T08:08:28.002253+00:00",
+  "updated_at": "2026-10-19T08:23:08.258517+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -55677,7 +55677,7 @@
     },
     {
       "account_number": "03412",
-      "price": 51000,
+      "price": 57000,
       "operators": [
         {
           "name": "키린R야토",
@@ -55704,6 +55704,11 @@
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "님프",
+          "color": "#00aa00",
+          "sprite_index": 90
         },
         {
           "name": "골든글로우",
