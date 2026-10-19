@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-19T12:51:27.086676+00:00",
+  "updated_at": "2026-10-19T13:11:05.380608+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -39839,7 +39839,7 @@
     },
     {
       "account_number": "02602",
-      "price": 57000,
+      "price": 63000,
       "operators": [
         {
           "name": "에이야퍄들라더크비트아스카",
@@ -39882,6 +39882,11 @@
           "color": "#0000ff",
           "sprite_index": 101,
           "potential": 2
+        },
+        {
+          "name": "레이즈더썬더브링어",
+          "color": "#00aa00",
+          "sprite_index": 104
         },
         {
           "name": "불피스폴리아",
