@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-19T14:15:39.123602+00:00",
+  "updated_at": "2026-10-19T14:26:07.160442+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -5535,7 +5535,7 @@
     },
     {
       "account_number": "03749",
-      "price": 140000,
+      "price": 153000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -5571,6 +5571,11 @@
           "name": "니어더래디언트나이트",
           "color": "#e42ce8",
           "sprite_index": 59
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "프라마닉스더프레리타",
