@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-19T13:34:22.794242+00:00",
+  "updated_at": "2026-10-19T13:37:35.773256+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -36162,7 +36162,7 @@
     },
     {
       "account_number": "03815",
-      "price": 87000,
+      "price": 92000,
       "operators": [
         {
           "name": "키린R야토",
@@ -36199,6 +36199,11 @@
           "name": "르무엔",
           "color": "#0000ff",
           "sprite_index": 101
+        },
+        {
+          "name": "불피스폴리아",
+          "color": "#00aa00",
+          "sprite_index": 94
         },
         {
           "name": "나란투야",
