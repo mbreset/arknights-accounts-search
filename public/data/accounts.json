@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-19T06:51:36.057515+00:00",
+  "updated_at": "2026-10-19T07:44:57.533711+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -32674,7 +32674,7 @@
     },
     {
       "account_number": "02144",
-      "price": 124000,
+      "price": 126000,
       "operators": [
         {
           "name": "키린R야토",
@@ -32750,6 +32750,11 @@
           "name": "리",
           "color": null,
           "sprite_index": 8
+        },
+        {
+          "name": "외드레르",
+          "color": null,
+          "sprite_index": 76
         },
         {
           "name": "오올헤약",
