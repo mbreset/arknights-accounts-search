@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-19T09:33:18.704401+00:00",
+  "updated_at": "2026-10-19T09:39:07.899855+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -6488,7 +6488,7 @@
     },
     {
       "account_number": "03381",
-      "price": 161000,
+      "price": 174000,
       "operators": [
         {
           "name": "키린R야토",
@@ -6524,6 +6524,11 @@
           "name": "스펙터디언체인드",
           "color": "#e42ce8",
           "sprite_index": 31
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "하루카",
