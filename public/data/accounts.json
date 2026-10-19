@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-19T11:12:05.673201+00:00",
+  "updated_at": "2026-10-19T11:53:39.440488+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -10820,7 +10820,7 @@
     },
     {
       "account_number": "02601",
-      "price": 112000,
+      "price": 112500,
       "operators": [
         {
           "name": "마르실",
@@ -10831,7 +10831,8 @@
         {
           "name": "켈시에스페란타",
           "color": "#e42ce8",
-          "sprite_index": 117
+          "sprite_index": 117,
+          "potential": 2
         },
         {
           "name": "슈",
