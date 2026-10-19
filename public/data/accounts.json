@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-19T14:26:07.160442+00:00",
+  "updated_at": "2026-10-19T14:27:35.156228+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -55923,7 +55923,7 @@
     },
     {
       "account_number": "03776",
-      "price": 30000,
+      "price": 35000,
       "operators": [
         {
           "name": "키린R야토",
@@ -55949,6 +55949,11 @@
           "name": "로고스",
           "color": "#0000ff",
           "sprite_index": 86
+        },
+        {
+          "name": "불피스폴리아",
+          "color": "#00aa00",
+          "sprite_index": 94
         },
         {
           "name": "리드더플레임섀도우",
