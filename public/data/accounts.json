@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-19T03:42:34.147926+00:00",
+  "updated_at": "2026-10-19T03:45:26.009796+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -48680,7 +48680,7 @@
     },
     {
       "account_number": "02423",
-      "price": 83000,
+      "price": 89000,
       "operators": [
         {
           "name": "호시구마더브리처",
@@ -48723,6 +48723,11 @@
           "name": "로고스",
           "color": "#0000ff",
           "sprite_index": 86
+        },
+        {
+          "name": "레이즈더썬더브링어",
+          "color": "#00aa00",
+          "sprite_index": 104
         },
         {
           "name": "혼",
