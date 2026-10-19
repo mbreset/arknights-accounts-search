@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-19T09:08:37.138666+00:00",
+  "updated_at": "2026-10-19T09:16:06.986363+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -45161,6 +45161,57 @@
       ]
     },
     {
+      "account_number": "03703",
+      "price": 58000,
+      "operators": [
+        {
+          "name": "키린R야토",
+          "color": "#dd0000",
+          "sprite_index": 67
+        },
+        {
+          "name": "켈시에스페란타",
+          "color": "#e42ce8",
+          "sprite_index": 117
+        },
+        {
+          "name": "라플란드더데카덴차",
+          "color": "#e42ce8",
+          "sprite_index": 93
+        },
+        {
+          "name": "비르투오사",
+          "color": "#e42ce8",
+          "sprite_index": 77
+        },
+        {
+          "name": "첸더던스트릭",
+          "color": "#0000ff",
+          "sprite_index": 114
+        },
+        {
+          "name": "로고스",
+          "color": "#0000ff",
+          "sprite_index": 86
+        },
+        {
+          "name": "호시구마",
+          "color": null,
+          "sprite_index": 27
+        },
+        {
+          "name": "비비아나",
+          "color": null,
+          "sprite_index": 78
+        },
+        {
+          "name": "미즈키",
+          "color": null,
+          "sprite_index": 53
+        }
+      ]
+    },
+    {
       "account_number": "02643",
       "price": 81000,
       "operators": [
@@ -55780,52 +55831,6 @@
           "name": "오올헤약",
           "color": null,
           "sprite_index": 70
-        }
-      ]
-    },
-    {
-      "account_number": "03703",
-      "price": 30000,
-      "operators": [
-        {
-          "name": "키린R야토",
-          "color": "#dd0000",
-          "sprite_index": 67
-        },
-        {
-          "name": "라플란드더데카덴차",
-          "color": "#e42ce8",
-          "sprite_index": 93
-        },
-        {
-          "name": "비르투오사",
-          "color": "#e42ce8",
-          "sprite_index": 77
-        },
-        {
-          "name": "첸더던스트릭",
-          "color": "#0000ff",
-          "sprite_index": 114
-        },
-        {
-          "name": "로고스",
-          "color": "#0000ff",
-          "sprite_index": 86
-        },
-        {
-          "name": "호시구마",
-          "color": null,
-          "sprite_index": 27
-        },
-        {
-          "name": "비비아나",
-          "color": null,
-          "sprite_index": 78
-        },
-        {
-          "name": "미즈키",
-          "color": null,
-          "sprite_index": 53
         }
       ]
     },
