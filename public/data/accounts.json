@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-19T10:09:44.169965+00:00",
+  "updated_at": "2026-10-19T10:33:38.929975+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -57386,6 +57386,42 @@
           "name": "오올헤약",
           "color": null,
           "sprite_index": 70
+        }
+      ]
+    },
+    {
+      "account_number": "04062",
+      "price": 11000,
+      "operators": [
+        {
+          "name": "실버애쉬더레인프로스트",
+          "color": "#e42ce8",
+          "sprite_index": 109
+        },
+        {
+          "name": "로즈몬티스",
+          "color": "#e42ce8",
+          "sprite_index": 33
+        },
+        {
+          "name": "프라마닉스더프레리타",
+          "color": "#0000ff",
+          "sprite_index": 110
+        },
+        {
+          "name": "리드더플레임섀도우",
+          "color": "#00aa00",
+          "sprite_index": 63
+        },
+        {
+          "name": "실버애쉬",
+          "color": null,
+          "sprite_index": 2
+        },
+        {
+          "name": "외드레르",
+          "color": null,
+          "sprite_index": 76
         }
       ]
     },
