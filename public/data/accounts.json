@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-19T11:53:39.440488+00:00",
+  "updated_at": "2026-10-19T11:56:54.420232+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -31731,7 +31731,7 @@
     },
     {
       "account_number": "02211",
-      "price": 106000,
+      "price": 115000,
       "operators": [
         {
           "name": "켈시에스페란타",
@@ -31767,6 +31767,11 @@
           "name": "무에나",
           "color": "#0000ff",
           "sprite_index": 43
+        },
+        {
+          "name": "아스카론",
+          "color": "#0000ff",
+          "sprite_index": 84
         },
         {
           "name": "로고스",
