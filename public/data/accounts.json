@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-20T19:05:15.115117+00:00",
+  "updated_at": "2026-10-20T20:15:14.346454+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -19992,7 +19992,7 @@
     },
     {
       "account_number": "02509",
-      "price": 83000,
+      "price": 96000,
       "operators": [
         {
           "name": "실버애쉬더레인프로스트",
@@ -20023,6 +20023,11 @@
           "name": "페페",
           "color": "#e42ce8",
           "sprite_index": 88
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "하루카",
