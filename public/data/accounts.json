@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-20T12:51:17.954679+00:00",
+  "updated_at": "2026-10-20T14:11:31.109189+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -32960,7 +32960,7 @@
     },
     {
       "account_number": "02290",
-      "price": 62000,
+      "price": 75000,
       "operators": [
         {
           "name": "켈시에스페란타",
@@ -32987,6 +32987,11 @@
           "name": "스펙터디언체인드",
           "color": "#e42ce8",
           "sprite_index": 31
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "무에나",
