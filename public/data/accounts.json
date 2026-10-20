@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-20T15:45:37.402274+00:00",
+  "updated_at": "2026-10-20T15:54:41.642049+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -8978,7 +8978,7 @@
     },
     {
       "account_number": "03883",
-      "price": 93000,
+      "price": 94000,
       "operators": [
         {
           "name": "Ela",
@@ -9020,7 +9020,8 @@
         {
           "name": "클로저",
           "color": "#0000ff",
-          "sprite_index": 118
+          "sprite_index": 118,
+          "potential": 2
         },
         {
           "name": "첸더던스트릭",
