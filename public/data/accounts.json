@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-20T17:48:53.358735+00:00",
+  "updated_at": "2026-10-20T18:10:29.452423+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -49840,7 +49840,7 @@
     },
     {
       "account_number": "02693",
-      "price": 59000,
+      "price": 72000,
       "operators": [
         {
           "name": "호시구마더브리처",
@@ -49863,6 +49863,11 @@
           "name": "링",
           "color": "#e42ce8",
           "sprite_index": 1
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "하루카",
