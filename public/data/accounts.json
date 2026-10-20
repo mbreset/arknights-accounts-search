@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-20T11:27:49.095943+00:00",
+  "updated_at": "2026-10-20T11:30:23.518633+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -6036,7 +6036,7 @@
     },
     {
       "account_number": "00628",
-      "price": 112000,
+      "price": 114000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -6098,6 +6098,11 @@
           "name": "엑시아",
           "color": null,
           "sprite_index": 3
+        },
+        {
+          "name": "스와이어디엘리건트위트",
+          "color": null,
+          "sprite_index": 72
         },
         {
           "name": "샤이닝",
