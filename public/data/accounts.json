@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-20T15:54:41.642049+00:00",
+  "updated_at": "2026-10-20T16:55:37.150356+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -16456,7 +16456,7 @@
     },
     {
       "account_number": "01403",
-      "price": 86000,
+      "price": 99000,
       "operators": [
         {
           "name": "왕",
@@ -16487,6 +16487,11 @@
           "name": "로즈몬티스",
           "color": "#e42ce8",
           "sprite_index": 33
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "불피스폴리아",
