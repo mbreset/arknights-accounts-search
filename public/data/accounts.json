@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-20T12:44:52.947019+00:00",
+  "updated_at": "2026-10-20T12:51:17.954679+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -39159,7 +39159,7 @@
     },
     {
       "account_number": "03687",
-      "price": 81000,
+      "price": 94000,
       "operators": [
         {
           "name": "키린R야토",
@@ -39186,6 +39186,11 @@
           "name": "뮤엘시스",
           "color": "#e42ce8",
           "sprite_index": 69
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "첸더던스트릭",
