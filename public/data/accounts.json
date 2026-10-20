@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-20T07:55:55.170405+00:00",
+  "updated_at": "2026-10-20T08:02:52.438418+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -46188,7 +46188,7 @@
     },
     {
       "account_number": "01322",
-      "price": 64000,
+      "price": 70000,
       "operators": [
         {
           "name": "실버애쉬더레인프로스트",
@@ -46215,6 +46215,11 @@
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "만트라",
+          "color": "#00aa00",
+          "sprite_index": 108
         },
         {
           "name": "불피스폴리아",
