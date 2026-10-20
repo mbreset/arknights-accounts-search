@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-20T11:00:53.900547+00:00",
+  "updated_at": "2026-10-20T11:27:49.095943+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -1458,7 +1458,7 @@
     },
     {
       "account_number": "01626",
-      "price": 137000,
+      "price": 137500,
       "operators": [
         {
           "name": "마르실",
@@ -1468,7 +1468,8 @@
         {
           "name": "켈시에스페란타",
           "color": "#e42ce8",
-          "sprite_index": 117
+          "sprite_index": 117,
+          "potential": 2
         },
         {
           "name": "호시구마더브리처",
