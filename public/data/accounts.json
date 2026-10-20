@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-20T18:29:14.089666+00:00",
+  "updated_at": "2026-10-20T18:32:14.273010+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -49048,7 +49048,7 @@
     },
     {
       "account_number": "03307",
-      "price": 95000,
+      "price": 97000,
       "operators": [
         {
           "name": "키린R야토",
@@ -49105,6 +49105,11 @@
           "name": "혼",
           "color": null,
           "sprite_index": 30
+        },
+        {
+          "name": "제시카더리버레이티드",
+          "color": null,
+          "sprite_index": 75
         },
         {
           "name": "파투스",
