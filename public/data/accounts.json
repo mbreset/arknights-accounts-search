@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-20T09:26:58.686578+00:00",
+  "updated_at": "2026-10-20T09:32:03.782193+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -51863,7 +51863,7 @@
     },
     {
       "account_number": "01885",
-      "price": 28000,
+      "price": 41000,
       "operators": [
         {
           "name": "위",
@@ -51889,6 +51889,11 @@
           "name": "트라고디아",
           "color": "#0000ff",
           "sprite_index": 103
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "불피스폴리아",
