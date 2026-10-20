@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-20T08:02:52.438418+00:00",
+  "updated_at": "2026-10-20T08:12:52.538102+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -13041,7 +13041,7 @@
     },
     {
       "account_number": "02271",
-      "price": 105000,
+      "price": 118000,
       "operators": [
         {
           "name": "마르실",
@@ -13079,6 +13079,11 @@
           "name": "링",
           "color": "#e42ce8",
           "sprite_index": 1
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "첸더던스트릭",
