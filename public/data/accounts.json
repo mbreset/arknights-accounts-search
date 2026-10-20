@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-20T12:19:03.391544+00:00",
+  "updated_at": "2026-10-20T12:24:12.552232+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -44800,7 +44800,7 @@
     },
     {
       "account_number": "02286",
-      "price": 122000,
+      "price": 122500,
       "operators": [
         {
           "name": "마르실",
@@ -44810,7 +44810,8 @@
         {
           "name": "켈시에스페란타",
           "color": "#e42ce8",
-          "sprite_index": 117
+          "sprite_index": 117,
+          "potential": 2
         },
         {
           "name": "실버애쉬더레인프로스트",
