@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-20T21:08:29.223890+00:00",
+  "updated_at": "2026-10-20T21:35:56.916665+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -14120,7 +14120,7 @@
     },
     {
       "account_number": "02620",
-      "price": 137000,
+      "price": 142000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -14177,6 +14177,11 @@
           "name": "불피스폴리아",
           "color": "#00aa00",
           "sprite_index": 94
+        },
+        {
+          "name": "리드더플레임섀도우",
+          "color": "#00aa00",
+          "sprite_index": 63
         },
         {
           "name": "네크라스",
