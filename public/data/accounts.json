@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-20T17:04:48.843009+00:00",
+  "updated_at": "2026-10-20T17:40:09.272317+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -19813,7 +19813,7 @@
     },
     {
       "account_number": "00704",
-      "price": 126000,
+      "price": 138000,
       "operators": [
         {
           "name": "Ela",
@@ -19851,6 +19851,11 @@
           "name": "클로저",
           "color": "#0000ff",
           "sprite_index": 118
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
         },
         {
           "name": "울피아누스",
