@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-20T05:56:19.112494+00:00",
+  "updated_at": "2026-10-20T06:51:38.420213+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -54141,7 +54141,7 @@
     },
     {
       "account_number": "01825",
-      "price": 61000,
+      "price": 63000,
       "operators": [
         {
           "name": "실버애쉬더레인프로스트",
@@ -54205,6 +54205,11 @@
           "name": "린",
           "color": null,
           "sprite_index": 65
+        },
+        {
+          "name": "비나빅토리아",
+          "color": null,
+          "sprite_index": 92
         },
         {
           "name": "리",
