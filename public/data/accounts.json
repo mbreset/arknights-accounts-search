@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-21T00:14:18.910008+00:00",
+  "updated_at": "2026-10-21T01:02:36.115844+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -10362,7 +10362,7 @@
     },
     {
       "account_number": "03875",
-      "price": 106000,
+      "price": 112000,
       "operators": [
         {
           "name": "켈시에스페란타",
@@ -10409,6 +10409,11 @@
           "name": "르무엔",
           "color": "#0000ff",
           "sprite_index": 101
+        },
+        {
+          "name": "레이즈더썬더브링어",
+          "color": "#00aa00",
+          "sprite_index": 104
         },
         {
           "name": "골든글로우",
