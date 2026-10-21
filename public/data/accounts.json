@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-21T06:21:30.203316+00:00",
+  "updated_at": "2026-10-21T07:04:03.716906+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -57620,27 +57620,6 @@
           "name": "리",
           "color": null,
           "sprite_index": 8
-        }
-      ]
-    },
-    {
-      "account_number": "04172",
-      "price": 11000,
-      "operators": [
-        {
-          "name": "위셔델",
-          "color": "#e42ce8",
-          "sprite_index": 85
-        },
-        {
-          "name": "위",
-          "color": "#e42ce8",
-          "sprite_index": 96
-        },
-        {
-          "name": "첸더던스트릭",
-          "color": "#0000ff",
-          "sprite_index": 114
         }
       ]
     },
