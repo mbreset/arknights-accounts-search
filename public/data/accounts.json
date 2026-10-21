@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-21T01:59:48.664664+00:00",
+  "updated_at": "2026-10-21T02:02:10.798913+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -52340,7 +52340,7 @@
     },
     {
       "account_number": "01970",
-      "price": 77000,
+      "price": 90000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -52356,6 +52356,11 @@
           "name": "비르투오사",
           "color": "#e42ce8",
           "sprite_index": 77
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "프라마닉스더프레리타",
