@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-21T07:43:51.030415+00:00",
+  "updated_at": "2026-10-21T08:01:03.242417+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -53435,37 +53435,6 @@
           "name": "스테인리스",
           "color": null,
           "sprite_index": 60
-        }
-      ]
-    },
-    {
-      "account_number": "04328",
-      "price": 16000,
-      "operators": [
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "스펙터디언체인드",
-          "color": "#e42ce8",
-          "sprite_index": 31
-        },
-        {
-          "name": "총웨",
-          "color": "#e42ce8",
-          "sprite_index": 64
-        },
-        {
-          "name": "아스카론",
-          "color": "#0000ff",
-          "sprite_index": 84
-        },
-        {
-          "name": "비비아나",
-          "color": null,
-          "sprite_index": 78
         }
       ]
     },
