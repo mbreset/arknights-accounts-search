@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-21T22:22:11.856388+00:00",
+  "updated_at": "2026-10-21T22:35:52.070991+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -25430,7 +25430,7 @@
     },
     {
       "account_number": "03934",
-      "price": 107000,
+      "price": 121000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -25457,6 +25457,11 @@
           "name": "에이야퍄들라더크비트아스카",
           "color": "#e42ce8",
           "sprite_index": 73
+        },
+        {
+          "name": "트라고디아",
+          "color": "#0000ff",
+          "sprite_index": 103
         },
         {
           "name": "첸더던스트릭",
