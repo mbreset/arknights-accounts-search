@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-21T04:41:00.804906+00:00",
+  "updated_at": "2026-10-21T06:02:45.434856+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -45595,7 +45595,7 @@
     },
     {
       "account_number": "03703",
-      "price": 58000,
+      "price": 71000,
       "operators": [
         {
           "name": "키린R야토",
@@ -45616,6 +45616,11 @@
           "name": "비르투오사",
           "color": "#e42ce8",
           "sprite_index": 77
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "첸더던스트릭",
