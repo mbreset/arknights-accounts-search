@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-22T09:00:18.121855+00:00",
+  "updated_at": "2026-10-22T09:24:10.605316+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -42680,7 +42680,7 @@
     },
     {
       "account_number": "02179",
-      "price": 80000,
+      "price": 93000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -42702,6 +42702,11 @@
           "name": "뮤엘시스",
           "color": "#e42ce8",
           "sprite_index": 69
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "첸더던스트릭",
