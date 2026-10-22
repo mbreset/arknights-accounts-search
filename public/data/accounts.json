@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-22T19:22:17.435129+00:00",
+  "updated_at": "2026-10-22T19:28:02.464592+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -2275,7 +2275,7 @@
     },
     {
       "account_number": "02651",
-      "price": 143000,
+      "price": 148000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -2322,6 +2322,11 @@
           "name": "프라마닉스더프레리타",
           "color": "#0000ff",
           "sprite_index": 110
+        },
+        {
+          "name": "불피스폴리아",
+          "color": "#00aa00",
+          "sprite_index": 94
         },
         {
           "name": "이그제큐터디엑스포에데레",
