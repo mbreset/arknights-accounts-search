@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-22T09:38:50.755385+00:00",
+  "updated_at": "2026-10-22T10:08:53.246988+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -48514,7 +48514,7 @@
     },
     {
       "account_number": "03299",
-      "price": 73000,
+      "price": 77000,
       "operators": [
         {
           "name": "키린R야토",
@@ -48552,6 +48552,11 @@
           "color": "#00aa00",
           "sprite_index": 97,
           "potential": 2
+        },
+        {
+          "name": "좌락",
+          "color": null,
+          "sprite_index": 82
         },
         {
           "name": "머드락",
