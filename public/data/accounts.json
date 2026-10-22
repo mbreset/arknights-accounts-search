@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-22T22:26:23.046187+00:00",
+  "updated_at": "2026-10-22T22:28:24.429226+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -25640,7 +25640,7 @@
     },
     {
       "account_number": "03242",
-      "price": 124000,
+      "price": 126000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -25705,6 +25705,11 @@
           "color": null,
           "sprite_index": 92,
           "potential": 2
+        },
+        {
+          "name": "외드레르",
+          "color": null,
+          "sprite_index": 76
         }
       ]
     },
