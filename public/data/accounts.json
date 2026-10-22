@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-22T15:52:25.337526+00:00",
+  "updated_at": "2026-10-22T19:21:33.450691+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -12396,7 +12396,8 @@
         {
           "name": "엑시아더뉴커버넌트",
           "color": "#e42ce8",
-          "sprite_index": 100
+          "sprite_index": 100,
+          "potential": 2
         },
         {
           "name": "라플란드더데카덴차",
