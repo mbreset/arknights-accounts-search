@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-22T09:24:10.605316+00:00",
+  "updated_at": "2026-10-22T09:29:04.627502+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -33410,6 +33410,68 @@
       ]
     },
     {
+      "account_number": "03758",
+      "price": 80000,
+      "operators": [
+        {
+          "name": "키린R야토",
+          "color": "#dd0000",
+          "sprite_index": 67
+        },
+        {
+          "name": "켈시에스페란타",
+          "color": "#e42ce8",
+          "sprite_index": 117
+        },
+        {
+          "name": "호시구마더브리처",
+          "color": "#e42ce8",
+          "sprite_index": 105
+        },
+        {
+          "name": "위",
+          "color": "#e42ce8",
+          "sprite_index": 96
+        },
+        {
+          "name": "페페",
+          "color": "#e42ce8",
+          "sprite_index": 88
+        },
+        {
+          "name": "로고스",
+          "color": "#0000ff",
+          "sprite_index": 86,
+          "potential": 2
+        },
+        {
+          "name": "나란투야",
+          "color": null,
+          "sprite_index": 89
+        },
+        {
+          "name": "좌락",
+          "color": null,
+          "sprite_index": 82
+        },
+        {
+          "name": "제시카더리버레이티드",
+          "color": null,
+          "sprite_index": 75
+        },
+        {
+          "name": "카넬리안",
+          "color": null,
+          "sprite_index": 52
+        },
+        {
+          "name": "스테인리스",
+          "color": null,
+          "sprite_index": 60
+        }
+      ]
+    },
+    {
       "account_number": "03418",
       "price": 85500,
       "operators": [
@@ -49957,63 +50019,6 @@
           "name": "리",
           "color": null,
           "sprite_index": 8
-        }
-      ]
-    },
-    {
-      "account_number": "03758",
-      "price": 42000,
-      "operators": [
-        {
-          "name": "키린R야토",
-          "color": "#dd0000",
-          "sprite_index": 67
-        },
-        {
-          "name": "호시구마더브리처",
-          "color": "#e42ce8",
-          "sprite_index": 105
-        },
-        {
-          "name": "위",
-          "color": "#e42ce8",
-          "sprite_index": 96
-        },
-        {
-          "name": "페페",
-          "color": "#e42ce8",
-          "sprite_index": 88
-        },
-        {
-          "name": "로고스",
-          "color": "#0000ff",
-          "sprite_index": 86,
-          "potential": 2
-        },
-        {
-          "name": "나란투야",
-          "color": null,
-          "sprite_index": 89
-        },
-        {
-          "name": "좌락",
-          "color": null,
-          "sprite_index": 82
-        },
-        {
-          "name": "제시카더리버레이티드",
-          "color": null,
-          "sprite_index": 75
-        },
-        {
-          "name": "카넬리안",
-          "color": null,
-          "sprite_index": 52
-        },
-        {
-          "name": "스테인리스",
-          "color": null,
-          "sprite_index": 60
         }
       ]
     },
