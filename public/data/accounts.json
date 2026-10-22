@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-22T00:42:37.436406+00:00",
+  "updated_at": "2026-10-22T01:13:01.554969+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -1955,6 +1955,90 @@
           "name": "외드레르",
           "color": null,
           "sprite_index": 76
+        }
+      ]
+    },
+    {
+      "account_number": "01968",
+      "price": 161000,
+      "operators": [
+        {
+          "name": "토가와사키코",
+          "color": "#dd0000",
+          "sprite_index": 107
+        },
+        {
+          "name": "마르실",
+          "color": "#dd0000",
+          "sprite_index": 91
+        },
+        {
+          "name": "왕",
+          "color": "#e42ce8",
+          "sprite_index": 113
+        },
+        {
+          "name": "켈시에스페란타",
+          "color": "#e42ce8",
+          "sprite_index": 117
+        },
+        {
+          "name": "호시구마더브리처",
+          "color": "#e42ce8",
+          "sprite_index": 105
+        },
+        {
+          "name": "위",
+          "color": "#e42ce8",
+          "sprite_index": 96
+        },
+        {
+          "name": "W",
+          "color": "#e42ce8",
+          "sprite_index": 35
+        },
+        {
+          "name": "페페",
+          "color": "#e42ce8",
+          "sprite_index": 88,
+          "potential": 2
+        },
+        {
+          "name": "첸더던스트릭",
+          "color": "#0000ff",
+          "sprite_index": 114,
+          "potential": 2
+        },
+        {
+          "name": "무에나",
+          "color": "#0000ff",
+          "sprite_index": 43
+        },
+        {
+          "name": "수르트",
+          "color": "#00aa00",
+          "sprite_index": 0,
+          "potential": 2
+        },
+        {
+          "name": "나란투야",
+          "color": null,
+          "sprite_index": 89
+        },
+        {
+          "name": "로사",
+          "color": null,
+          "sprite_index": 58
+        },
+        {
+          "name": "스와이어디엘리건트위트",
+          "color": null,
+          "sprite_index": 72
+        },
+        {
+          "name": "플레임테일",
+          "color": null,
+          "sprite_index": 55
         }
       ]
     },
@@ -5680,85 +5764,6 @@
           "name": "네크라스",
           "color": null,
           "sprite_index": 98
-        }
-      ]
-    },
-    {
-      "account_number": "01968",
-      "price": 131000,
-      "operators": [
-        {
-          "name": "토가와사키코",
-          "color": "#dd0000",
-          "sprite_index": 107
-        },
-        {
-          "name": "마르실",
-          "color": "#dd0000",
-          "sprite_index": 91
-        },
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "호시구마더브리처",
-          "color": "#e42ce8",
-          "sprite_index": 105
-        },
-        {
-          "name": "위",
-          "color": "#e42ce8",
-          "sprite_index": 96
-        },
-        {
-          "name": "W",
-          "color": "#e42ce8",
-          "sprite_index": 35
-        },
-        {
-          "name": "페페",
-          "color": "#e42ce8",
-          "sprite_index": 88,
-          "potential": 2
-        },
-        {
-          "name": "첸더던스트릭",
-          "color": "#0000ff",
-          "sprite_index": 114,
-          "potential": 2
-        },
-        {
-          "name": "무에나",
-          "color": "#0000ff",
-          "sprite_index": 43
-        },
-        {
-          "name": "수르트",
-          "color": "#00aa00",
-          "sprite_index": 0,
-          "potential": 2
-        },
-        {
-          "name": "나란투야",
-          "color": null,
-          "sprite_index": 89
-        },
-        {
-          "name": "로사",
-          "color": null,
-          "sprite_index": 58
-        },
-        {
-          "name": "스와이어디엘리건트위트",
-          "color": null,
-          "sprite_index": 72
-        },
-        {
-          "name": "플레임테일",
-          "color": null,
-          "sprite_index": 55
         }
       ]
     },
