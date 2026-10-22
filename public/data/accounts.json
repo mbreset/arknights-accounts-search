@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-22T08:28:28.738241+00:00",
+  "updated_at": "2026-10-22T08:31:44.795325+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -51040,6 +51040,63 @@
       ]
     },
     {
+      "account_number": "02993",
+      "price": 45000,
+      "operators": [
+        {
+          "name": "슈",
+          "color": "#e42ce8",
+          "sprite_index": 81
+        },
+        {
+          "name": "텍사스디오메르토사",
+          "color": "#e42ce8",
+          "sprite_index": 62
+        },
+        {
+          "name": "스카디더커럽팅하트",
+          "color": "#e42ce8",
+          "sprite_index": 34
+        },
+        {
+          "name": "첸더홀룽데이",
+          "color": "#e42ce8",
+          "sprite_index": 36
+        },
+        {
+          "name": "첸더던스트릭",
+          "color": "#0000ff",
+          "sprite_index": 114
+        },
+        {
+          "name": "르무엔",
+          "color": "#0000ff",
+          "sprite_index": 101
+        },
+        {
+          "name": "님프",
+          "color": "#00aa00",
+          "sprite_index": 90
+        },
+        {
+          "name": "나란투야",
+          "color": null,
+          "sprite_index": 89,
+          "potential": 2
+        },
+        {
+          "name": "파죰카",
+          "color": null,
+          "sprite_index": 38
+        },
+        {
+          "name": "미즈키",
+          "color": null,
+          "sprite_index": 53
+        }
+      ]
+    },
+    {
       "account_number": "01899",
       "price": 47000,
       "operators": [
@@ -55996,58 +56053,6 @@
           "name": "비비아나",
           "color": null,
           "sprite_index": 78
-        }
-      ]
-    },
-    {
-      "account_number": "02993",
-      "price": 35000,
-      "operators": [
-        {
-          "name": "슈",
-          "color": "#e42ce8",
-          "sprite_index": 81
-        },
-        {
-          "name": "텍사스디오메르토사",
-          "color": "#e42ce8",
-          "sprite_index": 62
-        },
-        {
-          "name": "첸더홀룽데이",
-          "color": "#e42ce8",
-          "sprite_index": 36
-        },
-        {
-          "name": "첸더던스트릭",
-          "color": "#0000ff",
-          "sprite_index": 114
-        },
-        {
-          "name": "르무엔",
-          "color": "#0000ff",
-          "sprite_index": 101
-        },
-        {
-          "name": "님프",
-          "color": "#00aa00",
-          "sprite_index": 90
-        },
-        {
-          "name": "나란투야",
-          "color": null,
-          "sprite_index": 89,
-          "potential": 2
-        },
-        {
-          "name": "파죰카",
-          "color": null,
-          "sprite_index": 38
-        },
-        {
-          "name": "미즈키",
-          "color": null,
-          "sprite_index": 53
         }
       ]
     },
