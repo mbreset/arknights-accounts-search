@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-22T02:33:06.987165+00:00",
+  "updated_at": "2026-10-22T03:50:14.293645+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -26849,7 +26849,7 @@
     },
     {
       "account_number": "00579",
-      "price": 94000,
+      "price": 96000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -26926,6 +26926,11 @@
           "name": "샤이닝",
           "color": null,
           "sprite_index": 25
+        },
+        {
+          "name": "외드레르",
+          "color": null,
+          "sprite_index": 76
         },
         {
           "name": "치우바이",
