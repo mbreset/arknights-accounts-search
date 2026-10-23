@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-23T08:18:36.633447+00:00",
+  "updated_at": "2026-10-23T08:21:46.680110+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -31328,7 +31328,7 @@
     },
     {
       "account_number": "03322",
-      "price": 69000,
+      "price": 73000,
       "operators": [
         {
           "name": "키린R야토",
@@ -31371,6 +31371,11 @@
           "name": "나란투야",
           "color": null,
           "sprite_index": 89
+        },
+        {
+          "name": "쏜즈더로드스타",
+          "color": null,
+          "sprite_index": 95
         },
         {
           "name": "오올헤약",
