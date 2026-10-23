@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-23T09:34:22.380753+00:00",
+  "updated_at": "2026-10-23T09:58:11.572680+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -40075,7 +40075,7 @@
     },
     {
       "account_number": "03806",
-      "price": 77000,
+      "price": 78000,
       "operators": [
         {
           "name": "키린R야토",
@@ -40107,7 +40107,7 @@
           "name": "클로저",
           "color": "#0000ff",
           "sprite_index": 118,
-          "potential": 2
+          "potential": 3
         },
         {
           "name": "무에나",
