@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-23T01:20:02.581560+00:00",
+  "updated_at": "2026-10-23T02:01:23.276533+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -16218,6 +16218,88 @@
       ]
     },
     {
+      "account_number": "02499",
+      "price": 103000,
+      "operators": [
+        {
+          "name": "마르실",
+          "color": "#dd0000",
+          "sprite_index": 91
+        },
+        {
+          "name": "왕",
+          "color": "#e42ce8",
+          "sprite_index": 113
+        },
+        {
+          "name": "켈시에스페란타",
+          "color": "#e42ce8",
+          "sprite_index": 117
+        },
+        {
+          "name": "텍사스디오메르토사",
+          "color": "#e42ce8",
+          "sprite_index": 62
+        },
+        {
+          "name": "비르투오사",
+          "color": "#e42ce8",
+          "sprite_index": 77
+        },
+        {
+          "name": "페페",
+          "color": "#e42ce8",
+          "sprite_index": 88
+        },
+        {
+          "name": "울피아누스",
+          "color": "#0000ff",
+          "sprite_index": 87
+        },
+        {
+          "name": "블레이즈디이그나이팅스파크",
+          "color": "#00aa00",
+          "sprite_index": 97
+        },
+        {
+          "name": "쏜즈더로드스타",
+          "color": null,
+          "sprite_index": 95
+        },
+        {
+          "name": "페넌스",
+          "color": null,
+          "sprite_index": 61,
+          "potential": 2
+        },
+        {
+          "name": "린",
+          "color": null,
+          "sprite_index": 65
+        },
+        {
+          "name": "도로시",
+          "color": null,
+          "sprite_index": 56
+        },
+        {
+          "name": "스와이어디엘리건트위트",
+          "color": null,
+          "sprite_index": 72
+        },
+        {
+          "name": "비비아나",
+          "color": null,
+          "sprite_index": 78
+        },
+        {
+          "name": "오올헤약",
+          "color": null,
+          "sprite_index": 70
+        }
+      ]
+    },
+    {
       "account_number": "02134",
       "price": 135000,
       "operators": [
@@ -31229,83 +31311,6 @@
           "name": "유넥티스",
           "color": null,
           "sprite_index": 50
-        }
-      ]
-    },
-    {
-      "account_number": "02499",
-      "price": 65000,
-      "operators": [
-        {
-          "name": "마르실",
-          "color": "#dd0000",
-          "sprite_index": 91
-        },
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "텍사스디오메르토사",
-          "color": "#e42ce8",
-          "sprite_index": 62
-        },
-        {
-          "name": "비르투오사",
-          "color": "#e42ce8",
-          "sprite_index": 77
-        },
-        {
-          "name": "페페",
-          "color": "#e42ce8",
-          "sprite_index": 88
-        },
-        {
-          "name": "울피아누스",
-          "color": "#0000ff",
-          "sprite_index": 87
-        },
-        {
-          "name": "블레이즈디이그나이팅스파크",
-          "color": "#00aa00",
-          "sprite_index": 97
-        },
-        {
-          "name": "쏜즈더로드스타",
-          "color": null,
-          "sprite_index": 95
-        },
-        {
-          "name": "페넌스",
-          "color": null,
-          "sprite_index": 61,
-          "potential": 2
-        },
-        {
-          "name": "린",
-          "color": null,
-          "sprite_index": 65
-        },
-        {
-          "name": "도로시",
-          "color": null,
-          "sprite_index": 56
-        },
-        {
-          "name": "스와이어디엘리건트위트",
-          "color": null,
-          "sprite_index": 72
-        },
-        {
-          "name": "비비아나",
-          "color": null,
-          "sprite_index": 78
-        },
-        {
-          "name": "오올헤약",
-          "color": null,
-          "sprite_index": 70
         }
       ]
     },
