@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-23T06:42:08.635149+00:00",
+  "updated_at": "2026-10-23T07:29:18.489691+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -22277,7 +22277,7 @@
     },
     {
       "account_number": "02406",
-      "price": 98000,
+      "price": 111000,
       "operators": [
         {
           "name": "마르실",
@@ -22308,6 +22308,11 @@
           "name": "니엔",
           "color": "#e42ce8",
           "sprite_index": 16
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "아스카론",
