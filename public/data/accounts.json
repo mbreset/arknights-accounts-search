@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-23T04:12:27.546540+00:00",
+  "updated_at": "2026-10-23T04:15:28.867379+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -52962,33 +52962,6 @@
       ]
     },
     {
-      "account_number": "04247",
-      "price": 64000,
-      "operators": [
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113,
-          "potential": 2
-        },
-        {
-          "name": "켈시에스페란타",
-          "color": "#e42ce8",
-          "sprite_index": 117
-        },
-        {
-          "name": "위셔델",
-          "color": "#e42ce8",
-          "sprite_index": 85
-        },
-        {
-          "name": "첸더던스트릭",
-          "color": "#0000ff",
-          "sprite_index": 114
-        }
-      ]
-    },
-    {
       "account_number": "04205",
       "price": 60500,
       "operators": [
@@ -58192,7 +58165,7 @@
     },
     {
       "account_number": "02137",
-      "price": 46000,
+      "price": 59000,
       "operators": [
         {
           "name": "Ela",
@@ -58203,6 +58176,11 @@
           "name": "마르실",
           "color": "#dd0000",
           "sprite_index": 91
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "첸더던스트릭",
