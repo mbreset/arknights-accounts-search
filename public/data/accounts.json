@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-24T08:29:29.170768+00:00",
+  "updated_at": "2026-10-24T08:36:39.991865+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -24056,7 +24056,7 @@
     },
     {
       "account_number": "00389",
-      "price": 75000,
+      "price": 88000,
       "operators": [
         {
           "name": "호시구마더브리처",
@@ -24088,6 +24088,11 @@
           "name": "페페",
           "color": "#e42ce8",
           "sprite_index": 88
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "첸더던스트릭",
