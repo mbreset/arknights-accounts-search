@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-24T06:21:50.183948+00:00",
+  "updated_at": "2026-10-24T06:26:54.189993+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -7470,6 +7470,88 @@
           "name": "비나빅토리아",
           "color": null,
           "sprite_index": 92
+        }
+      ]
+    },
+    {
+      "account_number": "03154",
+      "price": 130000,
+      "operators": [
+        {
+          "name": "키린R야토",
+          "color": "#dd0000",
+          "sprite_index": 67
+        },
+        {
+          "name": "왕",
+          "color": "#e42ce8",
+          "sprite_index": 113
+        },
+        {
+          "name": "켈시에스페란타",
+          "color": "#e42ce8",
+          "sprite_index": 117
+        },
+        {
+          "name": "호시구마더브리처",
+          "color": "#e42ce8",
+          "sprite_index": 105,
+          "potential": 2
+        },
+        {
+          "name": "텍사스디오메르토사",
+          "color": "#e42ce8",
+          "sprite_index": 62
+        },
+        {
+          "name": "뮤엘시스",
+          "color": "#e42ce8",
+          "sprite_index": 69
+        },
+        {
+          "name": "페페",
+          "color": "#e42ce8",
+          "sprite_index": 88
+        },
+        {
+          "name": "프라마닉스더프레리타",
+          "color": "#0000ff",
+          "sprite_index": 110
+        },
+        {
+          "name": "르무엔",
+          "color": "#0000ff",
+          "sprite_index": 101
+        },
+        {
+          "name": "불피스폴리아",
+          "color": "#00aa00",
+          "sprite_index": 94
+        },
+        {
+          "name": "좌락",
+          "color": null,
+          "sprite_index": 82
+        },
+        {
+          "name": "아이린",
+          "color": null,
+          "sprite_index": 32
+        },
+        {
+          "name": "에벤홀츠",
+          "color": null,
+          "sprite_index": 39
+        },
+        {
+          "name": "팬텀",
+          "color": null,
+          "sprite_index": 18
+        },
+        {
+          "name": "미즈키",
+          "color": null,
+          "sprite_index": 53
         }
       ]
     },
@@ -18053,83 +18135,6 @@
           "name": "오올헤약",
           "color": null,
           "sprite_index": 70
-        }
-      ]
-    },
-    {
-      "account_number": "03154",
-      "price": 99000,
-      "operators": [
-        {
-          "name": "키린R야토",
-          "color": "#dd0000",
-          "sprite_index": 67
-        },
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "호시구마더브리처",
-          "color": "#e42ce8",
-          "sprite_index": 105,
-          "potential": 2
-        },
-        {
-          "name": "텍사스디오메르토사",
-          "color": "#e42ce8",
-          "sprite_index": 62
-        },
-        {
-          "name": "뮤엘시스",
-          "color": "#e42ce8",
-          "sprite_index": 69
-        },
-        {
-          "name": "페페",
-          "color": "#e42ce8",
-          "sprite_index": 88
-        },
-        {
-          "name": "프라마닉스더프레리타",
-          "color": "#0000ff",
-          "sprite_index": 110
-        },
-        {
-          "name": "르무엔",
-          "color": "#0000ff",
-          "sprite_index": 101
-        },
-        {
-          "name": "불피스폴리아",
-          "color": "#00aa00",
-          "sprite_index": 94
-        },
-        {
-          "name": "좌락",
-          "color": null,
-          "sprite_index": 82
-        },
-        {
-          "name": "아이린",
-          "color": null,
-          "sprite_index": 32
-        },
-        {
-          "name": "에벤홀츠",
-          "color": null,
-          "sprite_index": 39
-        },
-        {
-          "name": "팬텀",
-          "color": null,
-          "sprite_index": 18
-        },
-        {
-          "name": "미즈키",
-          "color": null,
-          "sprite_index": 53
         }
       ]
     },
