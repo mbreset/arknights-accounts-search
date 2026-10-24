@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-24T09:21:35.447152+00:00",
+  "updated_at": "2026-10-24T10:00:07.202977+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -38490,7 +38490,8 @@
         {
           "name": "니어더래디언트나이트",
           "color": "#e42ce8",
-          "sprite_index": 59
+          "sprite_index": 59,
+          "potential": 2
         },
         {
           "name": "링",
