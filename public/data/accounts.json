@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-24T16:38:16.964895+00:00",
+  "updated_at": "2026-10-24T16:52:33.131305+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -57342,6 +57342,33 @@
           "name": "벨로네",
           "color": "#00aa00",
           "sprite_index": 115
+        }
+      ]
+    },
+    {
+      "account_number": "04337",
+      "price": 33500,
+      "operators": [
+        {
+          "name": "왕",
+          "color": "#e42ce8",
+          "sprite_index": 113
+        },
+        {
+          "name": "켈시에스페란타",
+          "color": "#e42ce8",
+          "sprite_index": 117,
+          "potential": 2
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
+        },
+        {
+          "name": "좌락",
+          "color": null,
+          "sprite_index": 82
         }
       ]
     },
