@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-24T08:57:18.056393+00:00",
+  "updated_at": "2026-10-24T09:01:52.754790+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -41529,33 +41529,6 @@
           "name": "카넬리안",
           "color": null,
           "sprite_index": 52
-        }
-      ]
-    },
-    {
-      "account_number": "04036",
-      "price": 64500,
-      "operators": [
-        {
-          "name": "토가와사키코",
-          "color": "#dd0000",
-          "sprite_index": 107
-        },
-        {
-          "name": "켈시에스페란타",
-          "color": "#e42ce8",
-          "sprite_index": 117,
-          "potential": 2
-        },
-        {
-          "name": "엑시아더뉴커버넌트",
-          "color": "#e42ce8",
-          "sprite_index": 100
-        },
-        {
-          "name": "비르투오사",
-          "color": "#e42ce8",
-          "sprite_index": 77
         }
       ]
     },
