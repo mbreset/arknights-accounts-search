@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-24T21:11:42.767337+00:00",
+  "updated_at": "2026-10-24T21:45:34.638158+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -37496,7 +37496,7 @@
     },
     {
       "account_number": "00809",
-      "price": 93000,
+      "price": 99000,
       "operators": [
         {
           "name": "Ela",
@@ -37535,6 +37535,11 @@
           "color": "#0000ff",
           "sprite_index": 86,
           "potential": 2
+        },
+        {
+          "name": "티티",
+          "color": "#00aa00",
+          "sprite_index": 112
         },
         {
           "name": "불피스폴리아",
