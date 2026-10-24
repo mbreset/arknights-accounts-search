@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-24T14:01:42.356394+00:00",
+  "updated_at": "2026-10-24T14:18:54.680614+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -21106,7 +21106,7 @@
     },
     {
       "account_number": "00704",
-      "price": 138000,
+      "price": 139000,
       "operators": [
         {
           "name": "Ela",
@@ -21143,7 +21143,8 @@
         {
           "name": "클로저",
           "color": "#0000ff",
-          "sprite_index": 118
+          "sprite_index": 118,
+          "potential": 2
         },
         {
           "name": "하루카",
