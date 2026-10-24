@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-24T12:21:55.240316+00:00",
+  "updated_at": "2026-10-24T12:39:12.490593+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -53717,6 +53717,68 @@
       ]
     },
     {
+      "account_number": "03110",
+      "price": 62000,
+      "operators": [
+        {
+          "name": "켈시에스페란타",
+          "color": "#e42ce8",
+          "sprite_index": 117
+        },
+        {
+          "name": "위",
+          "color": "#e42ce8",
+          "sprite_index": 96
+        },
+        {
+          "name": "텍사스디오메르토사",
+          "color": "#e42ce8",
+          "sprite_index": 62
+        },
+        {
+          "name": "프라마닉스더프레리타",
+          "color": "#0000ff",
+          "sprite_index": 110
+        },
+        {
+          "name": "울피아누스",
+          "color": "#0000ff",
+          "sprite_index": 87,
+          "potential": 3
+        },
+        {
+          "name": "로고스",
+          "color": "#0000ff",
+          "sprite_index": 86
+        },
+        {
+          "name": "불피스폴리아",
+          "color": "#00aa00",
+          "sprite_index": 94
+        },
+        {
+          "name": "티폰",
+          "color": null,
+          "sprite_index": 74
+        },
+        {
+          "name": "페넌스",
+          "color": null,
+          "sprite_index": 61
+        },
+        {
+          "name": "비비아나",
+          "color": null,
+          "sprite_index": 78
+        },
+        {
+          "name": "팔라스",
+          "color": null,
+          "sprite_index": 24
+        }
+      ]
+    },
+    {
       "account_number": "04075",
       "price": 32000,
       "operators": [
@@ -58740,63 +58802,6 @@
           "name": "혼",
           "color": null,
           "sprite_index": 30
-        }
-      ]
-    },
-    {
-      "account_number": "03110",
-      "price": 34000,
-      "operators": [
-        {
-          "name": "위",
-          "color": "#e42ce8",
-          "sprite_index": 96
-        },
-        {
-          "name": "텍사스디오메르토사",
-          "color": "#e42ce8",
-          "sprite_index": 62
-        },
-        {
-          "name": "프라마닉스더프레리타",
-          "color": "#0000ff",
-          "sprite_index": 110
-        },
-        {
-          "name": "울피아누스",
-          "color": "#0000ff",
-          "sprite_index": 87,
-          "potential": 3
-        },
-        {
-          "name": "로고스",
-          "color": "#0000ff",
-          "sprite_index": 86
-        },
-        {
-          "name": "불피스폴리아",
-          "color": "#00aa00",
-          "sprite_index": 94
-        },
-        {
-          "name": "티폰",
-          "color": null,
-          "sprite_index": 74
-        },
-        {
-          "name": "페넌스",
-          "color": null,
-          "sprite_index": 61
-        },
-        {
-          "name": "비비아나",
-          "color": null,
-          "sprite_index": 78
-        },
-        {
-          "name": "팔라스",
-          "color": null,
-          "sprite_index": 24
         }
       ]
     },
