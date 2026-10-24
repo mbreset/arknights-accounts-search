@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-24T23:46:14.515160+00:00",
+  "updated_at": "2026-10-24T23:54:41.045680+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -16256,6 +16256,74 @@
       ]
     },
     {
+      "account_number": "03620",
+      "price": 133000,
+      "operators": [
+        {
+          "name": "키린R야토",
+          "color": "#dd0000",
+          "sprite_index": 67,
+          "potential": 2
+        },
+        {
+          "name": "마르실",
+          "color": "#dd0000",
+          "sprite_index": 91
+        },
+        {
+          "name": "왕",
+          "color": "#e42ce8",
+          "sprite_index": 113
+        },
+        {
+          "name": "켈시에스페란타",
+          "color": "#e42ce8",
+          "sprite_index": 117
+        },
+        {
+          "name": "호시구마더브리처",
+          "color": "#e42ce8",
+          "sprite_index": 105
+        },
+        {
+          "name": "뮤엘시스",
+          "color": "#e42ce8",
+          "sprite_index": 69
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
+        },
+        {
+          "name": "불피스폴리아",
+          "color": "#00aa00",
+          "sprite_index": 94,
+          "potential": 2
+        },
+        {
+          "name": "나란투야",
+          "color": null,
+          "sprite_index": 89
+        },
+        {
+          "name": "쏜즈더로드스타",
+          "color": null,
+          "sprite_index": 95
+        },
+        {
+          "name": "치우바이",
+          "color": null,
+          "sprite_index": 66
+        }
+      ]
+    },
+    {
       "account_number": "00848",
       "price": 136000,
       "operators": [
@@ -28529,69 +28597,6 @@
           "name": "오올헤약",
           "color": null,
           "sprite_index": 70
-        }
-      ]
-    },
-    {
-      "account_number": "03620",
-      "price": 128000,
-      "operators": [
-        {
-          "name": "키린R야토",
-          "color": "#dd0000",
-          "sprite_index": 67,
-          "potential": 2
-        },
-        {
-          "name": "마르실",
-          "color": "#dd0000",
-          "sprite_index": 91
-        },
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "켈시에스페란타",
-          "color": "#e42ce8",
-          "sprite_index": 117
-        },
-        {
-          "name": "호시구마더브리처",
-          "color": "#e42ce8",
-          "sprite_index": 105
-        },
-        {
-          "name": "클로저",
-          "color": "#0000ff",
-          "sprite_index": 118
-        },
-        {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
-          "name": "불피스폴리아",
-          "color": "#00aa00",
-          "sprite_index": 94,
-          "potential": 2
-        },
-        {
-          "name": "나란투야",
-          "color": null,
-          "sprite_index": 89
-        },
-        {
-          "name": "쏜즈더로드스타",
-          "color": null,
-          "sprite_index": 95
-        },
-        {
-          "name": "치우바이",
-          "color": null,
-          "sprite_index": 66
         }
       ]
     },
