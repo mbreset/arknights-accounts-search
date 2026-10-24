@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-24T10:00:07.202977+00:00",
+  "updated_at": "2026-10-24T10:02:13.063717+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -5073,7 +5073,7 @@
     },
     {
       "account_number": "00509",
-      "price": 130000,
+      "price": 133000,
       "operators": [
         {
           "name": "마르실",
@@ -5139,6 +5139,11 @@
           "name": "블레이즈디이그나이팅스파크",
           "color": "#00aa00",
           "sprite_index": 97
+        },
+        {
+          "name": "엔텔레키아",
+          "color": null,
+          "sprite_index": 102
         },
         {
           "name": "실버애쉬",
