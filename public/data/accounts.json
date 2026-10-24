@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-24T12:03:47.490089+00:00",
+  "updated_at": "2026-10-24T12:05:30.580854+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -24050,7 +24050,7 @@
     },
     {
       "account_number": "00781",
-      "price": 56000,
+      "price": 58000,
       "operators": [
         {
           "name": "호시구마더브리처",
@@ -24112,6 +24112,11 @@
           "name": "도로시",
           "color": null,
           "sprite_index": 56
+        },
+        {
+          "name": "외드레르",
+          "color": null,
+          "sprite_index": 76
         },
         {
           "name": "스테인리스",
