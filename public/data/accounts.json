@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-24T15:30:34.863798+00:00",
+  "updated_at": "2026-10-24T15:40:47.674440+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -18553,7 +18553,7 @@
     },
     {
       "account_number": "02827",
-      "price": 117000,
+      "price": 117500,
       "operators": [
         {
           "name": "마르실",
@@ -18563,7 +18563,8 @@
         {
           "name": "켈시에스페란타",
           "color": "#e42ce8",
-          "sprite_index": 117
+          "sprite_index": 117,
+          "potential": 2
         },
         {
           "name": "위셔델",
