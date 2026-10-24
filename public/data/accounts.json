@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-24T07:29:29.898951+00:00",
+  "updated_at": "2026-10-24T07:32:41.844211+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -49907,7 +49907,7 @@
     },
     {
       "account_number": "02658",
-      "price": 40000,
+      "price": 53000,
       "operators": [
         {
           "name": "마르실",
@@ -49928,6 +49928,11 @@
           "name": "니어더래디언트나이트",
           "color": "#e42ce8",
           "sprite_index": 59
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "첸더던스트릭",
