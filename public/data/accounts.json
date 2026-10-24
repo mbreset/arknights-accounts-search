@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-24T20:16:28.676355+00:00",
+  "updated_at": "2026-10-24T20:18:04.664778+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -46398,6 +46398,67 @@
       ]
     },
     {
+      "account_number": "02528",
+      "price": 52000,
+      "operators": [
+        {
+          "name": "켈시에스페란타",
+          "color": "#e42ce8",
+          "sprite_index": 117
+        },
+        {
+          "name": "에이야퍄들라더크비트아스카",
+          "color": "#e42ce8",
+          "sprite_index": 73
+        },
+        {
+          "name": "텍사스디오메르토사",
+          "color": "#e42ce8",
+          "sprite_index": 62
+        },
+        {
+          "name": "페페",
+          "color": "#e42ce8",
+          "sprite_index": 88
+        },
+        {
+          "name": "프라마닉스더프레리타",
+          "color": "#0000ff",
+          "sprite_index": 110
+        },
+        {
+          "name": "나란투야",
+          "color": null,
+          "sprite_index": 89
+        },
+        {
+          "name": "네크라스",
+          "color": null,
+          "sprite_index": 98
+        },
+        {
+          "name": "좌락",
+          "color": null,
+          "sprite_index": 82
+        },
+        {
+          "name": "사일라흐",
+          "color": null,
+          "sprite_index": 40
+        },
+        {
+          "name": "외드레르",
+          "color": null,
+          "sprite_index": 76
+        },
+        {
+          "name": "블레미샤인",
+          "color": null,
+          "sprite_index": 51
+        }
+      ]
+    },
+    {
       "account_number": "03864",
       "price": 65000,
       "operators": [
@@ -56650,62 +56711,6 @@
           "name": "유넥티스",
           "color": null,
           "sprite_index": 50
-        }
-      ]
-    },
-    {
-      "account_number": "02528",
-      "price": 24000,
-      "operators": [
-        {
-          "name": "에이야퍄들라더크비트아스카",
-          "color": "#e42ce8",
-          "sprite_index": 73
-        },
-        {
-          "name": "텍사스디오메르토사",
-          "color": "#e42ce8",
-          "sprite_index": 62
-        },
-        {
-          "name": "페페",
-          "color": "#e42ce8",
-          "sprite_index": 88
-        },
-        {
-          "name": "프라마닉스더프레리타",
-          "color": "#0000ff",
-          "sprite_index": 110
-        },
-        {
-          "name": "나란투야",
-          "color": null,
-          "sprite_index": 89
-        },
-        {
-          "name": "네크라스",
-          "color": null,
-          "sprite_index": 98
-        },
-        {
-          "name": "좌락",
-          "color": null,
-          "sprite_index": 82
-        },
-        {
-          "name": "사일라흐",
-          "color": null,
-          "sprite_index": 40
-        },
-        {
-          "name": "외드레르",
-          "color": null,
-          "sprite_index": 76
-        },
-        {
-          "name": "블레미샤인",
-          "color": null,
-          "sprite_index": 51
         }
       ]
     },
