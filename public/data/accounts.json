@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-24T15:52:00.751368+00:00",
+  "updated_at": "2026-10-24T15:54:44.813786+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -25166,7 +25166,7 @@
     },
     {
       "account_number": "03395",
-      "price": 120000,
+      "price": 133000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -25193,6 +25193,11 @@
           "name": "스카디더커럽팅하트",
           "color": "#e42ce8",
           "sprite_index": 34
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "프라마닉스더프레리타",
