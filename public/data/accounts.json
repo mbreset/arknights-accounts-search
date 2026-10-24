@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-24T08:53:21.088587+00:00",
+  "updated_at": "2026-10-24T08:54:27.061710+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -32169,7 +32169,7 @@
     },
     {
       "account_number": "00714",
-      "price": 129000,
+      "price": 129500,
       "operators": [
         {
           "name": "Ela",
@@ -32179,7 +32179,8 @@
         {
           "name": "켈시에스페란타",
           "color": "#e42ce8",
-          "sprite_index": 117
+          "sprite_index": 117,
+          "potential": 2
         },
         {
           "name": "실버애쉬더레인프로스트",
