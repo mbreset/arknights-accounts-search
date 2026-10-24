@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-24T12:48:08.415919+00:00",
+  "updated_at": "2026-10-24T12:52:14.669785+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -706,6 +706,79 @@
           "name": "치우바이",
           "color": null,
           "sprite_index": 66
+        }
+      ]
+    },
+    {
+      "account_number": "03702",
+      "price": 139000,
+      "operators": [
+        {
+          "name": "토가와사키코",
+          "color": "#dd0000",
+          "sprite_index": 107
+        },
+        {
+          "name": "키린R야토",
+          "color": "#dd0000",
+          "sprite_index": 67
+        },
+        {
+          "name": "마르실",
+          "color": "#dd0000",
+          "sprite_index": 91
+        },
+        {
+          "name": "켈시에스페란타",
+          "color": "#e42ce8",
+          "sprite_index": 117
+        },
+        {
+          "name": "실버애쉬더레인프로스트",
+          "color": "#e42ce8",
+          "sprite_index": 109
+        },
+        {
+          "name": "라플란드더데카덴차",
+          "color": "#e42ce8",
+          "sprite_index": 93
+        },
+        {
+          "name": "니어더래디언트나이트",
+          "color": "#e42ce8",
+          "sprite_index": 59
+        },
+        {
+          "name": "니엔",
+          "color": "#e42ce8",
+          "sprite_index": 16
+        },
+        {
+          "name": "페페",
+          "color": "#e42ce8",
+          "sprite_index": 88
+        },
+        {
+          "name": "불피스폴리아",
+          "color": "#00aa00",
+          "sprite_index": 94,
+          "potential": 2
+        },
+        {
+          "name": "나란투야",
+          "color": null,
+          "sprite_index": 89
+        },
+        {
+          "name": "좌락",
+          "color": null,
+          "sprite_index": 82
+        },
+        {
+          "name": "비비아나",
+          "color": null,
+          "sprite_index": 78,
+          "potential": 2
         }
       ]
     },
@@ -2933,74 +3006,6 @@
           "name": "페넌스",
           "color": null,
           "sprite_index": 61
-        }
-      ]
-    },
-    {
-      "account_number": "03702",
-      "price": 109000,
-      "operators": [
-        {
-          "name": "토가와사키코",
-          "color": "#dd0000",
-          "sprite_index": 107
-        },
-        {
-          "name": "키린R야토",
-          "color": "#dd0000",
-          "sprite_index": 67
-        },
-        {
-          "name": "마르실",
-          "color": "#dd0000",
-          "sprite_index": 91
-        },
-        {
-          "name": "실버애쉬더레인프로스트",
-          "color": "#e42ce8",
-          "sprite_index": 109
-        },
-        {
-          "name": "라플란드더데카덴차",
-          "color": "#e42ce8",
-          "sprite_index": 93
-        },
-        {
-          "name": "니어더래디언트나이트",
-          "color": "#e42ce8",
-          "sprite_index": 59
-        },
-        {
-          "name": "니엔",
-          "color": "#e42ce8",
-          "sprite_index": 16
-        },
-        {
-          "name": "페페",
-          "color": "#e42ce8",
-          "sprite_index": 88
-        },
-        {
-          "name": "불피스폴리아",
-          "color": "#00aa00",
-          "sprite_index": 94,
-          "potential": 2
-        },
-        {
-          "name": "나란투야",
-          "color": null,
-          "sprite_index": 89
-        },
-        {
-          "name": "좌락",
-          "color": null,
-          "sprite_index": 82
-        },
-        {
-          "name": "비비아나",
-          "color": null,
-          "sprite_index": 78,
-          "potential": 2
         }
       ]
     },
