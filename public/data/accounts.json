@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-24T10:34:32.154079+00:00",
+  "updated_at": "2026-10-24T11:26:38.035852+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -7392,7 +7392,7 @@
     },
     {
       "account_number": "02757",
-      "price": 188000,
+      "price": 194000,
       "operators": [
         {
           "name": "Ela",
@@ -7460,6 +7460,11 @@
           "name": "르무엔",
           "color": "#0000ff",
           "sprite_index": 101
+        },
+        {
+          "name": "레이",
+          "color": "#00aa00",
+          "sprite_index": 80
         },
         {
           "name": "불피스폴리아",
