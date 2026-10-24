@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-24T16:52:33.131305+00:00",
+  "updated_at": "2026-10-24T18:14:54.760733+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -59291,7 +59291,8 @@
         {
           "name": "비비아나",
           "color": null,
-          "sprite_index": 78
+          "sprite_index": 78,
+          "potential": 2
         }
       ]
     }
