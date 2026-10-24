@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-24T06:26:54.189993+00:00",
+  "updated_at": "2026-10-24T06:42:06.272218+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -26899,6 +26899,77 @@
       ]
     },
     {
+      "account_number": "03907",
+      "price": 101000,
+      "operators": [
+        {
+          "name": "토가와사키코",
+          "color": "#dd0000",
+          "sprite_index": 107
+        },
+        {
+          "name": "호시구마더브리처",
+          "color": "#e42ce8",
+          "sprite_index": 105
+        },
+        {
+          "name": "에이야퍄들라더크비트아스카",
+          "color": "#e42ce8",
+          "sprite_index": 73
+        },
+        {
+          "name": "라플란드더데카덴차",
+          "color": "#e42ce8",
+          "sprite_index": 93
+        },
+        {
+          "name": "페페",
+          "color": "#e42ce8",
+          "sprite_index": 88
+        },
+        {
+          "name": "프라마닉스더프레리타",
+          "color": "#0000ff",
+          "sprite_index": 110
+        },
+        {
+          "name": "로고스",
+          "color": "#0000ff",
+          "sprite_index": 86
+        },
+        {
+          "name": "르무엔",
+          "color": "#0000ff",
+          "sprite_index": 101
+        },
+        {
+          "name": "리드더플레임섀도우",
+          "color": "#00aa00",
+          "sprite_index": 63
+        },
+        {
+          "name": "마운틴",
+          "color": null,
+          "sprite_index": 11
+        },
+        {
+          "name": "페넌스",
+          "color": null,
+          "sprite_index": 61
+        },
+        {
+          "name": "사가",
+          "color": null,
+          "sprite_index": 19
+        },
+        {
+          "name": "비비아나",
+          "color": null,
+          "sprite_index": 78
+        }
+      ]
+    },
+    {
       "account_number": "00530",
       "price": 75000,
       "operators": [
@@ -42104,72 +42175,6 @@
           "color": null,
           "sprite_index": 60,
           "potential": 2
-        }
-      ]
-    },
-    {
-      "account_number": "03907",
-      "price": 89000,
-      "operators": [
-        {
-          "name": "토가와사키코",
-          "color": "#dd0000",
-          "sprite_index": 107
-        },
-        {
-          "name": "호시구마더브리처",
-          "color": "#e42ce8",
-          "sprite_index": 105
-        },
-        {
-          "name": "에이야퍄들라더크비트아스카",
-          "color": "#e42ce8",
-          "sprite_index": 73
-        },
-        {
-          "name": "페페",
-          "color": "#e42ce8",
-          "sprite_index": 88
-        },
-        {
-          "name": "프라마닉스더프레리타",
-          "color": "#0000ff",
-          "sprite_index": 110
-        },
-        {
-          "name": "로고스",
-          "color": "#0000ff",
-          "sprite_index": 86
-        },
-        {
-          "name": "르무엔",
-          "color": "#0000ff",
-          "sprite_index": 101
-        },
-        {
-          "name": "리드더플레임섀도우",
-          "color": "#00aa00",
-          "sprite_index": 63
-        },
-        {
-          "name": "마운틴",
-          "color": null,
-          "sprite_index": 11
-        },
-        {
-          "name": "페넌스",
-          "color": null,
-          "sprite_index": 61
-        },
-        {
-          "name": "사가",
-          "color": null,
-          "sprite_index": 19
-        },
-        {
-          "name": "비비아나",
-          "color": null,
-          "sprite_index": 78
         }
       ]
     },
