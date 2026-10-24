@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-24T23:21:01.043088+00:00",
+  "updated_at": "2026-10-24T23:21:22.041836+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -44106,7 +44106,8 @@
         {
           "name": "티폰",
           "color": null,
-          "sprite_index": 74
+          "sprite_index": 74,
+          "potential": 2
         },
         {
           "name": "좌락",
