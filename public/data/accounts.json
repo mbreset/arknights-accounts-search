@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-25T01:40:36.683688+00:00",
+  "updated_at": "2026-10-25T01:59:54.684095+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -58081,7 +58081,7 @@
     },
     {
       "account_number": "03541",
-      "price": 47000,
+      "price": 49000,
       "operators": [
         {
           "name": "키린R야토",
@@ -58138,6 +58138,11 @@
           "name": "블레미샤인",
           "color": null,
           "sprite_index": 51
+        },
+        {
+          "name": "스테인리스",
+          "color": null,
+          "sprite_index": 60
         }
       ]
     },
