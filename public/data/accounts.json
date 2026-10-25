@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-25T22:07:16.118515+00:00",
+  "updated_at": "2026-10-25T22:13:26.531164+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -48466,7 +48466,7 @@
     },
     {
       "account_number": "02114",
-      "price": 87000,
+      "price": 100000,
       "operators": [
         {
           "name": "마르실",
@@ -48488,6 +48488,11 @@
           "name": "총웨",
           "color": "#e42ce8",
           "sprite_index": 64
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "첸더던스트릭",
