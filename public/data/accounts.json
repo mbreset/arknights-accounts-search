@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-25T22:24:44.277730+00:00",
+  "updated_at": "2026-10-25T22:36:22.504766+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -21175,7 +21175,7 @@
     },
     {
       "account_number": "03676",
-      "price": 87000,
+      "price": 100000,
       "operators": [
         {
           "name": "키린R야토",
@@ -21206,6 +21206,11 @@
           "name": "첸더홀룽데이",
           "color": "#e42ce8",
           "sprite_index": 36
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "첸더던스트릭",
