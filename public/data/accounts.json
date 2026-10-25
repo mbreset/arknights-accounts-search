@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-25T19:16:47.027577+00:00",
+  "updated_at": "2026-10-25T19:21:03.004543+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -32411,7 +32411,7 @@
     },
     {
       "account_number": "02743",
-      "price": 109000,
+      "price": 111000,
       "operators": [
         {
           "name": "켈시에스페란타",
@@ -32485,6 +32485,11 @@
           "name": "사일라흐",
           "color": null,
           "sprite_index": 40
+        },
+        {
+          "name": "비나빅토리아",
+          "color": null,
+          "sprite_index": 92
         },
         {
           "name": "스와이어디엘리건트위트",
