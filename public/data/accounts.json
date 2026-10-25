@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-25T20:36:57.406125+00:00",
+  "updated_at": "2026-10-25T21:04:10.656221+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -44523,7 +44523,7 @@
           "name": "리드더플레임섀도우",
           "color": "#00aa00",
           "sprite_index": 63,
-          "potential": 2
+          "potential": 3
         },
         {
           "name": "파죰카",
