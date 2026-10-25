@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-25T19:21:03.004543+00:00",
+  "updated_at": "2026-10-25T19:22:22.320008+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -59114,12 +59114,17 @@
     },
     {
       "account_number": "03113",
-      "price": 23000,
+      "price": 36000,
       "operators": [
         {
           "name": "라플란드더데카덴차",
           "color": "#e42ce8",
           "sprite_index": 93
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "아스카론",
