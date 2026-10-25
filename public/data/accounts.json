@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-25T22:36:22.504766+00:00",
+  "updated_at": "2026-10-25T23:07:04.581020+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -34229,7 +34229,7 @@
     },
     {
       "account_number": "01037",
-      "price": 74000,
+      "price": 77000,
       "operators": [
         {
           "name": "켈시에스페란타",
@@ -34275,6 +34275,11 @@
           "name": "좌락",
           "color": null,
           "sprite_index": 82
+        },
+        {
+          "name": "페넌스",
+          "color": null,
+          "sprite_index": 61
         },
         {
           "name": "실버애쉬",
