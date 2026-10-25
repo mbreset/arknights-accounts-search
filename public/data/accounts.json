@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-25T09:21:13.552715+00:00",
+  "updated_at": "2026-10-25T09:59:35.487990+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -11998,68 +11998,6 @@
           "name": "유넥티스",
           "color": null,
           "sprite_index": 50
-        }
-      ]
-    },
-    {
-      "account_number": "02962",
-      "price": 124000,
-      "operators": [
-        {
-          "name": "실버애쉬더레인프로스트",
-          "color": "#e42ce8",
-          "sprite_index": 109
-        },
-        {
-          "name": "엑시아더뉴커버넌트",
-          "color": "#e42ce8",
-          "sprite_index": 100
-        },
-        {
-          "name": "호시구마더브리처",
-          "color": "#e42ce8",
-          "sprite_index": 105
-        },
-        {
-          "name": "위",
-          "color": "#e42ce8",
-          "sprite_index": 96
-        },
-        {
-          "name": "텍사스디오메르토사",
-          "color": "#e42ce8",
-          "sprite_index": 62
-        },
-        {
-          "name": "가비알디인빈서블",
-          "color": "#e42ce8",
-          "sprite_index": 37
-        },
-        {
-          "name": "니엔",
-          "color": "#e42ce8",
-          "sprite_index": 16
-        },
-        {
-          "name": "첸더던스트릭",
-          "color": "#0000ff",
-          "sprite_index": 114,
-          "potential": 3
-        },
-        {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
-          "name": "이네스",
-          "color": "#0000ff",
-          "sprite_index": 68
-        },
-        {
-          "name": "로고스",
-          "color": "#0000ff",
-          "sprite_index": 86
         }
       ]
     },
