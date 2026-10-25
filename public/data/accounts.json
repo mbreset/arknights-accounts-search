@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-25T21:10:19.011590+00:00",
+  "updated_at": "2026-10-25T21:11:03.673827+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -3908,6 +3908,103 @@
           "name": "스테인리스",
           "color": null,
           "sprite_index": 60
+        }
+      ]
+    },
+    {
+      "account_number": "00854",
+      "price": 134000,
+      "operators": [
+        {
+          "name": "왕",
+          "color": "#e42ce8",
+          "sprite_index": 113
+        },
+        {
+          "name": "위셔델",
+          "color": "#e42ce8",
+          "sprite_index": 85
+        },
+        {
+          "name": "엑시아더뉴커버넌트",
+          "color": "#e42ce8",
+          "sprite_index": 100
+        },
+        {
+          "name": "위",
+          "color": "#e42ce8",
+          "sprite_index": 96
+        },
+        {
+          "name": "라플란드더데카덴차",
+          "color": "#e42ce8",
+          "sprite_index": 93,
+          "potential": 2
+        },
+        {
+          "name": "니어더래디언트나이트",
+          "color": "#e42ce8",
+          "sprite_index": 59
+        },
+        {
+          "name": "스펙터디언체인드",
+          "color": "#e42ce8",
+          "sprite_index": 31
+        },
+        {
+          "name": "페페",
+          "color": "#e42ce8",
+          "sprite_index": 88
+        },
+        {
+          "name": "르무엔",
+          "color": "#0000ff",
+          "sprite_index": 101
+        },
+        {
+          "name": "레이",
+          "color": "#00aa00",
+          "sprite_index": 80
+        },
+        {
+          "name": "이그제큐터디엑스포에데레",
+          "color": "#00aa00",
+          "sprite_index": 71
+        },
+        {
+          "name": "네크라스",
+          "color": null,
+          "sprite_index": 98
+        },
+        {
+          "name": "페넌스",
+          "color": null,
+          "sprite_index": 61
+        },
+        {
+          "name": "실버애쉬",
+          "color": null,
+          "sprite_index": 2
+        },
+        {
+          "name": "노시스",
+          "color": null,
+          "sprite_index": 23
+        },
+        {
+          "name": "비비아나",
+          "color": null,
+          "sprite_index": 78
+        },
+        {
+          "name": "오올헤약",
+          "color": null,
+          "sprite_index": 70
+        },
+        {
+          "name": "미즈키",
+          "color": null,
+          "sprite_index": 53
         }
       ]
     },
@@ -8874,98 +8971,6 @@
           "name": "유넥티스",
           "color": null,
           "sprite_index": 50
-        }
-      ]
-    },
-    {
-      "account_number": "00854",
-      "price": 100000,
-      "operators": [
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "엑시아더뉴커버넌트",
-          "color": "#e42ce8",
-          "sprite_index": 100
-        },
-        {
-          "name": "위",
-          "color": "#e42ce8",
-          "sprite_index": 96
-        },
-        {
-          "name": "라플란드더데카덴차",
-          "color": "#e42ce8",
-          "sprite_index": 93,
-          "potential": 2
-        },
-        {
-          "name": "니어더래디언트나이트",
-          "color": "#e42ce8",
-          "sprite_index": 59
-        },
-        {
-          "name": "스펙터디언체인드",
-          "color": "#e42ce8",
-          "sprite_index": 31
-        },
-        {
-          "name": "페페",
-          "color": "#e42ce8",
-          "sprite_index": 88
-        },
-        {
-          "name": "르무엔",
-          "color": "#0000ff",
-          "sprite_index": 101
-        },
-        {
-          "name": "레이",
-          "color": "#00aa00",
-          "sprite_index": 80
-        },
-        {
-          "name": "이그제큐터디엑스포에데레",
-          "color": "#00aa00",
-          "sprite_index": 71
-        },
-        {
-          "name": "네크라스",
-          "color": null,
-          "sprite_index": 98
-        },
-        {
-          "name": "페넌스",
-          "color": null,
-          "sprite_index": 61
-        },
-        {
-          "name": "실버애쉬",
-          "color": null,
-          "sprite_index": 2
-        },
-        {
-          "name": "노시스",
-          "color": null,
-          "sprite_index": 23
-        },
-        {
-          "name": "비비아나",
-          "color": null,
-          "sprite_index": 78
-        },
-        {
-          "name": "오올헤약",
-          "color": null,
-          "sprite_index": 70
-        },
-        {
-          "name": "미즈키",
-          "color": null,
-          "sprite_index": 53
         }
       ]
     },
