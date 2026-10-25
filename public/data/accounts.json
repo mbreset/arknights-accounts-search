@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-25T21:57:06.126401+00:00",
+  "updated_at": "2026-10-25T22:04:07.117479+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -28382,7 +28382,7 @@
     },
     {
       "account_number": "01836",
-      "price": 122000,
+      "price": 128000,
       "operators": [
         {
           "name": "왕",
@@ -28430,6 +28430,11 @@
           "color": "#0000ff",
           "sprite_index": 101,
           "potential": 2
+        },
+        {
+          "name": "레이즈더썬더브링어",
+          "color": "#00aa00",
+          "sprite_index": 104
         },
         {
           "name": "페넌스",
