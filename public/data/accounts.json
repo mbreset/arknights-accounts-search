@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-25T19:37:23.978477+00:00",
+  "updated_at": "2026-10-25T19:47:54.126113+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -25613,7 +25613,7 @@
     },
     {
       "account_number": "03929",
-      "price": 77000,
+      "price": 90000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -25639,6 +25639,11 @@
           "name": "첸더홀룽데이",
           "color": "#e42ce8",
           "sprite_index": 36
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "프라마닉스더프레리타",
