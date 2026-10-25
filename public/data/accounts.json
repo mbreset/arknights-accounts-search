@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-25T04:01:12.605604+00:00",
+  "updated_at": "2026-10-25T04:51:22.056902+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -53966,12 +53966,13 @@
     },
     {
       "account_number": "02367",
-      "price": 59000,
+      "price": 59500,
       "operators": [
         {
           "name": "켈시에스페란타",
           "color": "#e42ce8",
-          "sprite_index": 117
+          "sprite_index": 117,
+          "potential": 2
         },
         {
           "name": "텍사스디오메르토사",
