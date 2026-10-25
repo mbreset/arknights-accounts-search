@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-25T20:00:23.114369+00:00",
+  "updated_at": "2026-10-25T20:08:24.264582+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -24198,7 +24198,7 @@
     },
     {
       "account_number": "01164",
-      "price": 87000,
+      "price": 88000,
       "operators": [
         {
           "name": "호시구마더브리처",
@@ -24234,7 +24234,8 @@
         {
           "name": "클로저",
           "color": "#0000ff",
-          "sprite_index": 118
+          "sprite_index": 118,
+          "potential": 2
         },
         {
           "name": "첸더던스트릭",
