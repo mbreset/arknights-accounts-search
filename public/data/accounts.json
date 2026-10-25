@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-25T19:22:22.320008+00:00",
+  "updated_at": "2026-10-25T19:24:36.999477+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -10411,6 +10411,78 @@
           "name": "사가",
           "color": null,
           "sprite_index": 19
+        }
+      ]
+    },
+    {
+      "account_number": "03230",
+      "price": 129000,
+      "operators": [
+        {
+          "name": "키린R야토",
+          "color": "#dd0000",
+          "sprite_index": 67
+        },
+        {
+          "name": "켈시에스페란타",
+          "color": "#e42ce8",
+          "sprite_index": 117
+        },
+        {
+          "name": "실버애쉬더레인프로스트",
+          "color": "#e42ce8",
+          "sprite_index": 109,
+          "potential": 2
+        },
+        {
+          "name": "호시구마더브리처",
+          "color": "#e42ce8",
+          "sprite_index": 105
+        },
+        {
+          "name": "위",
+          "color": "#e42ce8",
+          "sprite_index": 96
+        },
+        {
+          "name": "총웨",
+          "color": "#e42ce8",
+          "sprite_index": 64
+        },
+        {
+          "name": "뮤엘시스",
+          "color": "#e42ce8",
+          "sprite_index": 69
+        },
+        {
+          "name": "첸더던스트릭",
+          "color": "#0000ff",
+          "sprite_index": 114
+        },
+        {
+          "name": "르무엔",
+          "color": "#0000ff",
+          "sprite_index": 101
+        },
+        {
+          "name": "불피스폴리아",
+          "color": "#00aa00",
+          "sprite_index": 94
+        },
+        {
+          "name": "나란투야",
+          "color": null,
+          "sprite_index": 89
+        },
+        {
+          "name": "좌락",
+          "color": null,
+          "sprite_index": 82
+        },
+        {
+          "name": "미즈키",
+          "color": null,
+          "sprite_index": 53
         }
       ]
     },
@@ -21577,73 +21649,6 @@
           "name": "외드레르",
           "color": null,
           "sprite_index": 76
-        }
-      ]
-    },
-    {
-      "account_number": "03230",
-      "price": 98000,
-      "operators": [
-        {
-          "name": "키린R야토",
-          "color": "#dd0000",
-          "sprite_index": 67
-        },
-        {
-          "name": "실버애쉬더레인프로스트",
-          "color": "#e42ce8",
-          "sprite_index": 109,
-          "potential": 2
-        },
-        {
-          "name": "호시구마더브리처",
-          "color": "#e42ce8",
-          "sprite_index": 105
-        },
-        {
-          "name": "위",
-          "color": "#e42ce8",
-          "sprite_index": 96
-        },
-        {
-          "name": "총웨",
-          "color": "#e42ce8",
-          "sprite_index": 64
-        },
-        {
-          "name": "뮤엘시스",
-          "color": "#e42ce8",
-          "sprite_index": 69
-        },
-        {
-          "name": "첸더던스트릭",
-          "color": "#0000ff",
-          "sprite_index": 114
-        },
-        {
-          "name": "르무엔",
-          "color": "#0000ff",
-          "sprite_index": 101
-        },
-        {
-          "name": "불피스폴리아",
-          "color": "#00aa00",
-          "sprite_index": 94
-        },
-        {
-          "name": "나란투야",
-          "color": null,
-          "sprite_index": 89
-        },
-        {
-          "name": "좌락",
-          "color": null,
-          "sprite_index": 82
-        },
-        {
-          "name": "미즈키",
-          "color": null,
-          "sprite_index": 53
         }
       ]
     },
