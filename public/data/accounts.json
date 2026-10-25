@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-25T19:26:27.006125+00:00",
+  "updated_at": "2026-10-25T19:28:07.005336+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -29171,6 +29171,68 @@
       ]
     },
     {
+      "account_number": "03265",
+      "price": 109000,
+      "operators": [
+        {
+          "name": "키린R야토",
+          "color": "#dd0000",
+          "sprite_index": 67
+        },
+        {
+          "name": "왕",
+          "color": "#e42ce8",
+          "sprite_index": 113
+        },
+        {
+          "name": "켈시에스페란타",
+          "color": "#e42ce8",
+          "sprite_index": 117
+        },
+        {
+          "name": "텍사스디오메르토사",
+          "color": "#e42ce8",
+          "sprite_index": 62
+        },
+        {
+          "name": "니어더래디언트나이트",
+          "color": "#e42ce8",
+          "sprite_index": 59
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118,
+          "potential": 2
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
+        },
+        {
+          "name": "로고스",
+          "color": "#0000ff",
+          "sprite_index": 86
+        },
+        {
+          "name": "좌락",
+          "color": null,
+          "sprite_index": 82
+        },
+        {
+          "name": "스와이어디엘리건트위트",
+          "color": null,
+          "sprite_index": 72
+        },
+        {
+          "name": "오올헤약",
+          "color": null,
+          "sprite_index": 70
+        }
+      ]
+    },
+    {
       "account_number": "02309",
       "price": 95000,
       "operators": [
@@ -45002,63 +45064,6 @@
           "name": "외드레르",
           "color": null,
           "sprite_index": 76
-        }
-      ]
-    },
-    {
-      "account_number": "03265",
-      "price": 71000,
-      "operators": [
-        {
-          "name": "키린R야토",
-          "color": "#dd0000",
-          "sprite_index": 67
-        },
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "텍사스디오메르토사",
-          "color": "#e42ce8",
-          "sprite_index": 62
-        },
-        {
-          "name": "니어더래디언트나이트",
-          "color": "#e42ce8",
-          "sprite_index": 59
-        },
-        {
-          "name": "클로저",
-          "color": "#0000ff",
-          "sprite_index": 118,
-          "potential": 2
-        },
-        {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
-          "name": "로고스",
-          "color": "#0000ff",
-          "sprite_index": 86
-        },
-        {
-          "name": "좌락",
-          "color": null,
-          "sprite_index": 82
-        },
-        {
-          "name": "스와이어디엘리건트위트",
-          "color": null,
-          "sprite_index": 72
-        },
-        {
-          "name": "오올헤약",
-          "color": null,
-          "sprite_index": 70
         }
       ]
     },
