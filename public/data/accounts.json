@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-25T21:04:10.656221+00:00",
+  "updated_at": "2026-10-25T21:04:30.656464+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -33321,7 +33321,7 @@
     },
     {
       "account_number": "02109",
-      "price": 127000,
+      "price": 128000,
       "operators": [
         {
           "name": "켈시에스페란타",
@@ -33351,7 +33351,8 @@
         {
           "name": "클로저",
           "color": "#0000ff",
-          "sprite_index": 118
+          "sprite_index": 118,
+          "potential": 2
         },
         {
           "name": "무에나",
