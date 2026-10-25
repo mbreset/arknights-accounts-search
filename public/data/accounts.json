@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-25T03:57:54.102627+00:00",
+  "updated_at": "2026-10-25T04:01:12.605604+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -22911,6 +22911,98 @@
       ]
     },
     {
+      "account_number": "03312",
+      "price": 133000,
+      "operators": [
+        {
+          "name": "키린R야토",
+          "color": "#dd0000",
+          "sprite_index": 67
+        },
+        {
+          "name": "엑시아더뉴커버넌트",
+          "color": "#e42ce8",
+          "sprite_index": 100
+        },
+        {
+          "name": "호시구마더브리처",
+          "color": "#e42ce8",
+          "sprite_index": 105
+        },
+        {
+          "name": "슈",
+          "color": "#e42ce8",
+          "sprite_index": 81
+        },
+        {
+          "name": "라플란드더데카덴차",
+          "color": "#e42ce8",
+          "sprite_index": 93
+        },
+        {
+          "name": "뮤엘시스",
+          "color": "#e42ce8",
+          "sprite_index": 69
+        },
+        {
+          "name": "울피아누스",
+          "color": "#0000ff",
+          "sprite_index": 87
+        },
+        {
+          "name": "아스카론",
+          "color": "#0000ff",
+          "sprite_index": 84
+        },
+        {
+          "name": "르무엔",
+          "color": "#0000ff",
+          "sprite_index": 101
+        },
+        {
+          "name": "골든글로우",
+          "color": "#00aa00",
+          "sprite_index": 28
+        },
+        {
+          "name": "티티",
+          "color": "#00aa00",
+          "sprite_index": 112
+        },
+        {
+          "name": "블레이즈디이그나이팅스파크",
+          "color": "#00aa00",
+          "sprite_index": 97,
+          "potential": 2
+        },
+        {
+          "name": "나란투야",
+          "color": null,
+          "sprite_index": 89
+        },
+        {
+          "name": "좌락",
+          "color": null,
+          "sprite_index": 82
+        },
+        {
+          "name": "제시카더리버레이티드",
+          "color": null,
+          "sprite_index": 75
+        },
+        {
+          "name": "외드레르",
+          "color": null,
+          "sprite_index": 76
+        },
+        {
+          "name": "팔라스",
+          "color": null,
+          "sprite_index": 24
+        }
+      ]
+    },
+    {
       "account_number": "02418",
       "price": 112000,
       "operators": [
@@ -38763,93 +38855,6 @@
           "name": "페넌스",
           "color": null,
           "sprite_index": 61
-        }
-      ]
-    },
-    {
-      "account_number": "03312",
-      "price": 121000,
-      "operators": [
-        {
-          "name": "키린R야토",
-          "color": "#dd0000",
-          "sprite_index": 67
-        },
-        {
-          "name": "엑시아더뉴커버넌트",
-          "color": "#e42ce8",
-          "sprite_index": 100
-        },
-        {
-          "name": "호시구마더브리처",
-          "color": "#e42ce8",
-          "sprite_index": 105
-        },
-        {
-          "name": "슈",
-          "color": "#e42ce8",
-          "sprite_index": 81
-        },
-        {
-          "name": "뮤엘시스",
-          "color": "#e42ce8",
-          "sprite_index": 69
-        },
-        {
-          "name": "울피아누스",
-          "color": "#0000ff",
-          "sprite_index": 87
-        },
-        {
-          "name": "아스카론",
-          "color": "#0000ff",
-          "sprite_index": 84
-        },
-        {
-          "name": "르무엔",
-          "color": "#0000ff",
-          "sprite_index": 101
-        },
-        {
-          "name": "골든글로우",
-          "color": "#00aa00",
-          "sprite_index": 28
-        },
-        {
-          "name": "티티",
-          "color": "#00aa00",
-          "sprite_index": 112
-        },
-        {
-          "name": "블레이즈디이그나이팅스파크",
-          "color": "#00aa00",
-          "sprite_index": 97,
-          "potential": 2
-        },
-        {
-          "name": "나란투야",
-          "color": null,
-          "sprite_index": 89
-        },
-        {
-          "name": "좌락",
-          "color": null,
-          "sprite_index": 82
-        },
-        {
-          "name": "제시카더리버레이티드",
-          "color": null,
-          "sprite_index": 75
-        },
-        {
-          "name": "외드레르",
-          "color": null,
-          "sprite_index": 76
-        },
-        {
-          "name": "팔라스",
-          "color": null,
-          "sprite_index": 24
         }
       ]
     },
