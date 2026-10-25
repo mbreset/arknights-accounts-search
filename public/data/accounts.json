@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-25T21:43:55.143889+00:00",
+  "updated_at": "2026-10-25T21:57:06.126401+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -19531,6 +19531,85 @@
       ]
     },
     {
+      "account_number": "00809",
+      "price": 130000,
+      "operators": [
+        {
+          "name": "Ela",
+          "color": "#dd0000",
+          "sprite_index": 83
+        },
+        {
+          "name": "켈시에스페란타",
+          "color": "#e42ce8",
+          "sprite_index": 117
+        },
+        {
+          "name": "실버애쉬더레인프로스트",
+          "color": "#e42ce8",
+          "sprite_index": 109
+        },
+        {
+          "name": "호시구마더브리처",
+          "color": "#e42ce8",
+          "sprite_index": 105
+        },
+        {
+          "name": "텍사스디오메르토사",
+          "color": "#e42ce8",
+          "sprite_index": 62
+        },
+        {
+          "name": "비르투오사",
+          "color": "#e42ce8",
+          "sprite_index": 77,
+          "potential": 3
+        },
+        {
+          "name": "첸더던스트릭",
+          "color": "#0000ff",
+          "sprite_index": 114,
+          "potential": 2
+        },
+        {
+          "name": "로고스",
+          "color": "#0000ff",
+          "sprite_index": 86,
+          "potential": 2
+        },
+        {
+          "name": "티티",
+          "color": "#00aa00",
+          "sprite_index": 112
+        },
+        {
+          "name": "불피스폴리아",
+          "color": "#00aa00",
+          "sprite_index": 94
+        },
+        {
+          "name": "아이린",
+          "color": null,
+          "sprite_index": 32
+        },
+        {
+          "name": "엑시아",
+          "color": null,
+          "sprite_index": 3
+        },
+        {
+          "name": "도로시",
+          "color": null,
+          "sprite_index": 56
+        },
+        {
+          "name": "샤이닝",
+          "color": null,
+          "sprite_index": 25
+        }
+      ]
+    },
+    {
       "account_number": "03254",
       "price": 130000,
       "operators": [
@@ -37865,80 +37944,6 @@
           "name": "스테인리스",
           "color": null,
           "sprite_index": 60
-        }
-      ]
-    },
-    {
-      "account_number": "00809",
-      "price": 99000,
-      "operators": [
-        {
-          "name": "Ela",
-          "color": "#dd0000",
-          "sprite_index": 83
-        },
-        {
-          "name": "실버애쉬더레인프로스트",
-          "color": "#e42ce8",
-          "sprite_index": 109
-        },
-        {
-          "name": "호시구마더브리처",
-          "color": "#e42ce8",
-          "sprite_index": 105
-        },
-        {
-          "name": "텍사스디오메르토사",
-          "color": "#e42ce8",
-          "sprite_index": 62
-        },
-        {
-          "name": "비르투오사",
-          "color": "#e42ce8",
-          "sprite_index": 77,
-          "potential": 3
-        },
-        {
-          "name": "첸더던스트릭",
-          "color": "#0000ff",
-          "sprite_index": 114,
-          "potential": 2
-        },
-        {
-          "name": "로고스",
-          "color": "#0000ff",
-          "sprite_index": 86,
-          "potential": 2
-        },
-        {
-          "name": "티티",
-          "color": "#00aa00",
-          "sprite_index": 112
-        },
-        {
-          "name": "불피스폴리아",
-          "color": "#00aa00",
-          "sprite_index": 94
-        },
-        {
-          "name": "아이린",
-          "color": null,
-          "sprite_index": 32
-        },
-        {
-          "name": "엑시아",
-          "color": null,
-          "sprite_index": 3
-        },
-        {
-          "name": "도로시",
-          "color": null,
-          "sprite_index": 56
-        },
-        {
-          "name": "샤이닝",
-          "color": null,
-          "sprite_index": 25
         }
       ]
     },
