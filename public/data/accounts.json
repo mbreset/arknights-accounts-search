@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-25T00:04:19.613339+00:00",
+  "updated_at": "2026-10-25T00:53:47.596136+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -27764,7 +27764,8 @@
         {
           "name": "제시카더리버레이티드",
           "color": null,
-          "sprite_index": 75
+          "sprite_index": 75,
+          "potential": 2
         },
         {
           "name": "린",
