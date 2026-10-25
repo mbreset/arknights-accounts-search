@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-25T03:17:46.391059+00:00",
+  "updated_at": "2026-10-25T03:35:40.494642+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -44052,7 +44052,7 @@
     },
     {
       "account_number": "02452",
-      "price": 109000,
+      "price": 111000,
       "operators": [
         {
           "name": "왕",
@@ -44126,6 +44126,11 @@
           "name": "스와이어디엘리건트위트",
           "color": null,
           "sprite_index": 72
+        },
+        {
+          "name": "외드레르",
+          "color": null,
+          "sprite_index": 76
         },
         {
           "name": "스테인리스",
