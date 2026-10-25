@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-25T23:07:04.581020+00:00",
+  "updated_at": "2026-10-25T23:12:12.567920+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -36374,7 +36374,7 @@
     },
     {
       "account_number": "01849",
-      "price": 133000,
+      "price": 135000,
       "operators": [
         {
           "name": "키린R야토",
@@ -36461,6 +36461,11 @@
           "name": "치우바이",
           "color": null,
           "sprite_index": 66
+        },
+        {
+          "name": "오올헤약",
+          "color": null,
+          "sprite_index": 70
         },
         {
           "name": "팬텀",
