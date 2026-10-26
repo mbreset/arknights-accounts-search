@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-26T05:01:32.697844+00:00",
+  "updated_at": "2026-10-26T05:10:14.812120+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -56537,6 +56537,42 @@
           "name": "마젤란",
           "color": null,
           "sprite_index": 47
+        }
+      ]
+    },
+    {
+      "account_number": "03603",
+      "price": 30000,
+      "operators": [
+        {
+          "name": "키린R야토",
+          "color": "#dd0000",
+          "sprite_index": 67
+        },
+        {
+          "name": "마르실",
+          "color": "#dd0000",
+          "sprite_index": 91
+        },
+        {
+          "name": "비르투오사",
+          "color": "#e42ce8",
+          "sprite_index": 77
+        },
+        {
+          "name": "프라마닉스더프레리타",
+          "color": "#0000ff",
+          "sprite_index": 110
+        },
+        {
+          "name": "아스카론",
+          "color": "#0000ff",
+          "sprite_index": 84
+        },
+        {
+          "name": "오올헤약",
+          "color": null,
+          "sprite_index": 70
         }
       ]
     },
