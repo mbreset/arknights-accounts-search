@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-26T01:48:43.216255+00:00",
+  "updated_at": "2026-10-26T01:50:55.955810+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -290,7 +290,7 @@
     },
     {
       "account_number": "03857",
-      "price": 170500,
+      "price": 175500,
       "operators": [
         {
           "name": "토가와사키코",
@@ -357,6 +357,11 @@
           "name": "르무엔",
           "color": "#0000ff",
           "sprite_index": 101
+        },
+        {
+          "name": "벨로네",
+          "color": "#00aa00",
+          "sprite_index": 115
         },
         {
           "name": "리드더플레임섀도우",
