@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-26T22:33:08.423135+00:00",
+  "updated_at": "2026-10-26T22:36:12.733567+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -23196,7 +23196,7 @@
     },
     {
       "account_number": "03673",
-      "price": 88000,
+      "price": 101000,
       "operators": [
         {
           "name": "키린R야토",
@@ -23227,6 +23227,11 @@
           "name": "시",
           "color": "#e42ce8",
           "sprite_index": 15
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "블레이즈디이그나이팅스파크",
