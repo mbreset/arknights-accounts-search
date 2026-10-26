@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-26T20:12:03.447480+00:00",
+  "updated_at": "2026-10-26T20:18:46.513648+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -44318,7 +44318,7 @@
     },
     {
       "account_number": "03156",
-      "price": 98000,
+      "price": 99000,
       "operators": [
         {
           "name": "키린R야토",
@@ -44343,7 +44343,8 @@
         {
           "name": "클로저",
           "color": "#0000ff",
-          "sprite_index": 118
+          "sprite_index": 118,
+          "potential": 2
         },
         {
           "name": "르무엔",
