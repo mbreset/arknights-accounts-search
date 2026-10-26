@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-26T23:15:07.473300+00:00",
+  "updated_at": "2026-10-26T23:24:49.458085+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -26375,6 +26375,88 @@
       ]
     },
     {
+      "account_number": "01435",
+      "price": 147000,
+      "operators": [
+        {
+          "name": "토가와사키코",
+          "color": "#dd0000",
+          "sprite_index": 107,
+          "potential": 2
+        },
+        {
+          "name": "Ela",
+          "color": "#dd0000",
+          "sprite_index": 83
+        },
+        {
+          "name": "왕",
+          "color": "#e42ce8",
+          "sprite_index": 113
+        },
+        {
+          "name": "켈시에스페란타",
+          "color": "#e42ce8",
+          "sprite_index": 117
+        },
+        {
+          "name": "텍사스디오메르토사",
+          "color": "#e42ce8",
+          "sprite_index": 62
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
+        },
+        {
+          "name": "첸더던스트릭",
+          "color": "#0000ff",
+          "sprite_index": 114
+        },
+        {
+          "name": "데겐블레허",
+          "color": "#00aa00",
+          "sprite_index": 79
+        },
+        {
+          "name": "님프",
+          "color": "#00aa00",
+          "sprite_index": 90
+        },
+        {
+          "name": "레이",
+          "color": "#00aa00",
+          "sprite_index": 80
+        },
+        {
+          "name": "혼",
+          "color": null,
+          "sprite_index": 30
+        },
+        {
+          "name": "실버애쉬",
+          "color": null,
+          "sprite_index": 2
+        },
+        {
+          "name": "엑시아",
+          "color": null,
+          "sprite_index": 3
+        },
+        {
+          "name": "스와이어디엘리건트위트",
+          "color": null,
+          "sprite_index": 72
+        },
+        {
+          "name": "오올헤약",
+          "color": null,
+          "sprite_index": 70
+        }
+      ]
+    },
+    {
       "account_number": "03396",
       "price": 146000,
       "operators": [
@@ -42444,83 +42526,6 @@
           "name": "호시구마",
           "color": null,
           "sprite_index": 27
-        }
-      ]
-    },
-    {
-      "account_number": "01435",
-      "price": 116000,
-      "operators": [
-        {
-          "name": "토가와사키코",
-          "color": "#dd0000",
-          "sprite_index": 107,
-          "potential": 2
-        },
-        {
-          "name": "Ela",
-          "color": "#dd0000",
-          "sprite_index": 83
-        },
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "텍사스디오메르토사",
-          "color": "#e42ce8",
-          "sprite_index": 62
-        },
-        {
-          "name": "클로저",
-          "color": "#0000ff",
-          "sprite_index": 118
-        },
-        {
-          "name": "첸더던스트릭",
-          "color": "#0000ff",
-          "sprite_index": 114
-        },
-        {
-          "name": "데겐블레허",
-          "color": "#00aa00",
-          "sprite_index": 79
-        },
-        {
-          "name": "님프",
-          "color": "#00aa00",
-          "sprite_index": 90
-        },
-        {
-          "name": "레이",
-          "color": "#00aa00",
-          "sprite_index": 80
-        },
-        {
-          "name": "혼",
-          "color": null,
-          "sprite_index": 30
-        },
-        {
-          "name": "실버애쉬",
-          "color": null,
-          "sprite_index": 2
-        },
-        {
-          "name": "엑시아",
-          "color": null,
-          "sprite_index": 3
-        },
-        {
-          "name": "스와이어디엘리건트위트",
-          "color": null,
-          "sprite_index": 72
-        },
-        {
-          "name": "오올헤약",
-          "color": null,
-          "sprite_index": 70
         }
       ]
     },
