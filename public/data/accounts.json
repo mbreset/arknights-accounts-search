@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-26T19:31:27.329544+00:00",
+  "updated_at": "2026-10-26T19:32:25.365400+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -30312,7 +30312,7 @@
     },
     {
       "account_number": "03419",
-      "price": 78000,
+      "price": 91000,
       "operators": [
         {
           "name": "키린R야토",
@@ -30339,6 +30339,11 @@
           "name": "라플란드더데카덴차",
           "color": "#e42ce8",
           "sprite_index": 93
+        },
+        {
+          "name": "첸더던스트릭",
+          "color": "#0000ff",
+          "sprite_index": 114
         },
         {
           "name": "나란투야",
