@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-26T05:10:14.812120+00:00",
+  "updated_at": "2026-10-26T05:21:07.953643+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -25525,7 +25525,7 @@
           "name": "르무엔",
           "color": "#0000ff",
           "sprite_index": 101,
-          "potential": 2
+          "potential": 3
         },
         {
           "name": "엔텔레키아",
