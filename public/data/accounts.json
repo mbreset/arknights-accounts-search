@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-26T01:13:36.190187+00:00",
+  "updated_at": "2026-10-26T01:23:09.250834+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -55884,7 +55884,7 @@
     },
     {
       "account_number": "01858",
-      "price": 79000,
+      "price": 93000,
       "operators": [
         {
           "name": "호시구마더브리처",
@@ -55900,6 +55900,11 @@
           "name": "W",
           "color": "#e42ce8",
           "sprite_index": 35
+        },
+        {
+          "name": "트라고디아",
+          "color": "#0000ff",
+          "sprite_index": 103
         },
         {
           "name": "클로저",
