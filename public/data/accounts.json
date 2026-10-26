@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-26T22:25:51.646749+00:00",
+  "updated_at": "2026-10-26T22:26:27.426738+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -28441,7 +28441,7 @@
     },
     {
       "account_number": "03221",
-      "price": 70000,
+      "price": 83000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -28468,6 +28468,11 @@
           "name": "페페",
           "color": "#e42ce8",
           "sprite_index": 88
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "무에나",
