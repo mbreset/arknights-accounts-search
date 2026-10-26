@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-26T19:03:49.602136+00:00",
+  "updated_at": "2026-10-26T19:04:35.622250+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -43014,7 +43014,7 @@
     },
     {
       "account_number": "00987",
-      "price": 108000,
+      "price": 121000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -43036,6 +43036,11 @@
           "name": "스펙터디언체인드",
           "color": "#e42ce8",
           "sprite_index": 31
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "첸더던스트릭",
