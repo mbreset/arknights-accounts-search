@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-26T23:54:09.556669+00:00",
+  "updated_at": "2026-10-26T23:57:52.559647+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -5811,7 +5811,7 @@
     },
     {
       "account_number": "03452",
-      "price": 84000,
+      "price": 85000,
       "operators": [
         {
           "name": "키린R야토",
@@ -5857,7 +5857,8 @@
         {
           "name": "클로저",
           "color": "#0000ff",
-          "sprite_index": 118
+          "sprite_index": 118,
+          "potential": 2
         },
         {
           "name": "하루카",
