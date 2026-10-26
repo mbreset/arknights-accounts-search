@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-26T03:08:03.744395+00:00",
+  "updated_at": "2026-10-26T03:16:02.410036+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -7342,6 +7342,83 @@
           "name": "리드더플레임섀도우",
           "color": "#00aa00",
           "sprite_index": 63
+        }
+      ]
+    },
+    {
+      "account_number": "01403",
+      "price": 130000,
+      "operators": [
+        {
+          "name": "왕",
+          "color": "#e42ce8",
+          "sprite_index": 113
+        },
+        {
+          "name": "켈시에스페란타",
+          "color": "#e42ce8",
+          "sprite_index": 117
+        },
+        {
+          "name": "엑시아더뉴커버넌트",
+          "color": "#e42ce8",
+          "sprite_index": 100
+        },
+        {
+          "name": "호시구마더브리처",
+          "color": "#e42ce8",
+          "sprite_index": 105
+        },
+        {
+          "name": "라플란드더데카덴차",
+          "color": "#e42ce8",
+          "sprite_index": 93
+        },
+        {
+          "name": "W",
+          "color": "#e42ce8",
+          "sprite_index": 35
+        },
+        {
+          "name": "로즈몬티스",
+          "color": "#e42ce8",
+          "sprite_index": 33
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
+        },
+        {
+          "name": "불피스폴리아",
+          "color": "#00aa00",
+          "sprite_index": 94
+        },
+        {
+          "name": "블레이즈디이그나이팅스파크",
+          "color": "#00aa00",
+          "sprite_index": 97
+        },
+        {
+          "name": "파죰카",
+          "color": null,
+          "sprite_index": 38
+        },
+        {
+          "name": "제시카더리버레이티드",
+          "color": null,
+          "sprite_index": 75
+        },
+        {
+          "name": "엑시아",
+          "color": null,
+          "sprite_index": 3
+        },
+        {
+          "name": "스와이어디엘리건트위트",
+          "color": null,
+          "sprite_index": 72,
+          "potential": 3
         }
       ]
     },
@@ -17931,78 +18008,6 @@
           "name": "오올헤약",
           "color": null,
           "sprite_index": 70
-        }
-      ]
-    },
-    {
-      "account_number": "01403",
-      "price": 99000,
-      "operators": [
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "엑시아더뉴커버넌트",
-          "color": "#e42ce8",
-          "sprite_index": 100
-        },
-        {
-          "name": "호시구마더브리처",
-          "color": "#e42ce8",
-          "sprite_index": 105
-        },
-        {
-          "name": "라플란드더데카덴차",
-          "color": "#e42ce8",
-          "sprite_index": 93
-        },
-        {
-          "name": "W",
-          "color": "#e42ce8",
-          "sprite_index": 35
-        },
-        {
-          "name": "로즈몬티스",
-          "color": "#e42ce8",
-          "sprite_index": 33
-        },
-        {
-          "name": "클로저",
-          "color": "#0000ff",
-          "sprite_index": 118
-        },
-        {
-          "name": "불피스폴리아",
-          "color": "#00aa00",
-          "sprite_index": 94
-        },
-        {
-          "name": "블레이즈디이그나이팅스파크",
-          "color": "#00aa00",
-          "sprite_index": 97
-        },
-        {
-          "name": "파죰카",
-          "color": null,
-          "sprite_index": 38
-        },
-        {
-          "name": "제시카더리버레이티드",
-          "color": null,
-          "sprite_index": 75
-        },
-        {
-          "name": "엑시아",
-          "color": null,
-          "sprite_index": 3
-        },
-        {
-          "name": "스와이어디엘리건트위트",
-          "color": null,
-          "sprite_index": 72,
-          "potential": 3
         }
       ]
     },
