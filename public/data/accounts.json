@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-26T19:04:35.622250+00:00",
+  "updated_at": "2026-10-26T19:10:55.593514+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -49308,7 +49308,7 @@
     },
     {
       "account_number": "01533",
-      "price": 58000,
+      "price": 71000,
       "operators": [
         {
           "name": "엑시아더뉴커버넌트",
@@ -49329,6 +49329,11 @@
           "name": "페페",
           "color": "#e42ce8",
           "sprite_index": 88
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "로고스",
