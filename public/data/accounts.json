@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-26T21:10:05.513305+00:00",
+  "updated_at": "2026-10-26T21:10:23.535030+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -15503,7 +15503,7 @@
     },
     {
       "account_number": "02166",
-      "price": 142000,
+      "price": 155000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -15534,6 +15534,11 @@
           "name": "라플란드더데카덴차",
           "color": "#e42ce8",
           "sprite_index": 93
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "프라마닉스더프레리타",
