@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-26T22:36:12.733567+00:00",
+  "updated_at": "2026-10-26T22:53:10.997194+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -38991,7 +38991,7 @@
     },
     {
       "account_number": "03356",
-      "price": 83000,
+      "price": 96000,
       "operators": [
         {
           "name": "키린R야토",
@@ -39017,6 +39017,11 @@
           "name": "텍사스디오메르토사",
           "color": "#e42ce8",
           "sprite_index": 62
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "첸더던스트릭",
