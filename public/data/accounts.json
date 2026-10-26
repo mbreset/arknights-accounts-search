@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-26T23:11:52.470761+00:00",
+  "updated_at": "2026-10-26T23:13:46.469775+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -16610,6 +16610,103 @@
       ]
     },
     {
+      "account_number": "01964",
+      "price": 159000,
+      "operators": [
+        {
+          "name": "키린R야토",
+          "color": "#dd0000",
+          "sprite_index": 67
+        },
+        {
+          "name": "왕",
+          "color": "#e42ce8",
+          "sprite_index": 113
+        },
+        {
+          "name": "켈시에스페란타",
+          "color": "#e42ce8",
+          "sprite_index": 117
+        },
+        {
+          "name": "엑시아더뉴커버넌트",
+          "color": "#e42ce8",
+          "sprite_index": 100
+        },
+        {
+          "name": "호시구마더브리처",
+          "color": "#e42ce8",
+          "sprite_index": 105
+        },
+        {
+          "name": "위",
+          "color": "#e42ce8",
+          "sprite_index": 96
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
+        },
+        {
+          "name": "무에나",
+          "color": "#0000ff",
+          "sprite_index": 43
+        },
+        {
+          "name": "만트라",
+          "color": "#00aa00",
+          "sprite_index": 108
+        },
+        {
+          "name": "좌락",
+          "color": null,
+          "sprite_index": 82
+        },
+        {
+          "name": "머드락",
+          "color": null,
+          "sprite_index": 12
+        },
+        {
+          "name": "페넌스",
+          "color": null,
+          "sprite_index": 61
+        },
+        {
+          "name": "피아메타",
+          "color": null,
+          "sprite_index": 29
+        },
+        {
+          "name": "아이린",
+          "color": null,
+          "sprite_index": 32
+        },
+        {
+          "name": "리",
+          "color": null,
+          "sprite_index": 8
+        },
+        {
+          "name": "아르케토",
+          "color": null,
+          "sprite_index": 22,
+          "potential": 2
+        },
+        {
+          "name": "스와이어디엘리건트위트",
+          "color": null,
+          "sprite_index": 72
+        },
+        {
+          "name": "치우바이",
+          "color": null,
+          "sprite_index": 66
+        }
+      ]
+    },
+    {
       "account_number": "02206",
       "price": 136000,
       "operators": [
@@ -31068,98 +31165,6 @@
           "name": "오올헤약",
           "color": null,
           "sprite_index": 70
-        }
-      ]
-    },
-    {
-      "account_number": "01964",
-      "price": 129000,
-      "operators": [
-        {
-          "name": "키린R야토",
-          "color": "#dd0000",
-          "sprite_index": 67
-        },
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "엑시아더뉴커버넌트",
-          "color": "#e42ce8",
-          "sprite_index": 100
-        },
-        {
-          "name": "호시구마더브리처",
-          "color": "#e42ce8",
-          "sprite_index": 105
-        },
-        {
-          "name": "위",
-          "color": "#e42ce8",
-          "sprite_index": 96
-        },
-        {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
-          "name": "무에나",
-          "color": "#0000ff",
-          "sprite_index": 43
-        },
-        {
-          "name": "만트라",
-          "color": "#00aa00",
-          "sprite_index": 108
-        },
-        {
-          "name": "좌락",
-          "color": null,
-          "sprite_index": 82
-        },
-        {
-          "name": "머드락",
-          "color": null,
-          "sprite_index": 12
-        },
-        {
-          "name": "페넌스",
-          "color": null,
-          "sprite_index": 61
-        },
-        {
-          "name": "피아메타",
-          "color": null,
-          "sprite_index": 29
-        },
-        {
-          "name": "아이린",
-          "color": null,
-          "sprite_index": 32
-        },
-        {
-          "name": "리",
-          "color": null,
-          "sprite_index": 8
-        },
-        {
-          "name": "아르케토",
-          "color": null,
-          "sprite_index": 22,
-          "potential": 2
-        },
-        {
-          "name": "스와이어디엘리건트위트",
-          "color": null,
-          "sprite_index": 72
-        },
-        {
-          "name": "치우바이",
-          "color": null,
-          "sprite_index": 66
         }
       ]
     },
@@ -59385,7 +59390,7 @@
     },
     {
       "account_number": "00568",
-      "price": 30000,
+      "price": 43000,
       "operators": [
         {
           "name": "비르투오사",
@@ -59396,6 +59401,11 @@
           "name": "스펙터디언체인드",
           "color": "#e42ce8",
           "sprite_index": 31
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "첸더던스트릭",
