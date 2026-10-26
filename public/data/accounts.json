@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-26T23:48:35.577559+00:00",
+  "updated_at": "2026-10-26T23:54:09.556669+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -58397,6 +58397,32 @@
           "name": "플레임테일",
           "color": null,
           "sprite_index": 55
+        }
+      ]
+    },
+    {
+      "account_number": "04020",
+      "price": 23000,
+      "operators": [
+        {
+          "name": "엑시아더뉴커버넌트",
+          "color": "#e42ce8",
+          "sprite_index": 100
+        },
+        {
+          "name": "라플란드더데카덴차",
+          "color": "#e42ce8",
+          "sprite_index": 93
+        },
+        {
+          "name": "트라고디아",
+          "color": "#0000ff",
+          "sprite_index": 103
+        },
+        {
+          "name": "프라마닉스더프레리타",
+          "color": "#0000ff",
+          "sprite_index": 110
         }
       ]
     },
