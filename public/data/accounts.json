@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-26T23:39:02.576043+00:00",
+  "updated_at": "2026-10-26T23:43:01.560975+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -21220,6 +21220,74 @@
       ]
     },
     {
+      "account_number": "02971",
+      "price": 111000,
+      "operators": [
+        {
+          "name": "켈시에스페란타",
+          "color": "#e42ce8",
+          "sprite_index": 117
+        },
+        {
+          "name": "엑시아더뉴커버넌트",
+          "color": "#e42ce8",
+          "sprite_index": 100
+        },
+        {
+          "name": "호시구마더브리처",
+          "color": "#e42ce8",
+          "sprite_index": 105
+        },
+        {
+          "name": "위",
+          "color": "#e42ce8",
+          "sprite_index": 96,
+          "potential": 2
+        },
+        {
+          "name": "텍사스디오메르토사",
+          "color": "#e42ce8",
+          "sprite_index": 62
+        },
+        {
+          "name": "총웨",
+          "color": "#e42ce8",
+          "sprite_index": 64
+        },
+        {
+          "name": "첸더던스트릭",
+          "color": "#0000ff",
+          "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
+        },
+        {
+          "name": "쏜즈",
+          "color": null,
+          "sprite_index": 6
+        },
+        {
+          "name": "피아메타",
+          "color": null,
+          "sprite_index": 29
+        },
+        {
+          "name": "오올헤약",
+          "color": null,
+          "sprite_index": 70,
+          "potential": 2
+        },
+        {
+          "name": "파투스",
+          "color": null,
+          "sprite_index": 54
+        }
+      ]
+    },
+    {
       "account_number": "01363",
       "price": 131000,
       "operators": [
@@ -39571,69 +39639,6 @@
           "name": "카넬리안",
           "color": null,
           "sprite_index": 52
-        }
-      ]
-    },
-    {
-      "account_number": "02971",
-      "price": 73000,
-      "operators": [
-        {
-          "name": "엑시아더뉴커버넌트",
-          "color": "#e42ce8",
-          "sprite_index": 100
-        },
-        {
-          "name": "호시구마더브리처",
-          "color": "#e42ce8",
-          "sprite_index": 105
-        },
-        {
-          "name": "위",
-          "color": "#e42ce8",
-          "sprite_index": 96,
-          "potential": 2
-        },
-        {
-          "name": "텍사스디오메르토사",
-          "color": "#e42ce8",
-          "sprite_index": 62
-        },
-        {
-          "name": "총웨",
-          "color": "#e42ce8",
-          "sprite_index": 64
-        },
-        {
-          "name": "첸더던스트릭",
-          "color": "#0000ff",
-          "sprite_index": 114
-        },
-        {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
-          "name": "쏜즈",
-          "color": null,
-          "sprite_index": 6
-        },
-        {
-          "name": "피아메타",
-          "color": null,
-          "sprite_index": 29
-        },
-        {
-          "name": "오올헤약",
-          "color": null,
-          "sprite_index": 70,
-          "potential": 2
-        },
-        {
-          "name": "파투스",
-          "color": null,
-          "sprite_index": 54
         }
       ]
     },
