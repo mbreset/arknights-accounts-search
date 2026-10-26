@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-26T23:24:49.458085+00:00",
+  "updated_at": "2026-10-26T23:26:27.451690+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -52893,7 +52893,7 @@
     },
     {
       "account_number": "02002",
-      "price": 37000,
+      "price": 50000,
       "operators": [
         {
           "name": "위",
@@ -52914,6 +52914,11 @@
           "name": "페페",
           "color": "#e42ce8",
           "sprite_index": 88
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "첸더던스트릭",
