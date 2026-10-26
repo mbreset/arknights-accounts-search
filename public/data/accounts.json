@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-26T04:32:25.728838+00:00",
+  "updated_at": "2026-10-26T04:49:38.812459+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -39501,7 +39501,7 @@
     },
     {
       "account_number": "02797",
-      "price": 65000,
+      "price": 74000,
       "operators": [
         {
           "name": "엑시아더뉴커버넌트",
@@ -39534,6 +39534,11 @@
           "color": "#0000ff",
           "sprite_index": 114,
           "potential": 2
+        },
+        {
+          "name": "아스카론",
+          "color": "#0000ff",
+          "sprite_index": 84
         },
         {
           "name": "르무엔",
