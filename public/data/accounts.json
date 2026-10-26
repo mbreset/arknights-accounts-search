@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-26T20:00:19.423325+00:00",
+  "updated_at": "2026-10-26T20:12:03.447480+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -20485,6 +20485,83 @@
       ]
     },
     {
+      "account_number": "01988",
+      "price": 122000,
+      "operators": [
+        {
+          "name": "켈시에스페란타",
+          "color": "#e42ce8",
+          "sprite_index": 117
+        },
+        {
+          "name": "실버애쉬더레인프로스트",
+          "color": "#e42ce8",
+          "sprite_index": 109
+        },
+        {
+          "name": "슈",
+          "color": "#e42ce8",
+          "sprite_index": 81
+        },
+        {
+          "name": "위",
+          "color": "#e42ce8",
+          "sprite_index": 96
+        },
+        {
+          "name": "뮤엘시스",
+          "color": "#e42ce8",
+          "sprite_index": 69
+        },
+        {
+          "name": "페페",
+          "color": "#e42ce8",
+          "sprite_index": 88
+        },
+        {
+          "name": "첸더던스트릭",
+          "color": "#0000ff",
+          "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
+        },
+        {
+          "name": "무에나",
+          "color": "#0000ff",
+          "sprite_index": 43
+        },
+        {
+          "name": "로고스",
+          "color": "#0000ff",
+          "sprite_index": 86
+        },
+        {
+          "name": "레이",
+          "color": "#00aa00",
+          "sprite_index": 80,
+          "potential": 2
+        },
+        {
+          "name": "케오베",
+          "color": null,
+          "sprite_index": 57
+        },
+        {
+          "name": "로사",
+          "color": null,
+          "sprite_index": 58
+        },
+        {
+          "name": "리",
+          "color": null,
+          "sprite_index": 8
+        }
+      ]
+    },
+    {
       "account_number": "00527",
       "price": 118000,
       "operators": [
@@ -38696,78 +38773,6 @@
           "name": "플레임테일",
           "color": null,
           "sprite_index": 55
-        }
-      ]
-    },
-    {
-      "account_number": "01988",
-      "price": 84000,
-      "operators": [
-        {
-          "name": "실버애쉬더레인프로스트",
-          "color": "#e42ce8",
-          "sprite_index": 109
-        },
-        {
-          "name": "슈",
-          "color": "#e42ce8",
-          "sprite_index": 81
-        },
-        {
-          "name": "위",
-          "color": "#e42ce8",
-          "sprite_index": 96
-        },
-        {
-          "name": "뮤엘시스",
-          "color": "#e42ce8",
-          "sprite_index": 69
-        },
-        {
-          "name": "페페",
-          "color": "#e42ce8",
-          "sprite_index": 88
-        },
-        {
-          "name": "첸더던스트릭",
-          "color": "#0000ff",
-          "sprite_index": 114
-        },
-        {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
-          "name": "무에나",
-          "color": "#0000ff",
-          "sprite_index": 43
-        },
-        {
-          "name": "로고스",
-          "color": "#0000ff",
-          "sprite_index": 86
-        },
-        {
-          "name": "레이",
-          "color": "#00aa00",
-          "sprite_index": 80,
-          "potential": 2
-        },
-        {
-          "name": "케오베",
-          "color": null,
-          "sprite_index": 57
-        },
-        {
-          "name": "로사",
-          "color": null,
-          "sprite_index": 58
-        },
-        {
-          "name": "리",
-          "color": null,
-          "sprite_index": 8
         }
       ]
     },
