@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-27T00:00:43.550117+00:00",
+  "updated_at": "2026-10-27T00:14:12.530784+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -23483,7 +23483,7 @@
     },
     {
       "account_number": "02590",
-      "price": 96000,
+      "price": 97000,
       "operators": [
         {
           "name": "실버애쉬더레인프로스트",
@@ -23520,7 +23520,8 @@
         {
           "name": "클로저",
           "color": "#0000ff",
-          "sprite_index": 118
+          "sprite_index": 118,
+          "potential": 2
         },
         {
           "name": "로고스",
