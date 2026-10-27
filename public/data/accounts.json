@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-27T04:58:08.719721+00:00",
+  "updated_at": "2026-10-27T05:14:38.614177+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -56256,7 +56256,7 @@
     },
     {
       "account_number": "01814",
-      "price": 57000,
+      "price": 70000,
       "operators": [
         {
           "name": "엑시아더뉴커버넌트",
@@ -56273,6 +56273,11 @@
           "name": "페페",
           "color": "#e42ce8",
           "sprite_index": 88
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "프라마닉스더프레리타",
