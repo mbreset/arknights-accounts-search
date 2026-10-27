@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-27T06:35:34.755797+00:00",
+  "updated_at": "2026-10-27T08:27:59.636532+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -17076,90 +17076,6 @@
           "name": "오올헤약",
           "color": null,
           "sprite_index": 70
-        }
-      ]
-    },
-    {
-      "account_number": "02306",
-      "price": 138000,
-      "operators": [
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113,
-          "potential": 2
-        },
-        {
-          "name": "켈시에스페란타",
-          "color": "#e42ce8",
-          "sprite_index": 117
-        },
-        {
-          "name": "위셔델",
-          "color": "#e42ce8",
-          "sprite_index": 85
-        },
-        {
-          "name": "위",
-          "color": "#e42ce8",
-          "sprite_index": 96
-        },
-        {
-          "name": "로즈몬티스",
-          "color": "#e42ce8",
-          "sprite_index": 33
-        },
-        {
-          "name": "첸더홀룽데이",
-          "color": "#e42ce8",
-          "sprite_index": 36
-        },
-        {
-          "name": "프라마닉스더프레리타",
-          "color": "#0000ff",
-          "sprite_index": 110,
-          "potential": 2
-        },
-        {
-          "name": "첸더던스트릭",
-          "color": "#0000ff",
-          "sprite_index": 114
-        },
-        {
-          "name": "무에나",
-          "color": "#0000ff",
-          "sprite_index": 43,
-          "potential": 2
-        },
-        {
-          "name": "울피아누스",
-          "color": "#0000ff",
-          "sprite_index": 87
-        },
-        {
-          "name": "리드더플레임섀도우",
-          "color": "#00aa00",
-          "sprite_index": 63
-        },
-        {
-          "name": "좌락",
-          "color": null,
-          "sprite_index": 82
-        },
-        {
-          "name": "마운틴",
-          "color": null,
-          "sprite_index": 11
-        },
-        {
-          "name": "페넌스",
-          "color": null,
-          "sprite_index": 61
-        },
-        {
-          "name": "린",
-          "color": null,
-          "sprite_index": 65
         }
       ]
     },
