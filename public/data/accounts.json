@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-27T04:17:24.376730+00:00",
+  "updated_at": "2026-10-27T04:23:42.361882+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -53051,7 +53051,7 @@
     },
     {
       "account_number": "03850",
-      "price": 57000,
+      "price": 65000,
       "operators": [
         {
           "name": "에이야퍄들라더크비트아스카",
@@ -53088,6 +53088,11 @@
           "name": "로고스",
           "color": "#0000ff",
           "sprite_index": 86
+        },
+        {
+          "name": "데겐블레허",
+          "color": "#00aa00",
+          "sprite_index": 79
         },
         {
           "name": "불피스폴리아",
