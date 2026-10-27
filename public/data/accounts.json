@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-27T01:42:12.778979+00:00",
+  "updated_at": "2026-10-27T01:44:04.808802+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -501,6 +501,83 @@
           "name": "유넥티스",
           "color": null,
           "sprite_index": 50
+        }
+      ]
+    },
+    {
+      "account_number": "03532",
+      "price": 147000,
+      "operators": [
+        {
+          "name": "토가와사키코",
+          "color": "#dd0000",
+          "sprite_index": 107
+        },
+        {
+          "name": "키린R야토",
+          "color": "#dd0000",
+          "sprite_index": 67
+        },
+        {
+          "name": "켈시에스페란타",
+          "color": "#e42ce8",
+          "sprite_index": 117
+        },
+        {
+          "name": "실버애쉬더레인프로스트",
+          "color": "#e42ce8",
+          "sprite_index": 109
+        },
+        {
+          "name": "호시구마더브리처",
+          "color": "#e42ce8",
+          "sprite_index": 105
+        },
+        {
+          "name": "위",
+          "color": "#e42ce8",
+          "sprite_index": 96
+        },
+        {
+          "name": "가비알디인빈서블",
+          "color": "#e42ce8",
+          "sprite_index": 37
+        },
+        {
+          "name": "뮤엘시스",
+          "color": "#e42ce8",
+          "sprite_index": 69
+        },
+        {
+          "name": "페페",
+          "color": "#e42ce8",
+          "sprite_index": 88
+        },
+        {
+          "name": "르무엔",
+          "color": "#0000ff",
+          "sprite_index": 101
+        },
+        {
+          "name": "나란투야",
+          "color": null,
+          "sprite_index": 89,
+          "potential": 2
+        },
+        {
+          "name": "린",
+          "color": null,
+          "sprite_index": 65
+        },
+        {
+          "name": "스와이어디엘리건트위트",
+          "color": null,
+          "sprite_index": 72
+        },
+        {
+          "name": "카넬리안",
+          "color": null,
+          "sprite_index": 52
         }
       ]
     },
@@ -2961,78 +3038,6 @@
           "name": "시즈",
           "color": null,
           "sprite_index": 26
-        }
-      ]
-    },
-    {
-      "account_number": "03532",
-      "price": 117000,
-      "operators": [
-        {
-          "name": "토가와사키코",
-          "color": "#dd0000",
-          "sprite_index": 107
-        },
-        {
-          "name": "키린R야토",
-          "color": "#dd0000",
-          "sprite_index": 67
-        },
-        {
-          "name": "실버애쉬더레인프로스트",
-          "color": "#e42ce8",
-          "sprite_index": 109
-        },
-        {
-          "name": "호시구마더브리처",
-          "color": "#e42ce8",
-          "sprite_index": 105
-        },
-        {
-          "name": "위",
-          "color": "#e42ce8",
-          "sprite_index": 96
-        },
-        {
-          "name": "가비알디인빈서블",
-          "color": "#e42ce8",
-          "sprite_index": 37
-        },
-        {
-          "name": "뮤엘시스",
-          "color": "#e42ce8",
-          "sprite_index": 69
-        },
-        {
-          "name": "페페",
-          "color": "#e42ce8",
-          "sprite_index": 88
-        },
-        {
-          "name": "르무엔",
-          "color": "#0000ff",
-          "sprite_index": 101
-        },
-        {
-          "name": "나란투야",
-          "color": null,
-          "sprite_index": 89,
-          "potential": 2
-        },
-        {
-          "name": "린",
-          "color": null,
-          "sprite_index": 65
-        },
-        {
-          "name": "스와이어디엘리건트위트",
-          "color": null,
-          "sprite_index": 72
-        },
-        {
-          "name": "카넬리안",
-          "color": null,
-          "sprite_index": 52
         }
       ]
     },
