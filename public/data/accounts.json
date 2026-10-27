@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-27T01:44:04.808802+00:00",
+  "updated_at": "2026-10-27T01:54:42.960300+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -18567,7 +18567,7 @@
     },
     {
       "account_number": "03531",
-      "price": 113000,
+      "price": 116000,
       "operators": [
         {
           "name": "키린R야토",
@@ -18619,6 +18619,11 @@
           "name": "마운틴",
           "color": null,
           "sprite_index": 11
+        },
+        {
+          "name": "엔텔레키아",
+          "color": null,
+          "sprite_index": 102
         },
         {
           "name": "스와이어디엘리건트위트",
