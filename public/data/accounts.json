@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-27T04:35:10.480984+00:00",
+  "updated_at": "2026-10-27T04:38:09.495619+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -14973,6 +14973,89 @@
       ]
     },
     {
+      "account_number": "02963",
+      "price": 130000,
+      "operators": [
+        {
+          "name": "토가와사키코",
+          "color": "#dd0000",
+          "sprite_index": 107
+        },
+        {
+          "name": "마르실",
+          "color": "#dd0000",
+          "sprite_index": 91
+        },
+        {
+          "name": "왕",
+          "color": "#e42ce8",
+          "sprite_index": 113
+        },
+        {
+          "name": "켈시에스페란타",
+          "color": "#e42ce8",
+          "sprite_index": 117
+        },
+        {
+          "name": "텍사스디오메르토사",
+          "color": "#e42ce8",
+          "sprite_index": 62
+        },
+        {
+          "name": "페페",
+          "color": "#e42ce8",
+          "sprite_index": 88
+        },
+        {
+          "name": "로고스",
+          "color": "#0000ff",
+          "sprite_index": 86
+        },
+        {
+          "name": "르무엔",
+          "color": "#0000ff",
+          "sprite_index": 101,
+          "potential": 2
+        },
+        {
+          "name": "골든글로우",
+          "color": "#00aa00",
+          "sprite_index": 28
+        },
+        {
+          "name": "좌락",
+          "color": null,
+          "sprite_index": 82,
+          "potential": 2
+        },
+        {
+          "name": "린",
+          "color": null,
+          "sprite_index": 65
+        },
+        {
+          "name": "리",
+          "color": null,
+          "sprite_index": 8
+        },
+        {
+          "name": "도로시",
+          "color": null,
+          "sprite_index": 56
+        },
+        {
+          "name": "비비아나",
+          "color": null,
+          "sprite_index": 78
+        },
+        {
+          "name": "외드레르",
+          "color": null,
+          "sprite_index": 76
+        }
+      ]
+    },
+    {
       "account_number": "01397",
       "price": 131000,
       "operators": [
@@ -27087,79 +27170,6 @@
           "color": null,
           "sprite_index": 72,
           "potential": 2
-        }
-      ]
-    },
-    {
-      "account_number": "02963",
-      "price": 97000,
-      "operators": [
-        {
-          "name": "토가와사키코",
-          "color": "#dd0000",
-          "sprite_index": 107
-        },
-        {
-          "name": "마르실",
-          "color": "#dd0000",
-          "sprite_index": 91
-        },
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "텍사스디오메르토사",
-          "color": "#e42ce8",
-          "sprite_index": 62
-        },
-        {
-          "name": "페페",
-          "color": "#e42ce8",
-          "sprite_index": 88
-        },
-        {
-          "name": "로고스",
-          "color": "#0000ff",
-          "sprite_index": 86
-        },
-        {
-          "name": "르무엔",
-          "color": "#0000ff",
-          "sprite_index": 101,
-          "potential": 2
-        },
-        {
-          "name": "골든글로우",
-          "color": "#00aa00",
-          "sprite_index": 28
-        },
-        {
-          "name": "좌락",
-          "color": null,
-          "sprite_index": 82,
-          "potential": 2
-        },
-        {
-          "name": "린",
-          "color": null,
-          "sprite_index": 65
-        },
-        {
-          "name": "리",
-          "color": null,
-          "sprite_index": 8
-        },
-        {
-          "name": "도로시",
-          "color": null,
-          "sprite_index": 56
-        },
-        {
-          "name": "비비아나",
-          "color": null,
-          "sprite_index": 78
         }
       ]
     },
