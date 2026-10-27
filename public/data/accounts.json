@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-27T04:55:34.599065+00:00",
+  "updated_at": "2026-10-27T04:57:20.680633+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -7797,6 +7797,68 @@
           "color": null,
           "sprite_index": 72,
           "potential": 3
+        }
+      ]
+    },
+    {
+      "account_number": "02957",
+      "price": 131000,
+      "operators": [
+        {
+          "name": "마르실",
+          "color": "#dd0000",
+          "sprite_index": 91
+        },
+        {
+          "name": "왕",
+          "color": "#e42ce8",
+          "sprite_index": 113
+        },
+        {
+          "name": "켈시에스페란타",
+          "color": "#e42ce8",
+          "sprite_index": 117
+        },
+        {
+          "name": "엑시아더뉴커버넌트",
+          "color": "#e42ce8",
+          "sprite_index": 100
+        },
+        {
+          "name": "슈",
+          "color": "#e42ce8",
+          "sprite_index": 81
+        },
+        {
+          "name": "텍사스디오메르토사",
+          "color": "#e42ce8",
+          "sprite_index": 62
+        },
+        {
+          "name": "페페",
+          "color": "#e42ce8",
+          "sprite_index": 88
+        },
+        {
+          "name": "로고스",
+          "color": "#0000ff",
+          "sprite_index": 86,
+          "potential": 2
+        },
+        {
+          "name": "골든글로우",
+          "color": "#00aa00",
+          "sprite_index": 28
+        },
+        {
+          "name": "레이",
+          "color": "#00aa00",
+          "sprite_index": 80
+        },
+        {
+          "name": "스와이어디엘리건트위트",
+          "color": null,
+          "sprite_index": 72
         }
       ]
     },
@@ -18832,63 +18894,6 @@
           "name": "오올헤약",
           "color": null,
           "sprite_index": 70
-        }
-      ]
-    },
-    {
-      "account_number": "02957",
-      "price": 101000,
-      "operators": [
-        {
-          "name": "마르실",
-          "color": "#dd0000",
-          "sprite_index": 91
-        },
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "엑시아더뉴커버넌트",
-          "color": "#e42ce8",
-          "sprite_index": 100
-        },
-        {
-          "name": "슈",
-          "color": "#e42ce8",
-          "sprite_index": 81
-        },
-        {
-          "name": "텍사스디오메르토사",
-          "color": "#e42ce8",
-          "sprite_index": 62
-        },
-        {
-          "name": "페페",
-          "color": "#e42ce8",
-          "sprite_index": 88
-        },
-        {
-          "name": "로고스",
-          "color": "#0000ff",
-          "sprite_index": 86,
-          "potential": 2
-        },
-        {
-          "name": "골든글로우",
-          "color": "#00aa00",
-          "sprite_index": 28
-        },
-        {
-          "name": "레이",
-          "color": "#00aa00",
-          "sprite_index": 80
-        },
-        {
-          "name": "스와이어디엘리건트위트",
-          "color": null,
-          "sprite_index": 72
         }
       ]
     },
