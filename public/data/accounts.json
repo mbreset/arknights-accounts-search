@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-27T04:53:36.601325+00:00",
+  "updated_at": "2026-10-27T04:55:34.599065+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -6132,6 +6132,87 @@
           "name": "비비아나",
           "color": null,
           "sprite_index": 78
+        }
+      ]
+    },
+    {
+      "account_number": "03565",
+      "price": 175000,
+      "operators": [
+        {
+          "name": "토가와사키코",
+          "color": "#dd0000",
+          "sprite_index": 107
+        },
+        {
+          "name": "키린R야토",
+          "color": "#dd0000",
+          "sprite_index": 67
+        },
+        {
+          "name": "왕",
+          "color": "#e42ce8",
+          "sprite_index": 113
+        },
+        {
+          "name": "켈시에스페란타",
+          "color": "#e42ce8",
+          "sprite_index": 117
+        },
+        {
+          "name": "호시구마더브리처",
+          "color": "#e42ce8",
+          "sprite_index": 105
+        },
+        {
+          "name": "슈",
+          "color": "#e42ce8",
+          "sprite_index": 81
+        },
+        {
+          "name": "위",
+          "color": "#e42ce8",
+          "sprite_index": 96
+        },
+        {
+          "name": "첸더던스트릭",
+          "color": "#0000ff",
+          "sprite_index": 114
+        },
+        {
+          "name": "아스카론",
+          "color": "#0000ff",
+          "sprite_index": 84
+        },
+        {
+          "name": "모스티마",
+          "color": null,
+          "sprite_index": 48
+        },
+        {
+          "name": "네크라스",
+          "color": null,
+          "sprite_index": 98
+        },
+        {
+          "name": "좌락",
+          "color": null,
+          "sprite_index": 82
+        },
+        {
+          "name": "아이린",
+          "color": null,
+          "sprite_index": 32
+        },
+        {
+          "name": "위디",
+          "color": null,
+          "sprite_index": 41
+        },
+        {
+          "name": "유넥티스",
+          "color": null,
+          "sprite_index": 50
         }
       ]
     },
@@ -15144,82 +15225,6 @@
           "name": "안젤리나",
           "color": null,
           "sprite_index": 9
-        }
-      ]
-    },
-    {
-      "account_number": "03565",
-      "price": 147000,
-      "operators": [
-        {
-          "name": "토가와사키코",
-          "color": "#dd0000",
-          "sprite_index": 107
-        },
-        {
-          "name": "키린R야토",
-          "color": "#dd0000",
-          "sprite_index": 67
-        },
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "호시구마더브리처",
-          "color": "#e42ce8",
-          "sprite_index": 105
-        },
-        {
-          "name": "슈",
-          "color": "#e42ce8",
-          "sprite_index": 81
-        },
-        {
-          "name": "위",
-          "color": "#e42ce8",
-          "sprite_index": 96
-        },
-        {
-          "name": "첸더던스트릭",
-          "color": "#0000ff",
-          "sprite_index": 114
-        },
-        {
-          "name": "아스카론",
-          "color": "#0000ff",
-          "sprite_index": 84
-        },
-        {
-          "name": "모스티마",
-          "color": null,
-          "sprite_index": 48
-        },
-        {
-          "name": "네크라스",
-          "color": null,
-          "sprite_index": 98
-        },
-        {
-          "name": "좌락",
-          "color": null,
-          "sprite_index": 82
-        },
-        {
-          "name": "아이린",
-          "color": null,
-          "sprite_index": 32
-        },
-        {
-          "name": "위디",
-          "color": null,
-          "sprite_index": 41
-        },
-        {
-          "name": "유넥티스",
-          "color": null,
-          "sprite_index": 50
         }
       ]
     },
