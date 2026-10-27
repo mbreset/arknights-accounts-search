@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-27T03:36:05.292047+00:00",
+  "updated_at": "2026-10-27T03:36:49.515315+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -18430,7 +18430,7 @@
     },
     {
       "account_number": "01795",
-      "price": 97000,
+      "price": 99000,
       "operators": [
         {
           "name": "왕",
@@ -18492,6 +18492,11 @@
           "name": "나이팅게일",
           "color": null,
           "sprite_index": 17
+        },
+        {
+          "name": "비나빅토리아",
+          "color": null,
+          "sprite_index": 92
         },
         {
           "name": "스와이어디엘리건트위트",
@@ -21736,7 +21741,7 @@
     },
     {
       "account_number": "02480",
-      "price": 105000,
+      "price": 109000,
       "operators": [
         {
           "name": "켈시에스페란타",
@@ -21778,6 +21783,11 @@
           "color": "#0000ff",
           "sprite_index": 86,
           "potential": 3
+        },
+        {
+          "name": "나란투야",
+          "color": null,
+          "sprite_index": 89
         },
         {
           "name": "티폰",
