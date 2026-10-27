@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-27T02:48:09.200674+00:00",
+  "updated_at": "2026-10-27T03:17:47.286224+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -2427,7 +2427,7 @@
     },
     {
       "account_number": "01740",
-      "price": 137000,
+      "price": 140000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -2486,6 +2486,11 @@
           "color": null,
           "sprite_index": 82,
           "potential": 2
+        },
+        {
+          "name": "페넌스",
+          "color": null,
+          "sprite_index": 61
         },
         {
           "name": "피아메타",
