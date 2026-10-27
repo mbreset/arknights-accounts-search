@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-27T03:49:21.094325+00:00",
+  "updated_at": "2026-10-27T03:51:30.123842+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -31406,7 +31406,7 @@
     },
     {
       "account_number": "03398",
-      "price": 97000,
+      "price": 101000,
       "operators": [
         {
           "name": "키린R야토",
@@ -31452,6 +31452,11 @@
           "name": "나란투야",
           "color": null,
           "sprite_index": 89
+        },
+        {
+          "name": "네크라스",
+          "color": null,
+          "sprite_index": 98
         },
         {
           "name": "파죰카",
