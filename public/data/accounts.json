@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-27T05:52:53.508849+00:00",
+  "updated_at": "2026-10-27T05:59:48.484107+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -49987,7 +49987,7 @@
     },
     {
       "account_number": "03728",
-      "price": 38000,
+      "price": 51000,
       "operators": [
         {
           "name": "키린R야토",
@@ -50008,6 +50008,11 @@
           "name": "뮤엘시스",
           "color": "#e42ce8",
           "sprite_index": 69
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "님프",
