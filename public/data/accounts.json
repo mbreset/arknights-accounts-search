@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-27T15:44:22.317851+00:00",
+  "updated_at": "2026-10-28T11:59:01.146292+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -53383,27 +53383,6 @@
           "name": "클로저",
           "color": "#0000ff",
           "sprite_index": 118
-        }
-      ]
-    },
-    {
-      "account_number": "04265",
-      "price": 46000,
-      "operators": [
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "켈시에스페란타",
-          "color": "#e42ce8",
-          "sprite_index": 117
-        },
-        {
-          "name": "슈",
-          "color": "#e42ce8",
-          "sprite_index": 81
         }
       ]
     },
