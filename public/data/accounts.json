@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-29T12:30:59.743762+00:00",
+  "updated_at": "2026-10-30T04:37:16.109410+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -29573,91 +29573,6 @@
           "name": "스테인리스",
           "color": null,
           "sprite_index": 60
-        }
-      ]
-    },
-    {
-      "account_number": "01836",
-      "price": 128000,
-      "operators": [
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "켈시에스페란타",
-          "color": "#e42ce8",
-          "sprite_index": 117
-        },
-        {
-          "name": "실버애쉬더레인프로스트",
-          "color": "#e42ce8",
-          "sprite_index": 109
-        },
-        {
-          "name": "위",
-          "color": "#e42ce8",
-          "sprite_index": 96
-        },
-        {
-          "name": "페페",
-          "color": "#e42ce8",
-          "sprite_index": 88
-        },
-        {
-          "name": "클로저",
-          "color": "#0000ff",
-          "sprite_index": 118
-        },
-        {
-          "name": "무에나",
-          "color": "#0000ff",
-          "sprite_index": 43
-        },
-        {
-          "name": "로고스",
-          "color": "#0000ff",
-          "sprite_index": 86,
-          "potential": 2
-        },
-        {
-          "name": "르무엔",
-          "color": "#0000ff",
-          "sprite_index": 101,
-          "potential": 2
-        },
-        {
-          "name": "레이즈더썬더브링어",
-          "color": "#00aa00",
-          "sprite_index": 104
-        },
-        {
-          "name": "페넌스",
-          "color": null,
-          "sprite_index": 61,
-          "potential": 2
-        },
-        {
-          "name": "엔텔레키아",
-          "color": null,
-          "sprite_index": 102
-        },
-        {
-          "name": "피아메타",
-          "color": null,
-          "sprite_index": 29
-        },
-        {
-          "name": "린",
-          "color": null,
-          "sprite_index": 65,
-          "potential": 2
-        },
-        {
-          "name": "스와이어디엘리건트위트",
-          "color": null,
-          "sprite_index": 72
         }
       ]
     },
