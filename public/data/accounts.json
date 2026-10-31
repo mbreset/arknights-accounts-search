@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-31T23:39:48.605220+00:00",
+  "updated_at": "2026-10-31T23:52:28.639232+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -57637,38 +57637,6 @@
           "name": "쏜즈더로드스타",
           "color": null,
           "sprite_index": 95
-        }
-      ]
-    },
-    {
-      "account_number": "04038",
-      "price": 43500,
-      "operators": [
-        {
-          "name": "켈시에스페란타",
-          "color": "#e42ce8",
-          "sprite_index": 117,
-          "potential": 2
-        },
-        {
-          "name": "실버애쉬더레인프로스트",
-          "color": "#e42ce8",
-          "sprite_index": 109
-        },
-        {
-          "name": "클로저",
-          "color": "#0000ff",
-          "sprite_index": 118
-        },
-        {
-          "name": "첸더던스트릭",
-          "color": "#0000ff",
-          "sprite_index": 114
-        },
-        {
-          "name": "이그제큐터디엑스포에데레",
-          "color": "#00aa00",
-          "sprite_index": 71
         }
       ]
     },
