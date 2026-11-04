@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-04T16:05:56.032753+00:00",
+  "updated_at": "2026-11-04T17:22:36.559091+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -57303,33 +57303,6 @@
           "name": "아이린",
           "color": null,
           "sprite_index": 32
-        }
-      ]
-    },
-    {
-      "account_number": "04359",
-      "price": 31500,
-      "operators": [
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "켈시에스페란타",
-          "color": "#e42ce8",
-          "sprite_index": 117,
-          "potential": 2
-        },
-        {
-          "name": "프라마닉스더프레리타",
-          "color": "#0000ff",
-          "sprite_index": 110
-        },
-        {
-          "name": "비비아나",
-          "color": null,
-          "sprite_index": 78
         }
       ]
     },
