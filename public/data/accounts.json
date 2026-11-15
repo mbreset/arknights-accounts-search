@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-14T11:00:24.262232+00:00",
+  "updated_at": "2026-11-15T13:07:05.609248+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -56941,33 +56941,6 @@
           "name": "스테인리스",
           "color": null,
           "sprite_index": 60
-        }
-      ]
-    },
-    {
-      "account_number": "04337",
-      "price": 33500,
-      "operators": [
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "켈시에스페란타",
-          "color": "#e42ce8",
-          "sprite_index": 117,
-          "potential": 2
-        },
-        {
-          "name": "클로저",
-          "color": "#0000ff",
-          "sprite_index": 118
-        },
-        {
-          "name": "좌락",
-          "color": null,
-          "sprite_index": 82
         }
       ]
     },
