@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-16T22:15:55.535992+00:00",
+  "updated_at": "2026-11-16T22:16:41.614304+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -43411,7 +43411,7 @@
     },
     {
       "account_number": "01430",
-      "price": 112000,
+      "price": 114000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -43485,6 +43485,11 @@
           "name": "호시구마",
           "color": null,
           "sprite_index": 27
+        },
+        {
+          "name": "비비아나",
+          "color": null,
+          "sprite_index": 78
         }
       ]
     },
