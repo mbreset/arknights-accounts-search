@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-16T19:37:13.316362+00:00",
+  "updated_at": "2026-11-16T19:45:53.679808+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -45338,7 +45338,7 @@
     },
     {
       "account_number": "02752",
-      "price": 93000,
+      "price": 95000,
       "operators": [
         {
           "name": "왕",
@@ -45386,6 +45386,11 @@
           "name": "나란투야",
           "color": null,
           "sprite_index": 89
+        },
+        {
+          "name": "린",
+          "color": null,
+          "sprite_index": 65
         }
       ]
     },
