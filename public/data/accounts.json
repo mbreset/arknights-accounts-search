@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-16T15:44:07.531171+00:00",
+  "updated_at": "2026-11-16T15:50:34.641242+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -47177,7 +47177,7 @@
     },
     {
       "account_number": "02528",
-      "price": 52000,
+      "price": 65000,
       "operators": [
         {
           "name": "켈시에스페란타",
@@ -47198,6 +47198,11 @@
           "name": "페페",
           "color": "#e42ce8",
           "sprite_index": 88
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         },
         {
           "name": "프라마닉스더프레리타",
