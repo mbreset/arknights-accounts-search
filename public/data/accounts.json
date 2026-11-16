@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-16T15:38:49.546987+00:00",
+  "updated_at": "2026-11-16T15:39:21.544434+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -20911,7 +20911,7 @@
     },
     {
       "account_number": "01988",
-      "price": 122000,
+      "price": 125000,
       "operators": [
         {
           "name": "켈시에스페란타",
@@ -20968,6 +20968,11 @@
           "color": "#00aa00",
           "sprite_index": 80,
           "potential": 2
+        },
+        {
+          "name": "페넌스",
+          "color": null,
+          "sprite_index": 61
         },
         {
           "name": "케오베",
