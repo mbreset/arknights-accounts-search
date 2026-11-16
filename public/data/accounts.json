@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-16T21:34:36.133527+00:00",
+  "updated_at": "2026-11-16T21:39:02.140043+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -46353,7 +46353,7 @@
     },
     {
       "account_number": "01406",
-      "price": 78000,
+      "price": 82000,
       "operators": [
         {
           "name": "켈시에스페란타",
@@ -46389,6 +46389,11 @@
           "name": "리드더플레임섀도우",
           "color": "#00aa00",
           "sprite_index": 63
+        },
+        {
+          "name": "좌락",
+          "color": null,
+          "sprite_index": 82
         },
         {
           "name": "혼",
