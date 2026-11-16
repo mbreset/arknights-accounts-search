@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-16T15:19:00.662960+00:00",
+  "updated_at": "2026-11-16T15:20:50.456313+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -25265,7 +25265,7 @@
     },
     {
       "account_number": "01164",
-      "price": 88000,
+      "price": 93000,
       "operators": [
         {
           "name": "호시구마더브리처",
@@ -25318,6 +25318,11 @@
           "name": "Mon3tr",
           "color": "#0000ff",
           "sprite_index": 99
+        },
+        {
+          "name": "리드더플레임섀도우",
+          "color": "#00aa00",
+          "sprite_index": 63
         },
         {
           "name": "나란투야",
