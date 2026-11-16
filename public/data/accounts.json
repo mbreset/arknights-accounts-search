@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-16T20:24:04.740403+00:00",
+  "updated_at": "2026-11-16T20:24:48.239301+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -57675,6 +57675,37 @@
           "name": "쏜즈더로드스타",
           "color": null,
           "sprite_index": 95
+        }
+      ]
+    },
+    {
+      "account_number": "04235",
+      "price": 34000,
+      "operators": [
+        {
+          "name": "왕",
+          "color": "#e42ce8",
+          "sprite_index": 113
+        },
+        {
+          "name": "켈시에스페란타",
+          "color": "#e42ce8",
+          "sprite_index": 117
+        },
+        {
+          "name": "데겐블레허",
+          "color": "#00aa00",
+          "sprite_index": 79
+        },
+        {
+          "name": "님프",
+          "color": "#00aa00",
+          "sprite_index": 90
+        },
+        {
+          "name": "티폰",
+          "color": null,
+          "sprite_index": 74
         }
       ]
     },
