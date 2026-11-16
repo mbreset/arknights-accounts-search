@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-16T18:06:39.647855+00:00",
+  "updated_at": "2026-11-16T18:10:41.713488+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -30248,7 +30248,7 @@
     },
     {
       "account_number": "03873",
-      "price": 114000,
+      "price": 116000,
       "operators": [
         {
           "name": "왕",
@@ -30310,6 +30310,11 @@
           "name": "리",
           "color": null,
           "sprite_index": 8
+        },
+        {
+          "name": "비비아나",
+          "color": null,
+          "sprite_index": 78
         },
         {
           "name": "스테인리스",
