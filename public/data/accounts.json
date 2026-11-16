@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-16T20:16:35.893841+00:00",
+  "updated_at": "2026-11-16T20:24:04.740403+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -12605,7 +12605,7 @@
     },
     {
       "account_number": "03875",
-      "price": 112000,
+      "price": 120000,
       "operators": [
         {
           "name": "켈시에스페란타",
@@ -12659,6 +12659,11 @@
           "sprite_index": 104
         },
         {
+          "name": "만트라",
+          "color": "#00aa00",
+          "sprite_index": 108
+        },
+        {
           "name": "골든글로우",
           "color": "#00aa00",
           "sprite_index": 28
@@ -12667,6 +12672,11 @@
           "name": "레이",
           "color": "#00aa00",
           "sprite_index": 80
+        },
+        {
+          "name": "오올헤약",
+          "color": null,
+          "sprite_index": 70
         }
       ]
     },
