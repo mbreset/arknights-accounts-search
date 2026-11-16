@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-16T14:13:55.628602+00:00",
+  "updated_at": "2026-11-16T14:17:45.753785+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -3510,7 +3510,7 @@
     },
     {
       "account_number": "03199",
-      "price": 128000,
+      "price": 131000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -3577,6 +3577,11 @@
           "name": "파죰카",
           "color": null,
           "sprite_index": 38
+        },
+        {
+          "name": "페넌스",
+          "color": null,
+          "sprite_index": 61
         },
         {
           "name": "린",
