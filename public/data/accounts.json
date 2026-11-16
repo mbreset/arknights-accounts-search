@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-16T22:10:58.420155+00:00",
+  "updated_at": "2026-11-16T22:15:55.535992+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -52321,7 +52321,7 @@
     },
     {
       "account_number": "02168",
-      "price": 94000,
+      "price": 108000,
       "operators": [
         {
           "name": "마르실",
@@ -52342,6 +52342,11 @@
           "name": "첸더홀룽데이",
           "color": "#e42ce8",
           "sprite_index": 36
+        },
+        {
+          "name": "트라고디아",
+          "color": "#0000ff",
+          "sprite_index": 103
         },
         {
           "name": "클로저",
