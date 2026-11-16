@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-16T19:45:53.679808+00:00",
+  "updated_at": "2026-11-16T19:47:50.894057+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -3152,7 +3152,7 @@
     },
     {
       "account_number": "02192",
-      "price": 140000,
+      "price": 142000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -3229,6 +3229,11 @@
           "name": "제시카더리버레이티드",
           "color": null,
           "sprite_index": 75
+        },
+        {
+          "name": "린",
+          "color": null,
+          "sprite_index": 65
         },
         {
           "name": "패신저",
