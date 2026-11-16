@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-16T17:45:02.099067+00:00",
+  "updated_at": "2026-11-16T17:48:02.247398+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -19738,6 +19738,57 @@
       ]
     },
     {
+      "account_number": "02621",
+      "price": 109000,
+      "operators": [
+        {
+          "name": "염호룡오키드",
+          "color": "#dd0000",
+          "sprite_index": 119
+        },
+        {
+          "name": "켈시에스페란타",
+          "color": "#e42ce8",
+          "sprite_index": 117
+        },
+        {
+          "name": "엑시아더뉴커버넌트",
+          "color": "#e42ce8",
+          "sprite_index": 100
+        },
+        {
+          "name": "슈",
+          "color": "#e42ce8",
+          "sprite_index": 81
+        },
+        {
+          "name": "위",
+          "color": "#e42ce8",
+          "sprite_index": 96
+        },
+        {
+          "name": "텍사스디오메르토사",
+          "color": "#e42ce8",
+          "sprite_index": 62
+        },
+        {
+          "name": "르무엔",
+          "color": "#0000ff",
+          "sprite_index": 101
+        },
+        {
+          "name": "혼",
+          "color": null,
+          "sprite_index": 30
+        },
+        {
+          "name": "린",
+          "color": null,
+          "sprite_index": 65
+        }
+      ]
+    },
+    {
       "account_number": "02109",
       "price": 155000,
       "operators": [
@@ -34476,52 +34527,6 @@
           "name": "도로시",
           "color": null,
           "sprite_index": 56
-        }
-      ]
-    },
-    {
-      "account_number": "02621",
-      "price": 82000,
-      "operators": [
-        {
-          "name": "켈시에스페란타",
-          "color": "#e42ce8",
-          "sprite_index": 117
-        },
-        {
-          "name": "엑시아더뉴커버넌트",
-          "color": "#e42ce8",
-          "sprite_index": 100
-        },
-        {
-          "name": "슈",
-          "color": "#e42ce8",
-          "sprite_index": 81
-        },
-        {
-          "name": "위",
-          "color": "#e42ce8",
-          "sprite_index": 96
-        },
-        {
-          "name": "텍사스디오메르토사",
-          "color": "#e42ce8",
-          "sprite_index": 62
-        },
-        {
-          "name": "르무엔",
-          "color": "#0000ff",
-          "sprite_index": 101
-        },
-        {
-          "name": "혼",
-          "color": null,
-          "sprite_index": 30
-        },
-        {
-          "name": "린",
-          "color": null,
-          "sprite_index": 65
         }
       ]
     },
