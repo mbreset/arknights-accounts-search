@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-16T17:48:02.247398+00:00",
+  "updated_at": "2026-11-16T17:49:04.218169+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -37307,6 +37307,67 @@
       ]
     },
     {
+      "account_number": "03188",
+      "price": 72000,
+      "operators": [
+        {
+          "name": "염호룡오키드",
+          "color": "#dd0000",
+          "sprite_index": 119
+        },
+        {
+          "name": "키린R야토",
+          "color": "#dd0000",
+          "sprite_index": 67
+        },
+        {
+          "name": "에이야퍄들라더크비트아스카",
+          "color": "#e42ce8",
+          "sprite_index": 73
+        },
+        {
+          "name": "W",
+          "color": "#e42ce8",
+          "sprite_index": 35
+        },
+        {
+          "name": "뮤엘시스",
+          "color": "#e42ce8",
+          "sprite_index": 69
+        },
+        {
+          "name": "첸더던스트릭",
+          "color": "#0000ff",
+          "sprite_index": 114
+        },
+        {
+          "name": "르무엔",
+          "color": "#0000ff",
+          "sprite_index": 101
+        },
+        {
+          "name": "불피스폴리아",
+          "color": "#00aa00",
+          "sprite_index": 94
+        },
+        {
+          "name": "페넌스",
+          "color": null,
+          "sprite_index": 61
+        },
+        {
+          "name": "오올헤약",
+          "color": null,
+          "sprite_index": 70
+        },
+        {
+          "name": "스테인리스",
+          "color": null,
+          "sprite_index": 60
+        }
+      ]
+    },
+    {
       "account_number": "00386",
       "price": 81000,
       "operators": [
@@ -51758,62 +51819,6 @@
           "name": "파투스",
           "color": null,
           "sprite_index": 54
-        }
-      ]
-    },
-    {
-      "account_number": "03188",
-      "price": 38000,
-      "operators": [
-        {
-          "name": "키린R야토",
-          "color": "#dd0000",
-          "sprite_index": 67
-        },
-        {
-          "name": "에이야퍄들라더크비트아스카",
-          "color": "#e42ce8",
-          "sprite_index": 73
-        },
-        {
-          "name": "W",
-          "color": "#e42ce8",
-          "sprite_index": 35
-        },
-        {
-          "name": "뮤엘시스",
-          "color": "#e42ce8",
-          "sprite_index": 69
-        },
-        {
-          "name": "첸더던스트릭",
-          "color": "#0000ff",
-          "sprite_index": 114
-        },
-        {
-          "name": "르무엔",
-          "color": "#0000ff",
-          "sprite_index": 101
-        },
-        {
-          "name": "불피스폴리아",
-          "color": "#00aa00",
-          "sprite_index": 94
-        },
-        {
-          "name": "페넌스",
-          "color": null,
-          "sprite_index": 61
-        },
-        {
-          "name": "오올헤약",
-          "color": null,
-          "sprite_index": 70
-        },
-        {
-          "name": "스테인리스",
-          "color": null,
-          "sprite_index": 60
         }
       ]
     },
