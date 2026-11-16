@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-16T22:31:08.190008+00:00",
+  "updated_at": "2026-11-16T22:33:20.238772+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -51964,7 +51964,7 @@
     },
     {
       "account_number": "03043",
-      "price": 37000,
+      "price": 50000,
       "operators": [
         {
           "name": "Ela",
@@ -51991,6 +51991,11 @@
           "name": "프라마닉스더프레리타",
           "color": "#0000ff",
           "sprite_index": 110
+        },
+        {
+          "name": "첸더던스트릭",
+          "color": "#0000ff",
+          "sprite_index": 114
         },
         {
           "name": "르무엔",
