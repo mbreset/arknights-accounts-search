@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-16T20:24:48.239301+00:00",
+  "updated_at": "2026-11-16T21:21:55.621677+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -15361,7 +15361,7 @@
     },
     {
       "account_number": "01397",
-      "price": 129000,
+      "price": 135000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -15408,6 +15408,11 @@
           "name": "르무엔",
           "color": "#0000ff",
           "sprite_index": 101
+        },
+        {
+          "name": "티티",
+          "color": "#00aa00",
+          "sprite_index": 112
         },
         {
           "name": "불피스폴리아",
