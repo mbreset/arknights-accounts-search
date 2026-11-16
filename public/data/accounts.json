@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-16T22:00:44.968759+00:00",
+  "updated_at": "2026-11-16T22:03:33.172801+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -28571,7 +28571,7 @@
     },
     {
       "account_number": "02022",
-      "price": 73000,
+      "price": 77000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -28631,6 +28631,11 @@
           "potential": 2
         },
         {
+          "name": "스와이어디엘리건트위트",
+          "color": null,
+          "sprite_index": 72
+        },
+        {
           "name": "파투스",
           "color": null,
           "sprite_index": 54
@@ -28639,6 +28644,11 @@
           "name": "카넬리안",
           "color": null,
           "sprite_index": 52
+        },
+        {
+          "name": "스테인리스",
+          "color": null,
+          "sprite_index": 60
         }
       ]
     },
