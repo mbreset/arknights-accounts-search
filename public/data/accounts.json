@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-16T16:01:02.238114+00:00",
+  "updated_at": "2026-11-16T16:03:25.251307+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -38149,7 +38149,8 @@
         {
           "name": "좌락",
           "color": null,
-          "sprite_index": 82
+          "sprite_index": 82,
+          "potential": 2
         },
         {
           "name": "치우바이",
