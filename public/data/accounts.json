@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-16T17:28:39.913239+00:00",
+  "updated_at": "2026-11-16T17:31:21.087196+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -49546,7 +49546,8 @@
         {
           "name": "파죰카",
           "color": null,
-          "sprite_index": 38
+          "sprite_index": 38,
+          "potential": 2
         },
         {
           "name": "좌락",
