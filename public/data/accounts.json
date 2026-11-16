@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-16T15:34:59.258711+00:00",
+  "updated_at": "2026-11-16T15:38:49.546987+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -15905,6 +15905,82 @@
       ]
     },
     {
+      "account_number": "01869",
+      "price": 148000,
+      "operators": [
+        {
+          "name": "토가와사키코",
+          "color": "#dd0000",
+          "sprite_index": 107
+        },
+        {
+          "name": "염호룡오키드",
+          "color": "#dd0000",
+          "sprite_index": 119
+        },
+        {
+          "name": "마르실",
+          "color": "#dd0000",
+          "sprite_index": 91
+        },
+        {
+          "name": "실버애쉬더레인프로스트",
+          "color": "#e42ce8",
+          "sprite_index": 109
+        },
+        {
+          "name": "위",
+          "color": "#e42ce8",
+          "sprite_index": 96
+        },
+        {
+          "name": "텍사스디오메르토사",
+          "color": "#e42ce8",
+          "sprite_index": 62
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
+        },
+        {
+          "name": "무에나",
+          "color": "#0000ff",
+          "sprite_index": 43
+        },
+        {
+          "name": "로고스",
+          "color": "#0000ff",
+          "sprite_index": 86
+        },
+        {
+          "name": "골든글로우",
+          "color": "#00aa00",
+          "sprite_index": 28
+        },
+        {
+          "name": "티티",
+          "color": "#00aa00",
+          "sprite_index": 112
+        },
+        {
+          "name": "불피스폴리아",
+          "color": "#00aa00",
+          "sprite_index": 94
+        },
+        {
+          "name": "블레이즈디이그나이팅스파크",
+          "color": "#00aa00",
+          "sprite_index": 97
+        },
+        {
+          "name": "좌락",
+          "color": null,
+          "sprite_index": 82
+        }
+      ]
+    },
+    {
       "account_number": "01633",
       "price": 137000,
       "operators": [
@@ -27691,77 +27767,6 @@
           "name": "카넬리안",
           "color": null,
           "sprite_index": 52
-        }
-      ]
-    },
-    {
-      "account_number": "01869",
-      "price": 121000,
-      "operators": [
-        {
-          "name": "토가와사키코",
-          "color": "#dd0000",
-          "sprite_index": 107
-        },
-        {
-          "name": "마르실",
-          "color": "#dd0000",
-          "sprite_index": 91
-        },
-        {
-          "name": "실버애쉬더레인프로스트",
-          "color": "#e42ce8",
-          "sprite_index": 109
-        },
-        {
-          "name": "위",
-          "color": "#e42ce8",
-          "sprite_index": 96
-        },
-        {
-          "name": "텍사스디오메르토사",
-          "color": "#e42ce8",
-          "sprite_index": 62
-        },
-        {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
-          "name": "무에나",
-          "color": "#0000ff",
-          "sprite_index": 43
-        },
-        {
-          "name": "로고스",
-          "color": "#0000ff",
-          "sprite_index": 86
-        },
-        {
-          "name": "골든글로우",
-          "color": "#00aa00",
-          "sprite_index": 28
-        },
-        {
-          "name": "티티",
-          "color": "#00aa00",
-          "sprite_index": 112
-        },
-        {
-          "name": "불피스폴리아",
-          "color": "#00aa00",
-          "sprite_index": 94
-        },
-        {
-          "name": "블레이즈디이그나이팅스파크",
-          "color": "#00aa00",
-          "sprite_index": 97
-        },
-        {
-          "name": "좌락",
-          "color": null,
-          "sprite_index": 82
         }
       ]
     },
