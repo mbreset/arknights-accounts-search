@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-16T14:54:43.707113+00:00",
+  "updated_at": "2026-11-16T15:01:35.683961+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -52739,6 +52739,32 @@
           "name": "린",
           "color": null,
           "sprite_index": 65
+        }
+      ]
+    },
+    {
+      "account_number": "04350",
+      "price": 59000,
+      "operators": [
+        {
+          "name": "염호룡오키드",
+          "color": "#dd0000",
+          "sprite_index": 119
+        },
+        {
+          "name": "왕",
+          "color": "#e42ce8",
+          "sprite_index": 113
+        },
+        {
+          "name": "엑시아더뉴커버넌트",
+          "color": "#e42ce8",
+          "sprite_index": 100
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
         }
       ]
     },
