@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-16T18:56:28.375648+00:00",
+  "updated_at": "2026-11-16T18:58:04.410553+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -42572,7 +42572,7 @@
     },
     {
       "account_number": "01365",
-      "price": 62000,
+      "price": 73000,
       "operators": [
         {
           "name": "에이야퍄들라더크비트아스카",
@@ -42603,6 +42603,11 @@
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "Mon3tr",
+          "color": "#0000ff",
+          "sprite_index": 99
         },
         {
           "name": "로고스",
