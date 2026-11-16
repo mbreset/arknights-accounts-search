@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-16T17:37:24.097321+00:00",
+  "updated_at": "2026-11-16T17:45:02.099067+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -40659,7 +40659,7 @@
     },
     {
       "account_number": "01570",
-      "price": 76000,
+      "price": 78000,
       "operators": [
         {
           "name": "엑시아더뉴커버넌트",
@@ -40736,6 +40736,11 @@
           "name": "비비아나",
           "color": null,
           "sprite_index": 78
+        },
+        {
+          "name": "오올헤약",
+          "color": null,
+          "sprite_index": 70
         },
         {
           "name": "시즈",
