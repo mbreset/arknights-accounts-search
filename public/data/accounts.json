@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-16T16:48:08.407389+00:00",
+  "updated_at": "2026-11-16T17:25:22.025482+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -38829,7 +38829,7 @@
     },
     {
       "account_number": "01831",
-      "price": 96000,
+      "price": 114000,
       "operators": [
         {
           "name": "실버애쉬더레인프로스트",
@@ -38859,6 +38859,11 @@
           "sprite_index": 36
         },
         {
+          "name": "트라고디아",
+          "color": "#0000ff",
+          "sprite_index": 103
+        },
+        {
           "name": "프라마닉스더프레리타",
           "color": "#0000ff",
           "sprite_index": 110
@@ -38882,6 +38887,11 @@
           "name": "나란투야",
           "color": null,
           "sprite_index": 89
+        },
+        {
+          "name": "파죰카",
+          "color": null,
+          "sprite_index": 38
         },
         {
           "name": "좌락",
