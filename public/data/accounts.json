@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-17T12:23:59.928990+00:00",
+  "updated_at": "2026-11-17T12:28:40.935895+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -59899,7 +59899,7 @@
     },
     {
       "account_number": "02088",
-      "price": 25000,
+      "price": 27000,
       "operators": [
         {
           "name": "첸더홀룽데이",
@@ -59957,6 +59957,11 @@
           "color": null,
           "sprite_index": 78,
           "potential": 2
+        },
+        {
+          "name": "치우바이",
+          "color": null,
+          "sprite_index": 66
         }
       ]
     }
