@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-17T04:14:22.661084+00:00",
+  "updated_at": "2026-11-17T04:17:44.760696+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -31195,7 +31195,7 @@
     },
     {
       "account_number": "03693",
-      "price": 107000,
+      "price": 113000,
       "operators": [
         {
           "name": "키린R야토",
@@ -31233,6 +31233,11 @@
           "name": "레이즈더썬더브링어",
           "color": "#00aa00",
           "sprite_index": 104
+        },
+        {
+          "name": "만트라",
+          "color": "#00aa00",
+          "sprite_index": 108
         },
         {
           "name": "리드더플레임섀도우",
