@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-17T00:34:24.982372+00:00",
+  "updated_at": "2026-11-17T01:26:59.586737+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -16174,7 +16174,7 @@
     },
     {
       "account_number": "02662",
-      "price": 107000,
+      "price": 134000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -16208,9 +16208,19 @@
           "sprite_index": 88
         },
         {
+          "name": "트라고디아",
+          "color": "#0000ff",
+          "sprite_index": 103
+        },
+        {
           "name": "클로저",
           "color": "#0000ff",
           "sprite_index": 118
+        },
+        {
+          "name": "첸더던스트릭",
+          "color": "#0000ff",
+          "sprite_index": 114
         },
         {
           "name": "켈시",
