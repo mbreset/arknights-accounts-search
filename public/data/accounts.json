@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-17T04:17:44.760696+00:00",
+  "updated_at": "2026-11-17T04:25:28.788175+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -8081,7 +8081,7 @@
     },
     {
       "account_number": "02434",
-      "price": 122000,
+      "price": 130000,
       "operators": [
         {
           "name": "마르실",
@@ -8122,6 +8122,16 @@
           "name": "프라마닉스더프레리타",
           "color": "#0000ff",
           "sprite_index": 110
+        },
+        {
+          "name": "나란투야",
+          "color": null,
+          "sprite_index": 89
+        },
+        {
+          "name": "좌락",
+          "color": null,
+          "sprite_index": 82
         },
         {
           "name": "노시스",
