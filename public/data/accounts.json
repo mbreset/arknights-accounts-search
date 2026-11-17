@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-17T16:33:59.767640+00:00",
+  "updated_at": "2026-11-17T23:18:34.046780+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -47973,7 +47973,7 @@
     },
     {
       "account_number": "01406",
-      "price": 82000,
+      "price": 84000,
       "operators": [
         {
           "name": "켈시에스페란타",
@@ -48034,6 +48034,11 @@
           "name": "스와이어디엘리건트위트",
           "color": null,
           "sprite_index": 72
+        },
+        {
+          "name": "치우바이",
+          "color": null,
+          "sprite_index": 66
         },
         {
           "name": "오올헤약",
