@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-17T16:10:23.986596+00:00",
+  "updated_at": "2026-11-17T16:11:28.006965+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -37446,7 +37446,7 @@
     },
     {
       "account_number": "02290",
-      "price": 75000,
+      "price": 83000,
       "operators": [
         {
           "name": "켈시에스페란타",
@@ -37483,6 +37483,11 @@
           "name": "무에나",
           "color": "#0000ff",
           "sprite_index": 43
+        },
+        {
+          "name": "데겐블레허",
+          "color": "#00aa00",
+          "sprite_index": 79
         },
         {
           "name": "좌락",
