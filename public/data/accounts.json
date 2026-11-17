@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-17T12:36:07.904887+00:00",
+  "updated_at": "2026-11-17T12:40:45.909186+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -25942,7 +25942,7 @@
     },
     {
       "account_number": "02406",
-      "price": 111000,
+      "price": 117000,
       "operators": [
         {
           "name": "마르실",
@@ -25988,6 +25988,11 @@
           "name": "님프",
           "color": "#00aa00",
           "sprite_index": 90
+        },
+        {
+          "name": "티티",
+          "color": "#00aa00",
+          "sprite_index": 112
         },
         {
           "name": "불피스폴리아",
