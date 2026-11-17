@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-17T07:27:12.072987+00:00",
+  "updated_at": "2026-11-17T07:31:56.193839+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -30511,7 +30511,7 @@
     },
     {
       "account_number": "00579",
-      "price": 94000,
+      "price": 103000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -30542,6 +30542,11 @@
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "로고스",
+          "color": "#0000ff",
+          "sprite_index": 86
         },
         {
           "name": "르무엔",
