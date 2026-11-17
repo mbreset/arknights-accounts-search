@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-17T04:52:21.275925+00:00",
+  "updated_at": "2026-11-17T05:25:17.913159+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -58074,6 +58074,37 @@
           "name": "티폰",
           "color": null,
           "sprite_index": 74
+        }
+      ]
+    },
+    {
+      "account_number": "04258",
+      "price": 42000,
+      "operators": [
+        {
+          "name": "염호룡오키드",
+          "color": "#dd0000",
+          "sprite_index": 119
+        },
+        {
+          "name": "왕",
+          "color": "#e42ce8",
+          "sprite_index": 113
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
+        },
+        {
+          "name": "첸더던스트릭",
+          "color": "#0000ff",
+          "sprite_index": 114
+        },
+        {
+          "name": "쏜즈더로드스타",
+          "color": null,
+          "sprite_index": 95
         }
       ]
     },
