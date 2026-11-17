@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-17T03:56:38.302831+00:00",
+  "updated_at": "2026-11-17T04:00:50.362157+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -8416,7 +8416,7 @@
     },
     {
       "account_number": "02966",
-      "price": 147000,
+      "price": 149000,
       "operators": [
         {
           "name": "마르실",
@@ -8472,6 +8472,11 @@
           "name": "불피스폴리아",
           "color": "#00aa00",
           "sprite_index": 94
+        },
+        {
+          "name": "제시카더리버레이티드",
+          "color": null,
+          "sprite_index": 75
         },
         {
           "name": "사일라흐",
