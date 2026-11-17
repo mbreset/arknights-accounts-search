@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-17T06:31:49.669397+00:00",
+  "updated_at": "2026-11-17T06:42:45.874049+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -21530,7 +21530,7 @@
     },
     {
       "account_number": "01283",
-      "price": 115000,
+      "price": 119000,
       "operators": [
         {
           "name": "켈시에스페란타",
@@ -21566,6 +21566,11 @@
           "name": "데겐블레허",
           "color": "#00aa00",
           "sprite_index": 79
+        },
+        {
+          "name": "나란투야",
+          "color": null,
+          "sprite_index": 89
         },
         {
           "name": "파죰카",
