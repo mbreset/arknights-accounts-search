@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-17T15:41:48.033849+00:00",
+  "updated_at": "2026-11-17T15:44:37.099731+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -49447,6 +49447,68 @@
       ]
     },
     {
+      "account_number": "03776",
+      "price": 59000,
+      "operators": [
+        {
+          "name": "염호룡오키드",
+          "color": "#dd0000",
+          "sprite_index": 119
+        },
+        {
+          "name": "키린R야토",
+          "color": "#dd0000",
+          "sprite_index": 67
+        },
+        {
+          "name": "비르투오사",
+          "color": "#e42ce8",
+          "sprite_index": 77
+        },
+        {
+          "name": "로즈몬티스",
+          "color": "#e42ce8",
+          "sprite_index": 33
+        },
+        {
+          "name": "첸더던스트릭",
+          "color": "#0000ff",
+          "sprite_index": 114
+        },
+        {
+          "name": "로고스",
+          "color": "#0000ff",
+          "sprite_index": 86
+        },
+        {
+          "name": "불피스폴리아",
+          "color": "#00aa00",
+          "sprite_index": 94
+        },
+        {
+          "name": "리드더플레임섀도우",
+          "color": "#00aa00",
+          "sprite_index": 63
+        },
+        {
+          "name": "좌락",
+          "color": null,
+          "sprite_index": 82
+        },
+        {
+          "name": "에벤홀츠",
+          "color": null,
+          "sprite_index": 39
+        },
+        {
+          "name": "스와이어디엘리건트위트",
+          "color": null,
+          "sprite_index": 72,
+          "potential": 2
+        }
+      ]
+    },
+    {
       "account_number": "03046",
       "price": 76000,
       "operators": [
@@ -57732,63 +57794,6 @@
           "name": "오올헤약",
           "color": null,
           "sprite_index": 70
-        }
-      ]
-    },
-    {
-      "account_number": "03776",
-      "price": 35000,
-      "operators": [
-        {
-          "name": "키린R야토",
-          "color": "#dd0000",
-          "sprite_index": 67
-        },
-        {
-          "name": "비르투오사",
-          "color": "#e42ce8",
-          "sprite_index": 77
-        },
-        {
-          "name": "로즈몬티스",
-          "color": "#e42ce8",
-          "sprite_index": 33
-        },
-        {
-          "name": "첸더던스트릭",
-          "color": "#0000ff",
-          "sprite_index": 114
-        },
-        {
-          "name": "로고스",
-          "color": "#0000ff",
-          "sprite_index": 86
-        },
-        {
-          "name": "불피스폴리아",
-          "color": "#00aa00",
-          "sprite_index": 94
-        },
-        {
-          "name": "리드더플레임섀도우",
-          "color": "#00aa00",
-          "sprite_index": 63
-        },
-        {
-          "name": "좌락",
-          "color": null,
-          "sprite_index": 82
-        },
-        {
-          "name": "에벤홀츠",
-          "color": null,
-          "sprite_index": 39
-        },
-        {
-          "name": "스와이어디엘리건트위트",
-          "color": null,
-          "sprite_index": 72,
-          "potential": 2
         }
       ]
     },
