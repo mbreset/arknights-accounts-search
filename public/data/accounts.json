@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-17T13:39:02.771448+00:00",
+  "updated_at": "2026-11-17T13:41:38.804870+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -32691,6 +32691,62 @@
       ]
     },
     {
+      "account_number": "03482",
+      "price": 105000,
+      "operators": [
+        {
+          "name": "염호룡오키드",
+          "color": "#dd0000",
+          "sprite_index": 119
+        },
+        {
+          "name": "키린R야토",
+          "color": "#dd0000",
+          "sprite_index": 67
+        },
+        {
+          "name": "왕",
+          "color": "#e42ce8",
+          "sprite_index": 113
+        },
+        {
+          "name": "엑시아더뉴커버넌트",
+          "color": "#e42ce8",
+          "sprite_index": 100
+        },
+        {
+          "name": "가비알디인빈서블",
+          "color": "#e42ce8",
+          "sprite_index": 37
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
+        },
+        {
+          "name": "로고스",
+          "color": "#0000ff",
+          "sprite_index": 86
+        },
+        {
+          "name": "블레이즈디이그나이팅스파크",
+          "color": "#00aa00",
+          "sprite_index": 97
+        },
+        {
+          "name": "페넌스",
+          "color": null,
+          "sprite_index": 61
+        },
+        {
+          "name": "피아메타",
+          "color": null,
+          "sprite_index": 29
+        }
+      ]
+    },
+    {
       "account_number": "03326",
       "price": 108000,
       "operators": [
@@ -46250,57 +46306,6 @@
           "name": "시즈",
           "color": null,
           "sprite_index": 26
-        }
-      ]
-    },
-    {
-      "account_number": "03482",
-      "price": 78000,
-      "operators": [
-        {
-          "name": "키린R야토",
-          "color": "#dd0000",
-          "sprite_index": 67
-        },
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "엑시아더뉴커버넌트",
-          "color": "#e42ce8",
-          "sprite_index": 100
-        },
-        {
-          "name": "가비알디인빈서블",
-          "color": "#e42ce8",
-          "sprite_index": 37
-        },
-        {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
-          "name": "로고스",
-          "color": "#0000ff",
-          "sprite_index": 86
-        },
-        {
-          "name": "블레이즈디이그나이팅스파크",
-          "color": "#00aa00",
-          "sprite_index": 97
-        },
-        {
-          "name": "페넌스",
-          "color": null,
-          "sprite_index": 61
-        },
-        {
-          "name": "피아메타",
-          "color": null,
-          "sprite_index": 29
         }
       ]
     },
