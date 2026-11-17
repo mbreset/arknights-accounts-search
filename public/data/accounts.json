@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-17T04:43:20.953436+00:00",
+  "updated_at": "2026-11-17T04:52:21.275925+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -53373,6 +53373,27 @@
     },
     {
       "account_number": "04103",
+      "price": 50000,
+      "operators": [
+        {
+          "name": "염호룡오키드",
+          "color": "#dd0000",
+          "sprite_index": 119
+        },
+        {
+          "name": "왕",
+          "color": "#e42ce8",
+          "sprite_index": 113
+        },
+        {
+          "name": "켈시에스페란타",
+          "color": "#e42ce8",
+          "sprite_index": 117
+        }
+      ]
+    },
+    {
+      "account_number": "04171",
       "price": 50000,
       "operators": [
         {
