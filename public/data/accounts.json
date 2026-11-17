@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-17T14:06:52.460473+00:00",
+  "updated_at": "2026-11-17T14:11:48.484241+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -3856,6 +3856,84 @@
           "name": "미즈키",
           "color": null,
           "sprite_index": 53
+        }
+      ]
+    },
+    {
+      "account_number": "02724",
+      "price": 145500,
+      "operators": [
+        {
+          "name": "염호룡오키드",
+          "color": "#dd0000",
+          "sprite_index": 119
+        },
+        {
+          "name": "마르실",
+          "color": "#dd0000",
+          "sprite_index": 91
+        },
+        {
+          "name": "왕",
+          "color": "#e42ce8",
+          "sprite_index": 113
+        },
+        {
+          "name": "켈시에스페란타",
+          "color": "#e42ce8",
+          "sprite_index": 117,
+          "potential": 2
+        },
+        {
+          "name": "텍사스디오메르토사",
+          "color": "#e42ce8",
+          "sprite_index": 62
+        },
+        {
+          "name": "라플란드더데카덴차",
+          "color": "#e42ce8",
+          "sprite_index": 93
+        },
+        {
+          "name": "총웨",
+          "color": "#e42ce8",
+          "sprite_index": 64
+        },
+        {
+          "name": "뮤엘시스",
+          "color": "#e42ce8",
+          "sprite_index": 69
+        },
+        {
+          "name": "첸더던스트릭",
+          "color": "#0000ff",
+          "sprite_index": 114
+        },
+        {
+          "name": "르무엔",
+          "color": "#0000ff",
+          "sprite_index": 101,
+          "potential": 2
+        },
+        {
+          "name": "골든글로우",
+          "color": "#00aa00",
+          "sprite_index": 28
+        },
+        {
+          "name": "내스티",
+          "color": "#00aa00",
+          "sprite_index": 111
+        },
+        {
+          "name": "좌락",
+          "color": null,
+          "sprite_index": 82
+        },
+        {
+          "name": "페넌스",
+          "color": null,
+          "sprite_index": 61
         }
       ]
     },
@@ -10089,79 +10167,6 @@
           "name": "치우바이",
           "color": null,
           "sprite_index": 66
-        }
-      ]
-    },
-    {
-      "account_number": "02724",
-      "price": 118500,
-      "operators": [
-        {
-          "name": "마르실",
-          "color": "#dd0000",
-          "sprite_index": 91
-        },
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "켈시에스페란타",
-          "color": "#e42ce8",
-          "sprite_index": 117,
-          "potential": 2
-        },
-        {
-          "name": "텍사스디오메르토사",
-          "color": "#e42ce8",
-          "sprite_index": 62
-        },
-        {
-          "name": "라플란드더데카덴차",
-          "color": "#e42ce8",
-          "sprite_index": 93
-        },
-        {
-          "name": "총웨",
-          "color": "#e42ce8",
-          "sprite_index": 64
-        },
-        {
-          "name": "뮤엘시스",
-          "color": "#e42ce8",
-          "sprite_index": 69
-        },
-        {
-          "name": "첸더던스트릭",
-          "color": "#0000ff",
-          "sprite_index": 114
-        },
-        {
-          "name": "르무엔",
-          "color": "#0000ff",
-          "sprite_index": 101,
-          "potential": 2
-        },
-        {
-          "name": "골든글로우",
-          "color": "#00aa00",
-          "sprite_index": 28
-        },
-        {
-          "name": "내스티",
-          "color": "#00aa00",
-          "sprite_index": 111
-        },
-        {
-          "name": "좌락",
-          "color": null,
-          "sprite_index": 82
-        },
-        {
-          "name": "페넌스",
-          "color": null,
-          "sprite_index": 61
         }
       ]
     },
