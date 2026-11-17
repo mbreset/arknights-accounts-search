@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-17T13:15:02.958889+00:00",
+  "updated_at": "2026-11-17T13:16:21.119272+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -15952,7 +15952,7 @@
     },
     {
       "account_number": "03563",
-      "price": 122000,
+      "price": 125000,
       "operators": [
         {
           "name": "키린R야토",
@@ -15992,7 +15992,8 @@
         {
           "name": "클로저",
           "color": "#0000ff",
-          "sprite_index": 118
+          "sprite_index": 118,
+          "potential": 2
         },
         {
           "name": "프라마닉스더프레리타",
@@ -16023,6 +16024,11 @@
           "name": "티폰",
           "color": null,
           "sprite_index": 74
+        },
+        {
+          "name": "비나빅토리아",
+          "color": null,
+          "sprite_index": 92
         },
         {
           "name": "스와이어디엘리건트위트",
