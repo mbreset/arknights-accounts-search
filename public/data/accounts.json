@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-17T12:48:15.967264+00:00",
+  "updated_at": "2026-11-17T12:56:09.096091+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -19233,7 +19233,7 @@
     },
     {
       "account_number": "02877",
-      "price": 97000,
+      "price": 101000,
       "operators": [
         {
           "name": "왕",
@@ -19290,6 +19290,11 @@
           "name": "나란투야",
           "color": null,
           "sprite_index": 89
+        },
+        {
+          "name": "티폰",
+          "color": null,
+          "sprite_index": 74
         },
         {
           "name": "좌락",
