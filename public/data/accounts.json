@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-17T11:41:27.106515+00:00",
+  "updated_at": "2026-11-17T11:47:49.415053+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -39147,6 +39147,63 @@
       ]
     },
     {
+      "account_number": "02395",
+      "price": 55000,
+      "operators": [
+        {
+          "name": "염호룡오키드",
+          "color": "#dd0000",
+          "sprite_index": 119
+        },
+        {
+          "name": "위",
+          "color": "#e42ce8",
+          "sprite_index": 96
+        },
+        {
+          "name": "텍사스디오메르토사",
+          "color": "#e42ce8",
+          "sprite_index": 62
+        },
+        {
+          "name": "가비알디인빈서블",
+          "color": "#e42ce8",
+          "sprite_index": 37
+        },
+        {
+          "name": "페페",
+          "color": "#e42ce8",
+          "sprite_index": 88,
+          "potential": 2
+        },
+        {
+          "name": "프라마닉스더프레리타",
+          "color": "#0000ff",
+          "sprite_index": 110
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
+        },
+        {
+          "name": "모스티마",
+          "color": null,
+          "sprite_index": 48
+        },
+        {
+          "name": "피아메타",
+          "color": null,
+          "sprite_index": 29
+        },
+        {
+          "name": "스와이어디엘리건트위트",
+          "color": null,
+          "sprite_index": 72
+        }
+      ]
+    },
+    {
       "account_number": "00386",
       "price": 81000,
       "operators": [
@@ -53258,58 +53315,6 @@
           "name": "파죰카",
           "color": null,
           "sprite_index": 38
-        }
-      ]
-    },
-    {
-      "account_number": "02395",
-      "price": 31000,
-      "operators": [
-        {
-          "name": "위",
-          "color": "#e42ce8",
-          "sprite_index": 96
-        },
-        {
-          "name": "텍사스디오메르토사",
-          "color": "#e42ce8",
-          "sprite_index": 62
-        },
-        {
-          "name": "가비알디인빈서블",
-          "color": "#e42ce8",
-          "sprite_index": 37
-        },
-        {
-          "name": "페페",
-          "color": "#e42ce8",
-          "sprite_index": 88,
-          "potential": 2
-        },
-        {
-          "name": "프라마닉스더프레리타",
-          "color": "#0000ff",
-          "sprite_index": 110
-        },
-        {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
-          "name": "모스티마",
-          "color": null,
-          "sprite_index": 48
-        },
-        {
-          "name": "피아메타",
-          "color": null,
-          "sprite_index": 29
-        },
-        {
-          "name": "스와이어디엘리건트위트",
-          "color": null,
-          "sprite_index": 72
         }
       ]
     },
