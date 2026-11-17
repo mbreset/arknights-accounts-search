@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-17T05:42:53.946471+00:00",
+  "updated_at": "2026-11-17T06:22:41.056568+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -58316,6 +58316,27 @@
           "name": "제시카더리버레이티드",
           "color": null,
           "sprite_index": 75
+        }
+      ]
+    },
+    {
+      "account_number": "04443",
+      "price": 10000,
+      "operators": [
+        {
+          "name": "켈시에스페란타",
+          "color": "#e42ce8",
+          "sprite_index": 117
+        },
+        {
+          "name": "라플란드더데카덴차",
+          "color": "#e42ce8",
+          "sprite_index": 93
+        },
+        {
+          "name": "무에나",
+          "color": "#0000ff",
+          "sprite_index": 43
         }
       ]
     },
