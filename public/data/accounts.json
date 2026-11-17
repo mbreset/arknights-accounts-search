@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-17T11:47:49.415053+00:00",
+  "updated_at": "2026-11-17T11:51:01.519886+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -30001,7 +30001,7 @@
     },
     {
       "account_number": "03227",
-      "price": 115000,
+      "price": 125000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -30038,6 +30038,11 @@
           "color": "#0000ff",
           "sprite_index": 106,
           "potential": 2
+        },
+        {
+          "name": "무에나",
+          "color": "#0000ff",
+          "sprite_index": 43
         },
         {
           "name": "르무엔",
