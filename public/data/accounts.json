@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-17T14:56:09.299928+00:00",
+  "updated_at": "2026-11-17T14:59:21.402060+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -18100,7 +18100,7 @@
     },
     {
       "account_number": "03772",
-      "price": 95000,
+      "price": 101000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -18136,6 +18136,11 @@
           "name": "울피아누스",
           "color": "#0000ff",
           "sprite_index": 87
+        },
+        {
+          "name": "레이즈더썬더브링어",
+          "color": "#00aa00",
+          "sprite_index": 104
         },
         {
           "name": "골든글로우",
