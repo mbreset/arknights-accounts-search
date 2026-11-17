@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-17T08:07:31.348886+00:00",
+  "updated_at": "2026-11-17T08:09:03.353391+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -48835,6 +48835,53 @@
       ]
     },
     {
+      "account_number": "03529",
+      "price": 79000,
+      "operators": [
+        {
+          "name": "염호룡오키드",
+          "color": "#dd0000",
+          "sprite_index": 119
+        },
+        {
+          "name": "키린R야토",
+          "color": "#dd0000",
+          "sprite_index": 67
+        },
+        {
+          "name": "마르실",
+          "color": "#dd0000",
+          "sprite_index": 91
+        },
+        {
+          "name": "실버애쉬더레인프로스트",
+          "color": "#e42ce8",
+          "sprite_index": 109
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
+        },
+        {
+          "name": "블레이즈디이그나이팅스파크",
+          "color": "#00aa00",
+          "sprite_index": 97
+        },
+        {
+          "name": "나란투야",
+          "color": null,
+          "sprite_index": 89,
+          "potential": 2
+        },
+        {
+          "name": "미즈키",
+          "color": null,
+          "sprite_index": 53
+        }
+      ]
+    },
+    {
       "account_number": "01317",
       "price": 84000,
       "operators": [
@@ -55410,48 +55457,6 @@
           "name": "안젤리나",
           "color": null,
           "sprite_index": 9
-        }
-      ]
-    },
-    {
-      "account_number": "03529",
-      "price": 52000,
-      "operators": [
-        {
-          "name": "키린R야토",
-          "color": "#dd0000",
-          "sprite_index": 67
-        },
-        {
-          "name": "마르실",
-          "color": "#dd0000",
-          "sprite_index": 91
-        },
-        {
-          "name": "실버애쉬더레인프로스트",
-          "color": "#e42ce8",
-          "sprite_index": 109
-        },
-        {
-          "name": "클로저",
-          "color": "#0000ff",
-          "sprite_index": 118
-        },
-        {
-          "name": "블레이즈디이그나이팅스파크",
-          "color": "#00aa00",
-          "sprite_index": 97
-        },
-        {
-          "name": "나란투야",
-          "color": null,
-          "sprite_index": 89,
-          "potential": 2
-        },
-        {
-          "name": "미즈키",
-          "color": null,
-          "sprite_index": 53
         }
       ]
     },
