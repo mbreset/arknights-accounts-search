@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-17T00:11:50.479959+00:00",
+  "updated_at": "2026-11-17T00:24:50.847762+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -51173,7 +51173,7 @@
     },
     {
       "account_number": "02658",
-      "price": 53000,
+      "price": 59000,
       "operators": [
         {
           "name": "마르실",
@@ -51204,6 +51204,11 @@
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "레이즈더썬더브링어",
+          "color": "#00aa00",
+          "sprite_index": 104
         },
         {
           "name": "페넌스",
