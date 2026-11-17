@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-17T11:22:52.819715+00:00",
+  "updated_at": "2026-11-17T11:25:26.858339+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -39528,7 +39528,7 @@
     },
     {
       "account_number": "02485",
-      "price": 84000,
+      "price": 87000,
       "operators": [
         {
           "name": "위셔델",
@@ -39570,6 +39570,11 @@
           "color": "#00aa00",
           "sprite_index": 97,
           "potential": 2
+        },
+        {
+          "name": "페넌스",
+          "color": null,
+          "sprite_index": 61
         },
         {
           "name": "제시카더리버레이티드",
