@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-17T04:06:59.511743+00:00",
+  "updated_at": "2026-11-17T04:14:22.661084+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -7811,7 +7811,7 @@
     },
     {
       "account_number": "03694",
-      "price": 98000,
+      "price": 100000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -7867,7 +7867,12 @@
           "name": "린",
           "color": null,
           "sprite_index": 65,
-          "potential": 2
+          "potential": 3
+        },
+        {
+          "name": "비나빅토리아",
+          "color": null,
+          "sprite_index": 92
         },
         {
           "name": "외드레르",
