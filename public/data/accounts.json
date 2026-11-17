@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-17T09:33:15.208266+00:00",
+  "updated_at": "2026-11-17T09:37:14.185064+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -58380,6 +58380,34 @@
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        }
+      ]
+    },
+    {
+      "account_number": "04268",
+      "price": 33000,
+      "operators": [
+        {
+          "name": "염호룡오키드",
+          "color": "#dd0000",
+          "sprite_index": 119
+        },
+        {
+          "name": "왕",
+          "color": "#e42ce8",
+          "sprite_index": 113,
+          "potential": 2
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118,
+          "potential": 2
+        },
+        {
+          "name": "님프",
+          "color": "#00aa00",
+          "sprite_index": 90
         }
       ]
     },
