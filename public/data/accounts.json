@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-17T12:28:40.935895+00:00",
+  "updated_at": "2026-11-17T12:33:19.929969+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -58026,7 +58026,8 @@
         {
           "name": "나란투야",
           "color": null,
-          "sprite_index": 89
+          "sprite_index": 89,
+          "potential": 2
         },
         {
           "name": "페넌스",
