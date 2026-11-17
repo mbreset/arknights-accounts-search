@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-17T15:10:33.992840+00:00",
+  "updated_at": "2026-11-17T15:17:20.084707+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -32059,7 +32059,7 @@
     },
     {
       "account_number": "02887",
-      "price": 124000,
+      "price": 126000,
       "operators": [
         {
           "name": "왕",
@@ -32094,7 +32094,8 @@
         {
           "name": "프라마닉스더프레리타",
           "color": "#0000ff",
-          "sprite_index": 110
+          "sprite_index": 110,
+          "potential": 2
         },
         {
           "name": "르무엔",
@@ -32125,6 +32126,11 @@
           "name": "스와이어디엘리건트위트",
           "color": null,
           "sprite_index": 72
+        },
+        {
+          "name": "비비아나",
+          "color": null,
+          "sprite_index": 78
         },
         {
           "name": "오올헤약",
