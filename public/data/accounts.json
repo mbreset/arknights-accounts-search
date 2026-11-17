@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-17T01:26:59.586737+00:00",
+  "updated_at": "2026-11-17T01:34:35.193516+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -28545,7 +28545,7 @@
     },
     {
       "account_number": "03242",
-      "price": 137000,
+      "price": 148000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -28588,6 +28588,11 @@
           "name": "하루카",
           "color": "#0000ff",
           "sprite_index": 106
+        },
+        {
+          "name": "이네스",
+          "color": "#0000ff",
+          "sprite_index": 68
         },
         {
           "name": "로고스",
