@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-17T16:29:38.046496+00:00",
+  "updated_at": "2026-11-17T16:33:59.767640+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -12736,7 +12736,7 @@
     },
     {
       "account_number": "02229",
-      "price": 99000,
+      "price": 105000,
       "operators": [
         {
           "name": "켈시에스페란타",
@@ -12788,6 +12788,11 @@
           "color": "#0000ff",
           "sprite_index": 101,
           "potential": 2
+        },
+        {
+          "name": "님프",
+          "color": "#00aa00",
+          "sprite_index": 90
         },
         {
           "name": "불피스폴리아",
