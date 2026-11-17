@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-17T08:01:43.048148+00:00",
+  "updated_at": "2026-11-17T08:02:07.048017+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -2984,7 +2984,7 @@
     },
     {
       "account_number": "03099",
-      "price": 114000,
+      "price": 116000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -3069,6 +3069,11 @@
           "name": "스와이어디엘리건트위트",
           "color": null,
           "sprite_index": 72
+        },
+        {
+          "name": "외드레르",
+          "color": null,
+          "sprite_index": 76
         },
         {
           "name": "미즈키",
