@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-17T04:25:28.788175+00:00",
+  "updated_at": "2026-11-17T04:35:51.911670+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -41337,7 +41337,8 @@
         {
           "name": "스와이어디엘리건트위트",
           "color": null,
-          "sprite_index": 72
+          "sprite_index": 72,
+          "potential": 2
         },
         {
           "name": "치우바이",
