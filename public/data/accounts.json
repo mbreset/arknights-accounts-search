@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-17T12:14:49.842504+00:00",
+  "updated_at": "2026-11-17T12:23:59.928990+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -2473,7 +2473,7 @@
     },
     {
       "account_number": "02173",
-      "price": 85000,
+      "price": 89000,
       "operators": [
         {
           "name": "마르실",
@@ -2535,6 +2535,11 @@
           "name": "티폰",
           "color": null,
           "sprite_index": 74
+        },
+        {
+          "name": "파죰카",
+          "color": null,
+          "sprite_index": 38
         },
         {
           "name": "좌락",
