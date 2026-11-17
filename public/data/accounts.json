@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-17T10:57:02.224879+00:00",
+  "updated_at": "2026-11-17T11:00:56.278619+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -19497,7 +19497,7 @@
     },
     {
       "account_number": "01795",
-      "price": 99000,
+      "price": 101000,
       "operators": [
         {
           "name": "왕",
@@ -19569,6 +19569,11 @@
           "name": "스와이어디엘리건트위트",
           "color": null,
           "sprite_index": 72
+        },
+        {
+          "name": "오올헤약",
+          "color": null,
+          "sprite_index": 70
         }
       ]
     },
