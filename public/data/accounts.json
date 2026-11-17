@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-17T00:31:48.906797+00:00",
+  "updated_at": "2026-11-17T00:34:24.982372+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -21051,7 +21051,7 @@
     },
     {
       "account_number": "03649",
-      "price": 117000,
+      "price": 122000,
       "operators": [
         {
           "name": "키린R야토",
@@ -21103,6 +21103,11 @@
           "name": "골든글로우",
           "color": "#00aa00",
           "sprite_index": 28
+        },
+        {
+          "name": "벨로네",
+          "color": "#00aa00",
+          "sprite_index": 115
         },
         {
           "name": "나란투야",
