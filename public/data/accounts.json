@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-17T15:50:07.362869+00:00",
+  "updated_at": "2026-11-17T16:10:23.986596+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -54645,6 +54645,38 @@
           "name": "레이즈더썬더브링어",
           "color": "#00aa00",
           "sprite_index": 104
+        }
+      ]
+    },
+    {
+      "account_number": "04438",
+      "price": 65500,
+      "operators": [
+        {
+          "name": "염호룡오키드",
+          "color": "#dd0000",
+          "sprite_index": 119
+        },
+        {
+          "name": "켈시에스페란타",
+          "color": "#e42ce8",
+          "sprite_index": 117,
+          "potential": 2
+        },
+        {
+          "name": "엑시아더뉴커버넌트",
+          "color": "#e42ce8",
+          "sprite_index": 100
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
+        },
+        {
+          "name": "티티",
+          "color": "#00aa00",
+          "sprite_index": 112
         }
       ]
     },
