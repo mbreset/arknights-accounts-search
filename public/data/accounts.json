@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-17T13:16:59.160275+00:00",
+  "updated_at": "2026-11-17T13:21:14.594000+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -42138,7 +42138,8 @@
         {
           "name": "치우바이",
           "color": null,
-          "sprite_index": 66
+          "sprite_index": 66,
+          "potential": 2
         },
         {
           "name": "파투스",
