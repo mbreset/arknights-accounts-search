@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-17T15:27:28.301591+00:00",
+  "updated_at": "2026-11-17T15:32:52.693004+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -34810,7 +34810,7 @@
     },
     {
       "account_number": "03760",
-      "price": 125000,
+      "price": 136000,
       "operators": [
         {
           "name": "키린R야토",
@@ -34851,6 +34851,11 @@
           "name": "하루카",
           "color": "#0000ff",
           "sprite_index": 106
+        },
+        {
+          "name": "Mon3tr",
+          "color": "#0000ff",
+          "sprite_index": 99
         },
         {
           "name": "무에나",
