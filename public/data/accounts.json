@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-17T15:44:37.099731+00:00",
+  "updated_at": "2026-11-17T15:50:07.362869+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -37571,7 +37571,7 @@
     },
     {
       "account_number": "02144",
-      "price": 126000,
+      "price": 137000,
       "operators": [
         {
           "name": "키린R야토",
@@ -37612,6 +37612,11 @@
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "Mon3tr",
+          "color": "#0000ff",
+          "sprite_index": 99
         },
         {
           "name": "무에나",
