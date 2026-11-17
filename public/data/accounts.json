@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-17T13:21:14.594000+00:00",
+  "updated_at": "2026-11-17T13:39:02.771448+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -40449,7 +40449,7 @@
     },
     {
       "account_number": "03121",
-      "price": 123000,
+      "price": 129000,
       "operators": [
         {
           "name": "Ela",
@@ -40490,6 +40490,11 @@
           "name": "하루카",
           "color": "#0000ff",
           "sprite_index": 106
+        },
+        {
+          "name": "티티",
+          "color": "#00aa00",
+          "sprite_index": 112
         },
         {
           "name": "블레이즈디이그나이팅스파크",
