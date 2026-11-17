@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-17T04:00:50.362157+00:00",
+  "updated_at": "2026-11-17T04:06:59.511743+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -8853,7 +8853,8 @@
         {
           "name": "불피스폴리아",
           "color": "#00aa00",
-          "sprite_index": 94
+          "sprite_index": 94,
+          "potential": 2
         },
         {
           "name": "파죰카",
