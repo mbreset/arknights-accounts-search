@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-17T13:41:38.804870+00:00",
+  "updated_at": "2026-11-17T13:41:54.877171+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -16387,7 +16387,7 @@
     },
     {
       "account_number": "02963",
-      "price": 128000,
+      "price": 139000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -16418,6 +16418,11 @@
           "name": "페페",
           "color": "#e42ce8",
           "sprite_index": 88
+        },
+        {
+          "name": "이네스",
+          "color": "#0000ff",
+          "sprite_index": 68
         },
         {
           "name": "로고스",
