@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-17T23:18:34.046780+00:00",
+  "updated_at": "2026-11-18T01:38:55.307837+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -39249,6 +39249,99 @@
       ]
     },
     {
+      "account_number": "02065",
+      "price": 117000,
+      "operators": [
+        {
+          "name": "염호룡오키드",
+          "color": "#dd0000",
+          "sprite_index": 119
+        },
+        {
+          "name": "마르실",
+          "color": "#dd0000",
+          "sprite_index": 91
+        },
+        {
+          "name": "호시구마더브리처",
+          "color": "#e42ce8",
+          "sprite_index": 105
+        },
+        {
+          "name": "라플란드더데카덴차",
+          "color": "#e42ce8",
+          "sprite_index": 93
+        },
+        {
+          "name": "링",
+          "color": "#e42ce8",
+          "sprite_index": 1
+        },
+        {
+          "name": "무에나",
+          "color": "#0000ff",
+          "sprite_index": 43
+        },
+        {
+          "name": "로고스",
+          "color": "#0000ff",
+          "sprite_index": 86
+        },
+        {
+          "name": "르무엔",
+          "color": "#0000ff",
+          "sprite_index": 101,
+          "potential": 2
+        },
+        {
+          "name": "님프",
+          "color": "#00aa00",
+          "sprite_index": 90
+        },
+        {
+          "name": "레이",
+          "color": "#00aa00",
+          "sprite_index": 80
+        },
+        {
+          "name": "불피스폴리아",
+          "color": "#00aa00",
+          "sprite_index": 94,
+          "potential": 2
+        },
+        {
+          "name": "이그제큐터디엑스포에데레",
+          "color": "#00aa00",
+          "sprite_index": 71
+        },
+        {
+          "name": "리드더플레임섀도우",
+          "color": "#00aa00",
+          "sprite_index": 63
+        },
+        {
+          "name": "블레이즈디이그나이팅스파크",
+          "color": "#00aa00",
+          "sprite_index": 97
+        },
+        {
+          "name": "나란투야",
+          "color": null,
+          "sprite_index": 89
+        },
+        {
+          "name": "스와이어디엘리건트위트",
+          "color": null,
+          "sprite_index": 72
+        },
+        {
+          "name": "스테인리스",
+          "color": null,
+          "sprite_index": 60
+        }
+      ]
+    },
+    {
       "account_number": "02325",
       "price": 74000,
       "operators": [
@@ -52389,94 +52482,6 @@
           "name": "도로시",
           "color": null,
           "sprite_index": 56
-        },
-        {
-          "name": "스테인리스",
-          "color": null,
-          "sprite_index": 60
-        }
-      ]
-    },
-    {
-      "account_number": "02065",
-      "price": 83000,
-      "operators": [
-        {
-          "name": "마르실",
-          "color": "#dd0000",
-          "sprite_index": 91
-        },
-        {
-          "name": "호시구마더브리처",
-          "color": "#e42ce8",
-          "sprite_index": 105
-        },
-        {
-          "name": "라플란드더데카덴차",
-          "color": "#e42ce8",
-          "sprite_index": 93
-        },
-        {
-          "name": "링",
-          "color": "#e42ce8",
-          "sprite_index": 1
-        },
-        {
-          "name": "무에나",
-          "color": "#0000ff",
-          "sprite_index": 43
-        },
-        {
-          "name": "로고스",
-          "color": "#0000ff",
-          "sprite_index": 86
-        },
-        {
-          "name": "르무엔",
-          "color": "#0000ff",
-          "sprite_index": 101,
-          "potential": 2
-        },
-        {
-          "name": "님프",
-          "color": "#00aa00",
-          "sprite_index": 90
-        },
-        {
-          "name": "레이",
-          "color": "#00aa00",
-          "sprite_index": 80
-        },
-        {
-          "name": "불피스폴리아",
-          "color": "#00aa00",
-          "sprite_index": 94,
-          "potential": 2
-        },
-        {
-          "name": "이그제큐터디엑스포에데레",
-          "color": "#00aa00",
-          "sprite_index": 71
-        },
-        {
-          "name": "리드더플레임섀도우",
-          "color": "#00aa00",
-          "sprite_index": 63
-        },
-        {
-          "name": "블레이즈디이그나이팅스파크",
-          "color": "#00aa00",
-          "sprite_index": 97
-        },
-        {
-          "name": "나란투야",
-          "color": null,
-          "sprite_index": 89
-        },
-        {
-          "name": "스와이어디엘리건트위트",
-          "color": null,
-          "sprite_index": 72
         },
         {
           "name": "스테인리스",
