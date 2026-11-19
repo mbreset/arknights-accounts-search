@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-19T02:58:14.262256+00:00",
+  "updated_at": "2026-11-19T11:45:38.366150+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -58869,32 +58869,6 @@
           "name": "님프",
           "color": "#00aa00",
           "sprite_index": 90
-        }
-      ]
-    },
-    {
-      "account_number": "04357",
-      "price": 19000,
-      "operators": [
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "로즈몬티스",
-          "color": "#e42ce8",
-          "sprite_index": 33
-        },
-        {
-          "name": "클로저",
-          "color": "#0000ff",
-          "sprite_index": 118
-        },
-        {
-          "name": "프라마닉스더프레리타",
-          "color": "#0000ff",
-          "sprite_index": 110
         }
       ]
     },
