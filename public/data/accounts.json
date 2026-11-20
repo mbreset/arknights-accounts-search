@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-20T04:29:03.986527+00:00",
+  "updated_at": "2026-11-20T04:41:49.820261+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -31153,7 +31153,7 @@
     },
     {
       "account_number": "03019",
-      "price": 109000,
+      "price": 123000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -31179,6 +31179,11 @@
           "name": "텍사스디오메르토사",
           "color": "#e42ce8",
           "sprite_index": 62
+        },
+        {
+          "name": "트라고디아",
+          "color": "#0000ff",
+          "sprite_index": 103
         },
         {
           "name": "프라마닉스더프레리타",
