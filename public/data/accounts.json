@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-22T19:18:52.463381+00:00",
+  "updated_at": "2026-11-22T19:22:18.561016+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -46205,7 +46205,7 @@
     },
     {
       "account_number": "01515",
-      "price": 86000,
+      "price": 90000,
       "operators": [
         {
           "name": "왕",
@@ -46260,6 +46260,11 @@
           "color": "#00aa00",
           "sprite_index": 97,
           "potential": 2
+        },
+        {
+          "name": "좌락",
+          "color": null,
+          "sprite_index": 82
         },
         {
           "name": "머드락",
