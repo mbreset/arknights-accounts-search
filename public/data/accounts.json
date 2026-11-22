@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-22T19:59:04.692886+00:00",
+  "updated_at": "2026-11-22T20:30:29.061674+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -14724,6 +14724,130 @@
       ]
     },
     {
+      "account_number": "01055",
+      "price": 144000,
+      "operators": [
+        {
+          "name": "염호룡오키드",
+          "color": "#dd0000",
+          "sprite_index": 119
+        },
+        {
+          "name": "키린R야토",
+          "color": "#dd0000",
+          "sprite_index": 67
+        },
+        {
+          "name": "마르실",
+          "color": "#dd0000",
+          "sprite_index": 91,
+          "potential": 2
+        },
+        {
+          "name": "위셔델",
+          "color": "#e42ce8",
+          "sprite_index": 85
+        },
+        {
+          "name": "슈",
+          "color": "#e42ce8",
+          "sprite_index": 81
+        },
+        {
+          "name": "위",
+          "color": "#e42ce8",
+          "sprite_index": 96
+        },
+        {
+          "name": "가비알디인빈서블",
+          "color": "#e42ce8",
+          "sprite_index": 37
+        },
+        {
+          "name": "프라마닉스더프레리타",
+          "color": "#0000ff",
+          "sprite_index": 110,
+          "potential": 2
+        },
+        {
+          "name": "레이즈더썬더브링어",
+          "color": "#00aa00",
+          "sprite_index": 104
+        },
+        {
+          "name": "불피스폴리아",
+          "color": "#00aa00",
+          "sprite_index": 94
+        },
+        {
+          "name": "나란투야",
+          "color": null,
+          "sprite_index": 89
+        },
+        {
+          "name": "파죰카",
+          "color": null,
+          "sprite_index": 38
+        },
+        {
+          "name": "페넌스",
+          "color": null,
+          "sprite_index": 61
+        },
+        {
+          "name": "린",
+          "color": null,
+          "sprite_index": 65
+        },
+        {
+          "name": "아이린",
+          "color": null,
+          "sprite_index": 32
+        },
+        {
+          "name": "엑시아",
+          "color": null,
+          "sprite_index": 3
+        },
+        {
+          "name": "스와이어디엘리건트위트",
+          "color": null,
+          "sprite_index": 72,
+          "potential": 2
+        },
+        {
+          "name": "호시구마",
+          "color": null,
+          "sprite_index": 27
+        },
+        {
+          "name": "비비아나",
+          "color": null,
+          "sprite_index": 78
+        },
+        {
+          "name": "오올헤약",
+          "color": null,
+          "sprite_index": 70
+        },
+        {
+          "name": "파투스",
+          "color": null,
+          "sprite_index": 54
+        },
+        {
+          "name": "플레임테일",
+          "color": null,
+          "sprite_index": 55
+        },
+        {
+          "name": "안젤리나",
+          "color": null,
+          "sprite_index": 9
+        }
+      ]
+    },
+    {
       "account_number": "01662",
       "price": 151000,
       "operators": [
@@ -25410,125 +25534,6 @@
           "name": "스테인리스",
           "color": null,
           "sprite_index": 60
-        },
-        {
-          "name": "안젤리나",
-          "color": null,
-          "sprite_index": 9
-        }
-      ]
-    },
-    {
-      "account_number": "01055",
-      "price": 118000,
-      "operators": [
-        {
-          "name": "키린R야토",
-          "color": "#dd0000",
-          "sprite_index": 67
-        },
-        {
-          "name": "마르실",
-          "color": "#dd0000",
-          "sprite_index": 91,
-          "potential": 2
-        },
-        {
-          "name": "위셔델",
-          "color": "#e42ce8",
-          "sprite_index": 85
-        },
-        {
-          "name": "슈",
-          "color": "#e42ce8",
-          "sprite_index": 81
-        },
-        {
-          "name": "위",
-          "color": "#e42ce8",
-          "sprite_index": 96
-        },
-        {
-          "name": "가비알디인빈서블",
-          "color": "#e42ce8",
-          "sprite_index": 37
-        },
-        {
-          "name": "프라마닉스더프레리타",
-          "color": "#0000ff",
-          "sprite_index": 110,
-          "potential": 2
-        },
-        {
-          "name": "레이즈더썬더브링어",
-          "color": "#00aa00",
-          "sprite_index": 104
-        },
-        {
-          "name": "불피스폴리아",
-          "color": "#00aa00",
-          "sprite_index": 94
-        },
-        {
-          "name": "나란투야",
-          "color": null,
-          "sprite_index": 89
-        },
-        {
-          "name": "파죰카",
-          "color": null,
-          "sprite_index": 38
-        },
-        {
-          "name": "페넌스",
-          "color": null,
-          "sprite_index": 61
-        },
-        {
-          "name": "린",
-          "color": null,
-          "sprite_index": 65
-        },
-        {
-          "name": "아이린",
-          "color": null,
-          "sprite_index": 32
-        },
-        {
-          "name": "엑시아",
-          "color": null,
-          "sprite_index": 3
-        },
-        {
-          "name": "스와이어디엘리건트위트",
-          "color": null,
-          "sprite_index": 72,
-          "potential": 2
-        },
-        {
-          "name": "호시구마",
-          "color": null,
-          "sprite_index": 27
-        },
-        {
-          "name": "비비아나",
-          "color": null,
-          "sprite_index": 78
-        },
-        {
-          "name": "오올헤약",
-          "color": null,
-          "sprite_index": 70
-        },
-        {
-          "name": "파투스",
-          "color": null,
-          "sprite_index": 54
-        },
-        {
-          "name": "플레임테일",
-          "color": null,
-          "sprite_index": 55
         },
         {
           "name": "안젤리나",
