@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-22T22:33:36.009721+00:00",
+  "updated_at": "2026-11-22T22:34:48.151474+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -33822,6 +33822,90 @@
       ]
     },
     {
+      "account_number": "02105",
+      "price": 110000,
+      "operators": [
+        {
+          "name": "염호룡오키드",
+          "color": "#dd0000",
+          "sprite_index": 119
+        },
+        {
+          "name": "왕",
+          "color": "#e42ce8",
+          "sprite_index": 113
+        },
+        {
+          "name": "에이야퍄들라더크비트아스카",
+          "color": "#e42ce8",
+          "sprite_index": 73
+        },
+        {
+          "name": "위",
+          "color": "#e42ce8",
+          "sprite_index": 96
+        },
+        {
+          "name": "로즈몬티스",
+          "color": "#e42ce8",
+          "sprite_index": 33,
+          "potential": 2
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106,
+          "potential": 3
+        },
+        {
+          "name": "무에나",
+          "color": "#0000ff",
+          "sprite_index": 43
+        },
+        {
+          "name": "아스카론",
+          "color": "#0000ff",
+          "sprite_index": 84
+        },
+        {
+          "name": "골든글로우",
+          "color": "#00aa00",
+          "sprite_index": 28
+        },
+        {
+          "name": "블레이즈디이그나이팅스파크",
+          "color": "#00aa00",
+          "sprite_index": 97,
+          "potential": 2
+        },
+        {
+          "name": "티폰",
+          "color": null,
+          "sprite_index": 74
+        },
+        {
+          "name": "페넌스",
+          "color": null,
+          "sprite_index": 61
+        },
+        {
+          "name": "에벤홀츠",
+          "color": null,
+          "sprite_index": 39
+        },
+        {
+          "name": "스와이어디엘리건트위트",
+          "color": null,
+          "sprite_index": 72
+        },
+        {
+          "name": "블레미샤인",
+          "color": null,
+          "sprite_index": 51
+        }
+      ]
+    },
+    {
       "account_number": "02278",
       "price": 108000,
       "operators": [
@@ -47631,85 +47715,6 @@
           "name": "사일라흐",
           "color": null,
           "sprite_index": 40
-        }
-      ]
-    },
-    {
-      "account_number": "02105",
-      "price": 76000,
-      "operators": [
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "에이야퍄들라더크비트아스카",
-          "color": "#e42ce8",
-          "sprite_index": 73
-        },
-        {
-          "name": "위",
-          "color": "#e42ce8",
-          "sprite_index": 96
-        },
-        {
-          "name": "로즈몬티스",
-          "color": "#e42ce8",
-          "sprite_index": 33,
-          "potential": 2
-        },
-        {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106,
-          "potential": 3
-        },
-        {
-          "name": "무에나",
-          "color": "#0000ff",
-          "sprite_index": 43
-        },
-        {
-          "name": "아스카론",
-          "color": "#0000ff",
-          "sprite_index": 84
-        },
-        {
-          "name": "골든글로우",
-          "color": "#00aa00",
-          "sprite_index": 28
-        },
-        {
-          "name": "블레이즈디이그나이팅스파크",
-          "color": "#00aa00",
-          "sprite_index": 97,
-          "potential": 2
-        },
-        {
-          "name": "티폰",
-          "color": null,
-          "sprite_index": 74
-        },
-        {
-          "name": "페넌스",
-          "color": null,
-          "sprite_index": 61
-        },
-        {
-          "name": "에벤홀츠",
-          "color": null,
-          "sprite_index": 39
-        },
-        {
-          "name": "스와이어디엘리건트위트",
-          "color": null,
-          "sprite_index": 72
-        },
-        {
-          "name": "블레미샤인",
-          "color": null,
-          "sprite_index": 51
         }
       ]
     },
