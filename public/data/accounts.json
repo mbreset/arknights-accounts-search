@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-22T19:51:26.735488+00:00",
+  "updated_at": "2026-11-22T19:52:38.681281+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -16969,6 +16969,78 @@
       ]
     },
     {
+      "account_number": "03610",
+      "price": 125000,
+      "operators": [
+        {
+          "name": "토가와사키코",
+          "color": "#dd0000",
+          "sprite_index": 107
+        },
+        {
+          "name": "염호룡오키드",
+          "color": "#dd0000",
+          "sprite_index": 119
+        },
+        {
+          "name": "키린R야토",
+          "color": "#dd0000",
+          "sprite_index": 67,
+          "potential": 2
+        },
+        {
+          "name": "왕",
+          "color": "#e42ce8",
+          "sprite_index": 113
+        },
+        {
+          "name": "슈",
+          "color": "#e42ce8",
+          "sprite_index": 81
+        },
+        {
+          "name": "뮤엘시스",
+          "color": "#e42ce8",
+          "sprite_index": 69
+        },
+        {
+          "name": "프라마닉스더프레리타",
+          "color": "#0000ff",
+          "sprite_index": 110
+        },
+        {
+          "name": "나란투야",
+          "color": null,
+          "sprite_index": 89
+        },
+        {
+          "name": "페넌스",
+          "color": null,
+          "sprite_index": 61
+        },
+        {
+          "name": "린",
+          "color": null,
+          "sprite_index": 65
+        },
+        {
+          "name": "치우바이",
+          "color": null,
+          "sprite_index": 66
+        },
+        {
+          "name": "팔라스",
+          "color": null,
+          "sprite_index": 24
+        },
+        {
+          "name": "스테인리스",
+          "color": null,
+          "sprite_index": 60
+        }
+      ]
+    },
+    {
       "account_number": "02836",
       "price": 102000,
       "operators": [
@@ -29231,73 +29303,6 @@
           "name": "미즈키",
           "color": null,
           "sprite_index": 53
-        }
-      ]
-    },
-    {
-      "account_number": "03610",
-      "price": 99000,
-      "operators": [
-        {
-          "name": "토가와사키코",
-          "color": "#dd0000",
-          "sprite_index": 107
-        },
-        {
-          "name": "키린R야토",
-          "color": "#dd0000",
-          "sprite_index": 67,
-          "potential": 2
-        },
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "슈",
-          "color": "#e42ce8",
-          "sprite_index": 81
-        },
-        {
-          "name": "뮤엘시스",
-          "color": "#e42ce8",
-          "sprite_index": 69
-        },
-        {
-          "name": "프라마닉스더프레리타",
-          "color": "#0000ff",
-          "sprite_index": 110
-        },
-        {
-          "name": "나란투야",
-          "color": null,
-          "sprite_index": 89
-        },
-        {
-          "name": "페넌스",
-          "color": null,
-          "sprite_index": 61
-        },
-        {
-          "name": "린",
-          "color": null,
-          "sprite_index": 65
-        },
-        {
-          "name": "치우바이",
-          "color": null,
-          "sprite_index": 66
-        },
-        {
-          "name": "팔라스",
-          "color": null,
-          "sprite_index": 24
-        },
-        {
-          "name": "스테인리스",
-          "color": null,
-          "sprite_index": 60
         }
       ]
     },
