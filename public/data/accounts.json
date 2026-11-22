@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-22T21:38:19.726933+00:00",
+  "updated_at": "2026-11-22T22:22:24.711996+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -40246,7 +40246,7 @@
     },
     {
       "account_number": "00386",
-      "price": 77000,
+      "price": 81000,
       "operators": [
         {
           "name": "염호룡오키드",
@@ -40304,6 +40304,11 @@
           "name": "스즈란",
           "color": null,
           "sprite_index": 20
+        },
+        {
+          "name": "네크라스",
+          "color": null,
+          "sprite_index": 98
         },
         {
           "name": "페넌스",
