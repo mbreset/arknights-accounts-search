@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-22T21:36:36.524809+00:00",
+  "updated_at": "2026-11-22T21:38:19.726933+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -18114,7 +18114,8 @@
         {
           "name": "프라마닉스더프레리타",
           "color": "#0000ff",
-          "sprite_index": 110
+          "sprite_index": 110,
+          "potential": 2
         },
         {
           "name": "로고스",
