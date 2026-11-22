@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-22T23:54:08.722793+00:00",
+  "updated_at": "2026-11-22T23:57:08.812001+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -55860,7 +55860,7 @@
     },
     {
       "account_number": "03350",
-      "price": 69000,
+      "price": 74000,
       "operators": [
         {
           "name": "키린R야토",
@@ -55917,6 +55917,16 @@
           "name": "페넌스",
           "color": null,
           "sprite_index": 61
+        },
+        {
+          "name": "엔텔레키아",
+          "color": null,
+          "sprite_index": 102
+        },
+        {
+          "name": "비나빅토리아",
+          "color": null,
+          "sprite_index": 92
         },
         {
           "name": "에벤홀츠",
