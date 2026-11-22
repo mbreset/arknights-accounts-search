@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-22T19:48:46.715524+00:00",
+  "updated_at": "2026-11-22T19:51:26.735488+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -57508,7 +57508,7 @@
     },
     {
       "account_number": "03612",
-      "price": 44000,
+      "price": 49000,
       "operators": [
         {
           "name": "키린R야토",
@@ -57541,6 +57541,11 @@
           "name": "불피스폴리아",
           "color": "#00aa00",
           "sprite_index": 94
+        },
+        {
+          "name": "이그제큐터디엑스포에데레",
+          "color": "#00aa00",
+          "sprite_index": 71
         },
         {
           "name": "블레이즈디이그나이팅스파크",
