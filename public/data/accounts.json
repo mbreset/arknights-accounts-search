@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-22T19:48:14.727157+00:00",
+  "updated_at": "2026-11-22T19:48:46.715524+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -21067,7 +21067,7 @@
     },
     {
       "account_number": "03421",
-      "price": 126000,
+      "price": 140000,
       "operators": [
         {
           "name": "키린R야토",
@@ -21099,6 +21099,11 @@
           "name": "뮤엘시스",
           "color": "#e42ce8",
           "sprite_index": 69
+        },
+        {
+          "name": "트라고디아",
+          "color": "#0000ff",
+          "sprite_index": 103
         },
         {
           "name": "프라마닉스더프레리타",
