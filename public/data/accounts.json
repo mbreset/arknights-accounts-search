@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-22T20:38:37.172366+00:00",
+  "updated_at": "2026-11-22T20:47:31.331662+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -54686,7 +54686,7 @@
     },
     {
       "account_number": "02314",
-      "price": 100000,
+      "price": 106000,
       "operators": [
         {
           "name": "켈시에스페란타",
@@ -54727,6 +54727,11 @@
           "name": "데겐블레허",
           "color": "#00aa00",
           "sprite_index": 79
+        },
+        {
+          "name": "레이",
+          "color": "#00aa00",
+          "sprite_index": 80
         },
         {
           "name": "불피스폴리아",
