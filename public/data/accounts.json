@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-22T23:49:11.515889+00:00",
+  "updated_at": "2026-11-22T23:50:52.653882+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -44081,7 +44081,7 @@
     },
     {
       "account_number": "03436",
-      "price": 75000,
+      "price": 80000,
       "operators": [
         {
           "name": "키린R야토",
@@ -44126,6 +44126,11 @@
           "color": "#0000ff",
           "sprite_index": 101,
           "potential": 2
+        },
+        {
+          "name": "내스티",
+          "color": "#00aa00",
+          "sprite_index": 111
         },
         {
           "name": "나란투야",
