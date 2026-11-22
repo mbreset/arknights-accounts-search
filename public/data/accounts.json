@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-22T22:34:48.151474+00:00",
+  "updated_at": "2026-11-22T22:41:22.486591+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -49551,6 +49551,68 @@
       ]
     },
     {
+      "account_number": "03003",
+      "price": 69000,
+      "operators": [
+        {
+          "name": "염호룡오키드",
+          "color": "#dd0000",
+          "sprite_index": 119
+        },
+        {
+          "name": "슈",
+          "color": "#e42ce8",
+          "sprite_index": 81,
+          "potential": 3
+        },
+        {
+          "name": "텍사스디오메르토사",
+          "color": "#e42ce8",
+          "sprite_index": 62
+        },
+        {
+          "name": "로즈몬티스",
+          "color": "#e42ce8",
+          "sprite_index": 33
+        },
+        {
+          "name": "프라마닉스더프레리타",
+          "color": "#0000ff",
+          "sprite_index": 110
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
+        },
+        {
+          "name": "Mon3tr",
+          "color": "#0000ff",
+          "sprite_index": 99
+        },
+        {
+          "name": "블레이즈디이그나이팅스파크",
+          "color": "#00aa00",
+          "sprite_index": 97
+        },
+        {
+          "name": "페넌스",
+          "color": null,
+          "sprite_index": 61
+        },
+        {
+          "name": "스와이어디엘리건트위트",
+          "color": null,
+          "sprite_index": 72
+        },
+        {
+          "name": "비비아나",
+          "color": null,
+          "sprite_index": 78
+        }
+      ]
+    },
+    {
       "account_number": "03776",
       "price": 56000,
       "operators": [
@@ -57425,63 +57487,6 @@
           "name": "린",
           "color": null,
           "sprite_index": 65
-        },
-        {
-          "name": "비비아나",
-          "color": null,
-          "sprite_index": 78
-        }
-      ]
-    },
-    {
-      "account_number": "03003",
-      "price": 45000,
-      "operators": [
-        {
-          "name": "슈",
-          "color": "#e42ce8",
-          "sprite_index": 81,
-          "potential": 3
-        },
-        {
-          "name": "텍사스디오메르토사",
-          "color": "#e42ce8",
-          "sprite_index": 62
-        },
-        {
-          "name": "로즈몬티스",
-          "color": "#e42ce8",
-          "sprite_index": 33
-        },
-        {
-          "name": "프라마닉스더프레리타",
-          "color": "#0000ff",
-          "sprite_index": 110
-        },
-        {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
-          "name": "Mon3tr",
-          "color": "#0000ff",
-          "sprite_index": 99
-        },
-        {
-          "name": "블레이즈디이그나이팅스파크",
-          "color": "#00aa00",
-          "sprite_index": 97
-        },
-        {
-          "name": "페넌스",
-          "color": null,
-          "sprite_index": 61
-        },
-        {
-          "name": "스와이어디엘리건트위트",
-          "color": null,
-          "sprite_index": 72
         },
         {
           "name": "비비아나",
