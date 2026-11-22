@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-22T19:52:38.681281+00:00",
+  "updated_at": "2026-11-22T19:59:04.692886+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -58671,6 +58671,32 @@
           "name": "데겐블레허",
           "color": "#00aa00",
           "sprite_index": 79
+        }
+      ]
+    },
+    {
+      "account_number": "04130",
+      "price": 31000,
+      "operators": [
+        {
+          "name": "염호룡오키드",
+          "color": "#dd0000",
+          "sprite_index": 119
+        },
+        {
+          "name": "왕",
+          "color": "#e42ce8",
+          "sprite_index": 113
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
+        },
+        {
+          "name": "만트라",
+          "color": "#00aa00",
+          "sprite_index": 108
         }
       ]
     },
