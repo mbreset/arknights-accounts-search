@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-22T23:39:08.220811+00:00",
+  "updated_at": "2026-11-22T23:44:06.326175+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -5021,6 +5021,108 @@
           "name": "유넥티스",
           "color": null,
           "sprite_index": 50
+        }
+      ]
+    },
+    {
+      "account_number": "03176",
+      "price": 153000,
+      "operators": [
+        {
+          "name": "염호룡오키드",
+          "color": "#dd0000",
+          "sprite_index": 119
+        },
+        {
+          "name": "키린R야토",
+          "color": "#dd0000",
+          "sprite_index": 67
+        },
+        {
+          "name": "마르실",
+          "color": "#dd0000",
+          "sprite_index": 91
+        },
+        {
+          "name": "왕",
+          "color": "#e42ce8",
+          "sprite_index": 113
+        },
+        {
+          "name": "호시구마더브리처",
+          "color": "#e42ce8",
+          "sprite_index": 105,
+          "potential": 2
+        },
+        {
+          "name": "위",
+          "color": "#e42ce8",
+          "sprite_index": 96
+        },
+        {
+          "name": "비르투오사",
+          "color": "#e42ce8",
+          "sprite_index": 77
+        },
+        {
+          "name": "페페",
+          "color": "#e42ce8",
+          "sprite_index": 88
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
+        },
+        {
+          "name": "아스카론",
+          "color": "#0000ff",
+          "sprite_index": 84
+        },
+        {
+          "name": "로고스",
+          "color": "#0000ff",
+          "sprite_index": 86
+        },
+        {
+          "name": "리드더플레임섀도우",
+          "color": "#00aa00",
+          "sprite_index": 63
+        },
+        {
+          "name": "좌락",
+          "color": null,
+          "sprite_index": 82
+        },
+        {
+          "name": "사일라흐",
+          "color": null,
+          "sprite_index": 40
+        },
+        {
+          "name": "스와이어디엘리건트위트",
+          "color": null,
+          "sprite_index": 72
+        },
+        {
+          "name": "비비아나",
+          "color": null,
+          "sprite_index": 78
+        },
+        {
+          "name": "외드레르",
+          "color": null,
+          "sprite_index": 76
+        },
+        {
+          "name": "카넬리안",
+          "color": null,
+          "sprite_index": 52
+        },
+        {
+          "name": "미즈키",
+          "color": null,
+          "sprite_index": 53
         }
       ]
     },
@@ -11757,103 +11859,6 @@
           "name": "스와이어디엘리건트위트",
           "color": null,
           "sprite_index": 72
-        }
-      ]
-    },
-    {
-      "account_number": "03176",
-      "price": 127000,
-      "operators": [
-        {
-          "name": "키린R야토",
-          "color": "#dd0000",
-          "sprite_index": 67
-        },
-        {
-          "name": "마르실",
-          "color": "#dd0000",
-          "sprite_index": 91
-        },
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "호시구마더브리처",
-          "color": "#e42ce8",
-          "sprite_index": 105,
-          "potential": 2
-        },
-        {
-          "name": "위",
-          "color": "#e42ce8",
-          "sprite_index": 96
-        },
-        {
-          "name": "비르투오사",
-          "color": "#e42ce8",
-          "sprite_index": 77
-        },
-        {
-          "name": "페페",
-          "color": "#e42ce8",
-          "sprite_index": 88
-        },
-        {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
-          "name": "아스카론",
-          "color": "#0000ff",
-          "sprite_index": 84
-        },
-        {
-          "name": "로고스",
-          "color": "#0000ff",
-          "sprite_index": 86
-        },
-        {
-          "name": "리드더플레임섀도우",
-          "color": "#00aa00",
-          "sprite_index": 63
-        },
-        {
-          "name": "좌락",
-          "color": null,
-          "sprite_index": 82
-        },
-        {
-          "name": "사일라흐",
-          "color": null,
-          "sprite_index": 40
-        },
-        {
-          "name": "스와이어디엘리건트위트",
-          "color": null,
-          "sprite_index": 72
-        },
-        {
-          "name": "비비아나",
-          "color": null,
-          "sprite_index": 78
-        },
-        {
-          "name": "외드레르",
-          "color": null,
-          "sprite_index": 76
-        },
-        {
-          "name": "카넬리안",
-          "color": null,
-          "sprite_index": 52
-        },
-        {
-          "name": "미즈키",
-          "color": null,
-          "sprite_index": 53
         }
       ]
     },
