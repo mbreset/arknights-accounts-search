@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-22T09:04:35.040157+00:00",
+  "updated_at": "2026-11-22T19:13:46.297211+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -26223,7 +26223,7 @@
     },
     {
       "account_number": "00644",
-      "price": 72000,
+      "price": 78000,
       "operators": [
         {
           "name": "실버애쉬더레인프로스트",
@@ -26270,6 +26270,11 @@
           "name": "르무엔",
           "color": "#0000ff",
           "sprite_index": 101
+        },
+        {
+          "name": "만트라",
+          "color": "#00aa00",
+          "sprite_index": 108
         },
         {
           "name": "실버애쉬",
