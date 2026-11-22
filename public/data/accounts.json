@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-22T19:34:27.566675+00:00",
+  "updated_at": "2026-11-22T19:38:36.618647+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -46925,7 +46925,7 @@
     },
     {
       "account_number": "03145",
-      "price": 63000,
+      "price": 65000,
       "operators": [
         {
           "name": "키린R야토",
@@ -46973,6 +46973,11 @@
           "name": "호시구마",
           "color": null,
           "sprite_index": 27
+        },
+        {
+          "name": "치우바이",
+          "color": null,
+          "sprite_index": 66
         }
       ]
     },
