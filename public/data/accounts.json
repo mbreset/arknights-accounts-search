@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-22T06:53:04.361388+00:00",
+  "updated_at": "2026-11-22T08:07:58.675312+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -33409,68 +33409,6 @@
           "name": "오올헤약",
           "color": null,
           "sprite_index": 70
-        }
-      ]
-    },
-    {
-      "account_number": "03822",
-      "price": 104000,
-      "operators": [
-        {
-          "name": "키린R야토",
-          "color": "#dd0000",
-          "sprite_index": 67
-        },
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "실버애쉬더레인프로스트",
-          "color": "#e42ce8",
-          "sprite_index": 109
-        },
-        {
-          "name": "비르투오사",
-          "color": "#e42ce8",
-          "sprite_index": 77,
-          "potential": 2
-        },
-        {
-          "name": "페페",
-          "color": "#e42ce8",
-          "sprite_index": 88
-        },
-        {
-          "name": "프라마닉스더프레리타",
-          "color": "#0000ff",
-          "sprite_index": 110
-        },
-        {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
-          "name": "아스카론",
-          "color": "#0000ff",
-          "sprite_index": 84
-        },
-        {
-          "name": "로고스",
-          "color": "#0000ff",
-          "sprite_index": 86
-        },
-        {
-          "name": "레이즈더썬더브링어",
-          "color": "#00aa00",
-          "sprite_index": 104
-        },
-        {
-          "name": "치우바이",
-          "color": null,
-          "sprite_index": 66
         }
       ]
     },
