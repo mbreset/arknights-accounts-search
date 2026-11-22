@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-22T19:23:50.559522+00:00",
+  "updated_at": "2026-11-22T19:26:34.599073+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -36449,7 +36449,7 @@
     },
     {
       "account_number": "01946",
-      "price": 119500,
+      "price": 121500,
       "operators": [
         {
           "name": "Ela",
@@ -36499,6 +36499,11 @@
           "color": "#0000ff",
           "sprite_index": 86,
           "potential": 2
+        },
+        {
+          "name": "제시카더리버레이티드",
+          "color": null,
+          "sprite_index": 75
         },
         {
           "name": "리",
