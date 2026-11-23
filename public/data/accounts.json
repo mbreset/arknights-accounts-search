@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-23T00:04:52.939133+00:00",
+  "updated_at": "2026-11-23T00:23:20.328129+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -12761,7 +12761,7 @@
           "name": "좌락",
           "color": null,
           "sprite_index": 82,
-          "potential": 2
+          "potential": 3
         },
         {
           "name": "실버애쉬",
