@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-23T23:37:42.857382+00:00",
+  "updated_at": "2026-11-23T23:38:50.890866+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -43719,7 +43719,7 @@
     },
     {
       "account_number": "01801",
-      "price": 89000,
+      "price": 93000,
       "operators": [
         {
           "name": "마르실",
@@ -43766,6 +43766,11 @@
           "name": "불피스폴리아",
           "color": "#00aa00",
           "sprite_index": 94
+        },
+        {
+          "name": "네크라스",
+          "color": null,
+          "sprite_index": 98
         },
         {
           "name": "좌락",
