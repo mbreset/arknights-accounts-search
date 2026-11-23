@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-23T23:51:28.876391+00:00",
+  "updated_at": "2026-11-23T23:54:21.890421+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -46396,7 +46396,8 @@
         {
           "name": "비비아나",
           "color": null,
-          "sprite_index": 78
+          "sprite_index": 78,
+          "potential": 2
         },
         {
           "name": "치우바이",
