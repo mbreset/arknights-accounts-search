@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-23T09:57:55.527001+00:00",
+  "updated_at": "2026-11-23T11:00:02.337594+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -22330,6 +22330,93 @@
       ]
     },
     {
+      "account_number": "03401",
+      "price": 141000,
+      "operators": [
+        {
+          "name": "염호룡오키드",
+          "color": "#dd0000",
+          "sprite_index": 119
+        },
+        {
+          "name": "키린R야토",
+          "color": "#dd0000",
+          "sprite_index": 67
+        },
+        {
+          "name": "마르실",
+          "color": "#dd0000",
+          "sprite_index": 91
+        },
+        {
+          "name": "켈시에스페란타",
+          "color": "#e42ce8",
+          "sprite_index": 117
+        },
+        {
+          "name": "실버애쉬더레인프로스트",
+          "color": "#e42ce8",
+          "sprite_index": 109,
+          "potential": 2
+        },
+        {
+          "name": "뮤엘시스",
+          "color": "#e42ce8",
+          "sprite_index": 69
+        },
+        {
+          "name": "프라마닉스더프레리타",
+          "color": "#0000ff",
+          "sprite_index": 110
+        },
+        {
+          "name": "무에나",
+          "color": "#0000ff",
+          "sprite_index": 43
+        },
+        {
+          "name": "로고스",
+          "color": "#0000ff",
+          "sprite_index": 86
+        },
+        {
+          "name": "르무엔",
+          "color": "#0000ff",
+          "sprite_index": 101
+        },
+        {
+          "name": "나란투야",
+          "color": null,
+          "sprite_index": 89
+        },
+        {
+          "name": "혼",
+          "color": null,
+          "sprite_index": 30
+        },
+        {
+          "name": "도로시",
+          "color": null,
+          "sprite_index": 56
+        },
+        {
+          "name": "스와이어디엘리건트위트",
+          "color": null,
+          "sprite_index": 72
+        },
+        {
+          "name": "외드레르",
+          "color": null,
+          "sprite_index": 76
+        },
+        {
+          "name": "오올헤약",
+          "color": null,
+          "sprite_index": 70
+        }
+      ]
+    },
+    {
       "account_number": "03023",
       "price": 127000,
       "operators": [
@@ -37009,88 +37096,6 @@
           "name": "시즈",
           "color": null,
           "sprite_index": 26
-        }
-      ]
-    },
-    {
-      "account_number": "03401",
-      "price": 115000,
-      "operators": [
-        {
-          "name": "키린R야토",
-          "color": "#dd0000",
-          "sprite_index": 67
-        },
-        {
-          "name": "마르실",
-          "color": "#dd0000",
-          "sprite_index": 91
-        },
-        {
-          "name": "켈시에스페란타",
-          "color": "#e42ce8",
-          "sprite_index": 117
-        },
-        {
-          "name": "실버애쉬더레인프로스트",
-          "color": "#e42ce8",
-          "sprite_index": 109,
-          "potential": 2
-        },
-        {
-          "name": "뮤엘시스",
-          "color": "#e42ce8",
-          "sprite_index": 69
-        },
-        {
-          "name": "프라마닉스더프레리타",
-          "color": "#0000ff",
-          "sprite_index": 110
-        },
-        {
-          "name": "무에나",
-          "color": "#0000ff",
-          "sprite_index": 43
-        },
-        {
-          "name": "로고스",
-          "color": "#0000ff",
-          "sprite_index": 86
-        },
-        {
-          "name": "르무엔",
-          "color": "#0000ff",
-          "sprite_index": 101
-        },
-        {
-          "name": "나란투야",
-          "color": null,
-          "sprite_index": 89
-        },
-        {
-          "name": "혼",
-          "color": null,
-          "sprite_index": 30
-        },
-        {
-          "name": "도로시",
-          "color": null,
-          "sprite_index": 56
-        },
-        {
-          "name": "스와이어디엘리건트위트",
-          "color": null,
-          "sprite_index": 72
-        },
-        {
-          "name": "외드레르",
-          "color": null,
-          "sprite_index": 76
-        },
-        {
-          "name": "오올헤약",
-          "color": null,
-          "sprite_index": 70
         }
       ]
     },
