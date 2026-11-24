@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T08:48:18.886891+00:00",
+  "updated_at": "2026-11-24T08:50:55.915226+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -26477,7 +26477,8 @@
         {
           "name": "염호룡오키드",
           "color": "#dd0000",
-          "sprite_index": 119
+          "sprite_index": 119,
+          "potential": 2
         },
         {
           "name": "엑시아더뉴커버넌트",
