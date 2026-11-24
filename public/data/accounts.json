@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T08:30:48.816244+00:00",
+  "updated_at": "2026-11-24T08:36:03.821959+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -29002,7 +29002,7 @@
           "name": "나란투야",
           "color": null,
           "sprite_index": 89,
-          "potential": 2
+          "potential": 3
         },
         {
           "name": "머드락",
