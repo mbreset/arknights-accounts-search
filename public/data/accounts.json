@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T04:40:32.738003+00:00",
+  "updated_at": "2026-11-24T04:41:50.828966+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -1986,7 +1986,7 @@
     },
     {
       "account_number": "01285",
-      "price": 133000,
+      "price": 141000,
       "operators": [
         {
           "name": "염호룡오키드",
@@ -2040,6 +2040,16 @@
           "name": "프라마닉스더프레리타",
           "color": "#0000ff",
           "sprite_index": 110
+        },
+        {
+          "name": "티폰",
+          "color": null,
+          "sprite_index": 74
+        },
+        {
+          "name": "좌락",
+          "color": null,
+          "sprite_index": 82
         },
         {
           "name": "실버애쉬",
