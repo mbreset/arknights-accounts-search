@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T02:16:22.555045+00:00",
+  "updated_at": "2026-11-24T02:21:46.685546+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -10323,7 +10323,7 @@
     },
     {
       "account_number": "02966",
-      "price": 144000,
+      "price": 153000,
       "operators": [
         {
           "name": "마르실",
@@ -10369,6 +10369,11 @@
           "name": "하루카",
           "color": "#0000ff",
           "sprite_index": 106
+        },
+        {
+          "name": "아스카론",
+          "color": "#0000ff",
+          "sprite_index": 84
         },
         {
           "name": "르무엔",
