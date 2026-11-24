@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T08:43:10.902238+00:00",
+  "updated_at": "2026-11-24T08:43:27.877991+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -10481,7 +10481,8 @@
         {
           "name": "레이즈더썬더브링어",
           "color": "#00aa00",
-          "sprite_index": 104
+          "sprite_index": 104,
+          "potential": 2
         },
         {
           "name": "골든글로우",
