@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T02:13:14.671001+00:00",
+  "updated_at": "2026-11-24T02:16:22.555045+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -13259,6 +13259,80 @@
       ]
     },
     {
+      "account_number": "02971",
+      "price": 133000,
+      "operators": [
+        {
+          "name": "염호룡오키드",
+          "color": "#dd0000",
+          "sprite_index": 119,
+          "potential": 2
+        },
+        {
+          "name": "켈시에스페란타",
+          "color": "#e42ce8",
+          "sprite_index": 117
+        },
+        {
+          "name": "엑시아더뉴커버넌트",
+          "color": "#e42ce8",
+          "sprite_index": 100
+        },
+        {
+          "name": "호시구마더브리처",
+          "color": "#e42ce8",
+          "sprite_index": 105
+        },
+        {
+          "name": "위",
+          "color": "#e42ce8",
+          "sprite_index": 96,
+          "potential": 2
+        },
+        {
+          "name": "텍사스디오메르토사",
+          "color": "#e42ce8",
+          "sprite_index": 62
+        },
+        {
+          "name": "총웨",
+          "color": "#e42ce8",
+          "sprite_index": 64
+        },
+        {
+          "name": "첸더던스트릭",
+          "color": "#0000ff",
+          "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
+        },
+        {
+          "name": "쏜즈",
+          "color": null,
+          "sprite_index": 6
+        },
+        {
+          "name": "피아메타",
+          "color": null,
+          "sprite_index": 29
+        },
+        {
+          "name": "오올헤약",
+          "color": null,
+          "sprite_index": 70,
+          "potential": 2
+        },
+        {
+          "name": "파투스",
+          "color": null,
+          "sprite_index": 54
+        }
+      ]
+    },
+    {
       "account_number": "03785",
       "price": 129000,
       "operators": [
@@ -24657,74 +24731,6 @@
           "name": "아이린",
           "color": null,
           "sprite_index": 32
-        }
-      ]
-    },
-    {
-      "account_number": "02971",
-      "price": 106000,
-      "operators": [
-        {
-          "name": "켈시에스페란타",
-          "color": "#e42ce8",
-          "sprite_index": 117
-        },
-        {
-          "name": "엑시아더뉴커버넌트",
-          "color": "#e42ce8",
-          "sprite_index": 100
-        },
-        {
-          "name": "호시구마더브리처",
-          "color": "#e42ce8",
-          "sprite_index": 105
-        },
-        {
-          "name": "위",
-          "color": "#e42ce8",
-          "sprite_index": 96,
-          "potential": 2
-        },
-        {
-          "name": "텍사스디오메르토사",
-          "color": "#e42ce8",
-          "sprite_index": 62
-        },
-        {
-          "name": "총웨",
-          "color": "#e42ce8",
-          "sprite_index": 64
-        },
-        {
-          "name": "첸더던스트릭",
-          "color": "#0000ff",
-          "sprite_index": 114
-        },
-        {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
-          "name": "쏜즈",
-          "color": null,
-          "sprite_index": 6
-        },
-        {
-          "name": "피아메타",
-          "color": null,
-          "sprite_index": 29
-        },
-        {
-          "name": "오올헤약",
-          "color": null,
-          "sprite_index": 70,
-          "potential": 2
-        },
-        {
-          "name": "파투스",
-          "color": null,
-          "sprite_index": 54
         }
       ]
     },
