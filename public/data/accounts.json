@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T06:19:08.624863+00:00",
+  "updated_at": "2026-11-24T06:30:38.680896+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -59081,6 +59081,37 @@
       ]
     },
     {
+      "account_number": "04208",
+      "price": 42000,
+      "operators": [
+        {
+          "name": "염호룡오키드",
+          "color": "#dd0000",
+          "sprite_index": 119
+        },
+        {
+          "name": "왕",
+          "color": "#e42ce8",
+          "sprite_index": 113
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
+        },
+        {
+          "name": "첸더던스트릭",
+          "color": "#0000ff",
+          "sprite_index": 114
+        },
+        {
+          "name": "쏜즈더로드스타",
+          "color": null,
+          "sprite_index": 95
+        }
+      ]
+    },
+    {
       "account_number": "04121",
       "price": 38000,
       "operators": [
@@ -59105,32 +59136,6 @@
           "color": "#0000ff",
           "sprite_index": 114,
           "potential": 2
-        }
-      ]
-    },
-    {
-      "account_number": "04208",
-      "price": 38000,
-      "operators": [
-        {
-          "name": "염호룡오키드",
-          "color": "#dd0000",
-          "sprite_index": 119
-        },
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "클로저",
-          "color": "#0000ff",
-          "sprite_index": 118
-        },
-        {
-          "name": "첸더던스트릭",
-          "color": "#0000ff",
-          "sprite_index": 114
         }
       ]
     },
