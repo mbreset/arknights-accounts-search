@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T04:41:50.828966+00:00",
+  "updated_at": "2026-11-24T05:07:56.877137+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -362,6 +362,104 @@
           "name": "사가",
           "color": null,
           "sprite_index": 19
+        }
+      ]
+    },
+    {
+      "account_number": "02856",
+      "price": 161000,
+      "operators": [
+        {
+          "name": "염호룡오키드",
+          "color": "#dd0000",
+          "sprite_index": 119
+        },
+        {
+          "name": "마르실",
+          "color": "#dd0000",
+          "sprite_index": 91
+        },
+        {
+          "name": "왕",
+          "color": "#e42ce8",
+          "sprite_index": 113
+        },
+        {
+          "name": "호시구마더브리처",
+          "color": "#e42ce8",
+          "sprite_index": 105
+        },
+        {
+          "name": "슈",
+          "color": "#e42ce8",
+          "sprite_index": 81
+        },
+        {
+          "name": "에이야퍄들라더크비트아스카",
+          "color": "#e42ce8",
+          "sprite_index": 73
+        },
+        {
+          "name": "텍사스디오메르토사",
+          "color": "#e42ce8",
+          "sprite_index": 62
+        },
+        {
+          "name": "라플란드더데카덴차",
+          "color": "#e42ce8",
+          "sprite_index": 93
+        },
+        {
+          "name": "뮤엘시스",
+          "color": "#e42ce8",
+          "sprite_index": 69
+        },
+        {
+          "name": "페페",
+          "color": "#e42ce8",
+          "sprite_index": 88,
+          "potential": 3
+        },
+        {
+          "name": "로고스",
+          "color": "#0000ff",
+          "sprite_index": 86
+        },
+        {
+          "name": "데겐블레허",
+          "color": "#00aa00",
+          "sprite_index": 79
+        },
+        {
+          "name": "벨로네",
+          "color": "#00aa00",
+          "sprite_index": 115
+        },
+        {
+          "name": "좌락",
+          "color": null,
+          "sprite_index": 82
+        },
+        {
+          "name": "린",
+          "color": null,
+          "sprite_index": 65,
+          "potential": 2
+        },
+        {
+          "name": "에벤홀츠",
+          "color": null,
+          "sprite_index": 39
+        },
+        {
+          "name": "비비아나",
+          "color": null,
+          "sprite_index": 78
+        },
+        {
+          "name": "블레미샤인",
+          "color": null,
+          "sprite_index": 51
         }
       ]
     },
@@ -1888,99 +1986,6 @@
           "name": "카넬리안",
           "color": null,
           "sprite_index": 52
-        }
-      ]
-    },
-    {
-      "account_number": "02856",
-      "price": 137000,
-      "operators": [
-        {
-          "name": "마르실",
-          "color": "#dd0000",
-          "sprite_index": 91
-        },
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "호시구마더브리처",
-          "color": "#e42ce8",
-          "sprite_index": 105
-        },
-        {
-          "name": "슈",
-          "color": "#e42ce8",
-          "sprite_index": 81
-        },
-        {
-          "name": "에이야퍄들라더크비트아스카",
-          "color": "#e42ce8",
-          "sprite_index": 73
-        },
-        {
-          "name": "텍사스디오메르토사",
-          "color": "#e42ce8",
-          "sprite_index": 62
-        },
-        {
-          "name": "라플란드더데카덴차",
-          "color": "#e42ce8",
-          "sprite_index": 93
-        },
-        {
-          "name": "뮤엘시스",
-          "color": "#e42ce8",
-          "sprite_index": 69
-        },
-        {
-          "name": "페페",
-          "color": "#e42ce8",
-          "sprite_index": 88,
-          "potential": 3
-        },
-        {
-          "name": "로고스",
-          "color": "#0000ff",
-          "sprite_index": 86
-        },
-        {
-          "name": "데겐블레허",
-          "color": "#00aa00",
-          "sprite_index": 79
-        },
-        {
-          "name": "벨로네",
-          "color": "#00aa00",
-          "sprite_index": 115
-        },
-        {
-          "name": "좌락",
-          "color": null,
-          "sprite_index": 82
-        },
-        {
-          "name": "린",
-          "color": null,
-          "sprite_index": 65,
-          "potential": 2
-        },
-        {
-          "name": "에벤홀츠",
-          "color": null,
-          "sprite_index": 39
-        },
-        {
-          "name": "비비아나",
-          "color": null,
-          "sprite_index": 78
-        },
-        {
-          "name": "블레미샤인",
-          "color": null,
-          "sprite_index": 51
         }
       ]
     },
