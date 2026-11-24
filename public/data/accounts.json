@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T00:22:11.353674+00:00",
+  "updated_at": "2026-11-24T00:25:18.416480+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -54974,7 +54974,8 @@
         {
           "name": "나란투야",
           "color": null,
-          "sprite_index": 89
+          "sprite_index": 89,
+          "potential": 2
         },
         {
           "name": "사일라흐",
@@ -58753,7 +58754,7 @@
           "name": "염호룡오키드",
           "color": "#dd0000",
           "sprite_index": 119,
-          "potential": 2
+          "potential": 3
         },
         {
           "name": "왕",
