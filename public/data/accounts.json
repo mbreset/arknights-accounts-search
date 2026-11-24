@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T10:03:11.689689+00:00",
+  "updated_at": "2026-11-24T10:14:53.701553+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -2887,6 +2887,93 @@
           "name": "안젤리나",
           "color": null,
           "sprite_index": 9
+        }
+      ]
+    },
+    {
+      "account_number": "03594",
+      "price": 169000,
+      "operators": [
+        {
+          "name": "염호룡오키드",
+          "color": "#dd0000",
+          "sprite_index": 119
+        },
+        {
+          "name": "키린R야토",
+          "color": "#dd0000",
+          "sprite_index": 67
+        },
+        {
+          "name": "마르실",
+          "color": "#dd0000",
+          "sprite_index": 91
+        },
+        {
+          "name": "실버애쉬더레인프로스트",
+          "color": "#e42ce8",
+          "sprite_index": 109
+        },
+        {
+          "name": "엑시아더뉴커버넌트",
+          "color": "#e42ce8",
+          "sprite_index": 100
+        },
+        {
+          "name": "호시구마더브리처",
+          "color": "#e42ce8",
+          "sprite_index": 105
+        },
+        {
+          "name": "비르투오사",
+          "color": "#e42ce8",
+          "sprite_index": 77
+        },
+        {
+          "name": "시",
+          "color": "#e42ce8",
+          "sprite_index": 15
+        },
+        {
+          "name": "페페",
+          "color": "#e42ce8",
+          "sprite_index": 88
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
+        },
+        {
+          "name": "프라마닉스더프레리타",
+          "color": "#0000ff",
+          "sprite_index": 110,
+          "potential": 2
+        },
+        {
+          "name": "아스카론",
+          "color": "#0000ff",
+          "sprite_index": 84
+        },
+        {
+          "name": "르무엔",
+          "color": "#0000ff",
+          "sprite_index": 101
+        },
+        {
+          "name": "님프",
+          "color": "#00aa00",
+          "sprite_index": 90
+        },
+        {
+          "name": "혼",
+          "color": null,
+          "sprite_index": 30
+        },
+        {
+          "name": "비나빅토리아",
+          "color": null,
+          "sprite_index": 92
         }
       ]
     },
@@ -8020,88 +8107,6 @@
           "name": "스테인리스",
           "color": null,
           "sprite_index": 60
-        }
-      ]
-    },
-    {
-      "account_number": "03594",
-      "price": 145000,
-      "operators": [
-        {
-          "name": "키린R야토",
-          "color": "#dd0000",
-          "sprite_index": 67
-        },
-        {
-          "name": "마르실",
-          "color": "#dd0000",
-          "sprite_index": 91
-        },
-        {
-          "name": "실버애쉬더레인프로스트",
-          "color": "#e42ce8",
-          "sprite_index": 109
-        },
-        {
-          "name": "엑시아더뉴커버넌트",
-          "color": "#e42ce8",
-          "sprite_index": 100
-        },
-        {
-          "name": "호시구마더브리처",
-          "color": "#e42ce8",
-          "sprite_index": 105
-        },
-        {
-          "name": "비르투오사",
-          "color": "#e42ce8",
-          "sprite_index": 77
-        },
-        {
-          "name": "시",
-          "color": "#e42ce8",
-          "sprite_index": 15
-        },
-        {
-          "name": "페페",
-          "color": "#e42ce8",
-          "sprite_index": 88
-        },
-        {
-          "name": "클로저",
-          "color": "#0000ff",
-          "sprite_index": 118
-        },
-        {
-          "name": "프라마닉스더프레리타",
-          "color": "#0000ff",
-          "sprite_index": 110,
-          "potential": 2
-        },
-        {
-          "name": "아스카론",
-          "color": "#0000ff",
-          "sprite_index": 84
-        },
-        {
-          "name": "르무엔",
-          "color": "#0000ff",
-          "sprite_index": 101
-        },
-        {
-          "name": "님프",
-          "color": "#00aa00",
-          "sprite_index": 90
-        },
-        {
-          "name": "혼",
-          "color": null,
-          "sprite_index": 30
-        },
-        {
-          "name": "비나빅토리아",
-          "color": null,
-          "sprite_index": 92
         }
       ]
     },
