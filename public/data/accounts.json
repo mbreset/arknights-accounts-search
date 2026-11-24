@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T01:44:19.342729+00:00",
+  "updated_at": "2026-11-24T01:52:02.436999+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -10952,6 +10952,78 @@
       ]
     },
     {
+      "account_number": "02121",
+      "price": 144000,
+      "operators": [
+        {
+          "name": "염호룡오키드",
+          "color": "#dd0000",
+          "sprite_index": 119
+        },
+        {
+          "name": "Ela",
+          "color": "#dd0000",
+          "sprite_index": 83
+        },
+        {
+          "name": "마르실",
+          "color": "#dd0000",
+          "sprite_index": 91
+        },
+        {
+          "name": "왕",
+          "color": "#e42ce8",
+          "sprite_index": 113
+        },
+        {
+          "name": "실버애쉬더레인프로스트",
+          "color": "#e42ce8",
+          "sprite_index": 109
+        },
+        {
+          "name": "에이야퍄들라더크비트아스카",
+          "color": "#e42ce8",
+          "sprite_index": 73
+        },
+        {
+          "name": "위",
+          "color": "#e42ce8",
+          "sprite_index": 96
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
+        },
+        {
+          "name": "무에나",
+          "color": "#0000ff",
+          "sprite_index": 43,
+          "potential": 2
+        },
+        {
+          "name": "님프",
+          "color": "#00aa00",
+          "sprite_index": 90
+        },
+        {
+          "name": "나란투야",
+          "color": null,
+          "sprite_index": 89
+        },
+        {
+          "name": "패신저",
+          "color": null,
+          "sprite_index": 42
+        },
+        {
+          "name": "비비아나",
+          "color": null,
+          "sprite_index": 78
+        }
+      ]
+    },
+    {
       "account_number": "01603",
       "price": 178000,
       "operators": [
@@ -21032,73 +21104,6 @@
           "name": "카넬리안",
           "color": null,
           "sprite_index": 52
-        }
-      ]
-    },
-    {
-      "account_number": "02121",
-      "price": 120000,
-      "operators": [
-        {
-          "name": "Ela",
-          "color": "#dd0000",
-          "sprite_index": 83
-        },
-        {
-          "name": "마르실",
-          "color": "#dd0000",
-          "sprite_index": 91
-        },
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "실버애쉬더레인프로스트",
-          "color": "#e42ce8",
-          "sprite_index": 109
-        },
-        {
-          "name": "에이야퍄들라더크비트아스카",
-          "color": "#e42ce8",
-          "sprite_index": 73
-        },
-        {
-          "name": "위",
-          "color": "#e42ce8",
-          "sprite_index": 96
-        },
-        {
-          "name": "클로저",
-          "color": "#0000ff",
-          "sprite_index": 118
-        },
-        {
-          "name": "무에나",
-          "color": "#0000ff",
-          "sprite_index": 43,
-          "potential": 2
-        },
-        {
-          "name": "님프",
-          "color": "#00aa00",
-          "sprite_index": 90
-        },
-        {
-          "name": "나란투야",
-          "color": null,
-          "sprite_index": 89
-        },
-        {
-          "name": "패신저",
-          "color": null,
-          "sprite_index": 42
-        },
-        {
-          "name": "비비아나",
-          "color": null,
-          "sprite_index": 78
         }
       ]
     },
