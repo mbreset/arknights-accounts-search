@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T02:37:52.939854+00:00",
+  "updated_at": "2026-11-24T02:58:14.121842+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -54461,7 +54461,8 @@
         {
           "name": "쏜즈더로드스타",
           "color": null,
-          "sprite_index": 95
+          "sprite_index": 95,
+          "potential": 2
         }
       ]
     },
