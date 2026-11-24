@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T06:08:40.437476+00:00",
+  "updated_at": "2026-11-24T06:19:08.624863+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -59141,7 +59141,8 @@
         {
           "name": "염호룡오키드",
           "color": "#dd0000",
-          "sprite_index": 119
+          "sprite_index": 119,
+          "potential": 2
         },
         {
           "name": "왕",
