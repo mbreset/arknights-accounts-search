@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T09:53:49.668537+00:00",
+  "updated_at": "2026-11-24T09:55:05.658127+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -44763,7 +44763,7 @@
     },
     {
       "account_number": "02964",
-      "price": 86000,
+      "price": 87000,
       "operators": [
         {
           "name": "호시구마더브리처",
@@ -44793,7 +44793,8 @@
         {
           "name": "클로저",
           "color": "#0000ff",
-          "sprite_index": 118
+          "sprite_index": 118,
+          "potential": 2
         },
         {
           "name": "하루카",
