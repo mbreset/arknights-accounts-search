@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T03:35:03.797673+00:00",
+  "updated_at": "2026-11-24T04:15:30.650261+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -45863,7 +45863,7 @@
     },
     {
       "account_number": "00227",
-      "price": 105000,
+      "price": 111000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -45884,6 +45884,11 @@
           "name": "에이야퍄들라더크비트아스카",
           "color": "#e42ce8",
           "sprite_index": 73
+        },
+        {
+          "name": "님프",
+          "color": "#00aa00",
+          "sprite_index": 90
         },
         {
           "name": "불피스폴리아",
