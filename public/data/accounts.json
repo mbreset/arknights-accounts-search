@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T10:39:29.062430+00:00",
+  "updated_at": "2026-11-24T10:39:45.600094+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -31230,7 +31230,7 @@
     },
     {
       "account_number": "03805",
-      "price": 118000,
+      "price": 124000,
       "operators": [
         {
           "name": "토가와사키코",
@@ -31273,6 +31273,11 @@
           "color": "#0000ff",
           "sprite_index": 101,
           "potential": 2
+        },
+        {
+          "name": "레이",
+          "color": "#00aa00",
+          "sprite_index": 80
         },
         {
           "name": "불피스폴리아",
