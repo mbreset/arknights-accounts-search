@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T05:35:09.978201+00:00",
+  "updated_at": "2026-11-24T05:43:10.097507+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -11160,6 +11160,83 @@
       ]
     },
     {
+      "account_number": "03531",
+      "price": 136000,
+      "operators": [
+        {
+          "name": "염호룡오키드",
+          "color": "#dd0000",
+          "sprite_index": 119
+        },
+        {
+          "name": "키린R야토",
+          "color": "#dd0000",
+          "sprite_index": 67
+        },
+        {
+          "name": "왕",
+          "color": "#e42ce8",
+          "sprite_index": 113
+        },
+        {
+          "name": "엑시아더뉴커버넌트",
+          "color": "#e42ce8",
+          "sprite_index": 100
+        },
+        {
+          "name": "호시구마더브리처",
+          "color": "#e42ce8",
+          "sprite_index": 105
+        },
+        {
+          "name": "가비알디인빈서블",
+          "color": "#e42ce8",
+          "sprite_index": 37
+        },
+        {
+          "name": "페페",
+          "color": "#e42ce8",
+          "sprite_index": 88
+        },
+        {
+          "name": "프라마닉스더프레리타",
+          "color": "#0000ff",
+          "sprite_index": 110
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106,
+          "potential": 2
+        },
+        {
+          "name": "좌락",
+          "color": null,
+          "sprite_index": 82
+        },
+        {
+          "name": "마운틴",
+          "color": null,
+          "sprite_index": 11
+        },
+        {
+          "name": "엔텔레키아",
+          "color": null,
+          "sprite_index": 102
+        },
+        {
+          "name": "스와이어디엘리건트위트",
+          "color": null,
+          "sprite_index": 72
+        },
+        {
+          "name": "오올헤약",
+          "color": null,
+          "sprite_index": 70
+        }
+      ]
+    },
+    {
       "account_number": "01603",
       "price": 178000,
       "operators": [
@@ -21727,78 +21804,6 @@
           "name": "비비아나",
           "color": null,
           "sprite_index": 78
-        },
-        {
-          "name": "오올헤약",
-          "color": null,
-          "sprite_index": 70
-        }
-      ]
-    },
-    {
-      "account_number": "03531",
-      "price": 110000,
-      "operators": [
-        {
-          "name": "키린R야토",
-          "color": "#dd0000",
-          "sprite_index": 67
-        },
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113
-        },
-        {
-          "name": "엑시아더뉴커버넌트",
-          "color": "#e42ce8",
-          "sprite_index": 100
-        },
-        {
-          "name": "호시구마더브리처",
-          "color": "#e42ce8",
-          "sprite_index": 105
-        },
-        {
-          "name": "가비알디인빈서블",
-          "color": "#e42ce8",
-          "sprite_index": 37
-        },
-        {
-          "name": "페페",
-          "color": "#e42ce8",
-          "sprite_index": 88
-        },
-        {
-          "name": "프라마닉스더프레리타",
-          "color": "#0000ff",
-          "sprite_index": 110
-        },
-        {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106,
-          "potential": 2
-        },
-        {
-          "name": "좌락",
-          "color": null,
-          "sprite_index": 82
-        },
-        {
-          "name": "마운틴",
-          "color": null,
-          "sprite_index": 11
-        },
-        {
-          "name": "엔텔레키아",
-          "color": null,
-          "sprite_index": 102
-        },
-        {
-          "name": "스와이어디엘리건트위트",
-          "color": null,
-          "sprite_index": 72
         },
         {
           "name": "오올헤약",
