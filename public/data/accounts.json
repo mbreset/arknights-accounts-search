@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T05:10:14.842929+00:00",
+  "updated_at": "2026-11-24T05:26:04.834808+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -50487,6 +50487,74 @@
       ]
     },
     {
+      "account_number": "03412",
+      "price": 76000,
+      "operators": [
+        {
+          "name": "염호룡오키드",
+          "color": "#dd0000",
+          "sprite_index": 119
+        },
+        {
+          "name": "키린R야토",
+          "color": "#dd0000",
+          "sprite_index": 67
+        },
+        {
+          "name": "위",
+          "color": "#e42ce8",
+          "sprite_index": 96
+        },
+        {
+          "name": "비르투오사",
+          "color": "#e42ce8",
+          "sprite_index": 77,
+          "potential": 2
+        },
+        {
+          "name": "프라마닉스더프레리타",
+          "color": "#0000ff",
+          "sprite_index": 110,
+          "potential": 2
+        },
+        {
+          "name": "첸더던스트릭",
+          "color": "#0000ff",
+          "sprite_index": 114
+        },
+        {
+          "name": "님프",
+          "color": "#00aa00",
+          "sprite_index": 90
+        },
+        {
+          "name": "골든글로우",
+          "color": "#00aa00",
+          "sprite_index": 28
+        },
+        {
+          "name": "불피스폴리아",
+          "color": "#00aa00",
+          "sprite_index": 94
+        },
+        {
+          "name": "나란투야",
+          "color": null,
+          "sprite_index": 89
+        },
+        {
+          "name": "티폰",
+          "color": null,
+          "sprite_index": 74
+        },
+        {
+          "name": "카넬리안",
+          "color": null,
+          "sprite_index": 52
+        }
+      ]
+    },
+    {
       "account_number": "03776",
       "price": 56000,
       "operators": [
@@ -58271,69 +58339,6 @@
           "name": "마젤란",
           "color": null,
           "sprite_index": 47
-        }
-      ]
-    },
-    {
-      "account_number": "03412",
-      "price": 52000,
-      "operators": [
-        {
-          "name": "키린R야토",
-          "color": "#dd0000",
-          "sprite_index": 67
-        },
-        {
-          "name": "위",
-          "color": "#e42ce8",
-          "sprite_index": 96
-        },
-        {
-          "name": "비르투오사",
-          "color": "#e42ce8",
-          "sprite_index": 77,
-          "potential": 2
-        },
-        {
-          "name": "프라마닉스더프레리타",
-          "color": "#0000ff",
-          "sprite_index": 110,
-          "potential": 2
-        },
-        {
-          "name": "첸더던스트릭",
-          "color": "#0000ff",
-          "sprite_index": 114
-        },
-        {
-          "name": "님프",
-          "color": "#00aa00",
-          "sprite_index": 90
-        },
-        {
-          "name": "골든글로우",
-          "color": "#00aa00",
-          "sprite_index": 28
-        },
-        {
-          "name": "불피스폴리아",
-          "color": "#00aa00",
-          "sprite_index": 94
-        },
-        {
-          "name": "나란투야",
-          "color": null,
-          "sprite_index": 89
-        },
-        {
-          "name": "티폰",
-          "color": null,
-          "sprite_index": 74
-        },
-        {
-          "name": "카넬리안",
-          "color": null,
-          "sprite_index": 52
         }
       ]
     },
