@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T03:00:57.127800+00:00",
+  "updated_at": "2026-11-24T03:09:45.905247+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -58907,7 +58907,7 @@
     },
     {
       "account_number": "04258",
-      "price": 42000,
+      "price": 48000,
       "operators": [
         {
           "name": "염호룡오키드",
@@ -58928,6 +58928,11 @@
           "name": "첸더던스트릭",
           "color": "#0000ff",
           "sprite_index": 114
+        },
+        {
+          "name": "티티",
+          "color": "#00aa00",
+          "sprite_index": 112
         },
         {
           "name": "쏜즈더로드스타",
