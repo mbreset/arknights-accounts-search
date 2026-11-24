@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T08:36:03.821959+00:00",
+  "updated_at": "2026-11-24T08:43:10.902238+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -41453,7 +41453,7 @@
     },
     {
       "account_number": "02395",
-      "price": 51000,
+      "price": 54000,
       "operators": [
         {
           "name": "염호룡오키드",
@@ -41495,6 +41495,11 @@
           "name": "모스티마",
           "color": null,
           "sprite_index": 48
+        },
+        {
+          "name": "페넌스",
+          "color": null,
+          "sprite_index": 61
         },
         {
           "name": "피아메타",
