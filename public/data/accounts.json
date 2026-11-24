@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T01:52:02.436999+00:00",
+  "updated_at": "2026-11-24T01:53:18.406057+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -37548,7 +37548,7 @@
     },
     {
       "account_number": "02276",
-      "price": 112500,
+      "price": 115500,
       "operators": [
         {
           "name": "켈시에스페란타",
@@ -37612,6 +37612,11 @@
           "name": "좌락",
           "color": null,
           "sprite_index": 82
+        },
+        {
+          "name": "페넌스",
+          "color": null,
+          "sprite_index": 61
         },
         {
           "name": "스테인리스",
