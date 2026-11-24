@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T05:55:08.190399+00:00",
+  "updated_at": "2026-11-24T05:58:03.900393+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -5586,6 +5586,101 @@
           "name": "스와이어디엘리건트위트",
           "color": null,
           "sprite_index": 72
+        }
+      ]
+    },
+    {
+      "account_number": "03883",
+      "price": 120000,
+      "operators": [
+        {
+          "name": "염호룡오키드",
+          "color": "#dd0000",
+          "sprite_index": 119
+        },
+        {
+          "name": "Ela",
+          "color": "#dd0000",
+          "sprite_index": 83
+        },
+        {
+          "name": "왕",
+          "color": "#e42ce8",
+          "sprite_index": 113,
+          "potential": 2
+        },
+        {
+          "name": "위",
+          "color": "#e42ce8",
+          "sprite_index": 96
+        },
+        {
+          "name": "W",
+          "color": "#e42ce8",
+          "sprite_index": 35
+        },
+        {
+          "name": "링",
+          "color": "#e42ce8",
+          "sprite_index": 1
+        },
+        {
+          "name": "첸더홀룽데이",
+          "color": "#e42ce8",
+          "sprite_index": 36,
+          "potential": 2
+        },
+        {
+          "name": "페페",
+          "color": "#e42ce8",
+          "sprite_index": 88
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118,
+          "potential": 2
+        },
+        {
+          "name": "첸더던스트릭",
+          "color": "#0000ff",
+          "sprite_index": 114
+        },
+        {
+          "name": "레이",
+          "color": "#00aa00",
+          "sprite_index": 80
+        },
+        {
+          "name": "블레이즈디이그나이팅스파크",
+          "color": "#00aa00",
+          "sprite_index": 97,
+          "potential": 2
+        },
+        {
+          "name": "나란투야",
+          "color": null,
+          "sprite_index": 89
+        },
+        {
+          "name": "티폰",
+          "color": null,
+          "sprite_index": 74
+        },
+        {
+          "name": "혼",
+          "color": null,
+          "sprite_index": 30
+        },
+        {
+          "name": "스와이어디엘리건트위트",
+          "color": null,
+          "sprite_index": 72
+        },
+        {
+          "name": "미즈키",
+          "color": null,
+          "sprite_index": 53
         }
       ]
     },
@@ -12572,96 +12667,6 @@
           "name": "플레임테일",
           "color": null,
           "sprite_index": 55
-        }
-      ]
-    },
-    {
-      "account_number": "03883",
-      "price": 86000,
-      "operators": [
-        {
-          "name": "Ela",
-          "color": "#dd0000",
-          "sprite_index": 83
-        },
-        {
-          "name": "왕",
-          "color": "#e42ce8",
-          "sprite_index": 113,
-          "potential": 2
-        },
-        {
-          "name": "위",
-          "color": "#e42ce8",
-          "sprite_index": 96
-        },
-        {
-          "name": "W",
-          "color": "#e42ce8",
-          "sprite_index": 35
-        },
-        {
-          "name": "링",
-          "color": "#e42ce8",
-          "sprite_index": 1
-        },
-        {
-          "name": "첸더홀룽데이",
-          "color": "#e42ce8",
-          "sprite_index": 36,
-          "potential": 2
-        },
-        {
-          "name": "페페",
-          "color": "#e42ce8",
-          "sprite_index": 88
-        },
-        {
-          "name": "클로저",
-          "color": "#0000ff",
-          "sprite_index": 118,
-          "potential": 2
-        },
-        {
-          "name": "첸더던스트릭",
-          "color": "#0000ff",
-          "sprite_index": 114
-        },
-        {
-          "name": "레이",
-          "color": "#00aa00",
-          "sprite_index": 80
-        },
-        {
-          "name": "블레이즈디이그나이팅스파크",
-          "color": "#00aa00",
-          "sprite_index": 97,
-          "potential": 2
-        },
-        {
-          "name": "나란투야",
-          "color": null,
-          "sprite_index": 89
-        },
-        {
-          "name": "티폰",
-          "color": null,
-          "sprite_index": 74
-        },
-        {
-          "name": "혼",
-          "color": null,
-          "sprite_index": 30
-        },
-        {
-          "name": "스와이어디엘리건트위트",
-          "color": null,
-          "sprite_index": 72
-        },
-        {
-          "name": "미즈키",
-          "color": null,
-          "sprite_index": 53
         }
       ]
     },
