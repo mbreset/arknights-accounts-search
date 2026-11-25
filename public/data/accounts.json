@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T20:51:17.905799+00:00",
+  "updated_at": "2026-11-25T03:02:00.399640+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -41339,6 +41339,89 @@
       ]
     },
     {
+      "account_number": "02404",
+      "price": 114000,
+      "operators": [
+        {
+          "name": "염호룡오키드",
+          "color": "#dd0000",
+          "sprite_index": 119
+        },
+        {
+          "name": "마르실",
+          "color": "#dd0000",
+          "sprite_index": 91
+        },
+        {
+          "name": "호시구마더브리처",
+          "color": "#e42ce8",
+          "sprite_index": 105
+        },
+        {
+          "name": "텍사스디오메르토사",
+          "color": "#e42ce8",
+          "sprite_index": 62
+        },
+        {
+          "name": "페페",
+          "color": "#e42ce8",
+          "sprite_index": 88
+        },
+        {
+          "name": "클로저",
+          "color": "#0000ff",
+          "sprite_index": 118
+        },
+        {
+          "name": "첸더던스트릭",
+          "color": "#0000ff",
+          "sprite_index": 114
+        },
+        {
+          "name": "하루카",
+          "color": "#0000ff",
+          "sprite_index": 106
+        },
+        {
+          "name": "이네스",
+          "color": "#0000ff",
+          "sprite_index": 68
+        },
+        {
+          "name": "로고스",
+          "color": "#0000ff",
+          "sprite_index": 86,
+          "potential": 2
+        },
+        {
+          "name": "나란투야",
+          "color": null,
+          "sprite_index": 89,
+          "potential": 2
+        },
+        {
+          "name": "네크라스",
+          "color": null,
+          "sprite_index": 98
+        },
+        {
+          "name": "아이린",
+          "color": null,
+          "sprite_index": 32
+        },
+        {
+          "name": "도로시",
+          "color": null,
+          "sprite_index": 56
+        },
+        {
+          "name": "스테인리스",
+          "color": null,
+          "sprite_index": 60
+        }
+      ]
+    },
+    {
       "account_number": "02065",
       "price": 109000,
       "operators": [
@@ -53648,84 +53731,6 @@
           "name": "비비아나",
           "color": null,
           "sprite_index": 78
-        }
-      ]
-    },
-    {
-      "account_number": "02404",
-      "price": 80000,
-      "operators": [
-        {
-          "name": "마르실",
-          "color": "#dd0000",
-          "sprite_index": 91
-        },
-        {
-          "name": "호시구마더브리처",
-          "color": "#e42ce8",
-          "sprite_index": 105
-        },
-        {
-          "name": "텍사스디오메르토사",
-          "color": "#e42ce8",
-          "sprite_index": 62
-        },
-        {
-          "name": "페페",
-          "color": "#e42ce8",
-          "sprite_index": 88
-        },
-        {
-          "name": "클로저",
-          "color": "#0000ff",
-          "sprite_index": 118
-        },
-        {
-          "name": "첸더던스트릭",
-          "color": "#0000ff",
-          "sprite_index": 114
-        },
-        {
-          "name": "하루카",
-          "color": "#0000ff",
-          "sprite_index": 106
-        },
-        {
-          "name": "이네스",
-          "color": "#0000ff",
-          "sprite_index": 68
-        },
-        {
-          "name": "로고스",
-          "color": "#0000ff",
-          "sprite_index": 86,
-          "potential": 2
-        },
-        {
-          "name": "나란투야",
-          "color": null,
-          "sprite_index": 89,
-          "potential": 2
-        },
-        {
-          "name": "네크라스",
-          "color": null,
-          "sprite_index": 98
-        },
-        {
-          "name": "아이린",
-          "color": null,
-          "sprite_index": 32
-        },
-        {
-          "name": "도로시",
-          "color": null,
-          "sprite_index": 56
-        },
-        {
-          "name": "스테인리스",
-          "color": null,
-          "sprite_index": 60
         }
       ]
     },
