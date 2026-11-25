@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-25T15:43:10.207095+00:00",
+  "updated_at": "2026-11-25T23:57:24.317495+00:00",
   "sprite": {
     "columns": 10,
     "rows": 12,
@@ -10916,7 +10916,7 @@
     },
     {
       "account_number": "00692",
-      "price": 120000,
+      "price": 122000,
       "operators": [
         {
           "name": "왕",
@@ -10990,6 +10990,11 @@
           "name": "호시구마",
           "color": null,
           "sprite_index": 27
+        },
+        {
+          "name": "오올헤약",
+          "color": null,
+          "sprite_index": 70
         }
       ]
     },
